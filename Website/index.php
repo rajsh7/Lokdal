@@ -176,23 +176,47 @@
                       <div class="col-12 col-md-6">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
                           <!-- Single Blog Post -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-1.jpeg" class="headline">
+                              <div class="post-thumbnail">
+                                <img src="img/news/latest-news/news-1.jpeg" alt="">
+                              </div>
+                              <div class="post-content">
+                                <h5>चीनी-इथेनॉल नीति पर लोकदल का सरकार पर हमला</h5>
+                                <p>By Chaudhary Sunil Singh</p>
+                                <div class="post-meta">
+                                  <p>Lokdal Latest Press Update</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/gallery/latest-gallery/gallery-1.jpeg" class="headline">
+                              <div class="post-thumbnail">
+                                <img src="img/gallery/latest-gallery/gallery-1.jpeg" alt="">
+                              </div>
+                              <div class="post-content">
+                                <h5>किसान अधिकार आंदोलन व जनसभा</h5>
+                                <p>By Chaudhary Sunil Singh</p>
+                                <div class="post-meta">
+                                  <p>Lokdal Assembly Event</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
                           <?php
                             $sql="SELECT * FROM activities;";
-                            $activities = mysqli_query($con,$sql);
+                            if($con && $activities = mysqli_query($con,$sql)){
                             while($rows=mysqli_fetch_assoc($activities))
                                 {?>
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="../dashboard/<?= $rows['img1'];?>" class="headline">
-                              <!-- Post Thumbnail -->
                               <div class="post-thumbnail">
                                 <img src="../dashboard/<?= $rows['img1'];?>" alt="">
-                                <!-- Catagory -->
                               </div>
-                              <!-- Post Content -->
                               <div class="post-content">
                                 <h5><?= $rows['t1'];?></h5>
                                 <p><?= $rows['s1'];?></p>
-                                <!-- Post Meta -->
                                 <div class="post-meta">
                                   <p>Lokdal on <?= $rows['date'];?></p>
                                 </div>
@@ -200,35 +224,76 @@
                             </a>
                           </div>
                           <?php
-                            }
+                            }}
                             ?>          
                         </div>
                       </div>
                       <div class="col-12 col-md-6">
                         <!-- Single Blog Post -->
-                        <?php  $sql="SELECT * FROM activities;";
-                          $activities = mysqli_query($con,$sql);
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-2.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-2.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>चीनी-इथेनॉल नीति पर सीबीआई जांच की मांग</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>दैनिक भास्कर न्यूज कवरेज</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.3s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-3.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-3.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>किसानों के साथ अन्याय पर लोकदल का बयान</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>हिंदुस्तान समाचार कवरेज</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.4s">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-2.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/gallery/latest-gallery/gallery-2.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>राष्ट्रीय किसान मोर्चा महापंचायत</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>चौधरी सुनील सिंह जनसभा</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <?php if($con && $activities = mysqli_query($con,$sql)){
                           while($rows=mysqli_fetch_assoc($activities))
                           {?>
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
-                          <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
                             <img src="../dashboard/<?= $rows['img1'];?>" alt="">
                           </div>
-                          <!-- Post Content -->
                           <div class="post-content ">
                             <a data-lightbox="jansabha" href="../dashboard/<?= $rows['img1'];?>" class="headline">
                               <div class="headline">
                                 <h5 class=""><?= $rows['t1'];?></h5>
                               </div>
-                              <!-- Post Meta -->
                               <div class="post-meta">
                                 <p class=""><?= $rows['s1'];?></p>
                               </div>
                             </a>
                           </div>
                         </div>
-                        <?php } ?>
+                        <?php }} ?>
                       </div>
                     </div>
                   </div>
@@ -692,74 +757,59 @@
                       <div class="col-12 col-md-6">
                         <!-- Single Blog Post -->
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
-                          <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="img/img/featured1.jpg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-1.jpeg" alt="">
                           </div>
-                          <!-- Post Content -->
                           <div class="post-content">
-                            <a data-lightbox="sunil" href="img/img/featured1.jpg" class="headline">
-                              <h5>How Did van Gogh’s Turbulent Mind Depict One of the Most</h5>
-                              <!-- Post Meta -->
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-1.jpeg" class="headline">
+                              <h5>किसान अधिकार सम्मेलन एवं जनसभा</h5>
                               <div class="post-meta">
-                                <p>Lokdal on Feb 25, 2017 at 2:55 pm</p>
+                                <p>Lokdal Latest Event</p>
                               </div>
                             </a>
                           </div>
                         </div>
                       </div>
                       <div class="col-12 col-md-6">
-                        <!-- Single Blog Post -->
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
-                          <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="img/img/featured2.jpg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-2.jpeg" alt="">
                           </div>
-                          <!-- Post Content -->
                           <div class="post-content">
-                            <a data-lightbox="sunil" href="img/img/featured2.jpg" class="headline">
-                              <h5>How Did van Gogh’s Turbulent Mind Depict One of the Most</h5>
-                              <!-- Post Meta -->
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-2.jpeg" class="headline">
+                              <h5>राष्ट्रीय किसान मोर्चा महापंचायत</h5>
                               <div class="post-meta">
-                                <p>Lokdal on Feb 25, 2017 at 2:55 pm</p>
+                                <p>Lokdal Assembly Event</p>
                               </div>
                             </a>
                           </div>
                         </div>
                       </div>
                       <div class="col-12 col-md-6">
-                        <!-- Single Blog Post -->
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
-                          <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="img/img/featured3.jpg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-3.jpeg" alt="">
                           </div>
-                          <!-- Post Content -->
                           <div class="post-content">
-                            <a data-lightbox="sunil" href="img/img/featured3.jpg" class="headline">
-                              <h5>How Did van Gogh’s Turbulent Mind Depict One of the Most</h5>
-                              <!-- Post Meta -->
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-3.jpeg" class="headline">
+                              <h5>लोकदल कार्यकर्ता सम्मलेन व विचार गोष्ठी</h5>
                               <div class="post-meta">
-                                <p>Lokdal on Feb 25, 2017 at 2:55 pm</p>
+                                <p>Lokdal Official Meeting</p>
                               </div>
                             </a>
                           </div>
                         </div>
                       </div>
                       <div class="col-12 col-md-6">
-                        <!-- Single Blog Post -->
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
-                          <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="img/img/featured1.jpg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-4.jpeg" alt="">
                           </div>
-                          <!-- Post Content -->
                           <div class="post-content">
-                            <a data-lightbox="sunil" href="img/img/featured1.jpg" class="headline">
-                              <h5>How Did van Gogh’s Turbulent Mind Depict One of the Most</h5>
-                              <!-- Post Meta -->
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-4.jpeg" class="headline">
+                              <h5>चौधरी सुनील सिंह जी का संबोधन</h5>
                               <div class="post-meta">
-                                <p>Lokdal on Feb 25, 2017 at 2:55 pm</p>
+                                <p>Lokdal National Press Speech</p>
                               </div>
                             </a>
                           </div>
@@ -781,15 +831,53 @@
                 <h5>Daily Updates</h5>
               </div>
               <?php
-                while($row=mysqli_fetch_assoc($result)){
-                
+                $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-1.jpeg', 'title' => 'लखनऊ में चीनी-इथेनॉल नीति पर लोकदल का सरकार पर हमला - अमर उजाला', 'desc' => 'Chini-Ethanol Policy Probe Demand by Lokdal'],
+                  ['img' => 'img/news/latest-news/news-2.jpeg', 'title' => 'चीनी-इथेनॉल नीति पर लोकदल अध्यक्ष सुनील सिंह की सीबीआई जांच मांग', 'desc' => 'Dainik Bhaskar News Coverage'],
+                  ['img' => 'img/news/latest-news/news-3.jpeg', 'title' => 'चीनी-इथेनॉल के नाम पर किसानों के साथ बड़ा अन्याय - हिंदुस्तान समाचार', 'desc' => 'Hindustan Samachar Statement'],
+                  ['img' => 'img/news/latest-news/news-4.jpeg', 'title' => 'चीनी-इथेनॉल नीति पर लोकदल का हमला, सीबीआई जांच की मांग - समर सलील', 'desc' => 'Samar Saleel Press Report'],
+                  ['img' => 'img/news/latest-news/news-5.jpeg', 'title' => 'यूपी राजनीति: चीनी-इथेनॉल नीति पर सीबीआई जांच की मांग - प्रयागराज न्यूज', 'desc' => 'Prayagraj News Report'],
+                  ['img' => 'img/news/latest-news/news-6.jpeg', 'title' => 'लोकदल प्रेस कॉन्फ्रेंस एवं किसान अधिकार आंदोलन', 'desc' => 'Lokdal Press Coverage'],
+                  ['img' => 'img/news/latest-news/news-7.jpeg', 'title' => 'किसानों की न्याय यात्रा - लोकदल संदेश', 'desc' => 'Lokdal News Update'],
+                  ['img' => 'img/news/latest-news/news-8.jpeg', 'title' => 'लोकदल कार्यकारिणी बैठक एवं निर्णय', 'desc' => 'Lokdal News Update'],
+                  ['img' => 'img/news/latest-news/news-9.jpeg', 'title' => 'किसानों के अधिकारों की रक्षा हेतु लोकदल का संकल्प', 'desc' => 'Lokdal Press Coverage'],
+                  ['img' => 'img/news/latest-news/news-10.jpeg', 'title' => 'लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का प्रेस संबोधन', 'desc' => 'Lokdal Press Coverage'],
+                  ['img' => 'img/news/latest-news/news-11.jpeg', 'title' => 'किसान, मजदूर संगठनों की बैठक में बड़ा निर्णय', 'desc' => 'Lokdal Meeting Update'],
+                  ['img' => 'img/news/latest-news/news-12.jpeg', 'title' => 'लोकदल राष्ट्रीय कार्यकारिणी बैठक', 'desc' => 'Lokdal Meeting Update'],
+                  ['img' => 'img/news/latest-news/news-13.jpeg', 'title' => 'किसान मोर्चा एवं लोकदल का संयुक्त वक्तव्य', 'desc' => 'Lokdal Statement'],
+                  ['img' => 'img/news/latest-news/news-14.jpeg', 'title' => 'कृषि एवं किसान कल्याण नीतियों पर लोकदल का सुझाव', 'desc' => 'Lokdal Policy Statement'],
+                  ['img' => 'img/news/latest-news/news-15.jpeg', 'title' => 'लोकदल का संदेश: किसान बचाएगा देश', 'desc' => 'Lokdal National Message'],
+                  ['img' => 'img/news/latest-news/news-16.jpeg', 'title' => 'उत्तर प्रदेश लोकदल कार्यकारिणी सम्मलेन', 'desc' => 'Lokdal State Meeting'],
+                  ['img' => 'img/news/latest-news/news-17.jpeg', 'title' => 'चौधरी सुनील सिंह जी का विशेष साक्षात्कार', 'desc' => 'Lokdal Media Interview'],
+                  ['img' => 'img/news/latest-news/news-18.jpeg', 'title' => 'किसान आंदोलन व समर्थन प्रदर्शन', 'desc' => 'Lokdal Campaign Update'],
+                  ['img' => 'img/news/latest-news/news-19.jpeg', 'title' => 'लोकदल की जनसुनवाई एवं किसान संवाद', 'desc' => 'Lokdal Dialogue'],
+                  ['img' => 'img/news/latest-news/news-20.jpeg', 'title' => 'चीनी-इथेनॉल मामले में व्यापक जांच की मांग', 'desc' => 'Lokdal Press Release'],
+                  ['img' => 'img/news/latest-news/news-21.jpeg', 'title' => 'राष्ट्रीय किसान मोर्चा की आगामी योजना', 'desc' => 'Lokdal Strategic Plan'],
+                  ['img' => 'img/news/latest-news/news-22.jpeg', 'title' => 'लोकदल सदस्यता अभियान व संगठन विस्तार', 'desc' => 'Lokdal Membership Drive'],
+                  ['img' => 'img/news/latest-news/news-23.jpeg', 'title' => 'लोकदल आधिकारिक विज्ञप्ति व सम्मलेन', 'desc' => 'Lokdal Official Statement']
+                ];
+                foreach ($latestDailyUpdates as $update) {
                 ?>
               <!-- Single Blog Post -->
               <div class="single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                 <!-- Post Thumbnail -->
+                <a data-lightbox="articals" href="<?= $update['img'];?>">
+                  <img src="<?= $update['img'];?>" alt="">
+                  <!-- Post Content -->
+                  <div class="post-content">
+                    <h5><?= $update['title'];?></h5>
+                    <p><?= $update['desc'];?></p>
+                  </div>
+                </a>
+              </div>
+              <?php
+                }
+                if($con && $result = mysqli_query($con, "SELECT * FROM daily_update order by id desc;")){
+                  while($row=mysqli_fetch_assoc($result)){
+                ?>
+              <div class="single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                 <a data-lightbox="articals" href="../dashboard/<?= $row['img'];?>">
                   <img src="../dashboard/<?= $row['img'];?>" alt="">
-                  <!-- Post Content -->
                   <div class="post-content">
                     <h5><?= $row['title'];?></h5>
                     <p><?= $row['description'];?></p>
@@ -797,6 +885,7 @@
                 </a>
               </div>
               <?php
+                  }
                 }
                 ?>
             </div>
