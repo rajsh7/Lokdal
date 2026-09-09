@@ -937,11 +937,11 @@
                 <div class="post-thumbnail">
                   <img src="<?php echo $value['img']; ?>" alt="">
                   <!-- Video Button -->
-                  <a href="<?php echo $value['video']; ?>" class="video-btn"><i class="fa fa-play"></i></a>
+                  <a href="<?php echo $value['video']; ?>" target="_blank" class="video-btn"><i class="fa fa-play"></i></a>
                 </div>
                 <!-- Post Content -->
                 <div class="post-content">
-                  <a href="<?php echo $value['video']; ?>" class="headline video-btn">
+                  <a href="<?php echo $value['video']; ?>" target="_blank" class="headline video-btn">
                     <h5><?php echo $value['name']; ?></h5>
                     <p><?php echo $value['desc']; ?></p>
                     <!-- Post Meta -->

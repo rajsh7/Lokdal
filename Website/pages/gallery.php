@@ -349,7 +349,7 @@ body{
                                     </div>
                                      <!-- YOUTUBE VIDEOS WITH PREVIEWS -->
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=syTx9KCPhSc" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=syTx9KCPhSc" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/syTx9KCPhSc/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -357,7 +357,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=SQv0_9oXSpY" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=SQv0_9oXSpY" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/SQv0_9oXSpY/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -365,7 +365,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=3hCkHK9I_UA" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=3hCkHK9I_UA" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/3hCkHK9I_UA/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -373,7 +373,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=qoQrdj2y4gU" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=qoQrdj2y4gU" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/qoQrdj2y4gU/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -381,7 +381,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=v0c9QYq9Cwg" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=v0c9QYq9Cwg" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/v0c9QYq9Cwg/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -389,7 +389,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=vE5AoEUFwxo" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=vE5AoEUFwxo" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/vE5AoEUFwxo/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -397,7 +397,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=N_JQCzOyY0Q" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=N_JQCzOyY0Q" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/N_JQCzOyY0Q/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -405,7 +405,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=-LEs_SmAQJ4" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=-LEs_SmAQJ4" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/-LEs_SmAQJ4/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -413,7 +413,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=UqTp-oKWYA8" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=UqTp-oKWYA8" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/UqTp-oKWYA8/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -421,7 +421,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=0b0Irc1PA2U" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=0b0Irc1PA2U" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/0b0Irc1PA2U/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -429,7 +429,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=MqEc_stvrP4" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=MqEc_stvrP4" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/MqEc_stvrP4/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -437,7 +437,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=BLoGcnK6umQ" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=BLoGcnK6umQ" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/BLoGcnK6umQ/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -445,7 +445,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=1CM9BmdFsj4" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=1CM9BmdFsj4" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/1CM9BmdFsj4/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -453,7 +453,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=SxnXT1Xh0uA" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=SxnXT1Xh0uA" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/SxnXT1Xh0uA/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -461,7 +461,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=dTsso2bFSm0" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=dTsso2bFSm0" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/dTsso2bFSm0/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -469,7 +469,7 @@ body{
                                          </a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=sWqkaLzdcEA" class="position-relative">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=sWqkaLzdcEA" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/sWqkaLzdcEA/hqdefault.jpg" alt="Video Preview" />
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
@@ -478,7 +478,7 @@ body{
                                      </div>
 
                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
-                                        <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=GI-4r3-d4AE" class="position-relative">
+                                        <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=GI-4r3-d4AE" class="position-relative">
                                             <img class="img-fluid w-100" src="../video/vid1.jpg" alt="Image 07" />
                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
