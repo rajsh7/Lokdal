@@ -169,8 +169,59 @@ body{
                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-9.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-9.jpeg" alt="Gallery Photo 09" /></a>
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
-                                         <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-10.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-10.jpeg" alt="Gallery Photo 10" /></a>
-                                     </div>
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-10.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-10.jpeg" alt="Gallery Photo 10" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-11.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-11.jpeg" alt="Gallery Photo 11" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-12.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-12.jpeg" alt="Gallery Photo 12" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-13.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-13.jpeg" alt="Gallery Photo 13" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-14.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-14.jpeg" alt="Gallery Photo 14" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-15.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-15.jpeg" alt="Gallery Photo 15" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-16.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-16.jpeg" alt="Gallery Photo 16" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-17.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-17.jpeg" alt="Gallery Photo 17" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-18.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-18.jpeg" alt="Gallery Photo 18" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-19.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-19.jpeg" alt="Gallery Photo 19" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-20.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-20.jpeg" alt="Gallery Photo 20" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-21.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-21.jpeg" alt="Gallery Photo 21" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-22.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-22.jpeg" alt="Gallery Photo 22" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-23.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-23.jpeg" alt="Gallery Photo 23" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-24.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-24.jpeg" alt="Gallery Photo 24" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-25.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-25.jpeg" alt="Gallery Photo 25" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-26.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-26.jpeg" alt="Gallery Photo 26" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-27.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-27.jpeg" alt="Gallery Photo 27" /></a>
+                                      </div>  </div>
 
                                          <!--Delhi Chalo Sambelan-->
 
@@ -347,6 +398,87 @@ body{
                                     <div class="col-md-6 col-lg-4 p-3 grid-item t-20">
                                         <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/8.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/8.JPG" alt="Image 12" /></a>
                                     </div>
+                                      <!-- NEW LOCAL AND SOCIAL MEDIA VIDEOS -->
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" href="../video/21.mp4" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" href="../video/22.mp4" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid22.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" href="../video/23.mp4" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid23.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" href="../video/24.mp4" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid24.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" href="../video/25.mp4" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid25.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" href="../video/26.mp4" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid26.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" href="../video/27.mp4" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid27.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" href="../video/28.mp4" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid28.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" href="../video/29.mp4" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid29.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1BtQzxgdP7/" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
                                      <!-- YOUTUBE VIDEOS WITH PREVIEWS -->
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=syTx9KCPhSc" class="position-relative">

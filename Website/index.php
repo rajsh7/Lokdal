@@ -486,6 +486,22 @@
                               <?php 
                                 $ourServicesArr = [
                                      ['img' => 'img/news/latest-news/news-1.jpeg',
+                                      'title' => 'अखिलेश यादव से मिले लोकदल अध्यक्ष सुनील सिंह, चुनावी रणनीति पर मंथन - नवभारत टाइम्स',
+                                      'desc' => 'Navbharat Times News',
+                                      'url' => 'https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/lokdal-president-sunil-singh-meets-akhilesh-yadav/amp_articleshow/133970907.cms'],
+                                     ['img' => 'img/news/latest-news/news-2.jpeg',
+                                      'title' => 'लोकदल अध्यक्ष सुनील सिंह एवं अखिलेश यादव की मुलाकात - BSTV News',
+                                      'desc' => 'BSTV Live (X)',
+                                      'url' => 'https://x.com/bstvlive/status/2097642131708055807'],
+                                     ['img' => 'img/news/latest-news/news-3.jpeg',
+                                      'title' => 'लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का विशेष संदेश एवं प्रेस कवरेज',
+                                      'desc' => 'IANS India (X)',
+                                      'url' => 'https://x.com/ians_india/status/2097648641682837966'],
+                                     ['img' => 'img/news/latest-news/news-4.jpeg',
+                                      'title' => 'लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह - विशेष वीडियो संवाद',
+                                      'desc' => 'Facebook Video',
+                                      'url' => 'https://www.facebook.com/share/v/1BtQzxgdP7/'],
+                                     ['img' => 'img/news/latest-news/news-1.jpeg',
                                       'title' => 'लखनऊ में चीनी-इथेनॉल नीति पर लोकदल का सरकार पर हमला - अमर उजाला',
                                       'desc' => 'Chini-Ethanol Policy Probe Demand',
                                       'url' => 'https://www.amarujala.com/video/lucknow/video-video-lkhanauu-ma-cana-ithanal-nata-para-lkathal-ka-sarakara-para-hamal-2026-09-05'],
@@ -815,6 +831,81 @@
                           </div>
                         </div>
                       </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-11.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-11.jpeg" class="headline">
+                              <h5>लोकदल प्रदेश बैठक एवं कार्यक्रम</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Event</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-12.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-12.jpeg" class="headline">
+                              <h5>लोकदल राष्ट्रीय अध्यक्ष मुलाकात एवं संवाद</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Update</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-13.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-13.jpeg" class="headline">
+                              <h5>लोकदल प्रदेश कार्यकारिणी विचार-विमर्श</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Assembly</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-14.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-14.jpeg" class="headline">
+                              <h5>चौधरी सुनील सिंह जनसंपर्क अभियान</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Campaign</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-15.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-15.jpeg" class="headline">
+                              <h5>लोकदल किसान अधिकार जनसभा</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Event</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -891,6 +982,18 @@
             </div>
             <?php 
               $ourServicesArr = [
+                ['img' => 'video/vid21.jpg','video' => 'video/21.mp4', 'name' => 'लोकदल विशेष संदेश', 'desc' => 'चौधरी सुनील सिंह संबोधन', 'date' => 'Lokdal Video'],
+                ['img' => 'video/vid22.jpg','video' => 'video/22.mp4', 'name' => 'किसान अधिकार संवाद', 'desc' => 'लोकदल प्रेस वार्ता', 'date' => 'Lokdal Video'],
+                ['img' => 'video/vid23.jpg','video' => 'video/23.mp4', 'name' => 'लोकदल संगठन बैठक', 'desc' => 'चौधरी सुनील सिंह वक्तव्य', 'date' => 'Lokdal Video'],
+                ['img' => 'video/vid24.jpg','video' => 'video/24.mp4', 'name' => 'लोकदल प्रदेश कार्यकारिणी', 'desc' => 'किसान मुद्दे व चुनावी चर्चा', 'date' => 'Lokdal Video'],
+                ['img' => 'video/vid25.jpg','video' => 'video/25.mp4', 'name' => 'किसान मजदूर कल्याण संदेश', 'desc' => 'लोकदल संबोधन', 'date' => 'Lokdal Video'],
+                ['img' => 'video/vid26.jpg','video' => 'video/26.mp4', 'name' => 'लोकदल मीडिया वार्ता', 'desc' => 'प्रेस ब्रीफिंग', 'date' => 'Lokdal Video'],
+                ['img' => 'video/vid27.jpg','video' => 'video/27.mp4', 'name' => 'लोकदल जनसभा कवरेज', 'desc' => 'किसान अधिकार यात्रा', 'date' => 'Lokdal Video'],
+                ['img' => 'video/vid28.jpg','video' => 'video/28.mp4', 'name' => 'लोकदल किसान संदेश', 'desc' => 'चौधरी सुनील सिंह वक्तव्य', 'date' => 'Lokdal Video'],
+                ['img' => 'video/vid29.jpg','video' => 'video/29.mp4', 'name' => 'लोकदल प्रेस ब्रीफिंग', 'desc' => 'जांच व किसान मांगें', 'date' => 'Lokdal Video'],
+                ['img' => 'video/vid21.jpg','video' => 'https://www.facebook.com/share/v/1BtQzxgdP7/', 'name' => 'लोकदल फेसबुक वीडियो', 'desc' => 'चौधरी सुनील सिंह विशेष कवरेज', 'date' => 'Facebook Video'],
+                ['img' => 'video/vid22.jpg','video' => 'https://x.com/bstvlive/status/2097642131708055807', 'name' => 'BSTV Live कवरेज', 'desc' => 'अखिलेश यादव से मुलाकात अपडेट', 'date' => 'BSTV Live (X)'],
+                ['img' => 'video/vid23.jpg','video' => 'https://x.com/ians_india/status/2097648641682837966', 'name' => 'IANS India कवरेज', 'desc' => 'लोकदल अध्यक्ष प्रेस अपडेट', 'date' => 'IANS India (X)'],
                 ['img' => 'https://img.youtube.com/vi/syTx9KCPhSc/hqdefault.jpg','video' => 'https://www.youtube.com/watch?v=syTx9KCPhSc', 'name' => 'लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह', 'desc' => 'चीनी-इथेनॉल नीति पर हमला', 'date' => 'Lokdal Update'],
                 ['img' => 'https://img.youtube.com/vi/SQv0_9oXSpY/hqdefault.jpg','video' => 'https://www.youtube.com/watch?v=SQv0_9oXSpY', 'name' => 'लोकदल प्रेस कॉन्फ्रेंस', 'desc' => 'किसान अधिकार मुद्दा', 'date' => 'Lokdal Update'],
                 ['img' => 'https://img.youtube.com/vi/3hCkHK9I_UA/hqdefault.jpg','video' => 'https://www.youtube.com/watch?v=3hCkHK9I_UA', 'name' => 'चौधरी सुनील सिंह वक्तव्य', 'desc' => 'लोकदल किसान संदेश', 'date' => 'Lokdal Update'],
