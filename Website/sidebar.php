@@ -4,7 +4,7 @@ include_once("db.php");
 
 
 $sql="SELECT * FROM leaders;";
-$leaders = mysqli_query($con,$sql);
+$leaders = $con ? mysqli_query($con,$sql) : false;
 
 ?>
               

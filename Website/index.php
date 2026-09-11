@@ -2,11 +2,11 @@
   include_once("db.php");
   
   $sql="SELECT * FROM daily_update order by id desc;";
-  $result = mysqli_query($con,$sql);
+  $result = $con ? mysqli_query($con,$sql) : false;
   
   
   $sql="SELECT * FROM activities;";
-  $activities = mysqli_query($con,$sql);
+  $activities = $con ? mysqli_query($con,$sql) : false;
   
   ?>
 <style>
@@ -299,7 +299,7 @@
                   </div>
                   <?php
                     $sql="SELECT * FROM activities;";
-                    $activities = mysqli_query($con,$sql);
+                    if($con && $activities = mysqli_query($con,$sql)){
                     while($rows=mysqli_fetch_assoc($activities)){
                     
                     ?>
@@ -416,6 +416,7 @@
                     </div>
                   </div>
                   <?php
+                    }
                     }
                     ?>
                 </div>

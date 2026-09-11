@@ -8,7 +8,7 @@
     
 
     $sql="SELECT * FROM leader_updates;";
-    $result = mysqli_query($con,$sql);
+    $result = $con ? mysqli_query($con,$sql) : false;
 
 ?>
 
