@@ -221,6 +221,21 @@ body{
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-27.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-27.jpeg" alt="Gallery Photo 27" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-28.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-28.jpeg" alt="Gallery Photo 28" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-29.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-29.jpeg" alt="Gallery Photo 29" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-30.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-30.jpeg" alt="Gallery Photo 30" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-31.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-31.jpeg" alt="Gallery Photo 31" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-32.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-32.jpeg" alt="Gallery Photo 32" /></a>
                                       </div>  </div>
 
                                          <!--Delhi Chalo Sambelan-->
