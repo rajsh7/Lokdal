@@ -906,6 +906,81 @@
                           </div>
                         </div>
                       </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-24.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/news/latest-news/news-24.jpeg" class="headline">
+                              <h5>लोकदल जनसभा एवं किसान संवाद सम्मलेन</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Latest Event</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-25.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/news/latest-news/news-25.jpeg" class="headline">
+                              <h5>चौधरी सुनील सिंह जी का किसान अधिकार अभियान</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Campaign Update</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-26.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/news/latest-news/news-26.jpeg" class="headline">
+                              <h5>लोकदल प्रदेश कार्यकारिणी विचार-विमर्श व बैठक</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Press Coverage</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-27.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/news/latest-news/news-27.jpeg" class="headline">
+                              <h5>राष्ट्रीय किसान मोर्चा महापंचायत एवं जनसभा</h5>
+                              <div class="post-meta">
+                                <p>Lokdal National Event</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-28.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/news/latest-news/news-28.jpeg" class="headline">
+                              <h5>लोकदल सदस्यता एवं संगठन विस्तार कार्यक्रम</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Assembly Update</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -923,6 +998,11 @@
               </div>
               <?php
                 $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-24.jpeg', 'title' => 'लोकदल जनसभा एवं किसान संवाद सम्मलेन', 'desc' => 'Lokdal Latest Update'],
+                  ['img' => 'img/news/latest-news/news-25.jpeg', 'title' => 'चौधरी सुनील सिंह जी का किसान अधिकार अभियान', 'desc' => 'Lokdal Campaign Update'],
+                  ['img' => 'img/news/latest-news/news-26.jpeg', 'title' => 'लोकदल प्रदेश कार्यकारिणी विचार-विमर्श व बैठक', 'desc' => 'Lokdal Press Coverage'],
+                  ['img' => 'img/news/latest-news/news-27.jpeg', 'title' => 'राष्ट्रीय किसान मोर्चा महापंचायत एवं जनसभा', 'desc' => 'Lokdal National Event'],
+                  ['img' => 'img/news/latest-news/news-28.jpeg', 'title' => 'लोकदल सदस्यता एवं संगठन विस्तार कार्यक्रम', 'desc' => 'Lokdal Assembly Update'],
                   ['img' => 'img/news/latest-news/news-1.jpeg', 'title' => 'लखनऊ में चीनी-इथेनॉल नीति पर लोकदल का सरकार पर हमला - अमर उजाला', 'desc' => 'Chini-Ethanol Policy Probe Demand by Lokdal'],
                   ['img' => 'img/news/latest-news/news-2.jpeg', 'title' => 'चीनी-इथेनॉल नीति पर लोकदल अध्यक्ष सुनील सिंह की सीबीआई जांच मांग', 'desc' => 'Dainik Bhaskar News Coverage'],
                   ['img' => 'img/news/latest-news/news-3.jpeg', 'title' => 'चीनी-इथेनॉल के नाम पर किसानों के साथ बड़ा अन्याय - हिंदुस्तान समाचार', 'desc' => 'Hindustan Samachar Statement'],
