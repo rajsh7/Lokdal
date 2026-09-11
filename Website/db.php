@@ -7,10 +7,10 @@ $username="root";
 $password="";
 $db="lokdal";
 
-$con=mysqli_connect($server, $username, $password, $db);
+$con = @mysqli_connect($server, $username, $password, $db);
 
 if(!$con){
-    die("Connection fail");
+    $con = false;
 }
 
 ?>
