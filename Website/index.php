@@ -177,6 +177,20 @@
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
                           <!-- Single Blog Post -->
                           <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-29.jpeg" class="headline">
+                              <div class="post-thumbnail">
+                                <img src="img/news/latest-news/news-29.jpeg" alt="">
+                              </div>
+                              <div class="post-content">
+                                <h5>बेबाक सवाल पूछना क्या गुनाह? पत्रकार दिव्य श्रीवास्तव के समर्थन में लोकदल</h5>
+                                <p>By Chaudhary Sunil Singh</p>
+                                <div class="post-meta">
+                                  <p>Lokdal Official Statement - 13 Sep 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-1.jpeg" class="headline">
                               <div class="post-thumbnail">
                                 <img src="img/news/latest-news/news-1.jpeg" alt="">
@@ -232,45 +246,45 @@
                         <!-- Single Blog Post -->
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                           <div class="post-thumbnail">
-                            <img src="img/news/latest-news/news-2.jpeg" alt="">
+                            <img src="img/news/latest-news/news-29.jpeg" alt="">
                           </div>
                           <div class="post-content ">
-                            <a data-lightbox="jansabha" href="img/news/latest-news/news-2.jpeg" class="headline">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-29.jpeg" class="headline">
                               <div class="headline">
-                                <h5>चीनी-इथेनॉल नीति पर सीबीआई जांच की मांग</h5>
+                                <h5>बेबाक सवाल पूछना अपराध नहीं, पत्रकार का अधिकार: लोकदल</h5>
                               </div>
                               <div class="post-meta">
-                                <p>दैनिक भास्कर न्यूज कवरेज</p>
+                                <p>प्रेस की आजादी पर लोकदल बयान - 13 Sep 2026</p>
                               </div>
                             </a>
                           </div>
                         </div>
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.3s">
                           <div class="post-thumbnail">
-                            <img src="img/news/latest-news/news-3.jpeg" alt="">
+                            <img src="video/yt-xn6Rz6LzjuY.jpg" alt="">
                           </div>
                           <div class="post-content ">
-                            <a data-lightbox="jansabha" href="img/news/latest-news/news-3.jpeg" class="headline">
+                            <a data-lightbox="jansabha" href="video/yt-xn6Rz6LzjuY.jpg" class="headline">
                               <div class="headline">
-                                <h5>किसानों के साथ अन्याय पर लोकदल का बयान</h5>
+                                <h5>जयंत के खिलाफ सुनील सिंह का बड़ा ऐलान, अखिलेश का समर्थन</h5>
                               </div>
                               <div class="post-meta">
-                                <p>हिंदुस्तान समाचार कवरेज</p>
+                                <p>SPN9 News Coverage - 10 Sep 2026</p>
                               </div>
                             </a>
                           </div>
                         </div>
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.4s">
                           <div class="post-thumbnail">
-                            <img src="img/gallery/latest-gallery/gallery-2.jpeg" alt="">
+                            <img src="video/fb-soochana.jpg" alt="">
                           </div>
                           <div class="post-content ">
-                            <a data-lightbox="jansabha" href="img/gallery/latest-gallery/gallery-2.jpeg" class="headline">
+                            <a data-lightbox="jansabha" href="video/fb-soochana.jpg" class="headline">
                               <div class="headline">
-                                <h5>राष्ट्रीय किसान मोर्चा महापंचायत</h5>
+                                <h5>सूचना विभाग में महिला सुरक्षा पर लोकदल का सरकार से तीखा सवाल</h5>
                               </div>
                               <div class="post-meta">
-                                <p>चौधरी सुनील सिंह जनसभा</p>
+                                <p>महिला सुरक्षा मुद्दा - 14 Sep 2026</p>
                               </div>
                             </a>
                           </div>
@@ -486,6 +500,42 @@
                             <div class="row">
                               <?php 
                                 $ourServicesArr = [
+                                     ['img' => 'img/news/latest-news/news-29.jpeg',
+                                      'title' => 'बेबाक सवाल पूछना क्या गुनाह? पत्रकार दिव्य श्रीवास्तव के समर्थन में मजबूती से खड़ा है लोकदल',
+                                      'desc' => 'Lokdal on 13 Sep 2026',
+                                      'url' => 'https://x.com/lokdalindia/status/2098828845801718195?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
+                                     ['img' => 'video/fb-divya.jpg',
+                                      'title' => 'पत्रकार दिव्य श्रीवास्तव द्वारा सीएम से जनहित के सवाल पूछने पर धमकियां — लोकदल ने उठाया सवाल',
+                                      'desc' => 'Lokdal Facebook - 13 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/v/1BQDKTYZNM/'],
+                                     ['img' => 'video/yt-xn6Rz6LzjuY.jpg',
+                                      'title' => 'जयंत के खिलाफ सुनील सिंह का बड़ा ऐलान, अखिलेश का खुला समर्थन ! — SPN9 News',
+                                      'desc' => 'SPN9 News (YouTube) - 10 Sep 2026',
+                                      'url' => 'https://youtu.be/xn6Rz6LzjuY?si=zstMa59slG9jxE_K'],
+                                     ['img' => 'video/fb-gathbandhan.jpg',
+                                      'title' => 'लोकदल से सपा का गठबंधन फाइनल! पश्चिमी यूपी में जयंत चौधरी को बड़ा झटका? — टीम अखिलेश',
+                                      'desc' => 'Team Akhilesh - 10 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/v/19SzkEL4Sm/'],
+                                     ['img' => 'video/fb-soochana.jpg',
+                                      'title' => 'सूचना विभाग में ही महिला सुरक्षित नहीं तो प्रदेश की महिलाओं की सुरक्षा का दावा कितना सच? — लोकदल',
+                                      'desc' => 'Lokdal Facebook - 14 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/v/1He834mCUj/'],
+                                     ['img' => 'video/fb-jayant.jpg',
+                                      'title' => 'जयंत चौधरी केवल चौ. चरण सिंह जी की विरासत को बेच रहे हैं — लोकदल अध्यक्ष सुनील सिंह',
+                                      'desc' => 'Rashtriya Voice Reel - 11 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/r/1TBmP28okz/'],
+                                     ['img' => 'img/news/latest-news/news-29.jpeg',
+                                      'title' => 'योगी से सवाल की ऐसी सज़ा दी! महिला पत्रकार का सुपर एक्सक्लूसिव इंटरव्यू — अभिषेक उपाध्याय',
+                                      'desc' => 'Interview Reel - 13 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/v/19X3VC8bgo/'],
+                                     ['img' => 'img/news/latest-news/news-1.jpeg',
+                                      'title' => 'BRICS की शान, किसानों की बर्बादी — भारत को मिला क्या? लोकदल का केंद्र सरकार से तीखा सवाल',
+                                      'desc' => 'Lokdal Official - 14 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/p/1Lka4h3MdN/?mibextid=wwXIfr'],
+                                     ['img' => 'img/news/latest-news/news-2.jpeg',
+                                      'title' => 'नॉर्वे में मोदी, लखनऊ में योगी — एक ही शैली: सवाल से भागना और प्रेस को दबाना',
+                                      'desc' => 'Lokdal Analysis - 12 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/v/1C6Fj6Sxww/?mibextid=wwXIfr'],
                                      ['img' => 'img/news/latest-news/news-1.jpeg',
                                       'title' => 'अखिलेश यादव से मिले लोकदल अध्यक्ष सुनील सिंह, चुनावी रणनीति पर मंथन - नवभारत टाइम्स',
                                       'desc' => 'Navbharat Times News',
@@ -999,6 +1049,13 @@
               </div>
               <?php
                 $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-29.jpeg', 'title' => 'बेबाक सवाल पूछना क्या गुनाह? पत्रकार दिव्य श्रीवास्तव के समर्थन में लोकदल', 'desc' => 'Lokdal Press Release - 13 Sep 2026'],
+                  ['img' => 'video/fb-divya.jpg', 'title' => 'पत्रकार को धमकियों पर लोकदल का तीखा हमला, निष्पक्ष जांच की मांग', 'desc' => 'Lokdal Statement - 13 Sep 2026'],
+                  ['img' => 'video/yt-xn6Rz6LzjuY.jpg', 'title' => 'जयंत के खिलाफ सुनील सिंह का बड़ा ऐलान, अखिलेश का खुला समर्थन !', 'desc' => 'SPN9 News Coverage - 10 Sep 2026'],
+                  ['img' => 'video/fb-gathbandhan.jpg', 'title' => 'लोकदल से सपा का गठबंधन फाइनल! पश्चिमी यूपी में नए सियासी समीकरण', 'desc' => 'UP Politics News - 10 Sep 2026'],
+                  ['img' => 'video/fb-soochana.jpg', 'title' => 'सूचना विभाग में महिला सुरक्षा पर लोकदल का सरकार से तीखा सवाल', 'desc' => 'Lokdal Official Update - 14 Sep 2026'],
+                  ['img' => 'video/fb-jayant.jpg', 'title' => 'जयंत चौधरी केवल चौ. चरण सिंह जी की विरासत को बेच रहे हैं: सुनील सिंह', 'desc' => 'Rashtriya Voice - 11 Sep 2026'],
+                  ['img' => 'img/news/latest-news/news-1.jpeg', 'title' => 'BRICS की शान, किसानों की बर्बादी — भारत को मिला क्या?', 'desc' => 'Lokdal Farmers Update - 14 Sep 2026'],
                   ['img' => 'img/news/latest-news/news-24.jpeg', 'title' => 'लोकदल जनसभा एवं किसान संवाद सम्मलेन', 'desc' => 'Lokdal Latest Update'],
                   ['img' => 'img/news/latest-news/news-25.jpeg', 'title' => 'चौधरी सुनील सिंह जी का किसान अधिकार अभियान', 'desc' => 'Lokdal Campaign Update'],
                   ['img' => 'img/news/latest-news/news-26.jpeg', 'title' => 'लोकदल प्रदेश कार्यकारिणी विचार-विमर्श व बैठक', 'desc' => 'Lokdal Press Coverage'],
@@ -1063,6 +1120,13 @@
             </div>
             <?php 
               $ourServicesArr = [
+                ['img' => 'video/fb-divya.jpg','video' => 'https://www.facebook.com/share/v/1BQDKTYZNM/', 'name' => 'बेबाक सवाल पूछना क्या गुनाह?', 'desc' => 'पत्रकार दिव्य श्रीवास्तव के समर्थन में लोकदल', 'date' => '13 Sep 2026'],
+                ['img' => 'video/yt-xn6Rz6LzjuY.jpg','video' => 'https://www.youtube.com/watch?v=xn6Rz6LzjuY', 'name' => 'जयंत के खिलाफ सुनील सिंह का बड़ा ऐलान', 'desc' => 'अखिलेश यादव का खुला समर्थन (SPN9 News)', 'date' => '10 Sep 2026'],
+                ['img' => 'video/fb-soochana.jpg','video' => 'https://www.facebook.com/share/v/1He834mCUj/', 'name' => 'सूचना विभाग में महिला सुरक्षा पर सवाल', 'desc' => 'सरकारी विभागों में महिलाओं की सुरक्षा पर सवाल', 'date' => '14 Sep 2026'],
+                ['img' => 'video/fb-gathbandhan.jpg','video' => 'https://www.facebook.com/share/v/19SzkEL4Sm/', 'name' => 'लोकदल-सपा गठबंधन चर्चा', 'desc' => 'पश्चिमी यूपी में सियासी हलचल (टीम अखिलेश)', 'date' => '10 Sep 2026'],
+                ['img' => 'video/fb-jayant.jpg','video' => 'https://www.facebook.com/share/r/1TBmP28okz/', 'name' => 'चौ. चरण सिंह की विरासत पर बयान', 'desc' => 'सुनील सिंह का जयंत चौधरी पर तीखा हमला (राष्ट्रीय वॉयस)', 'date' => '11 Sep 2026'],
+                ['img' => 'video/fb-divya.jpg','video' => 'https://www.facebook.com/share/v/19X3VC8bgo/', 'name' => 'योगी से सवाल की ऐसी सज़ा दी!', 'desc' => 'दिव्या श्रीवास्तव इंटरव्यू (अभिषेक उपाध्याय)', 'date' => '13 Sep 2026'],
+                ['img' => 'video/fb-divya.jpg','video' => 'https://www.facebook.com/share/v/1C6Fj6Sxww/?mibextid=wwXIfr', 'name' => 'नॉर्वे में मोदी, लखनऊ में योगी', 'desc' => 'एक ही शैली: सवाल से भागना और प्रेस को दबाना', 'date' => '12 Sep 2026'],
                 ['img' => 'video/vid21.jpg','video' => 'video/21.mp4', 'name' => 'लोकदल विशेष संदेश', 'desc' => 'चौधरी सुनील सिंह संबोधन', 'date' => 'Lokdal Video'],
                 ['img' => 'video/vid22.jpg','video' => 'video/22.mp4', 'name' => 'किसान अधिकार संवाद', 'desc' => 'लोकदल प्रेस वार्ता', 'date' => 'Lokdal Video'],
                 ['img' => 'video/vid23.jpg','video' => 'video/23.mp4', 'name' => 'लोकदल संगठन बैठक', 'desc' => 'चौधरी सुनील सिंह वक्तव्य', 'date' => 'Lokdal Video'],
@@ -1140,6 +1204,12 @@
           </div>
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-29.jpeg'],
+              ['img' => 'video/fb-divya.jpg'],
+              ['img' => 'video/yt-xn6Rz6LzjuY.jpg'],
+              ['img' => 'video/fb-soochana.jpg'],
+              ['img' => 'video/fb-gathbandhan.jpg'],
+              ['img' => 'video/fb-jayant.jpg'],
               ['img' => 'img/news/latest-news/news-1.jpeg'],
               ['img' => 'img/news/latest-news/news-2.jpeg'],
               ['img' => 'img/news/latest-news/news-3.jpeg'],
