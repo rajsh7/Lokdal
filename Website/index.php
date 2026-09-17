@@ -177,6 +177,34 @@
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
                           <!-- Single Blog Post -->
                           <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-31.jpeg" class="headline">
+                              <div class="post-thumbnail">
+                                <img src="img/news/latest-news/news-31.jpeg" alt="">
+                              </div>
+                              <div class="post-content">
+                                <h5>आलू किसान तीन तरफा मार में: खाद कालाबाजारी व मंडी संकट पर लोकदल</h5>
+                                <p>By Chaudhary Sunil Singh</p>
+                                <div class="post-meta">
+                                  <p>Lokdal Statement - 17 Sep 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="video/yt-wE9bWrA-IrI.jpg" class="headline">
+                              <div class="post-thumbnail">
+                                <img src="video/yt-wE9bWrA-IrI.jpg" alt="">
+                              </div>
+                              <div class="post-content">
+                                <h5>चौधरी सुनील सिंह जी का विशेष पॉडकास्ट — किसान विमर्श</h5>
+                                <p>By Saargarbhit Podcast</p>
+                                <div class="post-meta">
+                                  <p>Lokdal Video - 16 Sep 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-29.jpeg" class="headline">
                               <div class="post-thumbnail">
                                 <img src="img/news/latest-news/news-29.jpeg" alt="">
@@ -246,6 +274,36 @@
                         <!-- Single Blog Post -->
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                           <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-31.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-31.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>आलू किसान तीन तरफा मार में — काला बाज़ार खाद व मंडी संकट पर लोकदल</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>किसान अधिकार मुद्दा - 17 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.3s">
+                          <div class="post-thumbnail">
+                            <img src="video/yt-wE9bWrA-IrI.jpg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="video/yt-wE9bWrA-IrI.jpg" class="headline">
+                              <div class="headline">
+                                <h5>चौधरी सुनील सिंह जी का विशेष पॉडकास्ट (Saargarbhit)</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>लोकदल पॉडकास्ट - 16 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.4s">
+                          <div class="post-thumbnail">
                             <img src="img/news/latest-news/news-29.jpeg" alt="">
                           </div>
                           <div class="post-content ">
@@ -254,37 +312,7 @@
                                 <h5>बेबाक सवाल पूछना अपराध नहीं, पत्रकार का अधिकार: लोकदल</h5>
                               </div>
                               <div class="post-meta">
-                                <p>प्रेस की आजादी पर लोकदल बयान - 13 Sep 2026</p>
-                              </div>
-                            </a>
-                          </div>
-                        </div>
-                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.3s">
-                          <div class="post-thumbnail">
-                            <img src="video/yt-xn6Rz6LzjuY.jpg" alt="">
-                          </div>
-                          <div class="post-content ">
-                            <a data-lightbox="jansabha" href="video/yt-xn6Rz6LzjuY.jpg" class="headline">
-                              <div class="headline">
-                                <h5>जयंत के खिलाफ सुनील सिंह का बड़ा ऐलान, अखिलेश का समर्थन</h5>
-                              </div>
-                              <div class="post-meta">
-                                <p>SPN9 News Coverage - 10 Sep 2026</p>
-                              </div>
-                            </a>
-                          </div>
-                        </div>
-                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.4s">
-                          <div class="post-thumbnail">
-                            <img src="video/fb-soochana.jpg" alt="">
-                          </div>
-                          <div class="post-content ">
-                            <a data-lightbox="jansabha" href="video/fb-soochana.jpg" class="headline">
-                              <div class="headline">
-                                <h5>सूचना विभाग में महिला सुरक्षा पर लोकदल का सरकार से तीखा सवाल</h5>
-                              </div>
-                              <div class="post-meta">
-                                <p>महिला सुरक्षा मुद्दा - 14 Sep 2026</p>
+                                <p>प्रेस की आजादी - 13 Sep 2026</p>
                               </div>
                             </a>
                           </div>
@@ -500,6 +528,14 @@
                             <div class="row">
                               <?php 
                                 $ourServicesArr = [
+                                     ['img' => 'img/news/latest-news/news-31.jpeg',
+                                      'title' => 'आलू किसान तीन तरफा मार में — काला बाज़ार खाद, मंडी का सस्ता भाव और कोल्ड स्टोरेज संकट पर लोकदल',
+                                      'desc' => 'Lokdal Facebook - 17 Sep 2026',
+                                      'url' => 'https://m.facebook.com/story.php?story_fbid=pfbid0d56tZkTwzxkDDcBHY3WAZTmr8MsXzLAEdpkXdE7f3pfW7theU89sLC2j2jqSKHQcl&id=100050662051558&mibextid=wwXIfr'],
+                                     ['img' => 'video/yt-wE9bWrA-IrI.jpg',
+                                      'title' => 'चौधरी सुनील सिंह जी का विशेष पॉडकास्ट — लोकदल की नीतियां एवं किसान विमर्श (Saargarbhit)',
+                                      'desc' => 'Saargarbhit YouTube Podcast - 16 Sep 2026',
+                                      'url' => 'https://youtu.be/wE9bWrA-IrI?si=G2Phiyf6mh7xUhwC'],
                                      ['img' => 'img/news/latest-news/news-29.jpeg',
                                       'title' => 'बेबाक सवाल पूछना क्या गुनाह? पत्रकार दिव्य श्रीवास्तव के समर्थन में मजबूती से खड़ा है लोकदल',
                                       'desc' => 'Lokdal on 13 Sep 2026',
@@ -1049,6 +1085,8 @@
               </div>
               <?php
                 $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-31.jpeg', 'title' => 'आलू किसान तीन तरफा मार में — काला बाज़ार खाद व मंडी संकट पर लोकदल', 'desc' => 'Lokdal Kisan Update - 17 Sep 2026'],
+                  ['img' => 'video/yt-wE9bWrA-IrI.jpg', 'title' => 'चौधरी सुनील सिंह जी का विशेष पॉडकास्ट — लोकदल संगठन व किसान विमर्श', 'desc' => 'Saargarbhit Podcast - 16 Sep 2026'],
                   ['img' => 'img/news/latest-news/news-29.jpeg', 'title' => 'बेबाक सवाल पूछना क्या गुनाह? पत्रकार दिव्य श्रीवास्तव के समर्थन में लोकदल', 'desc' => 'Lokdal Press Release - 13 Sep 2026'],
                   ['img' => 'video/fb-divya.jpg', 'title' => 'पत्रकार को धमकियों पर लोकदल का तीखा हमला, निष्पक्ष जांच की मांग', 'desc' => 'Lokdal Statement - 13 Sep 2026'],
                   ['img' => 'video/yt-xn6Rz6LzjuY.jpg', 'title' => 'जयंत के खिलाफ सुनील सिंह का बड़ा ऐलान, अखिलेश का खुला समर्थन !', 'desc' => 'SPN9 News Coverage - 10 Sep 2026'],
@@ -1120,6 +1158,8 @@
             </div>
             <?php 
               $ourServicesArr = [
+                ['img' => 'video/yt-wE9bWrA-IrI.jpg','video' => 'https://www.youtube.com/watch?v=wE9bWrA-IrI', 'name' => 'चौधरी सुनील सिंह विशेष पॉडकास्ट', 'desc' => 'लोकदल नीतियां एवं किसान विमर्श (Saargarbhit)', 'date' => 'YouTube - 16 Sep 2026'],
+                ['img' => 'img/news/latest-news/news-31.jpeg','video' => 'https://m.facebook.com/story.php?story_fbid=pfbid0d56tZkTwzxkDDcBHY3WAZTmr8MsXzLAEdpkXdE7f3pfW7theU89sLC2j2jqSKHQcl&id=100050662051558&mibextid=wwXIfr', 'name' => 'आलू किसान तीन तरफा मार में', 'desc' => 'खाद कालाबाजारी व मंडी संकट पर लोकदल', 'date' => 'Facebook - 17 Sep 2026'],
                 ['img' => 'video/fb-divya.jpg','video' => 'https://www.facebook.com/share/v/1BQDKTYZNM/', 'name' => 'बेबाक सवाल पूछना क्या गुनाह?', 'desc' => 'पत्रकार दिव्य श्रीवास्तव के समर्थन में लोकदल', 'date' => '13 Sep 2026'],
                 ['img' => 'video/yt-xn6Rz6LzjuY.jpg','video' => 'https://www.youtube.com/watch?v=xn6Rz6LzjuY', 'name' => 'जयंत के खिलाफ सुनील सिंह का बड़ा ऐलान', 'desc' => 'अखिलेश यादव का खुला समर्थन (SPN9 News)', 'date' => '10 Sep 2026'],
                 ['img' => 'video/fb-soochana.jpg','video' => 'https://www.facebook.com/share/v/1He834mCUj/', 'name' => 'सूचना विभाग में महिला सुरक्षा पर सवाल', 'desc' => 'सरकारी विभागों में महिलाओं की सुरक्षा पर सवाल', 'date' => '14 Sep 2026'],
@@ -1204,6 +1244,8 @@
           </div>
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-31.jpeg'],
+              ['img' => 'video/yt-wE9bWrA-IrI.jpg'],
               ['img' => 'img/news/latest-news/news-29.jpeg'],
               ['img' => 'video/fb-divya.jpg'],
               ['img' => 'video/yt-xn6Rz6LzjuY.jpg'],
