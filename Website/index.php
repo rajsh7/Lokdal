@@ -499,6 +499,21 @@
                             </a>
                           </div>
                         </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.015s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-45.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-45.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>लोकदल राष्ट्रीय कार्यकारिणी एवं नवीन प्रेस वार्ता</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Lokdal Latest Press Update - 22 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.02s">
                           <div class="post-thumbnail">
                             <img src="img/news/latest-news/news-42.jpeg" alt="">
@@ -1342,6 +1357,22 @@
                         <!-- Single Blog Post -->
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-31.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-31.jpeg" class="headline">
+                              <h5>राहुल गांधी एवं लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह — विशेष मुलाकात एवं विमर्श</h5>
+                              <div class="post-meta">
+                                <p>Rahul Gandhi & Lokdal Update - 22 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
                             <img src="img/gallery/latest-gallery/gallery-1.jpeg" alt="">
                           </div>
                           <div class="post-content">
@@ -1626,6 +1657,7 @@
               </div>
               <?php
                 $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-45.jpeg', 'title' => 'लोकदल राष्ट्रीय कार्यकारिणी एवं नवीन प्रेस वार्ता — 22 Sep 2026', 'desc' => 'Lokdal Latest News - 22 Sep 2026'],
                   ['img' => 'https://img.youtube.com/vi/UU1yv-FN344/hqdefault.jpg', 'title' => 'चौधरी सुनील सिंह जी का विशेष वीडियो संदेश — SIR मतदाता सूची एवं जनहित विमर्श', 'desc' => 'Lokdal YouTube Video - 22 Sep 2026', 'url' => 'https://youtu.be/UU1yv-FN344?si=RAZzzR4t9sMS1g80'],
                   ['img' => 'https://prakashprabhaw.com/public/storage/posts/DhbUP9RJ77CEQNEs4tFnLDepQCYnRP0H2UwTPnO5.jpeg', 'title' => 'PPN: SIR में दिग्गजों के नाम सामने आए तो गरीब और आम मतदाता का क्या होगा — सुनील सिंह', 'desc' => 'Prakash Prabhaw News (PPN) - 22 Sep 2026', 'url' => 'https://prakashprabhaw.com/khabar-hatke/sir-short-comings/detail'],
                   ['img' => 'https://www.cherishtimes.in/wp-content/uploads/2026/09/IMG-20260908-WA0984.jpg', 'title' => 'Cherish Times: SIR में दिग्गजों के नाम सामने आए तो गरीब और आम मतदाता का क्या होगा : सुनील सिंह', 'desc' => 'Cherish Times News - 22 Sep 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/90222'],
@@ -1712,6 +1744,7 @@
             </div>
             <?php 
               $ourServicesArr = [
+                ['img' => 'video/vid30.jpg','video' => 'video/wp-video-3.mp4', 'name' => 'राहुल गांधी एवं लोकदल राष्ट्रीय अध्यक्ष - विशेष वीडियो वक्तव्य', 'desc' => 'राहुल गांधी एवं चौधरी सुनील सिंह - किसान अधिकार एवं जनहित चर्चा', 'date' => '22 Sep 2026'],
                 ['img' => 'https://img.youtube.com/vi/UU1yv-FN344/hqdefault.jpg','video' => 'https://youtu.be/UU1yv-FN344?si=RAZzzR4t9sMS1g80', 'name' => 'चौधरी सुनील सिंह जी का विशेष वीडियो संदेश', 'desc' => 'SIR मतदाता सूची एवं जनहित विमर्श पर लोकदल वक्तव्य', 'date' => 'YouTube Video - 22 Sep 2026'],
                 ['img' => 'https://img.youtube.com/vi/1sJB7x3NSOE/hqdefault.jpg','video' => 'https://youtu.be/1sJB7x3NSOE?si=zaO4LPSMuI9tBriI', 'name' => 'अखिलेश यादव का बड़ा दांव! जयंत चौधरी बनाम सुनील सिंह', 'desc' => 'YBN News Special Coverage - लोकदल व सपा 2027 चुनावी रणनीति', 'date' => 'YBN News (YouTube) - 19 Sep 2026'],
                 ['img' => 'https://img.youtube.com/vi/jpAGYMw7tx4/hqdefault.jpg','video' => 'https://youtu.be/jpAGYMw7tx4?si=7eSnCgmibiJV-8yZ', 'name' => 'अखिलेश-सुनील सिंह मुलाकात! पश्चिमी UP में सीटों का दांव', 'desc' => 'TV100 News - लोकदल अध्यक्ष चौधरी सुनील सिंह विशेष रिपोर्ट', 'date' => 'TV100 News (YouTube) - 19 Sep 2026'],

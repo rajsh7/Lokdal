@@ -207,6 +207,12 @@ body{
                                     
                                      <!--Karkarta Sambelan & Latest Press Updates-->
 
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-31.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-31.jpeg" alt="Rahul Gandhi & Chaudhary Sunil Singh meeting - 22 Sep 2026" /></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/news/latest-news/news-45.jpeg"><img class="img-fluid w-100" src="../img/news/latest-news/news-45.jpeg" alt="Lokdal Press Conference & Update - 22 Sep 2026" /></a>
+                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-28.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-28.jpeg" alt="RLD statement on Chaudhary Charan Singh - 22 Sep 2026" /></a>
                                      </div>
@@ -326,6 +332,14 @@ body{
                                         <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/8.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/8.JPG" alt="Image 12" /></a>
                                     </div>
                                       <!-- NEW LOCAL AND SOCIAL MEDIA VIDEOS -->
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" href="../video/wp-video-3.mp4" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid30.jpg" alt="Rahul Gandhi & Lokdal Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/21.mp4" class="position-relative">
                                               <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" />
