@@ -205,9 +205,19 @@ body{
                                         <a data-fancybox="gallery" href="../img/gallery/hazare4.jpg"><img class="img-fluid w-100" src="../img/gallery/hazare4.jpg" alt="Image 04" /></a>
                                     </div>
                                     
-                                    <!--Karkarta Sambelan-->
+                                     <!--Karkarta Sambelan & Latest Press Updates-->
 
-                                    <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
+                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                         <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-28.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-28.jpeg" alt="RLD statement on Chaudhary Charan Singh - 22 Sep 2026" /></a>
+                                     </div>
+                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                         <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-29.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-29.jpeg" alt="SIR voter verification statement by Chaudhary Sunil Singh - 22 Sep 2026" /></a>
+                                     </div>
+                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                         <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-30.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-30.jpeg" alt="Public Asia Bureau SIR voter verification report - 22 Sep 2026" /></a>
+                                     </div>
+
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
                                         <a data-fancybox="gallery" href="../img/gallery/gallery-1.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-1.jpg" alt="Image 01" /></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
@@ -389,6 +399,14 @@ body{
                                           </a>
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://m.facebook.com/story.php?story_fbid=pfbid0d56tZkTwzxkDDcBHY3WAZTmr8MsXzLAEdpkXdE7f3pfW7theU89sLC2j2jqSKHQcl&id=100050662051558&mibextid=wwXIfr" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1BtQzxgdP7/" class="position-relative">
                                               <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" />
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
@@ -397,6 +415,86 @@ body{
                                           </a>
                                       </div>
                                      <!-- YOUTUBE VIDEOS WITH PREVIEWS -->
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=UU1yv-FN344" class="position-relative">
+                                               <img class="img-fluid w-100" src="https://img.youtube.com/vi/UU1yv-FN344/hqdefault.jpg" alt="Video Preview - Chaudhary Sunil Singh" />
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1BZzB4rn1W/" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/fb-gathbandhan.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://www.amarujala.com/video/lucknow/video-video-akhalsha-yathava-sa-mal-lkathal-athhayakashha-sanal-saha-2027-canava-samata-kaii-mathatha-para-caraca-2026-09-18" class="position-relative">
+                                              <img class="img-fluid w-100" src="../img/news/latest-news/news-31.jpeg" alt="News Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/p/1JiTTomifm/" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid21.jpg" alt="FB Post Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1BswAU7aGt/" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/fb-soochana.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1C1DqRiMa4/" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/fb-divya.jpg" alt="Video Preview" />
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=L_3Whkd7ryM" class="position-relative">
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/L_3Whkd7ryM/hqdefault.jpg" alt="Video Preview" />
+                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                             </span>
+                                         </a>
+                                     </div>
+                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                         <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1BZzB4rn1W/" class="position-relative">
+                                             <img class="img-fluid w-100" src="../video/fb-gathbandhan.jpg" alt="Video Preview" />
+                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                             </span>
+                                         </a>
+                                     </div>
+                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=BehjfXr1NSs" class="position-relative">
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/BehjfXr1NSs/hqdefault.jpg" alt="Video Preview" />
+                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                             </span>
+                                         </a>
+                                     </div>
+                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=wE9bWrA-IrI" class="position-relative">
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/wE9bWrA-IrI/hqdefault.jpg" alt="Video Preview" />
+                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                             </span>
+                                         </a>
+                                     </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=syTx9KCPhSc" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/syTx9KCPhSc/hqdefault.jpg" alt="Video Preview" />

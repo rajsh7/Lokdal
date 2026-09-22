@@ -176,6 +176,188 @@
                       <div class="col-12 col-md-6">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
                           <!-- Single Blog Post -->
+                           <div class="single-blog-post">
+                             <a href="https://youtu.be/1sJB7x3NSOE?si=zaO4LPSMuI9tBriI" target="_blank" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="https://img.youtube.com/vi/1sJB7x3NSOE/hqdefault.jpg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>अखिलेश यादव का बड़ा दांव! जयंत चौधरी बनाम सुनील सिंह</h5>
+                                 <p>By YBN News</p>
+                                 <div class="post-meta">
+                                   <p>YBN News (YouTube) - 19 Sep 2026</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                           <div class="single-blog-post">
+                             <a href="https://youtu.be/jpAGYMw7tx4?si=7eSnCgmibiJV-8yZ" target="_blank" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="https://img.youtube.com/vi/jpAGYMw7tx4/hqdefault.jpg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>अखिलेश-सुनील सिंह मुलाकात! पश्चिमी UP में सीटों का दांव</h5>
+                                 <p>By TV100 News</p>
+                                 <div class="post-meta">
+                                   <p>TV100 News (YouTube) - 19 Sep 2026</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                           <div class="single-blog-post">
+                             <a href="https://youtu.be/cvdSkNNIgwU?si=N9G_00dO7r2cLQ2_" target="_blank" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="https://img.youtube.com/vi/cvdSkNNIgwU/hqdefault.jpg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>लोकदल अध्यक्ष सुनील सिंह व अखिलेश यादव की विशेष मुलाकात</h5>
+                                 <p>By YouTube News</p>
+                                 <div class="post-meta">
+                                   <p>YouTube News - 19 Sep 2026</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                           <div class="single-blog-post">
+                             <a href="https://x.com/aajtak/status/2100949903572967630" target="_blank" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="img/news/latest-news/wp-image-1.jpeg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>आजतक: 2027 में अखिलेश यादव को मुख्यमंत्री बनाना है — लोकदल अध्यक्ष चौधरी सुनील सिंह</h5>
+                                 <p>By AajTak (@aajtak)</p>
+                                 <div class="post-meta">
+                                   <p>AajTak News (X) - 18 Sep 2026</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                           <div class="single-blog-post">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-32.jpeg" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="img/news/latest-news/news-32.jpeg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>लोकदल प्रेस वार्ता एवं ताजा समाचार</h5>
+                                 <p>By Chaudhary Sunil Singh</p>
+                                 <div class="post-meta">
+                                   <p>Lokdal Update - 19 Sep 2026</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                           <div class="single-blog-post">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-33.jpeg" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="img/news/latest-news/news-33.jpeg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>किसान अधिकार एवं प्रदेश स्तरीय संवाद</h5>
+                                 <p>By Chaudhary Sunil Singh</p>
+                                 <div class="post-meta">
+                                   <p>Lokdal Update - 19 Sep 2026</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                           <div class="single-blog-post">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-34.jpeg" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="img/news/latest-news/news-34.jpeg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>लोकदल संगठन विस्तार एवं विचार गोष्ठी</h5>
+                                 <p>By Chaudhary Sunil Singh</p>
+                                 <div class="post-meta">
+                                   <p>Lokdal Update - 19 Sep 2026</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                           <div class="single-blog-post">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-35.jpeg" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="img/news/latest-news/news-35.jpeg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>किसान मजदूर अधिकार महापंचायत</h5>
+                                 <p>By Chaudhary Sunil Singh</p>
+                                 <div class="post-meta">
+                                   <p>Lokdal Update - 19 Sep 2026</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                           <div class="single-blog-post">
+                             <a href="https://www.facebook.com/share/v/1BZzB4rn1W/" target="_blank" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="video/fb-gathbandhan.jpg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>अखिलेश यादव से मुलाकात पर विशेष कवरेज (2027 चुनाव व लोकदल-सपा विमर्श)</h5>
+                                 <p>By Chaudhary Sunil Singh</p>
+                                 <div class="post-meta">
+                                   <p>Facebook Video - 18 Sep 2026</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                           <div class="single-blog-post">
+                             <a href="https://www.amarujala.com/video/lucknow/video-video-akhalsha-yathava-sa-mal-lkathal-athhayakashha-sanal-saha-2027-canava-samata-kaii-mathatha-para-caraca-2026-09-18" target="_blank" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="img/news/latest-news/news-31.jpeg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>अमर उजाला: अखिलेश यादव से मिले लोकदल अध्यक्ष सुनील सिंह</h5>
+                                 <p>By Amar Ujala News</p>
+                                 <div class="post-meta">
+                                   <p>Amar Ujala - 18 Sep 2026</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                           <div class="single-blog-post">
+                             <a href="https://www.facebook.com/share/v/1BswAU7aGt/" target="_blank" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="video/fb-soochana.jpg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>लोकदल विशेष वक्तव्य & प्रेस संवाद</h5>
+                                 <p>By Chaudhary Sunil Singh</p>
+                                 <div class="post-meta">
+                                   <p>Facebook Video Update</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                           <div class="single-blog-post">
+                             <a href="https://www.facebook.com/share/v/1C1DqRiMa4/" target="_blank" class="headline">
+                               <div class="post-thumbnail">
+                                 <img src="video/fb-divya.jpg" alt="">
+                               </div>
+                               <div class="post-content">
+                                 <h5>लोकदल मीडिया संवाद & नवीन संबोधन</h5>
+                                 <p>By Chaudhary Sunil Singh</p>
+                                 <div class="post-meta">
+                                   <p>Facebook Video Update</p>
+                                 </div>
+                               </div>
+                             </a>
+                           </div>
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/wp-image-1.jpeg" class="headline">
+                              <div class="post-thumbnail">
+                                <img src="img/news/latest-news/wp-image-1.jpeg" alt="">
+                              </div>
+                              <div class="post-content">
+                                <h5>अखिलेश यादव से मिले लोकदल अध्यक्ष सुनील सिंह, 2027 चुनाव पर मंथन</h5>
+                                <p>By Chaudhary Sunil Singh</p>
+                                <div class="post-meta">
+                                  <p>Lokdal Statement - 18 Sep 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-31.jpeg" class="headline">
                               <div class="post-thumbnail">
@@ -271,7 +453,262 @@
                         </div>
                       </div>
                       <div class="col-12 col-md-6">
-                        <!-- Single Blog Post -->
+                        <!-- Single Blog Post (Important Video) -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.01s">
+                          <div class="post-thumbnail">
+                            <img src="https://img.youtube.com/vi/UU1yv-FN344/hqdefault.jpg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a href="https://youtu.be/UU1yv-FN344?si=RAZzzR4t9sMS1g80" target="_blank" class="headline">
+                              <div class="headline">
+                                <h5>चौधरी सुनील सिंह जी का विशेष वीडियो संदेश — SIR मतदाता सूची एवं जनहित विमर्श</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Lokdal YouTube Video - 22 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.015s">
+                          <div class="post-thumbnail">
+                            <img src="https://prakashprabhaw.com/public/storage/posts/DhbUP9RJ77CEQNEs4tFnLDepQCYnRP0H2UwTPnO5.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a href="https://prakashprabhaw.com/khabar-hatke/sir-short-comings/detail" target="_blank" class="headline">
+                              <div class="headline">
+                                <h5>PPN: SIR में दिग्गजों के नाम सामने आए तो गरीब और आम मतदाता का क्या होगा — सुनील सिंह</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Prakash Prabhaw News (PPN) - 22 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.018s">
+                          <div class="post-thumbnail">
+                            <img src="https://www.cherishtimes.in/wp-content/uploads/2026/09/IMG-20260908-WA0984.jpg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a href="https://www.cherishtimes.in/uttar-pradesh/90222" target="_blank" class="headline">
+                              <div class="headline">
+                                <h5>Cherish Times: SIR में दिग्गजों के नाम सामने आए तो गरीब और आम मतदाता का क्या होगा : सुनील सिंह</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Cherish Times News - 22 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.02s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-42.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-42.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>RLD अपने मंचों पर लोकदल का नाम लेकर चौधरी चरण सिंह का अपमान बंद करे: लोकदल</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Lucknow Press Update - 22 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.03s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-43.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-43.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>एसआईआर में दिग्गजों के नाम सामने आए, अब आम मतदाता का क्या होगा : सुनील सिंह</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>SIR Voter Revision Update - 22 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.04s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-44.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-44.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>एसआईआर में बड़े नाम दस्तावेजी उलझनों में कटें तो आम आदमी की चिंता लाजमी : सुनील सिंह</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Public Asia Bureau Report - 22 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.05s">
+                          <div class="post-thumbnail">
+                            <img src="https://img.youtube.com/vi/1sJB7x3NSOE/hqdefault.jpg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a href="https://youtu.be/1sJB7x3NSOE?si=zaO4LPSMuI9tBriI" target="_blank" class="headline">
+                              <div class="headline">
+                                <h5>अखिलेश यादव का बड़ा दांव! जयंत चौधरी बनाम सुनील सिंह (YBN News)</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>YBN News (YouTube) - 19 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.06s">
+                          <div class="post-thumbnail">
+                            <img src="https://img.youtube.com/vi/jpAGYMw7tx4/hqdefault.jpg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a href="https://youtu.be/jpAGYMw7tx4?si=7eSnCgmibiJV-8yZ" target="_blank" class="headline">
+                              <div class="headline">
+                                <h5>अखिलेश-सुनील सिंह मुलाकात! पश्चिमी UP में सीटों का दांव (TV100)</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>TV100 News (YouTube) - 19 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.07s">
+                          <div class="post-thumbnail">
+                            <img src="https://img.youtube.com/vi/cvdSkNNIgwU/hqdefault.jpg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a href="https://youtu.be/cvdSkNNIgwU?si=N9G_00dO7r2cLQ2_" target="_blank" class="headline">
+                              <div class="headline">
+                                <h5>लोकदल अध्यक्ष सुनील सिंह व अखिलेश यादव विशेष मुलाकात</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>YouTube News - 19 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.08s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/wp-image-1.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a href="https://x.com/aajtak/status/2100949903572967630" target="_blank" class="headline">
+                              <div class="headline">
+                                <h5>आजतक: लखनऊ में लोकदल अध्यक्ष सुनील सिंह ने अखिलेश यादव से की मुलाकात (2027 चुनाव चर्चा)</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>AajTak News (X) - 18 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.1s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-32.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-32.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>लोकदल प्रेस वार्ता एवं ताजा समाचार कटिंग</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Lokdal Newspaper Update - 19 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.12s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-33.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-33.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>किसान अधिकार एवं प्रदेश स्तरीय संवाद कटिंग</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Lokdal Newspaper Update - 19 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.14s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-34.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-34.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>लोकदल संगठन विस्तार एवं विचार गोष्ठी कटिंग</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Lokdal Newspaper Update - 19 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.16s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-35.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-35.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>किसान मजदूर अधिकार महापंचायत कटिंग</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Lokdal Newspaper Update - 19 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.18s">
+                          <div class="post-thumbnail">
+                            <img src="video/fb-gathbandhan.jpg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a href="https://www.facebook.com/share/v/1BZzB4rn1W/" target="_blank" class="headline">
+                              <div class="headline">
+                                <h5>अखिलेश यादव से मुलाकात पर विशेष कवरेज (2027 चुनाव चर्चा)</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Facebook Video - 18 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.15s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-31.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a href="https://www.amarujala.com/video/lucknow/video-video-akhalsha-yathava-sa-mal-lkathal-athhayakashha-sanal-saha-2027-canava-samata-kaii-mathatha-para-caraca-2026-09-18" target="_blank" class="headline">
+                              <div class="headline">
+                                <h5>अमर उजाला: अखिलेश यादव से मिले लोकदल अध्यक्ष सुनील सिंह</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>Amar Ujala Video - 18 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                        <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/wp-image-1.jpeg" alt="">
+                          </div>
+                          <div class="post-content ">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/wp-image-1.jpeg" class="headline">
+                              <div class="headline">
+                                <h5>अखिलेश यादव से मिले लोकदल अध्यक्ष सुनील सिंह, बोले- 2027 में अखिलेश को बनाएंगे मुख्यमंत्री</h5>
+                              </div>
+                              <div class="post-meta">
+                                <p>मुलाकात व चुनावी रणनीति - 18 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                           <div class="post-thumbnail">
                             <img src="img/news/latest-news/news-31.jpeg" alt="">
@@ -528,6 +965,50 @@
                             <div class="row">
                               <?php 
                                 $ourServicesArr = [
+                                     ['img' => 'https://img.youtube.com/vi/1sJB7x3NSOE/hqdefault.jpg',
+                                      'title' => 'अखिलेश यादव का बड़ा दांव! जयंत चौधरी बनाम सुनील सिंह — YBN News',
+                                      'desc' => 'YBN News - 19 Sep 2026',
+                                      'url' => 'https://youtu.be/1sJB7x3NSOE?si=zaO4LPSMuI9tBriI'],
+                                     ['img' => 'https://img.youtube.com/vi/jpAGYMw7tx4/hqdefault.jpg',
+                                      'title' => 'अखिलेश-सुनील सिंह की मुलाकात! पश्चिमी UP में सीटों का दांव — TV100',
+                                      'desc' => 'TV100 News - 19 Sep 2026',
+                                      'url' => 'https://youtu.be/jpAGYMw7tx4?si=7eSnCgmibiJV-8yZ'],
+                                     ['img' => 'https://img.youtube.com/vi/cvdSkNNIgwU/hqdefault.jpg',
+                                      'title' => 'लोकदल अध्यक्ष सुनील सिंह व अखिलेश यादव की विशेष मुलाकात (किसान व 2027 चुनाव)',
+                                      'desc' => 'YouTube News - 19 Sep 2026',
+                                      'url' => 'https://youtu.be/cvdSkNNIgwU?si=N9G_00dO7r2cLQ2_'],
+                                     ['img' => 'video/fb-gathbandhan.jpg',
+                                      'title' => 'लोकदल विशेष फेसबुक वीडियो संवाद — चौधरी सुनील सिंह',
+                                      'desc' => 'Facebook Video - Lokdal',
+                                      'url' => 'https://www.facebook.com/share/v/1g6JDkys3f/'],
+                                     ['img' => 'video/wp-video-thumb.jpeg',
+                                      'title' => 'लोकदल विशेष वक्तव्य & चुनावी चर्चा — चौधरी सुनील सिंह फेसबुक रील',
+                                      'desc' => 'Facebook Reel - Lokdal',
+                                      'url' => 'https://www.facebook.com/share/r/1Djy88pHFG/'],
+                                     ['img' => 'video/wp-video-thumb.jpeg',
+                                      'title' => 'मिशन 2027: लोकदल और सपा गठबंधन रील — चौधरी सुनील सिंह',
+                                      'desc' => 'Facebook Reel - Lokdal',
+                                      'url' => 'https://www.facebook.com/share/r/1BSXXSL8wh/'],
+                                     ['img' => 'img/news/latest-news/wp-image-1.jpeg',
+                                      'title' => 'आजतक: लखनऊ में लोकदल के राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह ने सपा प्रमुख अखिलेश यादव से की मुलाकात, 2027 में अखिलेश को बनाएंगे मुख्यमंत्री',
+                                      'desc' => 'AajTak News (X) - 18 Sep 2026',
+                                      'url' => 'https://x.com/aajtak/status/2100949903572967630'],
+                                     ['img' => 'img/news/latest-news/wp-image-1.jpeg',
+                                      'title' => 'अखिलेश यादव से मिले लोकदल अध्यक्ष सुनील सिंह, बोले- 2027 में अखिलेश को बनाएंगे मुख्यमंत्री',
+                                      'desc' => 'Suryoday Bharat - 18 Sep 2026',
+                                      'url' => 'https://suryodaybharat.com/lokdal-president-sunil-singh-met-akhilesh-yadav-said-he-would-make-akhilesh-the-chief-minister-in-2027/'],
+                                     ['img' => 'img/news/latest-news/wp-image-1.jpeg',
+                                      'title' => 'अखिलेश यादव से सुनील सिंह: 2027 के लिए सपा-लोकदल समीकरण पर विशेष चर्चा',
+                                      'desc' => 'Karmakshetra TV - 18 Sep 2026',
+                                      'url' => 'https://karmakshetratv.com/%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2%e0%a5%87%e0%a4%b6-%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5-%e0%a4%b8%e0%a5%87-%e0%a4%b8%e0%a5%81%e0%a4%a8%e0%a5%80%e0%a4%b2-%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9/'],
+                                     ['img' => 'video/wp-video-thumb.jpeg',
+                                      'title' => 'लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह — एक्सक्लूसिव वीडियो रील',
+                                      'desc' => 'Instagram Reel - Lokdal',
+                                      'url' => 'https://instagram.com/reel/Dda7EYEFM1b/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='],
+                                     ['img' => 'video/wp-video-thumb.jpeg',
+                                      'title' => 'मिशन 2027: लोकदल और सपा — चौधरी सुनील सिंह का विशेष संदेश',
+                                      'desc' => 'Instagram Reel - Lokdal',
+                                      'url' => 'https://www.instagram.com/reel/DdbRqLFjIgQ/?stkn=MTg4Z2pxYzZ6dXIydg=='],
                                      ['img' => 'img/news/latest-news/news-31.jpeg',
                                       'title' => 'आलू किसान तीन तरफा मार में — काला बाज़ार खाद, मंडी का सस्ता भाव और कोल्ड स्टोरेज संकट पर लोकदल',
                                       'desc' => 'Lokdal Facebook - 17 Sep 2026',
@@ -996,6 +1477,66 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-32.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/news/latest-news/news-32.jpeg" class="headline">
+                              <h5>लोकदल प्रेस वार्ता एवं ताजा समाचार कटिंग</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Newspaper Update - 19 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-33.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/news/latest-news/news-33.jpeg" class="headline">
+                              <h5>किसान अधिकार एवं प्रदेश स्तरीय संवाद कटिंग</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Newspaper Update - 19 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-34.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/news/latest-news/news-34.jpeg" class="headline">
+                              <h5>लोकदल संगठन विस्तार एवं विचार गोष्ठी कटिंग</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Newspaper Update - 19 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-35.jpeg" alt="">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/news/latest-news/news-35.jpeg" class="headline">
+                              <h5>किसान मजदूर अधिकार महापंचायत कटिंग</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Newspaper Update - 19 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
                             <img src="img/news/latest-news/news-24.jpeg" alt="">
                           </div>
                           <div class="post-content">
@@ -1085,6 +1626,19 @@
               </div>
               <?php
                 $latestDailyUpdates = [
+                  ['img' => 'https://img.youtube.com/vi/UU1yv-FN344/hqdefault.jpg', 'title' => 'चौधरी सुनील सिंह जी का विशेष वीडियो संदेश — SIR मतदाता सूची एवं जनहित विमर्श', 'desc' => 'Lokdal YouTube Video - 22 Sep 2026', 'url' => 'https://youtu.be/UU1yv-FN344?si=RAZzzR4t9sMS1g80'],
+                  ['img' => 'https://prakashprabhaw.com/public/storage/posts/DhbUP9RJ77CEQNEs4tFnLDepQCYnRP0H2UwTPnO5.jpeg', 'title' => 'PPN: SIR में दिग्गजों के नाम सामने आए तो गरीब और आम मतदाता का क्या होगा — सुनील सिंह', 'desc' => 'Prakash Prabhaw News (PPN) - 22 Sep 2026', 'url' => 'https://prakashprabhaw.com/khabar-hatke/sir-short-comings/detail'],
+                  ['img' => 'https://www.cherishtimes.in/wp-content/uploads/2026/09/IMG-20260908-WA0984.jpg', 'title' => 'Cherish Times: SIR में दिग्गजों के नाम सामने आए तो गरीब और आम मतदाता का क्या होगा : सुनील सिंह', 'desc' => 'Cherish Times News - 22 Sep 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/90222'],
+                  ['img' => 'img/news/latest-news/news-42.jpeg', 'title' => 'RLD अपने मंचों पर लोकदल का नाम लेकर चौधरी चरण सिंह का अपमान बंद करे: लोकदल', 'desc' => 'Lucknow Press Update - 22 Sep 2026'],
+                  ['img' => 'img/news/latest-news/news-43.jpeg', 'title' => 'एसआईआर में दिग्गजों के नाम सामने आए, अब आम मतदाता का क्या होगा : सुनील सिंह', 'desc' => 'SIR Voter Revision Update - 22 Sep 2026'],
+                  ['img' => 'img/news/latest-news/news-44.jpeg', 'title' => 'एसआईआर में बड़े नाम दस्तावेजी उलझनों में कटें तो आम आदमी की चिंता लाजमी : सुनील सिंह', 'desc' => 'Public Asia Bureau Report - 22 Sep 2026'],
+                  ['img' => 'https://img.youtube.com/vi/1sJB7x3NSOE/hqdefault.jpg', 'title' => 'अखिलेश यादव का बड़ा दांव! जयंत चौधरी बनाम सुनील सिंह', 'desc' => 'YBN News (YouTube) - 19 Sep 2026', 'url' => 'https://youtu.be/1sJB7x3NSOE?si=zaO4LPSMuI9tBriI'],
+                  ['img' => 'https://img.youtube.com/vi/jpAGYMw7tx4/hqdefault.jpg', 'title' => 'अखिलेश-सुनील सिंह की मुलाकात! पश्चिमी UP में 35 सीटों का दांव', 'desc' => 'TV100 News (YouTube) - 19 Sep 2026', 'url' => 'https://youtu.be/jpAGYMw7tx4?si=7eSnCgmibiJV-8yZ'],
+                  ['img' => 'https://img.youtube.com/vi/cvdSkNNIgwU/hqdefault.jpg', 'title' => 'लोकदल अध्यक्ष सुनील सिंह व अखिलेश यादव की विशेष मुलाकात', 'desc' => 'YouTube News - 19 Sep 2026', 'url' => 'https://youtu.be/cvdSkNNIgwU?si=N9G_00dO7r2cLQ2_'],
+                  ['img' => 'video/fb-gathbandhan.jpg', 'title' => 'लोकदल विशेष फेसबुक वीडियो संवाद — चौधरी सुनील सिंह', 'desc' => 'Facebook Video Update', 'url' => 'https://www.facebook.com/share/v/1g6JDkys3f/'],
+                  ['img' => 'video/wp-video-thumb.jpeg', 'title' => 'लोकदल विशेष वक्तव्य & चुनावी चर्चा — फेसबुक रील', 'desc' => 'Facebook Reel Update', 'url' => 'https://www.facebook.com/share/r/1Djy88pHFG/'],
+                  ['img' => 'video/wp-video-thumb.jpeg', 'title' => 'मिशन 2027: लोकदल और सपा गठबंधन रील — चौधरी सुनील सिंह', 'desc' => 'Facebook Reel Update', 'url' => 'https://www.facebook.com/share/r/1BSXXSL8wh/'],
+                  ['img' => 'img/news/latest-news/wp-image-1.jpeg', 'title' => 'आजतक: 2027 में अखिलेश यादव को मुख्यमंत्री बनाना है — लोकदल अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'AajTak News (X) - 18 Sep 2026', 'url' => 'https://x.com/aajtak/status/2100949903572967630'],
                   ['img' => 'img/news/latest-news/news-31.jpeg', 'title' => 'आलू किसान तीन तरफा मार में — काला बाज़ार खाद व मंडी संकट पर लोकदल', 'desc' => 'Lokdal Kisan Update - 17 Sep 2026'],
                   ['img' => 'video/yt-wE9bWrA-IrI.jpg', 'title' => 'चौधरी सुनील सिंह जी का विशेष पॉडकास्ट — लोकदल संगठन व किसान विमर्श', 'desc' => 'Saargarbhit Podcast - 16 Sep 2026'],
                   ['img' => 'img/news/latest-news/news-29.jpeg', 'title' => 'बेबाक सवाल पूछना क्या गुनाह? पत्रकार दिव्य श्रीवास्तव के समर्थन में लोकदल', 'desc' => 'Lokdal Press Release - 13 Sep 2026'],
@@ -1128,7 +1682,7 @@
               <!-- Single Blog Post -->
               <div class="single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                 <!-- Post Thumbnail -->
-                <a data-lightbox="articals" href="<?= $update['img'];?>">
+                <a <?= isset($update['url']) ? 'href="'.$update['url'].'" target="_blank"' : 'data-lightbox="articals" href="'.$update['img'].'"'; ?> class="headline">
                   <img src="<?= $update['img'];?>" alt="">
                   <!-- Post Content -->
                   <div class="post-content">
@@ -1158,6 +1712,26 @@
             </div>
             <?php 
               $ourServicesArr = [
+                ['img' => 'https://img.youtube.com/vi/UU1yv-FN344/hqdefault.jpg','video' => 'https://youtu.be/UU1yv-FN344?si=RAZzzR4t9sMS1g80', 'name' => 'चौधरी सुनील सिंह जी का विशेष वीडियो संदेश', 'desc' => 'SIR मतदाता सूची एवं जनहित विमर्श पर लोकदल वक्तव्य', 'date' => 'YouTube Video - 22 Sep 2026'],
+                ['img' => 'https://img.youtube.com/vi/1sJB7x3NSOE/hqdefault.jpg','video' => 'https://youtu.be/1sJB7x3NSOE?si=zaO4LPSMuI9tBriI', 'name' => 'अखिलेश यादव का बड़ा दांव! जयंत चौधरी बनाम सुनील सिंह', 'desc' => 'YBN News Special Coverage - लोकदल व सपा 2027 चुनावी रणनीति', 'date' => 'YBN News (YouTube) - 19 Sep 2026'],
+                ['img' => 'https://img.youtube.com/vi/jpAGYMw7tx4/hqdefault.jpg','video' => 'https://youtu.be/jpAGYMw7tx4?si=7eSnCgmibiJV-8yZ', 'name' => 'अखिलेश-सुनील सिंह मुलाकात! पश्चिमी UP में सीटों का दांव', 'desc' => 'TV100 News - लोकदल अध्यक्ष चौधरी सुनील सिंह विशेष रिपोर्ट', 'date' => 'TV100 News (YouTube) - 19 Sep 2026'],
+                ['img' => 'https://img.youtube.com/vi/cvdSkNNIgwU/hqdefault.jpg','video' => 'https://youtu.be/cvdSkNNIgwU?si=N9G_00dO7r2cLQ2_', 'name' => 'लोकदल अध्यक्ष सुनील सिंह व अखिलेश यादव विशेष मुलाकात', 'desc' => 'किसान अधिकार, महंगाई, बेरोजगारी व 2027 चुनाव पर विमर्श', 'date' => 'YouTube News - 19 Sep 2026'],
+                ['img' => 'video/fb-gathbandhan.jpg','video' => 'https://www.facebook.com/share/v/1g6JDkys3f/', 'name' => 'लोकदल विशेष फेसबुक वीडियो संवाद — चौधरी सुनील सिंह', 'desc' => 'लोकदल अध्यक्ष चौधरी सुनील सिंह का विशेष संदेश व प्रेस संवाद', 'date' => 'Facebook Video'],
+                ['img' => 'video/wp-video-thumb.jpeg','video' => 'https://www.facebook.com/share/r/1Djy88pHFG/', 'name' => 'लोकदल विशेष वक्तव्य & चुनावी चर्चा — फेसबुक रील', 'desc' => 'चौधरी सुनील सिंह एवं अखिलेश यादव मुलाकात पर विशेष कवरेज', 'date' => 'Facebook Reel'],
+                ['img' => 'video/wp-video-thumb.jpeg','video' => 'https://www.facebook.com/share/r/1BSXXSL8wh/', 'name' => 'मिशन 2027: लोकदल और सपा गठबंधन रील — चौधरी सुनील सिंह', 'desc' => 'उत्तर प्रदेश 2027 चुनाव रणनीति व लोकदल संदेश', 'date' => 'Facebook Reel'],
+                ['img' => 'img/news/latest-news/wp-image-1.jpeg','video' => 'https://x.com/aajtak/status/2100949903572967630', 'name' => 'आजतक (AajTak): अखिलेश यादव से मिले लोकदल अध्यक्ष', 'desc' => '2027 में अखिलेश यादव को मुख्यमंत्री बनाना है — सुनील सिंह', 'date' => 'AajTak News (X) - 18 Sep 2026'],
+                ['img' => 'video/fb-gathbandhan.jpg','video' => 'https://www.facebook.com/share/v/1BZzB4rn1W/', 'name' => 'अखिलेश यादव से मुलाकात पर विशेष कवरेज', 'desc' => '2027 चुनाव व लोकदल-सपा विमर्श', 'date' => 'Facebook Video - 18 Sep 2026'],
+                ['img' => 'img/news/latest-news/news-31.jpeg','video' => 'https://www.amarujala.com/video/lucknow/video-video-akhalsha-yathava-sa-mal-lkathal-athhayakashha-sanal-saha-2027-canava-samata-kaii-mathatha-para-caraca-2026-09-18', 'name' => 'अमर उजाला: अखिलेश यादव से मिले लोकदल अध्यक्ष', 'desc' => '2027 चुनाव समेत कई मुद्दों पर चर्चा', 'date' => 'Amar Ujala - 18 Sep 2026'],
+                ['img' => 'video/vid21.jpg','video' => 'https://www.facebook.com/share/p/1JiTTomifm/', 'name' => 'लोकदल आधिकारिक फेसबुक पोस्ट', 'desc' => 'चौधरी सुनील सिंह जी का विशेष संदेश', 'date' => 'Facebook Post'],
+                ['img' => 'video/fb-soochana.jpg','video' => 'https://www.facebook.com/share/v/1BswAU7aGt/', 'name' => 'लोकदल विशेष फेसबुक वक्तव्य', 'desc' => 'चौधरी सुनील सिंह प्रेस संवाद', 'date' => 'Facebook Video'],
+                ['img' => 'video/fb-divya.jpg','video' => 'https://www.facebook.com/share/v/1C1DqRiMa4/', 'name' => 'लोकदल मीडिया संवाद वीडियो', 'desc' => 'चौधरी सुनील सिंह का नवीन संबोधन', 'date' => 'Facebook Video'],
+                ['img' => 'https://img.youtube.com/vi/L_3Whkd7ryM/hqdefault.jpg','video' => 'https://www.youtube.com/watch?v=L_3Whkd7ryM', 'name' => 'चौधरी सुनील सिंह विशेष यूट्यूब वक्तव्य', 'desc' => 'लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का नया वीडियो संबोधन', 'date' => '19 Sep 2026'],
+                ['img' => 'video/fb-gathbandhan.jpg','video' => 'https://www.facebook.com/share/v/1BZzB4rn1W/', 'name' => 'लोकदल फेसबुक विशेष वीडियो', 'desc' => 'चौधरी सुनील सिंह एवं लोकदल फेसबुक वीडियो कवरेज', 'date' => '19 Sep 2026'],
+                ['img' => 'https://img.youtube.com/vi/BehjfXr1NSs/hqdefault.jpg','video' => 'https://www.youtube.com/watch?v=BehjfXr1NSs', 'name' => 'लोकदल नवीन यूट्यूब संदेश', 'desc' => 'चौधरी सुनील सिंह का विशेष संदेश एवं विचार', 'date' => '19 Sep 2026'],
+                ['img' => 'video/wp-video-thumb.jpeg','video' => 'video/wp-video-1.mp4', 'name' => 'चौधरी सुनील सिंह व अखिलेश यादव संवाद', 'desc' => 'लोकदल और सपा नेतृत्व की विशेष बैठक', 'date' => '18 Sep 2026'],
+                ['img' => 'video/wp-video-thumb.jpeg','video' => 'video/wp-video-2.mp4', 'name' => 'लोकदल राष्ट्रीय अध्यक्ष का विशेष वक्तव्य', 'desc' => 'मिशन 2027 — उत्तर प्रदेश बदलाव संकल्प', 'date' => '18 Sep 2026'],
+                ['img' => 'video/wp-video-thumb.jpeg','video' => 'https://instagram.com/reel/Dda7EYEFM1b/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==', 'name' => 'लोकदल वीडियो रील — चौधरी सुनील सिंह', 'desc' => 'सुनील सिंह जी का विशेष संदेश', 'date' => 'Instagram Reel'],
+                ['img' => 'video/wp-video-thumb.jpeg','video' => 'https://www.instagram.com/reel/DdbRqLFjIgQ/?stkn=MTg4Z2pxYzZ6dXIydg==', 'name' => 'मिशन 2027: लोकदल और सपा', 'desc' => 'अखिलेश यादव से मुलाकात पर विशेष कवरेज', 'date' => 'Instagram Reel'],
                 ['img' => 'video/yt-wE9bWrA-IrI.jpg','video' => 'https://www.youtube.com/watch?v=wE9bWrA-IrI', 'name' => 'चौधरी सुनील सिंह विशेष पॉडकास्ट', 'desc' => 'लोकदल नीतियां एवं किसान विमर्श (Saargarbhit)', 'date' => 'YouTube - 16 Sep 2026'],
                 ['img' => 'img/news/latest-news/news-31.jpeg','video' => 'https://m.facebook.com/story.php?story_fbid=pfbid0d56tZkTwzxkDDcBHY3WAZTmr8MsXzLAEdpkXdE7f3pfW7theU89sLC2j2jqSKHQcl&id=100050662051558&mibextid=wwXIfr', 'name' => 'आलू किसान तीन तरफा मार में', 'desc' => 'खाद कालाबाजारी व मंडी संकट पर लोकदल', 'date' => 'Facebook - 17 Sep 2026'],
                 ['img' => 'video/fb-divya.jpg','video' => 'https://www.facebook.com/share/v/1BQDKTYZNM/', 'name' => 'बेबाक सवाल पूछना क्या गुनाह?', 'desc' => 'पत्रकार दिव्य श्रीवास्तव के समर्थन में लोकदल', 'date' => '13 Sep 2026'],
@@ -1176,6 +1750,8 @@
                 ['img' => 'video/vid27.jpg','video' => 'video/27.mp4', 'name' => 'लोकदल जनसभा कवरेज', 'desc' => 'किसान अधिकार यात्रा', 'date' => 'Lokdal Video'],
                 ['img' => 'video/vid28.jpg','video' => 'video/28.mp4', 'name' => 'लोकदल किसान संदेश', 'desc' => 'चौधरी सुनील सिंह वक्तव्य', 'date' => 'Lokdal Video'],
                 ['img' => 'video/vid29.jpg','video' => 'video/29.mp4', 'name' => 'लोकदल प्रेस ब्रीफिंग', 'desc' => 'जांच व किसान मांगें', 'date' => 'Lokdal Video'],
+                ['img' => 'https://img.youtube.com/vi/wE9bWrA-IrI/hqdefault.jpg','video' => 'https://www.youtube.com/watch?v=wE9bWrA-IrI', 'name' => 'लोकदल यूट्यूब संदेश', 'desc' => 'चौधरी सुनील सिंह वक्तव्य', 'date' => 'YouTube Video'],
+                ['img' => 'video/vid21.jpg','video' => 'https://m.facebook.com/story.php?story_fbid=pfbid0d56tZkTwzxkDDcBHY3WAZTmr8MsXzLAEdpkXdE7f3pfW7theU89sLC2j2jqSKHQcl&id=100050662051558&mibextid=wwXIfr', 'name' => 'लोकदल फेसबुक अपडेट', 'desc' => 'चौधरी सुनील सिंह विशेष पोस्ट', 'date' => 'Facebook Post'],
                 ['img' => 'video/vid21.jpg','video' => 'https://www.facebook.com/share/v/1BtQzxgdP7/', 'name' => 'लोकदल फेसबुक वीडियो', 'desc' => 'चौधरी सुनील सिंह विशेष कवरेज', 'date' => 'Facebook Video'],
                 ['img' => 'video/vid22.jpg','video' => 'https://x.com/bstvlive/status/2097642131708055807', 'name' => 'BSTV Live कवरेज', 'desc' => 'अखिलेश यादव से मुलाकात अपडेट', 'date' => 'BSTV Live (X)'],
                 ['img' => 'video/vid23.jpg','video' => 'https://x.com/ians_india/status/2097648641682837966', 'name' => 'IANS India कवरेज', 'desc' => 'लोकदल अध्यक्ष प्रेस अपडेट', 'date' => 'IANS India (X)'],
@@ -1244,6 +1820,13 @@
           </div>
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-42.jpeg'],
+              ['img' => 'img/news/latest-news/news-43.jpeg'],
+              ['img' => 'img/news/latest-news/news-44.jpeg'],
+              ['img' => 'img/news/latest-news/news-32.jpeg'],
+              ['img' => 'img/news/latest-news/news-33.jpeg'],
+              ['img' => 'img/news/latest-news/news-34.jpeg'],
+              ['img' => 'img/news/latest-news/news-35.jpeg'],
               ['img' => 'img/news/latest-news/news-31.jpeg'],
               ['img' => 'video/yt-wE9bWrA-IrI.jpg'],
               ['img' => 'img/news/latest-news/news-29.jpeg'],
