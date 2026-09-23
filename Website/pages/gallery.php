@@ -210,18 +210,6 @@ body{
                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-31.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-31.jpeg" alt="Rahul Gandhi & Chaudhary Sunil Singh meeting - 22 Sep 2026" /></a>
                                       </div>
-                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
-                                          <a data-fancybox="gallery" href="../img/news/latest-news/news-45.jpeg"><img class="img-fluid w-100" src="../img/news/latest-news/news-45.jpeg" alt="Lokdal Press Conference & Update - 22 Sep 2026" /></a>
-                                      </div>
-                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
-                                         <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-28.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-28.jpeg" alt="RLD statement on Chaudhary Charan Singh - 22 Sep 2026" /></a>
-                                     </div>
-                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
-                                         <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-29.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-29.jpeg" alt="SIR voter verification statement by Chaudhary Sunil Singh - 22 Sep 2026" /></a>
-                                     </div>
-                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
-                                         <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-30.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-30.jpeg" alt="Public Asia Bureau SIR voter verification report - 22 Sep 2026" /></a>
-                                     </div>
 
                                       <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
                                         <a data-fancybox="gallery" href="../img/gallery/gallery-1.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-1.jpg" alt="Image 01" /></a>
