@@ -453,6 +453,166 @@
                         </div>
                       </div>
                       <div class="col-12 col-md-6">
+                         <!-- Single Blog Post (Homepage Exclusive Image 1) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.001s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-46.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-46.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>राहुल गांधी एवं लोकदल राष्ट्रीय अध्यक्ष - 2027 चुनाव व किसान विमर्श</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Exclusive Update - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Homepage Exclusive Image 2) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.002s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-47.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-47.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>चौधरी सुनील सिंह एवं राहुल गांधी मुलाकात - विशेष संवाद</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Exclusive Update - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Zee News Hindi) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.003s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-46.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a href="https://zeenews.india.com/hindi/india/up-uttarakhand/up-politics/lokdal-leader-sunil-singh-meet-rahul-gandhi-demands-seats-in-up-election/3304111/amp" target="_blank" class="headline">
+                               <div class="headline">
+                                 <h5>ज़ी न्यूज़: सुनील सिंह ने की राहुल गांधी से मुलाकात, UP चुनाव में मांगी 35 सीटें</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Zee News Hindi Report - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Dainik Jagran) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.004s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-47.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a href="https://www.jagran.com/uttar-pradesh/lucknow-city-sunil-singh-meets-rahul-gandhi-lokdal-claims-35-up-seats-40381773.html" target="_blank" class="headline">
+                               <div class="headline">
+                                 <h5>दैनिक जागरण: सुनील सिंह ने राहुल गांधी से की मुलाकात, लोकदल ने UP में मांगी सीटें</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Dainik Jagran Report - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Pratyaksh Darshi Samachar) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.005s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-46.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a href="https://www.pratyakshdarshisamachar.com/state/uttar-pradesh/first-akhilesh-now-met-rahul-gandhi-lok-dal-president-asked/article-2154" target="_blank" class="headline">
+                               <div class="headline">
+                                 <h5>प्रत्यक्षदर्शी समाचार: पहले अखिलेश, अब राहुल गांधी से मिले लोकदल अध्यक्ष</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Pratyaksh Darshi Samachar - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (IANS Khabar X) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.006s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-47.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a href="https://x.com/ianskhabar/status/2102302191000416405?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="headline">
+                               <div class="headline">
+                                 <h5>IANS खबर (X): लोकदल अध्यक्ष चौधरी सुनील सिंह की राहुल गांधी से मुलाकात</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>IANS Khabar (X/Twitter) - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (AajTak X) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.007s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-46.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a href="https://x.com/aajtak/status/2102412612915138588?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="headline">
+                               <div class="headline">
+                                 <h5>आजतक (X): राहुल गांधी से मिले लोकदल अध्यक्ष सुनील सिंह — 2027 चुनावी दांव</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>AajTak News (X/Twitter) - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Facebook Share) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.008s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-47.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a href="https://www.facebook.com/share/1CbCxAp6fx/?mibextid=wwXIfr" target="_blank" class="headline">
+                               <div class="headline">
+                                 <h5>फेसबुक: लोकदल अध्यक्ष सुनील सिंह व राहुल गांधी मुलाकात विशेष वीडियो कवरेज</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Facebook Video Update - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (YouTube Video HbrkBb0k52k) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.009s">
+                           <div class="post-thumbnail">
+                             <img src="https://img.youtube.com/vi/HbrkBb0k52k/hqdefault.jpg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a href="https://youtu.be/HbrkBb0k52k?si=JO7X4H9lkIJ0Porm" target="_blank" class="headline">
+                               <div class="headline">
+                                 <h5>लोकदल विशेष वीडियो: राहुल गांधी से मुलाकात व 2027 चुनावी रणनीति</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>YouTube Video - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (YouTube Video zGhhFQ4u6p8) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.01s">
+                           <div class="post-thumbnail">
+                             <img src="https://img.youtube.com/vi/zGhhFQ4u6p8/hqdefault.jpg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a href="https://youtu.be/zGhhFQ4u6p8?si=cgtgVgLQHJAf3YfB" target="_blank" class="headline">
+                               <div class="headline">
+                                 <h5>लोकदल संवाद: राहुल गांधी एवं सुनील सिंह मुलाकात पर विस्तृत चर्चा</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>YouTube Video - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
                         <!-- Single Blog Post (Important Video) -->
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.01s">
                           <div class="post-thumbnail">
@@ -1744,6 +1904,9 @@
             </div>
             <?php 
               $ourServicesArr = [
+                ['img' => 'img/news/latest-news/news-46.jpeg','video' => 'video/wp-video-4.mp4', 'name' => 'लोकदल नवीन वीडियो संवाद — चौधरी सुनील सिंह', 'desc' => 'चौधरी सुनील सिंह जी का विशेष वीडियो वक्तव्य व किसान विमर्श', 'date' => '23 Sep 2026'],
+                ['img' => 'img/news/latest-news/news-47.jpeg','video' => 'video/wp-video-5.mp4', 'name' => 'लोकदल प्रेस एवं जनसभा वीडियो वक्तव्य', 'desc' => 'मिशन 2027 एवं उत्तर प्रदेश विकास रणनीति', 'date' => '23 Sep 2026'],
+                ['img' => 'img/news/latest-news/news-45.jpeg','video' => 'video/wp-video-6.mp4', 'name' => 'लोकदल राष्ट्रीय कार्यकारिणी वीडियो संवाद', 'desc' => 'चौधरी सुनील सिंह संबोधन व संगठन चर्चा', 'date' => '23 Sep 2026'],
                 ['img' => 'video/vid30.jpg','video' => 'video/wp-video-3.mp4', 'name' => 'राहुल गांधी एवं लोकदल राष्ट्रीय अध्यक्ष - विशेष वीडियो वक्तव्य', 'desc' => 'राहुल गांधी एवं चौधरी सुनील सिंह - किसान अधिकार एवं जनहित चर्चा', 'date' => '22 Sep 2026'],
                 ['img' => 'https://img.youtube.com/vi/UU1yv-FN344/hqdefault.jpg','video' => 'https://youtu.be/UU1yv-FN344?si=RAZzzR4t9sMS1g80', 'name' => 'चौधरी सुनील सिंह जी का विशेष वीडियो संदेश', 'desc' => 'SIR मतदाता सूची एवं जनहित विमर्श पर लोकदल वक्तव्य', 'date' => 'YouTube Video - 22 Sep 2026'],
                 ['img' => 'https://img.youtube.com/vi/1sJB7x3NSOE/hqdefault.jpg','video' => 'https://youtu.be/1sJB7x3NSOE?si=zaO4LPSMuI9tBriI', 'name' => 'अखिलेश यादव का बड़ा दांव! जयंत चौधरी बनाम सुनील सिंह', 'desc' => 'YBN News Special Coverage - लोकदल व सपा 2027 चुनावी रणनीति', 'date' => 'YBN News (YouTube) - 19 Sep 2026'],

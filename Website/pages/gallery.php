@@ -319,8 +319,32 @@ body{
                                     <div class="col-md-6 col-lg-4 p-3 grid-item t-20">
                                         <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/8.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/8.JPG" alt="Image 12" /></a>
                                     </div>
-                                      <!-- NEW LOCAL AND SOCIAL MEDIA VIDEOS -->
-                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                       <!-- NEW LOCAL AND SOCIAL MEDIA VIDEOS -->
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" href="../video/wp-video-4.mp4" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-46.jpeg" alt="Lokdal Video Preview 4" />
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" href="../video/wp-video-5.mp4" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-47.jpeg" alt="Lokdal Video Preview 5" />
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" href="../video/wp-video-6.mp4" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-45.jpeg" alt="Lokdal Video Preview 6" />
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/wp-video-3.mp4" class="position-relative">
                                               <img class="img-fluid w-100" src="../video/vid30.jpg" alt="Rahul Gandhi & Lokdal Video Preview" />
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
