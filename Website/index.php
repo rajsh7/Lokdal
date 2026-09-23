@@ -453,6 +453,150 @@
                         </div>
                       </div>
                       <div class="col-12 col-md-6">
+                         <!-- Single Blog Post (Homepage Exclusive News 48) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0001s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-48.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-48.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह — नवीन प्रेस वक्तव्य</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Press Update - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Homepage Exclusive News 49) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0002s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-49.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-49.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>लोकदल प्रेस वार्ता एवं 2027 उत्तर प्रदेश चुनाव विमर्श</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Press Update - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Homepage Exclusive News 50) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0003s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-50.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-50.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>चौधरी सुनील सिंह जी का विशेष किसान अधिकार संदेश</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Update - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Homepage Exclusive News 51) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0004s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-51.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-51.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>लोकदल प्रदेश कार्यकारिणी विचार-विमर्श एवं संगठन विस्तार</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Assembly - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Homepage Exclusive News 52) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0005s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-52.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-52.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>राष्ट्रीय किसान मोर्चा महापंचायत एवं जनसभा</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Event - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Homepage Exclusive News 53) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0006s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-53.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-53.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>लोकदल राष्ट्रीय नेतृत्व विशेष प्रेस कवरेज</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Press Coverage - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Homepage Exclusive News 54) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0007s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-54.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-54.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>किसान अधिकार सम्मेलन एवं जनसभा संबोधन</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Event - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Homepage Exclusive News 55) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0008s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-55.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-55.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>लोकदल मीडिया संवाद व नवीन प्रेस रिपोर्ट</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Press Report - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Homepage Exclusive News 56) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0009s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-56.jpeg" alt="">
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-56.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>चौधरी सुनील सिंह जी का नवीन प्रेस वक्तव्य</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Press Release - 23 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
                          <!-- Single Blog Post (Homepage Exclusive Image 1) -->
                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.001s">
                            <div class="post-thumbnail">
