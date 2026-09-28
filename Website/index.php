@@ -1,4 +1,4 @@
-<?php
+﻿<?php
   include_once("db.php");
   
   $sql="SELECT * FROM daily_update order by id desc;";
@@ -175,6 +175,66 @@
                     <div class="row">
                       <div class="col-12 col-md-6">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                          <!-- Single Blog Post (Instagram Reel) -->
+                           <div class="single-blog-post">
+                              <a href="https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4" target="_blank" class="headline">
+                                <div class="post-thumbnail">
+                                  <img src="video/wp-video-thumb.jpeg" alt="लोकदल वीडियो रील">
+                                </div>
+                                <div class="post-content">
+                                  <h5>लोकदल विशेष वीडियो रील — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह</h5>
+                                  <p>By Lokdal Team</p>
+                                  <div class="post-meta">
+                                    <p>Instagram Reel - 28 Sep 2026</p>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                          <!-- Single Blog Post (Facebook Post - Sunil Singh Statement) -->
+                           <div class="single-blog-post">
+                              <a href="https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr" target="_blank" class="headline">
+                                <div class="post-thumbnail">
+                                  <img src="img/news/latest-news/news-61.jpeg" alt="मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर सुनील सिंह का बयान">
+                                </div>
+                                <div class="post-content">
+                                  <h5>मुख्य चुनाव आयुक्त ज्ञानेश कुमार को न PM बनना है न CM, फिर सत्ता की बेचैनी क्यों?: सुनील सिंह</h5>
+                                  <p>By Chaudhary Sunil Singh</p>
+                                  <div class="post-meta">
+                                    <p>Facebook Post - 28 Sep 2026</p>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                          <!-- Single Blog Post (Facebook Video - 4PM News Live) -->
+                           <div class="single-blog-post">
+                              <a href="https://www.facebook.com/share/v/1Hn2YdNYMt/" target="_blank" class="headline">
+                                <div class="post-thumbnail">
+                                  <img src="img/news/latest-news/news-60.jpeg" alt="ज्ञानेश कुमार की फजीहत LIVE">
+                                </div>
+                                <div class="post-content">
+                                  <h5>ज्ञानेश कुमार की फजीहत LIVE || CEC के खिलाफ फिर एकजुट होगा विपक्ष? इस्तीफे के लिए मोर्चेबंदी</h5>
+                                  <p>By Ajit Anjum</p>
+                                  <div class="post-meta">
+                                    <p>Facebook Video - 28 Sep 2026</p>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                          <!-- Single Blog Post (Rashtriya Sudarshan Paper Clipping) -->
+                           <div class="single-blog-post">
+                              <a data-lightbox="jansabha" href="img/news/latest-news/news-62.jpeg" class="headline">
+                                <div class="post-thumbnail">
+                                  <img src="img/news/latest-news/news-62.jpeg" alt="राष्ट्रीय सुदर्शन रिपोर्ट">
+                                </div>
+                                <div class="post-content">
+                                  <h5>मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर तीखा हमला: राष्ट्रीय सुदर्शन रिपोर्ट</h5>
+                                  <p>By Rashtriya Sudarshan</p>
+                                  <div class="post-meta">
+                                    <p>राष्ट्रीय सुदर्शन - 26 Sep 2026</p>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
                           <!-- Single Blog Post -->
                            <div class="single-blog-post">
                              <a href="https://youtu.be/1sJB7x3NSOE?si=zaO4LPSMuI9tBriI" target="_blank" class="headline">
@@ -453,7 +513,79 @@
                         </div>
                       </div>
                       <div class="col-12 col-md-6">
-                         <!-- Single Blog Post (Homepage Exclusive News 48) -->
+                          <!-- Single Blog Post (Instagram Reel) -->
+                           <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.00001s">
+                             <div class="post-thumbnail">
+                               <a href="https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4" target="_blank">
+                                 <img src="video/wp-video-thumb.jpeg" alt="लोकदल वीडियो रील">
+                               </a>
+                             </div>
+                             <div class="post-content ">
+                               <a href="https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4" target="_blank" class="headline">
+                                 <div class="headline">
+                                   <h5>लोकदल विशेष वीडियो रील — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह</h5>
+                                 </div>
+                                 <div class="post-meta">
+                                   <p>Instagram Reel - 28 Sep 2026</p>
+                                 </div>
+                               </a>
+                             </div>
+                           </div>
+                          <!-- Single Blog Post (Facebook Post - Sunil Singh Statement) -->
+                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.00002s">
+                            <div class="post-thumbnail">
+                              <a href="https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr" target="_blank">
+                                <img src="img/news/latest-news/news-61.jpeg" alt="लोकदल आधिकारिक फेसबुक पोस्ट">
+                              </a>
+                            </div>
+                            <div class="post-content ">
+                              <a href="https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr" target="_blank" class="headline">
+                                <div class="headline">
+                                  <h5>मुख्य चुनाव आयुक्त ज्ञानेश कुमार को न PM बनना है न CM, फिर सत्ता की बेचैनी क्यों?: सुनील सिंह</h5>
+                                </div>
+                                <div class="post-meta">
+                                  <p>Chaudhary Sunil Singh (Facebook Post) - 28 Sep 2026</p>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                          <!-- Single Blog Post (Facebook Video - 4PM News Live) -->
+                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.00003s">
+                            <div class="post-thumbnail">
+                              <a href="https://www.facebook.com/share/v/1Hn2YdNYMt/" target="_blank">
+                                <img src="img/news/latest-news/news-60.jpeg" alt="ज्ञानेश कुमार की फजीहत LIVE">
+                              </a>
+                            </div>
+                            <div class="post-content ">
+                              <a href="https://www.facebook.com/share/v/1Hn2YdNYMt/" target="_blank" class="headline">
+                                <div class="headline">
+                                  <h5>ज्ञानेश कुमार की फजीहत LIVE || CEC के खिलाफ फिर एकजुट होगा विपक्ष? इस्तीफे के लिए मोर्चेबंदी</h5>
+                                </div>
+                                <div class="post-meta">
+                                  <p>Ajit Anjum (Facebook Video) - 28 Sep 2026</p>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                          <!-- Single Blog Post (Rashtriya Sudarshan Paper Clipping) -->
+                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.00004s">
+                            <div class="post-thumbnail">
+                              <a data-lightbox="jansabha" href="img/news/latest-news/news-62.jpeg">
+                                <img src="img/news/latest-news/news-62.jpeg" alt="राष्ट्रीय सुदर्शन रिपोर्ट">
+                              </a>
+                            </div>
+                            <div class="post-content ">
+                              <a data-lightbox="jansabha" href="img/news/latest-news/news-62.jpeg" class="headline">
+                                <div class="headline">
+                                  <h5>मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर तीखा हमला: राष्ट्रीय सुदर्शन रिपोर्ट</h5>
+                                </div>
+                                <div class="post-meta">
+                                  <p>राष्ट्रीय सुदर्शन - 26 Sep 2026</p>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                          <!-- Single Blog Post (Homepage Exclusive News 48) -->
                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0001s">
                            <div class="post-thumbnail">
                              <img src="img/news/latest-news/news-48.jpeg" alt="">
@@ -1284,6 +1416,18 @@
                             <div class="row">
                               <?php 
                                 $ourServicesArr = [
+                                     ['img' => 'video/wp-video-thumb.jpeg',
+                                      'title' => 'लोकदल विशेष वीडियो रील — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह',
+                                      'desc' => 'Instagram Reel - 28 Sep 2026',
+                                      'url' => 'https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4'],
+                                     ['img' => 'video/fb-gathbandhan.jpg',
+                                      'title' => 'CEC Gyanesh Kumar के खिलाफ फिर एकजुट होगा विपक्ष? इस्तीफे के लिए मोर्चेबंदी — Ajit Anjum',
+                                      'desc' => 'Facebook Video - 28 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/v/1Hn2YdNYMt/'],
+                                     ['img' => 'img/news/latest-news/news-56.jpeg',
+                                      'title' => 'लोकदल आधिकारिक संदेश: राष्ट्रीय नेतृत्व का विशेष वक्तव्य एवं विचार',
+                                      'desc' => 'Facebook Post - 28 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr'],
                                      ['img' => 'https://img.youtube.com/vi/1sJB7x3NSOE/hqdefault.jpg',
                                       'title' => 'अखिलेश यादव का बड़ा दांव! जयंत चौधरी बनाम सुनील सिंह — YBN News',
                                       'desc' => 'YBN News - 19 Sep 2026',
@@ -1961,6 +2105,10 @@
               </div>
               <?php
                 $latestDailyUpdates = [
+                  ['img' => 'video/wp-video-thumb.jpeg', 'title' => 'लोकदल विशेष वीडियो रील — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Instagram Reel - 28 Sep 2026', 'url' => 'https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4'],
+                  ['img' => 'img/news/latest-news/news-61.jpeg', 'title' => 'मुख्य चुनाव आयुक्त ज्ञानेश कुमार को न PM बनना है न CM, फिर सत्ता की बेचैनी क्यों?: सुनील सिंह', 'desc' => 'Chaudhary Sunil Singh (Facebook Post) - 28 Sep 2026', 'url' => 'https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr'],
+                  ['img' => 'img/news/latest-news/news-60.jpeg', 'title' => 'ज्ञानेश कुमार की फजीहत LIVE || CEC के खिलाफ फिर एकजुट होगा विपक्ष? इस्तीफे के लिए मोर्चेबंदी', 'desc' => 'Ajit Anjum (Facebook Video) - 28 Sep 2026', 'url' => 'https://www.facebook.com/share/v/1Hn2YdNYMt/'],
+                  ['img' => 'img/news/latest-news/news-62.jpeg', 'title' => 'मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर तीखा हमला: राष्ट्रीय सुदर्शन रिपोर्ट', 'desc' => 'Rashtriya Sudarshan - 26 Sep 2026', 'url' => 'img/news/latest-news/news-62.jpeg'],
                   ['img' => 'img/news/latest-news/news-45.jpeg', 'title' => 'लोकदल राष्ट्रीय कार्यकारिणी एवं नवीन प्रेस वार्ता — 22 Sep 2026', 'desc' => 'Lokdal Latest News - 22 Sep 2026'],
                   ['img' => 'https://img.youtube.com/vi/UU1yv-FN344/hqdefault.jpg', 'title' => 'चौधरी सुनील सिंह जी का विशेष वीडियो संदेश — SIR मतदाता सूची एवं जनहित विमर्श', 'desc' => 'Lokdal YouTube Video - 22 Sep 2026', 'url' => 'https://youtu.be/UU1yv-FN344?si=RAZzzR4t9sMS1g80'],
                   ['img' => 'https://prakashprabhaw.com/public/storage/posts/DhbUP9RJ77CEQNEs4tFnLDepQCYnRP0H2UwTPnO5.jpeg', 'title' => 'PPN: SIR में दिग्गजों के नाम सामने आए तो गरीब और आम मतदाता का क्या होगा — सुनील सिंह', 'desc' => 'Prakash Prabhaw News (PPN) - 22 Sep 2026', 'url' => 'https://prakashprabhaw.com/khabar-hatke/sir-short-comings/detail'],
@@ -2048,6 +2196,10 @@
             </div>
             <?php 
               $ourServicesArr = [
+                ['img' => 'video/wp-video-thumb.jpeg','video' => 'https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4', 'name' => 'लोकदल विशेष वीडियो रील — चौधरी सुनील सिंह', 'desc' => 'राष्ट्रीय नेतृत्व का विशेष वीडियो संदेश', 'date' => 'Instagram Reel - 28 Sep 2026'],
+                ['img' => 'img/news/latest-news/news-61.jpeg','video' => 'https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr', 'name' => 'मुख्य चुनाव आयुक्त ज्ञानेश कुमार को न PM बनना है न CM: सुनील सिंह', 'desc' => 'लोकदल आधिकारिक फेसबुक पोस्ट — चौधरी सुनील सिंह', 'date' => 'Facebook Post - 28 Sep 2026'],
+                ['img' => 'img/news/latest-news/news-60.jpeg','video' => 'https://www.facebook.com/share/v/1Hn2YdNYMt/', 'name' => 'CEC Gyanesh Kumar के खिलाफ फिर एकजुट होगा विपक्ष? इस्तीफे के लिए मोर्चेबंदी', 'desc' => 'Ajit Anjum विशेष विश्लेषण (Facebook Video)', 'date' => 'Facebook Video - 28 Sep 2026'],
+                ['img' => 'img/news/latest-news/news-62.jpeg','video' => 'img/news/latest-news/news-62.jpeg', 'name' => 'मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर तीखा हमला: राष्ट्रीय सुदर्शन रिपोर्ट', 'desc' => 'राष्ट्रीय सुदर्शन प्रेस रिपोर्ट', 'date' => '26 Sep 2026'],
                 ['img' => 'img/news/latest-news/news-46.jpeg','video' => 'video/wp-video-4.mp4', 'name' => 'लोकदल नवीन वीडियो संवाद — चौधरी सुनील सिंह', 'desc' => 'चौधरी सुनील सिंह जी का विशेष वीडियो वक्तव्य व किसान विमर्श', 'date' => '23 Sep 2026'],
                 ['img' => 'img/news/latest-news/news-47.jpeg','video' => 'video/wp-video-5.mp4', 'name' => 'लोकदल प्रेस एवं जनसभा वीडियो वक्तव्य', 'desc' => 'मिशन 2027 एवं उत्तर प्रदेश विकास रणनीति', 'date' => '23 Sep 2026'],
                 ['img' => 'img/news/latest-news/news-45.jpeg','video' => 'video/wp-video-6.mp4', 'name' => 'लोकदल राष्ट्रीय कार्यकारिणी वीडियो संवाद', 'desc' => 'चौधरी सुनील सिंह संबोधन व संगठन चर्चा', 'date' => '23 Sep 2026'],
@@ -2160,6 +2312,10 @@
           </div>
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-57.jpeg'],
+              ['img' => 'img/news/latest-news/news-58.jpeg'],
+              ['img' => 'img/news/latest-news/news-59.jpeg'],
+              ['img' => 'img/news/latest-news/news-56.jpeg'],
               ['img' => 'img/news/latest-news/news-42.jpeg'],
               ['img' => 'img/news/latest-news/news-43.jpeg'],
               ['img' => 'img/news/latest-news/news-44.jpeg'],

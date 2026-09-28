@@ -1,4 +1,4 @@
-<style>
+﻿<style>
       /* width */
       ::-webkit-scrollbar {
         width: 5px;
@@ -432,6 +432,42 @@ body{
                                               </span>
                                           </a>
                                       </div>
+                                                                                                                   <div class="col-md-6 col-lg-4 p-3 grid-item web photo">
+                                           <a data-fancybox="gallery-new" href="../img/news/latest-news/news-60.jpeg" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-60.jpeg" alt="lokdal news 60" />
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web photo">
+                                           <a data-fancybox="gallery-new" href="../img/news/latest-news/news-61.jpeg" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-61.jpeg" alt="lokdal update 61" />
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web photo">
+                                           <a data-fancybox="gallery-new" href="../img/news/latest-news/news-62.jpeg" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-62.jpeg" alt="lokdal khabar 62" />
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4" class="position-relative">
+                                               <img class="img-fluid w-100" src="../video/wp-video-thumb.jpeg" alt="Instagram Reel Preview" />
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web photo">
+                                           <a data-fancybox="gallery" target="_blank" href="https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-61.jpeg" alt="लोकदल आधिकारिक फेसबुक पोस्ट" />
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1Hn2YdNYMt/" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-60.jpeg" alt="Video Preview" />
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1BtQzxgdP7/" class="position-relative">
                                               <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" />
