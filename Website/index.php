@@ -171,7 +171,7 @@
                 <div class="tab-content" id="myTabContent">
                   <div class="tab-pane fade show active" id="world-tab-0" role="tabpanel" aria-labelledby="tab1">
                     <div class="row">
-                      <div class="col-12 col-md-6">
+                      <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
                           <!-- Single Blog Post (Instagram Reel) -->
                            <div class="single-blog-post">
@@ -507,8 +507,6 @@
                             }
                             ?>          
                         </div>
-                      </div>
-                      <div class="col-12 col-md-6">
                           <!-- Single Blog Post (Instagram Reel) -->
                            <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.00001s">
                              <div class="post-thumbnail">
@@ -853,6 +851,8 @@
                              </a>
                            </div>
                          </div>
+                      </div>
+                      <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                          <!-- Single Blog Post (YouTube Video HbrkBb0k52k) -->
                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.009s">
                            <div class="post-thumbnail">
@@ -1403,11 +1403,8 @@
                     <div class="row">
                       <div class="col-12">
                         <div class="world-catagory-slider2 owl-carousel wow fadeInUpBig" data-wow-delay="0.4s">
-                          <!-- ========= Single Catagory Slide ========= -->
-                          <div class="single-cata-slide">
-                            <div class="row">
-                              <?php 
-                                $ourServicesArr = [
+                          <?php 
+                            $ourServicesArr = [
                                      ['img' => 'video/wp-video-thumb.jpeg',
                                       'title' => 'लोकदल विशेष वीडियो रील — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह',
                                       'desc' => 'Instagram Reel - 28 Sep 2026',
@@ -1544,211 +1541,83 @@
                                       'title' => 'यूपी राजनीति: चीनी-इथेनॉल नीति पर सीबीआई जांच की मांग - प्रयागराज न्यूज',
                                       'desc' => 'Prayagraj News Special Report',
                                       'url' => 'https://www.prayagrajnews.co.in/up-politics-sunil-singh-sugar-ethanol-policy-cbi-probe-farmers'],
-                                    ['img' => 'img/linkedImage/6.jpg',
-                                     'title' => '2024 लोकसभा चुनाव के लिए लोकदल ने कसी कमर, यूपी की 80 सीटों पर लड़ने की तैयारी कर रहा है लोकदल',
-                                     'desc' => 'Kisan Sangthan baithak',
-                                     'url' => 'https://thelucknowtribune.com/2024-%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a4%ad%e0%a4%be-%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5-%e0%a4%95%e0%a5%87-%e0%a4%b2%e0%a4%bf%e0%a4%8f-%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a6%e0%a4%b2/'],
-                                    ['img' => 'img/linkedImage/5.jpg',
-                                     'title' => '2024 लोकसभा चुनाव के लिए लोकदल ने कसी कमर, यूपी की 80 सीटों पर लड़ने की तैयारी',
-                                     'desc' => 'Kisan Sangthan baithak',
-                                     'url' => 'https://samarsaleel.com/lok-dal-gears-up-for-2024-lok-sabha-elections-preparing-to-contest-on-80-seats-of-up/367181'],
-                                    
-                                ];
-                                ?>
-                              <?php foreach ($ourServicesArr as $key => $value): ?>
-                              <div class="col-12 col-md-6">
-                                <!-- Single Blog Post -->
-                                <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
-                                  <!-- Post Thumbnail -->
-                                  <div class="post-thumbnail">
-                                    <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
-                                  </div>
-                                  <!-- Post Content -->
-                                  <div class="post-content">
-                                    <a data-lightbox="charan" href="<?php echo $value['img']; ?>" class="headline">
-                                    </a>
-                                    <a href="<?php echo $value['url']; ?>" target="_blank" >
-                                      <h5 style="font-size: 12px;"><?php echo $value['title']; ?></h5>
-                                      <!-- Post Meta -->
-                                      <div class="post-meta">
-                                        <p><?php echo $value['desc']; ?></p>
-                                      </div>
-                                    </a>
-                                  </div>
-                                </div>
-                              </div>
-                              <?php endforeach; ?>
-                            </div>
-                          </div>
-                          <div class="col-12">
-                            <div class="world-catagory-slider2 owl-carousel wow fadeInUpBig" data-wow-delay="0.4s">
-                              <!-- ========= Single Catagory Slide ========= -->
-                              <div class="single-cata-slide">
-                                <div class="row">
-                                  <?php 
-                                    $ourServicesArr = [
-                                        ['img' => 'img/linkedImage/2.jpg',
-                                        'title' => 'किसान,मजदूर संगठनों की बैठक में लोकसभा चुनाव को लेकर हुआ मंथन',
-                                        'desc' => 'Kisan Sangthan baithak',
-                                        'url' => 'https://azamgarhexpresstv.in/2023/5776/politics/'],
-                                       ['img' => 'img/linkedImage/3.jpg',
-                                        'title' => 'लोक दल का संदेश, इस बार किसान मजदूर जवान एवं महिला शक्ति बचाएगा देश,2024 के लोकसभा चुनाव में भारत के किसान भी लड़ेंगे चुनाव-सुनील सिंह',
-                                        'desc' => 'Kisan Sangthan baithak',
-                                        'url' => 'https://youtu.be/5LdIhC6bcno?si=2UauTDJAlZpW6Sb-'],
-                                       
-                                    ];
-                                    ?>
-                                  <?php foreach ($ourServicesArr as $key => $value): ?>
-                                  <div class="col-12 col-md-6">
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
-                                      <!-- Post Thumbnail -->
-                                      <div class="post-thumbnail">
-                                        <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
-                                      </div>
-                                      <!-- Post Content -->
-                                      <div class="post-content">
-                                        <a data-lightbox="charan" href="<?php echo $value['img']; ?>" class="headline">
-                                        </a>
-                                        <a href="<?php echo $value['url']; ?>" target="_blank" >
-                                          <h5 style="font-size: 12px;"><?php echo $value['title']; ?></h5>
-                                          <!-- Post Meta -->
-                                          <div class="post-meta">
-                                            <p><?php echo $value['desc']; ?></p>
-                                          </div>
-                                        </a>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <?php endforeach; ?>
-                                </div>
-                              </div>
-                              <!-- ========= Single Catagory Slide ========= -->
-                              <div class="single-cata-slide">
-                                <div class="row">
-                                  <?php 
-                                    $ourServicesArr = [
-                                        ['img' => 'img/linkedImage/4.jpg',
-                                        'title' => 'भारत के किसानों और जवानों को किसी सहारे की ज़रूरत नहीं- सुनील सिंह',
-                                        'desc' => 'Kisan Sangthan baithak',
-                                        'url' => 'https://prakashprabhaw.com/khabar-hatke/indian-former/detail'],
-                                       ['img' => 'img/linkedImage/1.jpg',
-                                        'title' => 'भारत के किसानों और जवानों को किसी सहारे की ज़रूरत नहीं- सुनील सिंह',
-                                        'desc' => 'Kisan Sangthan baithak',
-                                        'url' => 'https://prakashprabhaw.com/khabar-hatke/indian-former/detail'],
-                                    ];
-                                    ?>
-                                  <?php foreach ($ourServicesArr as $key => $value): ?>
-                                  <div class="col-12 col-md-6">
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
-                                      <!-- Post Thumbnail -->
-                                      <div class="post-thumbnail">
-                                        <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
-                                      </div>
-                                      <!-- Post Content -->
-                                      <div class="post-content">
-                                        <a data-lightbox="charan" href="<?php echo $value['img']; ?>" class="headline">
-                                        </a>
-                                        <a href="<?php echo $value['url']; ?>" target="_blank" >
-                                          <h5 style="font-size: 12px;"><?php echo $value['title']; ?></h5>
-                                          <!-- Post Meta -->
-                                          <div class="post-meta">
-                                            <p><?php echo $value['desc']; ?></p>
-                                          </div>
-                                        </a>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <?php endforeach; ?>
-                                </div>
-                              </div>
-                               <!-- ========= Single Catagory Slide ========= -->
-                              <div class="single-cata-slide">
-                                <div class="row">
-                                  <?php 
-                                    $ourServicesArr = [
-                                        ['img' => 'img/linkedImage/4.jpg',
-                                        'title' => 'देश की संसद में बैठेगा किसान का बेटा: चौधरी सुनील सिंह',
-                                        'desc' => 'Kisan Sangthan baithak',
-                                        'url' => 'https://samarsaleel.com/farmers-son-chaudhary-sunil-singh-will-sit-in-the-countrys-parliament/368520'],
-                                       ['img' => 'img/linkedImage/1.jpg',
-                                        'title' => 'किसान की हुंकार मिशन 2024, देश की संसद में अब होगी किसान की भागीदारी',
-                                        'desc' => 'Kisan Sangthan baithak',
-                                        'url' => 'https://publicwatch.in/Farmers-Hunkar-Mission-2024-Farmers-participation-will-now-take-place-in-the-c'],
-                                    ];
-                                    ?>
-                                  <?php foreach ($ourServicesArr as $key => $value): ?>
-                                  <div class="col-12 col-md-6">
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
-                                      <!-- Post Thumbnail -->
-                                      <div class="post-thumbnail">
-                                        <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
-                                      </div>
-                                      <!-- Post Content -->
-                                      <div class="post-content">
-                                        <a data-lightbox="charan" href="<?php echo $value['img']; ?>" class="headline">
-                                        </a>
-                                        <a href="<?php echo $value['url']; ?>" target="_blank" >
-                                          <h5 style="font-size: 12px;"><?php echo $value['title']; ?></h5>
-                                          <!-- Post Meta -->
-                                          <div class="post-meta">
-                                            <p><?php echo $value['desc']; ?></p>
-                                          </div>
-                                        </a>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <?php endforeach; ?>
-                                </div>
-                              </div>
-                               <!-- ========= Single Catagory Slide ========= -->
-                              <div class="single-cata-slide">
-                                <div class="row">
-                                  <?php 
-                                    $ourServicesArr = [
-                                        ['img' => 'img/linkedImage/4.jpg',
-                                        'title' => 'राष्ट्रीय किसान मोर्चा देश का बनेगा तीसरा विकल्प,किसान की हुंकार, मिशन 2024 में देश की संसद में बैठेगा किसान का बेटा',
-                                        'desc' => 'Kisan Sangthan baithak',
-                                        'url' => 'https://youtu.be/warRxwwev2c?si=j5c33Us-oVBhp3IL'],
-                                       ['img' => 'img/linkedImage/7.jpg',
-                                        'title' => 'किसान की हुंकार मिशन 2024 में संसद तक पहुंचना है : चौ. सुनील सिंह',
-                                        'desc' => 'Kisan Sangthan baithak',
-                                        'url' => 'https://www.cherishtimes.in/uttar-pradesh/41865F'],
-                                    ];
-                                    ?>
-                                  <?php foreach ($ourServicesArr as $key => $value): ?>
-                                  <div class="col-12 col-md-6">
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
-                                      <!-- Post Thumbnail -->
-                                      <div class="post-thumbnail">
-                                        <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
-                                      </div>
-                                      <!-- Post Content -->
-                                      <div class="post-content">
-                                        <a data-lightbox="charan" href="<?php echo $value['img']; ?>" class="headline">
-                                        </a>
-                                        <a href="<?php echo $value['url']; ?>" target="_blank" >
-                                          <h5 style="font-size: 12px;"><?php echo $value['title']; ?></h5>
-                                          <!-- Post Meta -->
-                                          <div class="post-meta">
-                                            <p><?php echo $value['desc']; ?></p>
-                                          </div>
-                                        </a>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <?php endforeach; ?>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+                                     ['img' => 'img/linkedImage/6.jpg',
+                                      'title' => '2024 लोकसभा चुनाव के लिए लोकदल ने कसी कमर, यूपी की 80 सीटों पर लड़ने की तैयारी कर रहा है लोकदल',
+                                      'desc' => 'Kisan Sangthan baithak',
+                                      'url' => 'https://thelucknowtribune.com/2024-%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a4%ad%e0%a4%be-%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5-%e0%a4%95%e0%a5%87-%e0%a4%b2%e0%a4%bf%e0%a4%8f-%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a6%e0%a4%b2/'],
+                                     ['img' => 'img/linkedImage/5.jpg',
+                                      'title' => '2024 लोकसभा चुनाव के लिए लोकदल ने कसी कमर, यूपी की 80 सीटों पर लड़ने की तैयारी',
+                                      'desc' => 'Kisan Sangthan baithak',
+                                      'url' => 'https://samarsaleel.com/lok-dal-gears-up-for-2024-lok-sabha-elections-preparing-to-contest-on-80-seats-of-up/367181'],
+                                     ['img' => 'img/linkedImage/2.jpg',
+                                      'title' => 'किसान,मजदूर संगठनों की बैठक में लोकसभा चुनाव को लेकर हुआ मंथन',
+                                      'desc' => 'Kisan Sangthan baithak',
+                                      'url' => 'https://azamgarhexpresstv.in/2023/5776/politics/'],
+                                     ['img' => 'img/linkedImage/3.jpg',
+                                      'title' => 'लोक दल का संदेश, इस बार किसान मजदूर जवान एवं महिला शक्ति बचाएगा देश,2024 के लोकसभा चुनाव में भारत के किसान भी लड़ेंगे चुनाव-सुनील सिंह',
+                                      'desc' => 'Kisan Sangthan baithak',
+                                      'url' => 'https://youtu.be/5LdIhC6bcno?si=2UauTDJAlZpW6Sb-'],
+                                     ['img' => 'img/linkedImage/4.jpg',
+                                      'title' => 'भारत के किसानों और जवानों को किसी सहारे की ज़रूरत नहीं- सुनील सिंह',
+                                      'desc' => 'Kisan Sangthan baithak',
+                                      'url' => 'https://prakashprabhaw.com/khabar-hatke/indian-former/detail'],
+                                     ['img' => 'img/linkedImage/1.jpg',
+                                      'title' => 'भारत के किसानों और जवानों को किसी सहारे की ज़रूरत नहीं- सुनील सिंह',
+                                      'desc' => 'Kisan Sangthan baithak',
+                                      'url' => 'https://prakashprabhaw.com/khabar-hatke/indian-former/detail'],
+                                     ['img' => 'img/linkedImage/4.jpg',
+                                      'title' => 'देश की संसद में बैठेगा किसान का बेटा: चौधरी सुनील सिंह',
+                                      'desc' => 'Kisan Sangthan baithak',
+                                      'url' => 'https://samarsaleel.com/farmers-son-chaudhary-sunil-singh-will-sit-in-the-countrys-parliament/368520'],
+                                     ['img' => 'img/linkedImage/1.jpg',
+                                      'title' => 'किसान की हुंकार मिशन 2024, देश की संसद में अब होगी किसान की भागीदारी',
+                                      'desc' => 'Kisan Sangthan baithak',
+                                      'url' => 'https://publicwatch.in/Farmers-Hunkar-Mission-2024-Farmers-participation-will-now-take-place-in-the-c'],
+                                     ['img' => 'img/linkedImage/4.jpg',
+                                      'title' => 'राष्ट्रीय किसान मोर्चा देश का बनेगा तीसरा विकल्प,किसान की हुंकार, मिशन 2024 में देश की संसद में बैठेगा किसान का बेटा',
+                                      'desc' => 'Kisan Sangthan baithak',
+                                      'url' => 'https://youtu.be/warRxwwev2c?si=j5c33Us-oVBhp3IL'],
+                                     ['img' => 'img/linkedImage/7.jpg',
+                                      'title' => 'किसान की हुंकार मिशन 2024 में संसद तक पहुंचना है : चौ. सुनील सिंह',
+                                      'desc' => 'Kisan Sangthan baithak',
+                                      'url' => 'https://www.cherishtimes.in/uttar-pradesh/41865F'],
+                                 ];
+                                 $inspirationSlides = array_chunk($ourServicesArr, 22);
+                                 ?>
+                           <?php foreach ($inspirationSlides as $slideIndex => $slideItems): ?>
+                           <!-- ========= Single Catagory Slide ========= -->
+                           <div class="single-cata-slide">
+                             <div class="row">
+                               <?php foreach ($slideItems as $key => $value): ?>
+                               <div class="col-12 col-md-6 d-flex">
+                                 <!-- Single Blog Post -->
+                                 <div class="single-blog-post post-style-2 d-flex align-items-center mb-1 w-100">
+                                   <!-- Post Thumbnail -->
+                                   <div class="post-thumbnail">
+                                     <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
+                                   </div>
+                                   <!-- Post Content -->
+                                   <div class="post-content">
+                                     <a data-lightbox="charan" href="<?php echo $value['img']; ?>" class="headline">
+                                     </a>
+                                     <a href="<?php echo $value['url']; ?>" target="_blank" >
+                                       <h5 style="font-size: 12px;"><?php echo $value['title']; ?></h5>
+                                       <!-- Post Meta -->
+                                       <div class="post-meta">
+                                         <p><?php echo $value['desc']; ?></p>
+                                       </div>
+                                     </a>
+                                   </div>
+                                 </div>
+                               </div>
+                               <?php endforeach; ?>
+                             </div>
+                           </div>
+                           <?php endforeach; ?>
+                         </div>
+                       </div>
+                     </div>
+                   </div>
                   <div class="tab-pane fade" id="world-tab-11" role="tabpanel" aria-labelledby="tab11">
                     <div class="row">
                       <div class="col-12 col-md-6">
@@ -2080,6 +1949,21 @@
                           </div>
                         </div>
                       </div>
+                      <div class="col-12 col-md-6">
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-61.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/news/latest-news/news-61.jpeg" class="headline">
+                              <h5>मुख्य चुनाव आयुक्त ज्ञानेश कुमार को न PM बनना है न CM, फिर सत्ता की बेचैनी क्यों?: सुनील सिंह</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Official Statement - 28 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -2090,8 +1974,8 @@
           <?php include_once("sidebar.php"); ?>
         </div>
         <div class="world-latest-articles">
-          <div class="row">
-            <div class="col-12 col-lg-8">
+          <div class="row align-items-stretch">
+            <div class="col-12 col-lg-8 d-flex flex-column justify-content-between">
               <div class="title">
                 <h5>Daily Updates</h5>
               </div>
@@ -2154,31 +2038,38 @@
                   ['img' => 'img/news/latest-news/news-23.jpeg', 'title' => 'लोकदल आधिकारिक विज्ञप्ति व सम्मलेन', 'desc' => 'Lokdal Official Statement']
                 ];
                 foreach ($latestDailyUpdates as $update) {
+                  $linkAttr = isset($update['url']) ? 'href="'.$update['url'].'" target="_blank"' : 'data-lightbox="articals" href="'.$update['img'].'"';
                 ?>
               <!-- Single Blog Post -->
               <div class="single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
-                <!-- Post Thumbnail -->
-                <a <?= isset($update['url']) ? 'href="'.$update['url'].'" target="_blank"' : 'data-lightbox="articals" href="'.$update['img'].'"'; ?> class="headline">
-                  <img src="<?= $update['img'];?>" alt="" loading="lazy" decoding="async">
-                  <!-- Post Content -->
-                  <div class="post-content">
+                <div class="post-thumbnail">
+                  <a <?= $linkAttr; ?>>
+                    <img src="<?= $update['img'];?>" alt="" loading="lazy" decoding="async">
+                  </a>
+                </div>
+                <div class="post-content">
+                  <a <?= $linkAttr; ?> class="headline">
                     <h5><?= $update['title'];?></h5>
                     <p><?= $update['desc'];?></p>
-                  </div>
-                </a>
+                  </a>
+                </div>
               </div>
               <?php
                 }
                 foreach($dailyUpdatesDb as $row){
                 ?>
               <div class="single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
-                <a data-lightbox="articals" href="../dashboard/<?= $row['img'];?>">
-                  <img src="../dashboard/<?= $row['img'];?>" alt="" loading="lazy" decoding="async">
-                  <div class="post-content">
+                <div class="post-thumbnail">
+                  <a data-lightbox="articals" href="../dashboard/<?= $row['img'];?>">
+                    <img src="../dashboard/<?= $row['img'];?>" alt="" loading="lazy" decoding="async">
+                  </a>
+                </div>
+                <div class="post-content">
+                  <a data-lightbox="articals" href="../dashboard/<?= $row['img'];?>" class="headline">
                     <h5><?= $row['title'];?></h5>
                     <p><?= $row['description'];?></p>
-                  </div>
-                </a>
+                  </a>
+                </div>
               </div>
               <?php
                 }
@@ -2254,30 +2145,15 @@
                 ['img' => 'https://img.youtube.com/vi/dTsso2bFSm0/hqdefault.jpg','video' => 'https://www.youtube.com/watch?v=dTsso2bFSm0', 'name' => 'अमर उजाला न्यूज', 'desc' => 'चीनी-इथेनॉल नीति पर हमला', 'date' => 'Lokdal News'],
                 ['img' => 'https://img.youtube.com/vi/sWqkaLzdcEA/hqdefault.jpg','video' => 'https://www.youtube.com/watch?v=sWqkaLzdcEA', 'name' => 'समर सलील न्यूज', 'desc' => 'सीबीआई जांच मांग', 'date' => 'Lokdal News'],
                 ['img' => 'video/vid20.jpg','video' => 'video/20.mp4', 'name' => 'Delhi Chalo', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Dec 23, 2023 at 2:55 pm'],
-                ['img' => 'video/vid19.jpg','video' => 'video/19.mp4', 'name' => 'Delhi Chalo', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Dec 23, 2023 at 2:55 pm'],
-                ['img' => 'video/vid18.jpg','video' => 'video/18.mp4', 'name' => 'Delhi Chalo', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Dec 23, 2023 at 2:55 pm'],
-                ['img' => 'video/16.png','video' => 'video/16.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 18, 2023 at 2:55 pm'],
-                ['img' => 'video/15.png','video' => 'video/15.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 18, 2023 at 2:55 pm'],
-                ['img' => 'video/14.png','video' => 'video/14.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 18, 2023 at 2:55 pm'],
-                  ['img' => 'video/vid11.jpg','video' => 'video/14.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 2, 2023 at 2:55 pm'],
-                  ['img' => 'video/vid12.jpg','video' => 'video/12.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 2, 2023 at 2:55 pm'],
-                  ['img' => 'video/vid13.jpg','video' => 'video/13.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 2, 2023 at 2:55 pm'],
-                  ['img' => 'video/vid3.jpg','video' => 'video/3.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid5.jpg','video' => 'video/5.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid6.jpg','video' => 'video/6.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid7.jpg','video' => 'video/7.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid8.jpg','video' => 'video/8.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid9.jpg','video' => 'video/9.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid10.jpg','video' => 'video/10.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                
               ];
               ?>
-            <div class="col-12 col-lg-4">
+            <div class="col-12 col-lg-4 d-flex flex-column justify-content-between">
               <div class="title">
                 <h5>Most Popular Videos</h5>
               </div>
               <!-- Single Blog Post -->
               <?php foreach ($ourServicesArr as $key => $value): ?>
+              <?php if ($key < 8): ?>
               <div class="single-blog-post wow fadeInUpBig" data-wow-delay="0.2s">
                 <!-- Post Thumbnail -->
                 <div class="post-thumbnail">
@@ -2297,6 +2173,22 @@
                   </a>
                 </div>
               </div>
+              <?php else: ?>
+              <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                <div class="post-thumbnail" style="position: relative;">
+                  <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
+                  <a href="<?php echo $value['video']; ?>" target="_blank" class="video-btn" style="width: 26px; height: 26px; line-height: 26px;"><i class="fa fa-play" style="line-height: 26px; font-size: 11px;"></i></a>
+                </div>
+                <div class="post-content">
+                  <a href="<?php echo $value['video']; ?>" target="_blank" class="headline">
+                    <h5><?php echo $value['name']; ?></h5>
+                    <div class="post-meta">
+                      <p><?php echo $value['date']; ?></p>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <?php endif; ?>
               <?php endforeach; ?>
             </div>
           </div>

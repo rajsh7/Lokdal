@@ -61,8 +61,11 @@
                                 <li class="nav-button">
                                     <a class="nav-link" style="padding-top: 15px;" href="../donate.php">Donate</a>
                                 </li>
-                                <li>
+                                <li style="margin-right: 5px;">
                                     <a href="../join.php"><button type="button" style="  background-color: #00772D; line-height: 0px; padding-bottom: 5px;  height: 50px; border-radius: 0px; margin-bottom: 7px; height: 35px; border-color: #00772D; margin-top: 7px;" class="btn btn-success" id="kar">Join Lokdal</button></a>
+                                </li>
+                                <li>
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSednDV-de3A7rTE0hFb0Xx5iBopY8HuwY1DIGM6kYZ4_7CEsw/viewform" target="_blank"><button type="button" style="background-color: #00772D; padding-bottom: 5px; height: 50px; border-radius: 0px; margin-bottom: 7px; height: 35px; border-color: #00772D; margin-top: 7px;" class="btn btn-success" id="kar">लोकसभा चुनाव 2029 हेतु आवेदन</button></a>
                                 </li>
                                 <li>
                                     <div id="google_translate_element" style="margin-top: 10px; margin-left: 15px;"></div>

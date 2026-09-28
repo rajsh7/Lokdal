@@ -1381,4 +1381,51 @@ textarea:focus ~ .highlight {
                       background-image: url(img/img/Sub\ Head.jpg);
                     }
                     }
-        
+
+/* Fast preloader auto-fade and uniform section layout */
+#preloader, .preloader {
+  animation: preloaderAutoFade 0.2s ease 0.3s forwards;
+  pointer-events: none !important;
+}
+@keyframes preloaderAutoFade {
+  to {
+    opacity: 0;
+    visibility: hidden;
+    display: none;
+  }
+}
+
+.single-blog-post.post-style-2 {
+  min-height: 92px;
+}
+.single-blog-post.post-style-2 .post-thumbnail img {
+  width: 97px;
+  height: 75px;
+  object-fit: cover;
+}
+.single-blog-post.post-style-2.widget-post .post-thumbnail img {
+  width: 70px;
+  height: 60px;
+  object-fit: cover;
+}
+.world-catagory-slider .single-blog-post .post-thumbnail img,
+#world-tab-10 > .row:first-child .single-blog-post .post-thumbnail img,
+#world-tab-11 > .row:first-child > .col-md-6:nth-child(-n+2) .single-blog-post .post-thumbnail img {
+  width: 100%;
+  height: 230px;
+  object-fit: cover;
+}
+.single-blog-post.post-style-4 {
+  min-height: 120px;
+}
+.single-blog-post.post-style-4 .post-thumbnail img {
+  width: 200px;
+  height: 110px;
+  object-fit: cover;
+}
+.hero-post-slide .single-slide .post-thumbnail img,
+.hero-post-slide .single-slide img {
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+}
