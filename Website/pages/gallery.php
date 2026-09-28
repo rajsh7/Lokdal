@@ -1,4 +1,4 @@
-<style>
+﻿<style>
       /* width */
       ::-webkit-scrollbar {
         width: 5px;
@@ -205,9 +205,13 @@ body{
                                         <a data-fancybox="gallery" href="../img/gallery/hazare4.jpg"><img class="img-fluid w-100" src="../img/gallery/hazare4.jpg" alt="Image 04" / loading="lazy" decoding="async"></a>
                                     </div>
                                     
-                                    <!--Karkarta Sambelan-->
+                                     <!--Karkarta Sambelan & Latest Press Updates-->
 
-                                    <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-31.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-31.jpeg" alt="Rahul Gandhi & Chaudhary Sunil Singh meeting - 22 Sep 2026" / loading="lazy" decoding="async"></a>
+                                      </div>
+
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
                                         <a data-fancybox="gallery" href="../img/gallery/gallery-1.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-1.jpg" alt="Image 01" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
@@ -315,7 +319,39 @@ body{
                                     <div class="col-md-6 col-lg-4 p-3 grid-item t-20">
                                         <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/8.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/8.JPG" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
-                                      <!-- NEW LOCAL AND SOCIAL MEDIA VIDEOS -->
+                                       <!-- NEW LOCAL AND SOCIAL MEDIA VIDEOS -->
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" href="../video/wp-video-4.mp4" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-46.jpeg" alt="Lokdal Video Preview 4" / loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" href="../video/wp-video-5.mp4" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-47.jpeg" alt="Lokdal Video Preview 5" / loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" href="../video/wp-video-6.mp4" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-45.jpeg" alt="Lokdal Video Preview 6" / loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" href="../video/wp-video-3.mp4" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid30.jpg" alt="Rahul Gandhi & Lokdal Video Preview" / loading="lazy" decoding="async">
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/21.mp4" class="position-relative">
                                               <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" / loading="lazy" decoding="async">
@@ -389,6 +425,50 @@ body{
                                           </a>
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://m.facebook.com/story.php?story_fbid=pfbid0d56tZkTwzxkDDcBHY3WAZTmr8MsXzLAEdpkXdE7f3pfW7theU89sLC2j2jqSKHQcl&id=100050662051558&mibextid=wwXIfr" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" / loading="lazy" decoding="async">
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                                                                                                   <div class="col-md-6 col-lg-4 p-3 grid-item web photo">
+                                           <a data-fancybox="gallery-new" href="../img/news/latest-news/news-60.jpeg" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-60.jpeg" alt="lokdal news 60" / loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web photo">
+                                           <a data-fancybox="gallery-new" href="../img/news/latest-news/news-61.jpeg" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-61.jpeg" alt="lokdal update 61" / loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web photo">
+                                           <a data-fancybox="gallery-new" href="../img/news/latest-news/news-62.jpeg" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-62.jpeg" alt="lokdal khabar 62" / loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4" class="position-relative">
+                                               <img class="img-fluid w-100" src="../video/wp-video-thumb.jpeg" alt="Instagram Reel Preview" / loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web photo">
+                                           <a data-fancybox="gallery" target="_blank" href="https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-61.jpeg" alt="लोकदल आधिकारिक फेसबुक पोस्ट" / loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1Hn2YdNYMt/" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-60.jpeg" alt="Video Preview" / loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1BtQzxgdP7/" class="position-relative">
                                               <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
@@ -397,6 +477,86 @@ body{
                                           </a>
                                       </div>
                                      <!-- YOUTUBE VIDEOS WITH PREVIEWS -->
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=UU1yv-FN344" class="position-relative">
+                                               <img class="img-fluid w-100" src="https://img.youtube.com/vi/UU1yv-FN344/hqdefault.jpg" alt="Video Preview - Chaudhary Sunil Singh" / loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1BZzB4rn1W/" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/fb-gathbandhan.jpg" alt="Video Preview" / loading="lazy" decoding="async">
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://www.amarujala.com/video/lucknow/video-video-akhalsha-yathava-sa-mal-lkathal-athhayakashha-sanal-saha-2027-canava-samata-kaii-mathatha-para-caraca-2026-09-18" class="position-relative">
+                                              <img class="img-fluid w-100" src="../img/news/latest-news/news-31.jpeg" alt="News Video Preview" / loading="lazy" decoding="async">
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/p/1JiTTomifm/" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/vid21.jpg" alt="FB Post Preview" / loading="lazy" decoding="async">
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1BswAU7aGt/" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/fb-soochana.jpg" alt="Video Preview" / loading="lazy" decoding="async">
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                          <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1C1DqRiMa4/" class="position-relative">
+                                              <img class="img-fluid w-100" src="../video/fb-divya.jpg" alt="Video Preview" / loading="lazy" decoding="async">
+                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                              </span>
+                                          </a>
+                                      </div>
+                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=L_3Whkd7ryM" class="position-relative">
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/L_3Whkd7ryM/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
+                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                             </span>
+                                         </a>
+                                     </div>
+                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                         <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1BZzB4rn1W/" class="position-relative">
+                                             <img class="img-fluid w-100" src="../video/fb-gathbandhan.jpg" alt="Video Preview" / loading="lazy" decoding="async">
+                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                             </span>
+                                         </a>
+                                     </div>
+                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=BehjfXr1NSs" class="position-relative">
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/BehjfXr1NSs/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
+                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                             </span>
+                                         </a>
+                                     </div>
+                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=wE9bWrA-IrI" class="position-relative">
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/wE9bWrA-IrI/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
+                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                             </span>
+                                         </a>
+                                     </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=syTx9KCPhSc" class="position-relative">
                                              <img class="img-fluid w-100" src="https://img.youtube.com/vi/syTx9KCPhSc/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
