@@ -1,74 +1,78 @@
 <?php
   include_once("db.php");
   
-  $sql="SELECT * FROM daily_update order by id desc;";
-  $result = $con ? mysqli_query($con,$sql) : false;
+  $dailyUpdatesDb = [];
+  if ($con && ($res = mysqli_query($con, "SELECT * FROM daily_update ORDER BY id DESC;"))) {
+    while ($r = mysqli_fetch_assoc($res)) {
+      $dailyUpdatesDb[] = $r;
+    }
+  }
   
-  
-  $sql="SELECT * FROM activities;";
-  $activities = $con ? mysqli_query($con,$sql) : false;
-  
-  ?>
-<style>
-  /* width */
-  ::-webkit-scrollbar {
-  width: 5px;
+  $activitiesDb = [];
+  if ($con && ($resAct = mysqli_query($con, "SELECT * FROM activities;"))) {
+    while ($r = mysqli_fetch_assoc($resAct)) {
+      $activitiesDb[] = $r;
+    }
   }
-  /* Track */
-  ::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px grey; 
-  border-radius: 10px;
-  }
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-  background: #00772D; 
-  border-radius: 10px;
-  }
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-  background: #0b923f; 
-  }
-  .post-number .fa{
-  margin-top:10px;
-  }
-  .fa{
-  margin-top:4px;
-  }
-  .world-catagory-slider2 .owl-controls {
-    display: none!important;
-  }
-</style>
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <meta name="description" content="">
+    <meta name="description" content="Lokdal Official Website">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Title  -->
     <title>Lokdal</title>
-    <!--Fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,700%7CRoboto:300,400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@1,500&display=swap" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <!--LightBox-->
-    <link rel="stylesheet" href="assets/vendor/lightbox/lightbox.min.css">
-    <script src="assets/vendor/lightbox/lightbox-plus-jquery.min.js"></script>
+    <!-- Preconnect & Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://img.youtube.com">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&family=Red+Hat+Display:ital,wght@1,500&family=Roboto:wght@300;400;700&family=Rubik:wght@400;500&display=swap" rel="stylesheet">
     <!-- Favicon  -->
     <link rel="icon" href="img/img/logo1.png">
+    <!-- Preload critical CSS in parallel to avoid @import waterfall -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <!--LightBox-->
+    <link rel="stylesheet" href="assets/vendor/lightbox/lightbox.min.css">
     <!-- Style CSS -->
     <link rel="stylesheet" href="style.css">
     <!--Google Translate API-->
     <link rel="stylesheet" href="css/google translator.css">
     <style>
-      .goog-logo-link { display:none !important​; } 
-      .goog-te-gadget{ color: transparent !important; }
-      .goog-te-banner-frame.skiptranslate { display: none !important; } body { top: 0px !important; }
+      /* width */
+      ::-webkit-scrollbar { width: 5px; }
+      /* Track */
+      ::-webkit-scrollbar-track { box-shadow: inset 0 0 5px grey; border-radius: 10px; }
+      /* Handle */
+      ::-webkit-scrollbar-thumb { background: #00772D; border-radius: 10px; }
+      /* Handle on hover */
+      ::-webkit-scrollbar-thumb:hover { background: #0b923f; }
+      .post-number .fa { margin-top:10px; }
+      .fa { margin-top:4px; }
+      .world-catagory-slider2 .owl-controls { display: none!important; }
+      .goog-logo-link { display:none !important; } 
+      .goog-te-gadget { color: transparent !important; }
+      .goog-te-banner-frame.skiptranslate { display: none !important; }
+      body {
+        top: 0px !important;
+        font-family: Oswald, "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      }
+      @keyframes autoHidePreloader {
+        to { opacity: 0; visibility: hidden; pointer-events: none; }
+      }
+      #preloader {
+        pointer-events: none;
+        animation: autoHidePreloader 0.2s ease 0.25s forwards;
+      }
     </style>
-    <script src="js/googletranslation.js"></script>
-    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
-    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script defer src="js/googletranslation.js"></script>
+    <script async defer src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
   </head>
   <body>
     <!-- Preloader Start -->
@@ -77,13 +81,7 @@
       <div class="preload-content"></div>
       <div id="world-load"></div>
     </div>
-    
     <!-- Preloader End -->
-    <style>
-      body{
-      font-family: Oswald, "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-      }
-    </style>
     <!-- ***** Header Area Start ***** -->
     <?php include_once("header.php"); ?>
     <!-- ********** Hero Area Start ********** -->
@@ -159,16 +157,11 @@
                   <!--  <li class="nav-item">
                     <a class="nav-link active tb-link" id="tab1" data-toggle="tab" href="#world-tab-0" role="tab" aria-controls="world-tab-0" aria-selected="true">Lokdal Jansabha</a>
                     </li> -->
-                  <?php
-                    while($row=mysqli_fetch_assoc($activities)){
-                    
-                    ?>
+                  <?php foreach($activitiesDb as $row): ?>
                   <li class="nav-item">
                     <a class="nav-link tb-link" id="tab2" data-toggle="tab" href="#world-tab-<?= $row['id'];?>" role="tab" aria-controls="world-tab-2" aria-selected="false"><?= $row['title'];?></a>
                   </li>
-                  <?php
-                    }                             
-                    ?>
+                  <?php endforeach; ?>
                 </ul>
                 <div class="tab-content" id="myTabContent">
                   <div class="tab-pane fade show active" id="world-tab-0" role="tabpanel" aria-labelledby="tab1">
@@ -179,7 +172,7 @@
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-31.jpeg" class="headline">
                               <div class="post-thumbnail">
-                                <img src="img/news/latest-news/news-31.jpeg" alt="">
+                                <img src="img/news/latest-news/news-31.jpeg" decoding="async" alt="">
                               </div>
                               <div class="post-content">
                                 <h5>आलू किसान तीन तरफा मार में: खाद कालाबाजारी व मंडी संकट पर लोकदल</h5>
@@ -193,7 +186,7 @@
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="video/yt-wE9bWrA-IrI.jpg" class="headline">
                               <div class="post-thumbnail">
-                                <img src="video/yt-wE9bWrA-IrI.jpg" alt="">
+                                <img src="video/yt-wE9bWrA-IrI.jpg" loading="lazy" decoding="async" alt="">
                               </div>
                               <div class="post-content">
                                 <h5>चौधरी सुनील सिंह जी का विशेष पॉडकास्ट — किसान विमर्श</h5>
@@ -207,7 +200,7 @@
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-29.jpeg" class="headline">
                               <div class="post-thumbnail">
-                                <img src="img/news/latest-news/news-29.jpeg" alt="">
+                                <img src="img/news/latest-news/news-29.jpeg" loading="lazy" decoding="async" alt="">
                               </div>
                               <div class="post-content">
                                 <h5>बेबाक सवाल पूछना क्या गुनाह? पत्रकार दिव्य श्रीवास्तव के समर्थन में लोकदल</h5>
@@ -221,7 +214,7 @@
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-1.jpeg" class="headline">
                               <div class="post-thumbnail">
-                                <img src="img/news/latest-news/news-1.jpeg" alt="">
+                                <img src="img/news/latest-news/news-1.jpeg" loading="lazy" decoding="async" alt="">
                               </div>
                               <div class="post-content">
                                 <h5>चीनी-इथेनॉल नीति पर लोकदल का सरकार पर हमला</h5>
@@ -235,7 +228,7 @@
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/gallery/latest-gallery/gallery-1.jpeg" class="headline">
                               <div class="post-thumbnail">
-                                <img src="img/gallery/latest-gallery/gallery-1.jpeg" alt="">
+                                <img src="img/gallery/latest-gallery/gallery-1.jpeg" loading="lazy" decoding="async" alt="">
                               </div>
                               <div class="post-content">
                                 <h5>किसान अधिकार आंदोलन व जनसभा</h5>
@@ -246,15 +239,11 @@
                               </div>
                             </a>
                           </div>
-                          <?php
-                            $sql="SELECT * FROM activities;";
-                            if($con && $activities = mysqli_query($con,$sql)){
-                            while($rows=mysqli_fetch_assoc($activities))
-                                {?>
+                          <?php foreach($activitiesDb as $rows): ?>
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="../dashboard/<?= $rows['img1'];?>" class="headline">
                               <div class="post-thumbnail">
-                                <img src="../dashboard/<?= $rows['img1'];?>" alt="">
+                                <img src="../dashboard/<?= $rows['img1'];?>" loading="lazy" decoding="async" alt="">
                               </div>
                               <div class="post-content">
                                 <h5><?= $rows['t1'];?></h5>
@@ -265,16 +254,14 @@
                               </div>
                             </a>
                           </div>
-                          <?php
-                            }}
-                            ?>          
+                          <?php endforeach; ?>          
                         </div>
                       </div>
                       <div class="col-12 col-md-6">
                         <!-- Single Blog Post -->
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                           <div class="post-thumbnail">
-                            <img src="img/news/latest-news/news-31.jpeg" alt="">
+                            <img src="img/news/latest-news/news-31.jpeg" decoding="async" alt="">
                           </div>
                           <div class="post-content ">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-31.jpeg" class="headline">
@@ -289,7 +276,7 @@
                         </div>
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.3s">
                           <div class="post-thumbnail">
-                            <img src="video/yt-wE9bWrA-IrI.jpg" alt="">
+                            <img src="video/yt-wE9bWrA-IrI.jpg" decoding="async" alt="">
                           </div>
                           <div class="post-content ">
                             <a data-lightbox="jansabha" href="video/yt-wE9bWrA-IrI.jpg" class="headline">
@@ -304,7 +291,7 @@
                         </div>
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.4s">
                           <div class="post-thumbnail">
-                            <img src="img/news/latest-news/news-29.jpeg" alt="">
+                            <img src="img/news/latest-news/news-29.jpeg" decoding="async" alt="">
                           </div>
                           <div class="post-content ">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-29.jpeg" class="headline">
@@ -317,12 +304,10 @@
                             </a>
                           </div>
                         </div>
-                        <?php if($con && $activities = mysqli_query($con,$sql)){
-                          while($rows=mysqli_fetch_assoc($activities))
-                          {?>
+                        <?php foreach($activitiesDb as $rows): ?>
                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                           <div class="post-thumbnail">
-                            <img src="../dashboard/<?= $rows['img1'];?>" alt="">
+                            <img src="../dashboard/<?= $rows['img1'];?>" loading="lazy" decoding="async" alt="">
                           </div>
                           <div class="post-content ">
                             <a data-lightbox="jansabha" href="../dashboard/<?= $rows['img1'];?>" class="headline">
@@ -335,16 +320,11 @@
                             </a>
                           </div>
                         </div>
-                        <?php }} ?>
+                        <?php endforeach; ?>
                       </div>
                     </div>
                   </div>
-                  <?php
-                    $sql="SELECT * FROM activities;";
-                    if($con && $activities = mysqli_query($con,$sql)){
-                    while($rows=mysqli_fetch_assoc($activities)){
-                    
-                    ?>
+                  <?php foreach($activitiesDb as $rows): ?>
                   <div class="tab-pane fade" id="world-tab-<?= $rows['id'];?>" role="tabpanel" aria-labelledby="tab<?= $rows['id'];?>">
                     <div class="row">
                       <div class="col-12 col-md-6">
@@ -352,7 +332,7 @@
                         <div class="single-blog-post">
                           <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="../dashboard/<?= $rows['img1'];?>" alt="">
+                            <img src="../dashboard/<?= $rows['img1'];?>" loading="lazy" decoding="async" alt="">
                             <!-- Catagory -->
                           </div>
                           <!-- Post Content -->
@@ -373,7 +353,7 @@
                         <div class="single-blog-post post-style-2 d-flex align-items-center">
                           <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="../dashboard/<?= $rows['img2'];?>" alt="">
+                            <img src="../dashboard/<?= $rows['img2'];?>" loading="lazy" decoding="async" alt="">
                           </div>
                           <!-- Post Content -->
                           <div class="post-content">
@@ -390,7 +370,7 @@
                         <div class="single-blog-post post-style-2 d-flex align-items-center">
                           <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="../dashboard/<?= $rows['img3'];?>" alt="">
+                            <img src="../dashboard/<?= $rows['img3'];?>" loading="lazy" decoding="async" alt="">
                           </div>
                           <!-- Post Content -->
                           <div class="post-content">
@@ -407,7 +387,7 @@
                         <div class="single-blog-post post-style-2 d-flex align-items-center">
                           <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="../dashboard/<?= $rows['img4'];?>" alt="">
+                            <img src="../dashboard/<?= $rows['img4'];?>" loading="lazy" decoding="async" alt="">
                           </div>
                           <!-- Post Content -->
                           <div class="post-content">
@@ -424,7 +404,7 @@
                         <div class="single-blog-post post-style-2 d-flex align-items-center">
                           <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="../dashboard/<?= $rows['img5'];?>" alt="">
+                            <img src="../dashboard/<?= $rows['img5'];?>" loading="lazy" decoding="async" alt="">
                           </div>
                           <!-- Post Content -->
                           <div class="post-content">
@@ -441,7 +421,7 @@
                         <div class="single-blog-post post-style-2 d-flex align-items-center">
                           <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="../dashboard/<?= $rows['img6'];?>" alt="">
+                            <img src="../dashboard/<?= $rows['img6'];?>" loading="lazy" decoding="async" alt="">
                           </div>
                           <!-- Post Content -->
                           <div class="post-content">
@@ -457,10 +437,7 @@
                       </div>
                     </div>
                   </div>
-                  <?php
-                    }
-                    }
-                    ?>
+                  <?php endforeach; ?>
                 </div>
               </div>
               <!-- Catagory Area -->
@@ -482,7 +459,7 @@
                         <div class="single-blog-post wow fadeInUpBig" data-wow-delay="0.2s">
                           <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="img/Lokdal_content/1.jpeg" alt="">
+                            <img src="img/Lokdal_content/1.jpeg" alt="" loading="lazy" decoding="async">
                             <!-- Catagory -->
                           </div>
                           <!-- Post Content -->
@@ -503,7 +480,7 @@
                         <div class="single-blog-post wow fadeInUpBig" data-wow-delay="0.3s">
                           <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="img/Lokdal_content/2.PNG" alt="">
+                            <img src="img/Lokdal_content/2.PNG" alt="" loading="lazy" decoding="async">
                             <!-- Catagory -->
                           </div>
                           <!-- Post Content -->
@@ -625,7 +602,7 @@
                                 <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                                   <!-- Post Thumbnail -->
                                   <div class="post-thumbnail">
-                                    <img src="<?php echo $value['img']; ?>" alt="">
+                                    <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
                                   </div>
                                   <!-- Post Content -->
                                   <div class="post-content">
@@ -668,7 +645,7 @@
                                     <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                                       <!-- Post Thumbnail -->
                                       <div class="post-thumbnail">
-                                        <img src="<?php echo $value['img']; ?>" alt="">
+                                        <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
                                       </div>
                                       <!-- Post Content -->
                                       <div class="post-content">
@@ -708,7 +685,7 @@
                                     <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                                       <!-- Post Thumbnail -->
                                       <div class="post-thumbnail">
-                                        <img src="<?php echo $value['img']; ?>" alt="">
+                                        <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
                                       </div>
                                       <!-- Post Content -->
                                       <div class="post-content">
@@ -748,7 +725,7 @@
                                     <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                                       <!-- Post Thumbnail -->
                                       <div class="post-thumbnail">
-                                        <img src="<?php echo $value['img']; ?>" alt="">
+                                        <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
                                       </div>
                                       <!-- Post Content -->
                                       <div class="post-content">
@@ -788,7 +765,7 @@
                                     <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                                       <!-- Post Thumbnail -->
                                       <div class="post-thumbnail">
-                                        <img src="<?php echo $value['img']; ?>" alt="">
+                                        <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
                                       </div>
                                       <!-- Post Content -->
                                       <div class="post-content">
@@ -820,7 +797,7 @@
                         <div class="single-blog-post">
                           <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="img/Lokdal_content/6.JPG" alt="">
+                            <img src="img/Lokdal_content/6.JPG" alt="" loading="lazy" decoding="async">
                             <!-- Catagory -->
                           </div>
                           <!-- Post Content -->
@@ -841,7 +818,7 @@
                         <div class="single-blog-post">
                           <!-- Post Thumbnail -->
                           <div class="post-thumbnail">
-                            <img src="img/Lokdal_content/a.JPG" alt="">
+                            <img src="img/Lokdal_content/a.JPG" alt="" loading="lazy" decoding="async">
                             <!-- Catagory -->
                           </div>
                           <!-- Post Content -->
@@ -861,7 +838,7 @@
                         <!-- Single Blog Post -->
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/gallery/latest-gallery/gallery-1.jpeg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-1.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-1.jpeg" class="headline">
@@ -876,7 +853,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/gallery/latest-gallery/gallery-2.jpeg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-2.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-2.jpeg" class="headline">
@@ -891,7 +868,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/gallery/latest-gallery/gallery-3.jpeg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-3.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-3.jpeg" class="headline">
@@ -906,7 +883,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/gallery/latest-gallery/gallery-4.jpeg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-4.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-4.jpeg" class="headline">
@@ -921,7 +898,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/gallery/latest-gallery/gallery-11.jpeg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-11.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-11.jpeg" class="headline">
@@ -936,7 +913,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/gallery/latest-gallery/gallery-12.jpeg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-12.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-12.jpeg" class="headline">
@@ -951,7 +928,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/gallery/latest-gallery/gallery-13.jpeg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-13.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-13.jpeg" class="headline">
@@ -966,7 +943,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/gallery/latest-gallery/gallery-14.jpeg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-14.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-14.jpeg" class="headline">
@@ -981,7 +958,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/gallery/latest-gallery/gallery-15.jpeg" alt="">
+                            <img src="img/gallery/latest-gallery/gallery-15.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-15.jpeg" class="headline">
@@ -996,7 +973,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/news/latest-news/news-24.jpeg" alt="">
+                            <img src="img/news/latest-news/news-24.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/news/latest-news/news-24.jpeg" class="headline">
@@ -1011,7 +988,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/news/latest-news/news-25.jpeg" alt="">
+                            <img src="img/news/latest-news/news-25.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/news/latest-news/news-25.jpeg" class="headline">
@@ -1026,7 +1003,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/news/latest-news/news-26.jpeg" alt="">
+                            <img src="img/news/latest-news/news-26.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/news/latest-news/news-26.jpeg" class="headline">
@@ -1041,7 +1018,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/news/latest-news/news-27.jpeg" alt="">
+                            <img src="img/news/latest-news/news-27.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/news/latest-news/news-27.jpeg" class="headline">
@@ -1056,7 +1033,7 @@
                       <div class="col-12 col-md-6">
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
-                            <img src="img/news/latest-news/news-28.jpeg" alt="">
+                            <img src="img/news/latest-news/news-28.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
                             <a data-lightbox="sunil" href="img/news/latest-news/news-28.jpeg" class="headline">
@@ -1129,7 +1106,7 @@
               <div class="single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                 <!-- Post Thumbnail -->
                 <a data-lightbox="articals" href="<?= $update['img'];?>">
-                  <img src="<?= $update['img'];?>" alt="">
+                  <img src="<?= $update['img'];?>" loading="lazy" decoding="async" alt="">
                   <!-- Post Content -->
                   <div class="post-content">
                     <h5><?= $update['title'];?></h5>
@@ -1139,12 +1116,11 @@
               </div>
               <?php
                 }
-                if($con && $result = mysqli_query($con, "SELECT * FROM daily_update order by id desc;")){
-                  while($row=mysqli_fetch_assoc($result)){
+                foreach ($dailyUpdatesDb as $row) {
                 ?>
               <div class="single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                 <a data-lightbox="articals" href="../dashboard/<?= $row['img'];?>">
-                  <img src="../dashboard/<?= $row['img'];?>" alt="">
+                  <img src="../dashboard/<?= $row['img'];?>" loading="lazy" decoding="async" alt="">
                   <div class="post-content">
                     <h5><?= $row['title'];?></h5>
                     <p><?= $row['description'];?></p>
@@ -1152,7 +1128,6 @@
                 </a>
               </div>
               <?php
-                  }
                 }
                 ?>
             </div>
@@ -1201,17 +1176,16 @@
                 ['img' => 'video/16.png','video' => 'video/16.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 18, 2023 at 2:55 pm'],
                 ['img' => 'video/15.png','video' => 'video/15.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 18, 2023 at 2:55 pm'],
                 ['img' => 'video/14.png','video' => 'video/14.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 18, 2023 at 2:55 pm'],
-                  ['img' => 'video/vid11.jpg','video' => 'video/14.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 2, 2023 at 2:55 pm'],
-                  ['img' => 'video/vid12.jpg','video' => 'video/12.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 2, 2023 at 2:55 pm'],
-                  ['img' => 'video/vid13.jpg','video' => 'video/13.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 2, 2023 at 2:55 pm'],
-                  ['img' => 'video/vid3.jpg','video' => 'video/3.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid5.jpg','video' => 'video/5.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid6.jpg','video' => 'video/6.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid7.jpg','video' => 'video/7.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid8.jpg','video' => 'video/8.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid9.jpg','video' => 'video/9.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                  ['img' => 'video/vid10.jpg','video' => 'video/10.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
-                
+                ['img' => 'video/vid11.jpg','video' => 'video/14.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 2, 2023 at 2:55 pm'],
+                ['img' => 'video/vid12.jpg','video' => 'video/12.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 2, 2023 at 2:55 pm'],
+                ['img' => 'video/vid13.jpg','video' => 'video/13.mp4', 'name' => 'Kisan Sangthan Baithak', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Nov 2, 2023 at 2:55 pm'],
+                ['img' => 'video/vid3.jpg','video' => 'video/3.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
+                ['img' => 'video/vid5.jpg','video' => 'video/5.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
+                ['img' => 'video/vid6.jpg','video' => 'video/6.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
+                ['img' => 'video/vid7.jpg','video' => 'video/7.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
+                ['img' => 'video/vid8.jpg','video' => 'video/8.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
+                ['img' => 'video/vid9.jpg','video' => 'video/9.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
+                ['img' => 'video/vid10.jpg','video' => 'video/10.mp4', 'name' => 'Chaudhary Charan Singh', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Feb 25, 2017 at 2:55 pm'],
               ];
               ?>
             <div class="col-12 col-lg-4">
@@ -1223,7 +1197,7 @@
               <div class="single-blog-post wow fadeInUpBig" data-wow-delay="0.2s">
                 <!-- Post Thumbnail -->
                 <div class="post-thumbnail">
-                  <img src="<?php echo $value['img']; ?>" alt="">
+                  <img src="<?php echo $value['img']; ?>" loading="lazy" decoding="async" alt="">
                   <!-- Video Button -->
                   <a href="<?php echo $value['video']; ?>" target="_blank" class="video-btn"><i class="fa fa-play"></i></a>
                 </div>
@@ -1279,113 +1253,6 @@
               ['img' => 'img/news/2nov-news/news-110.jpg'],
               ['img' => 'img/news/2nov-news/news-109.jpg'],
               ['img' => 'img/news/2nov-news/news-108.jpg'],
-              ['img' => 'img/news/2nov-news/news-107.jpg'],
-              ['img' => 'img/news/2nov-news/news-106.jpg'],
-              ['img' => 'img/news/2nov-news/news-105.jpg'],
-              ['img' => 'img/news/2nov-news/news-104.jpg'],
-              ['img' => 'img/news/2nov-news/news-103.jpg'],
-              ['img' => 'img/news/2nov-news/news-102.jpg'],
-              ['img' => 'img/news/2nov-news/news-101.jpg'],
-              ['img' => 'img/news/2nov-news/news-100.jpg'],
-              ['img' => 'img/news/2nov-news/news-99.jpg'],
-              ['img' => 'img/news/2nov-news/news-98.jpg'],
-              ['img' => 'img/news/2nov-news/news-97.jpg'],
-              ['img' => 'img/news/2nov-news/news-96.jpg'],
-              ['img' => 'img/news/2nov-news/news-95.jpg'],
-              ['img' => 'img/news/2nov-news/news-94.jpg'],
-              ['img' => 'img/news/2nov-news/news-93.jpg'],
-              ['img' => 'img/news/2nov-news/news-92.jpg'],
-              ['img' => 'img/news/2nov-news/news-91.jpg'],
-              ['img' => 'img/news/2nov-news/news-90.jpg'],
-              ['img' => 'img/news/2nov-news/news-89.jpg'],
-              ['img' => 'img/news/2nov-news/news-88.jpg'],
-              ['img' => 'img/news/2nov-news/news-87.jpg'],
-              ['img' => 'img/news/2nov-news/news-86.jpg'],
-              ['img' => 'img/news/2nov-news/news-85.jpg'],
-              ['img' => 'img/news/2nov-news/news-84.jpg'],
-              ['img' => 'img/news/2nov-news/news-83.jpg'],
-              ['img' => 'img/news/2nov-news/news-82.jpg'],
-              ['img' => 'img/news/2nov-news/news-81.jpg'],
-              ['img' => 'img/news/2nov-news/news-80.jpg'],
-              ['img' => 'img/news/2nov-news/news-79.jpg'],
-              ['img' => 'img/news/2nov-news/news-78.jpg'],
-              ['img' => 'img/news/2nov-news/news-77.jpg'],
-              ['img' => 'img/news/2nov-news/news-76.jpg'],
-              ['img' => 'img/news/2nov-news/news-75.jpg'],
-              ['img' => 'img/news/2nov-news/news-74.jpg'],
-              ['img' => 'img/news/2nov-news/news-73.jpg'],
-              ['img' => 'img/news/2nov-news/news-72.jpg'],
-              ['img' => 'img/news/2nov-news/news-71.jpg'],
-              ['img' => 'img/news/2nov-news/news-70.jpg'],
-              ['img' => 'img/news/2nov-news/news-69.jpg'],
-              ['img' => 'img/news/2nov-news/news-68.jpg'],
-              ['img' => 'img/news/2nov-news/news-67.jpg'],
-              ['img' => 'img/news/2nov-news/news-66.jpg'],
-              ['img' => 'img/news/2nov-news/news-65.jpg'],
-              ['img' => 'img/news/2nov-news/news-64.jpg'],
-              ['img' => 'img/news/2nov-news/news-63.jpg'],
-              ['img' => 'img/news/2nov-news/news-62.jpg'],
-              ['img' => 'img/news/2nov-news/news-61.jpg'],
-              ['img' => 'img/news/2nov-news/news-60.jpg'],
-              ['img' => 'img/news/2nov-news/news-59.jpg'],
-              ['img' => 'img/news/2nov-news/news-58.jpg'],
-              ['img' => 'img/news/2nov-news/news-57.jpg'],
-              ['img' => 'img/news/2nov-news/news-56.jpg'],
-              ['img' => 'img/news/2nov-news/news-55.jpg'],
-              ['img' => 'img/news/2nov-news/news-54.jpg'],
-              ['img' => 'img/news/2nov-news/news-53.jpg'],
-              ['img' => 'img/news/2nov-news/news-52.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-51.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-50.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-49.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-48.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-47.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-46.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-45.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-44.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-43.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-42.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-41.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-40.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-39.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-38.jpg'],
-              ['img' => 'img/news/2nov-news/2novnews-37.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-36.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-1.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-2.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-3.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-4.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-5.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-6.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-7.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-8.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-9.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-10.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-11.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-12.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-13.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-14.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-15.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-16.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-17.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-18.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-19.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-20.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-21.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-22.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-23.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-24.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-25.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-26.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-27.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-28.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-29.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-30.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-31.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-32.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-33.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-34.jpg'],
-                ['img' => 'img/news/2nov-news/2novnews-35.jpg'],
             ];
             ?>
           <div class="row">
@@ -1399,7 +1266,7 @@
                 <div class="single-slide single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
                   <!-- Post Thumbnail -->
                   <a data-lightbox="articals" href="<?php echo $value['img']; ?>">
-                  <img src="<?php echo $value['img']; ?>" alt="">
+                  <img src="<?php echo $value['img']; ?>" loading="lazy" decoding="async" alt="">
                   </a>
                 </div>
                 <?php endforeach; ?>
@@ -1410,6 +1277,8 @@
       </div>
     </div>
     <?php include_once("footer.php"); ?>
+    <!-- LightBox -->
+    <script src="assets/vendor/lightbox/lightbox-plus-jquery.min.js"></script>
     <!-- jQuery (Necessary for All JavaScript Plugins) -->
     <script src="js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->

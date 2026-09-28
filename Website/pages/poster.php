@@ -31,7 +31,7 @@
                             <a data-lightbox="banner" href="../../dashboard/<?= $row['img'];?>" class="mb-3 d-block position-relative">
                                 <div class="position-absolute d-flex justify-content-center align-items-center w-100 h-100 bg-secondary rounded text-white">
                                 </div>
-                                <img src="../../dashboard/<?= $row['img'];?>" alt="" class="position-relative img-fluid w-100 shadow-lg rounded opacity-1-hover" />
+                                <img src="../../dashboard/<?= $row['img'];?>" alt="" class="position-relative img-fluid w-100 shadow-lg rounded opacity-1-hover" / loading="lazy" decoding="async">
                             </a>
                             
                         </div>

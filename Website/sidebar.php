@@ -46,7 +46,7 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                                  <div class="single-blog-post post-style-2 d-flex align-items-center widget-post">
                                     <!-- Post Thumbnail -->
                                     <div class="post-thumbnail">
-                                        <img src="../dashboard/img/leaders/<?=$row['img'];?>" alt="">
+                                        <img src="../dashboard/img/leaders/<?=$row['img'];?>" alt="" loading="lazy" decoding="async">
                                     </div>
                                     <!-- Post Content -->
                                     <div class="post-content">
@@ -82,7 +82,7 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                                 <div class="single-blog-post todays-pick">
                                     <!-- Post Thumbnail -->
                                     <div class="post-thumbnail">
-                                        <img src="img/img/logo1.png" alt="">
+                                        <img src="img/img/logo1.png" alt="" loading="lazy" decoding="async">
                                     </div>
                                     <!-- Post Content -->
                                     <div class="post-content px-0 pb-0">

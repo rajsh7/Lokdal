@@ -165,7 +165,7 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                     <div class="row">
                         <div class="ml-md-neg-15 d-md-flex text-center">
                             <div class="d-md-flex flex-column">
-                                <img src="../img/Lokdal_content/chcharansingh/23.jpeg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" />
+                                <img src="../img/Lokdal_content/chcharansingh/23.jpeg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" / loading="lazy" decoding="async">
                                 
                                 
                             </div>
@@ -174,18 +174,18 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                                 <div class="d-md-flex flex-column">
                                     
     
-                                    <img src="../img/Lokdal_content/chcharansingh/24.jpeg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" />
-                                    <img src="../img/Lokdal_content/chcharansingh/25.jpg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" />
+                                    <img src="../img/Lokdal_content/chcharansingh/24.jpeg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" / loading="lazy" decoding="async">
+                                    <img src="../img/Lokdal_content/chcharansingh/25.jpg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" / loading="lazy" decoding="async">
                                 </div>
     
                                 <div class="mt-md-neg-15 d-md-flex">
                                     <div class="d-md-flex flex-column">
-                                        <img src="../img/Lokdal_content/8.jpeg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" />
-                                        <img src="../img/Lokdal_content/3.jpeg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" />
+                                        <img src="../img/Lokdal_content/8.jpeg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" / loading="lazy" decoding="async">
+                                        <img src="../img/Lokdal_content/3.jpeg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" / loading="lazy" decoding="async">
                                     </div>
     
                                     <div class="mt-md-10">
-                                        <img src="../img/Lokdal_content/12.jpeg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" />
+                                        <img src="../img/Lokdal_content/12.jpeg" class="my-3 my-md-4 mx-md-4" alt="" width="400" height="400" / loading="lazy" decoding="async">
                                     </div>
                                 </div>
                             </div>
@@ -300,7 +300,7 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="col-6 col-md-4 col-lg-3 mb-5 mb-md-6 px-4 px-lg-5">
                                 <a href="../<?=$row['link'];?>">
                                     <div class="mb-3 grid-item p-1 d-flex square rounded-circle bg-blue-light" data-aos="flip-right" data-aos-delay="50" data-aos-duration="1000">
-                                        <img src="../../dashboard/img/leaders/<?=$row['img'];?>" style="border-radius: 100%; width: 170px;" alt="">
+                                        <img src="../../dashboard/img/leaders/<?=$row['img'];?>" style="border-radius: 100%; width: 170px;" alt="" loading="lazy" decoding="async">
                                     </div>
                                 </a>    
                                 <h6 class="text-uppercase" data-aos="zoom-in" data-aos-delay="50" data-aos-duration="1000"><?=$row['name'];?></h6>

@@ -143,182 +143,182 @@ body{
                                           <!--Delhi Chalo Sambelan-->
 
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-1.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-1.jpg" alt="Image 01" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-1.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-1.jpg" alt="Image 01" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-2.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-2.jpg" alt="Image 02" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-2.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-2.jpg" alt="Image 02" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-3.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-3.jpg" alt="Image 03" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-3.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-3.jpg" alt="Image 03" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-4.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-5.jpg" alt="Image 04" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-4.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-5.jpg" alt="Image 04" / loading="lazy" decoding="async"></a>
                                     </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-5.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-5.jpg" alt="Image 01" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-5.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-5.jpg" alt="Image 01" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-6.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-6.jpg" alt="Image 02" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-6.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-6.jpg" alt="Image 02" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-7.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-7.jpg" alt="Image 03" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-7.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-7.jpg" alt="Image 03" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-8.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-8.jpg" alt="Image 04" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-8.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-8.jpg" alt="Image 04" / loading="lazy" decoding="async"></a>
                                     </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-9.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-9.jpg" alt="Image 01" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-9.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-9.jpg" alt="Image 01" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-10.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-10.jpg" alt="Image 02" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-10.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-10.jpg" alt="Image 02" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-11.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-11.jpg" alt="Image 03" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-11.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-11.jpg" alt="Image 03" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-12.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-12.jpg" alt="Image 04" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-12.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-12.jpg" alt="Image 04" / loading="lazy" decoding="async"></a>
                                     </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-13.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-13.jpg" alt="Image 01" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-13.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-13.jpg" alt="Image 01" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-14.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-12.jpg" alt="Image 02" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-14.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-12.jpg" alt="Image 02" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-15.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-15.jpg" alt="Image 03" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-15.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-15.jpg" alt="Image 03" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item delhichalo">
-                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-16.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-16.jpg" alt="Image 04" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/delhichalo-16.jpg"><img class="img-fluid w-100" src="../img/gallery/delhichalo-16.jpg" alt="Image 04" / loading="lazy" decoding="async"></a>
                                     </div>
                                      <!--Karkarta Sambelan-->
 
                                     <div class="col-md-6 col-lg-4 p-3 grid-item hazare">
-                                        <a data-fancybox="gallery" href="../img/gallery/hazare1.jpg"><img class="img-fluid w-100" src="../img/gallery/hazare1.jpg" alt="Image 01" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/hazare1.jpg"><img class="img-fluid w-100" src="../img/gallery/hazare1.jpg" alt="Image 01" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item hazare">
-                                        <a data-fancybox="gallery" href="../img/gallery/hazare2.jpg"><img class="img-fluid w-100" src="../img/gallery/hazare2.jpg" alt="Image 02" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/hazare2.jpg"><img class="img-fluid w-100" src="../img/gallery/hazare2.jpg" alt="Image 02" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item hazare">
-                                        <a data-fancybox="gallery" href="../img/gallery/hazare3.jpg"><img class="img-fluid w-100" src="../img/gallery/hazare3.jpg" alt="Image 03" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/hazare3.jpg"><img class="img-fluid w-100" src="../img/gallery/hazare3.jpg" alt="Image 03" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item hazare">
-                                        <a data-fancybox="gallery" href="../img/gallery/hazare4.jpg"><img class="img-fluid w-100" src="../img/gallery/hazare4.jpg" alt="Image 04" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/hazare4.jpg"><img class="img-fluid w-100" src="../img/gallery/hazare4.jpg" alt="Image 04" / loading="lazy" decoding="async"></a>
                                     </div>
                                     
                                     <!--Karkarta Sambelan-->
 
                                     <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
-                                        <a data-fancybox="gallery" href="../img/gallery/gallery-1.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-1.jpg" alt="Image 01" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/gallery-1.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-1.jpg" alt="Image 01" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
-                                        <a data-fancybox="gallery" href="../img/gallery/gallery-2.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-2.jpg" alt="Image 02" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/gallery-2.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-2.jpg" alt="Image 02" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
-                                        <a data-fancybox="gallery" href="../img/gallery/gallery-3.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-3.jpg" alt="Image 03" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/gallery-3.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-3.jpg" alt="Image 03" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
-                                        <a data-fancybox="gallery" href="../img/gallery/gallery-4.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-4.jpg" alt="Image 04" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/gallery-4.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-4.jpg" alt="Image 04" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-12 col-lg-8 p-3 grid-item karkarta">
-                                        <a data-fancybox="gallery" href="../img/gallery/gallery-5.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-5.jpg" alt="Image 05" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/gallery-5.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-5.jpg" alt="Image 05" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
-                                        <a data-fancybox="gallery" href="../img/gallery/gallery-6.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-6.jpg" alt="Image 06" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/gallery-6.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-6.jpg" alt="Image 06" / loading="lazy" decoding="async"></a>
                                     </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
-                                        <a data-fancybox="gallery" href="../img/gallery/gallery-7.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-7.jpg" alt="Image 03" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/gallery-7.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-7.jpg" alt="Image 03" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
-                                        <a data-fancybox="gallery" href="../img/gallery/gallery-8.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-8.jpg" alt="Image 04" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/gallery-8.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-8.jpg" alt="Image 04" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-12 col-lg-8 p-3 grid-item karkarta">
-                                        <a data-fancybox="gallery" href="../img/gallery/gallery-9.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-9.jpg" alt="Image 05" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/gallery-9.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-9.jpg" alt="Image 05" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
-                                        <a data-fancybox="gallery" href="../img/gallery/gallery-10.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-10.jpg" alt="Image 06" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/gallery-10.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-10.jpg" alt="Image 06" / loading="lazy" decoding="async"></a>
                                     </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item karkarta">
-                                        <a data-fancybox="gallery" href="../img/gallery/gallery-11.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-11.jpg" alt="Image 06" /></a>
+                                        <a data-fancybox="gallery" href="../img/gallery/gallery-11.jpg"><img class="img-fluid w-100" src="../img/gallery/gallery-11.jpg" alt="Image 06" / loading="lazy" decoding="async"></a>
                                     </div>
 
                                     <!--DHARNA PRADERSHAN-->
 
                                     <div class="col-md-6 col-lg-4 p-3 grid-item dharna">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna1.jpeg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna1.jpeg" alt="Image 01" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna1.jpeg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna1.jpeg" alt="Image 01" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item dharna">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna2.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna2.jpg" alt="Image 02" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna2.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna2.jpg" alt="Image 02" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item dharna">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna3.jpeg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna3.jpeg" alt="Image 03" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna3.jpeg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna3.jpeg" alt="Image 03" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item dharna">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna4.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna4.jpg" alt="Image 04" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna4.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna4.jpg" alt="Image 04" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-12 col-lg-8 p-3 grid-item dharna">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna5.jpeg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna5.jpeg" alt="Image 05" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna5.jpeg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna5.jpeg" alt="Image 05" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item dharna">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna6.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna6.jpg" alt="Image 06" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/dharna pradershan/dharna6.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/dharna pradershan/dharna6.jpg" alt="Image 06" / loading="lazy" decoding="async"></a>
                                     </div>
                                     
                                     <!--lOKDAL JANSABHA-->
 
                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/1.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/1.jpg" alt="Image 08" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/1.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/1.jpg" alt="Image 08" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/2.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/2.jpg" alt="Image 09" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/2.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/2.jpg" alt="Image 09" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/3.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/3.jpg" alt="Image 10" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/3.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/3.jpg" alt="Image 10" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/4.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/4.jpg" alt="Image 11" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/4.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/4.jpg" alt="Image 11" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/5.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/5.jpg" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/5.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/5.jpg" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/6.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/6.jpg" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/6.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/6.jpg" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/7.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/7.jpg" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/7.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/7.jpg" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/8.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/8.jpg" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Jansabha/8.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Jansabha/8.jpg" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
 
                                     <!--T-20 CHAMPIONSHIP-->
 
                                     <div class="col-md-6 col-lg-4 p-3 grid-item t-20">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/1.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/1.JPG" alt="Image 08" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/1.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/1.JPG" alt="Image 08" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item t-20">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/2.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/2.JPG" alt="Image 09" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/2.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/2.JPG" alt="Image 09" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item t-20">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/3.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/3.JPG" alt="Image 10" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/3.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/3.JPG" alt="Image 10" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item t-20">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/4.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/4.JPG" alt="Image 11" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/4.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/4.JPG" alt="Image 11" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item t-20">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/5.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/5.JPG" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/5.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/5.JPG" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item t-20">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/6.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/6.JPG" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/6.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/6.JPG" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item t-20">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/7.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/7.JPG" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/7.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/7.JPG" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item t-20">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/8.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/8.JPG" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/T-20/8.JPG"><img class="img-fluid w-100" src="../img/Lokdal_content/T-20/8.JPG" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
                                       <!-- NEW LOCAL AND SOCIAL MEDIA VIDEOS -->
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/21.mp4" class="position-relative">
-                                              <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" />
+                                              <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                               </span>
@@ -326,7 +326,7 @@ body{
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/22.mp4" class="position-relative">
-                                              <img class="img-fluid w-100" src="../video/vid22.jpg" alt="Video Preview" />
+                                              <img class="img-fluid w-100" src="../video/vid22.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                               </span>
@@ -334,7 +334,7 @@ body{
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/23.mp4" class="position-relative">
-                                              <img class="img-fluid w-100" src="../video/vid23.jpg" alt="Video Preview" />
+                                              <img class="img-fluid w-100" src="../video/vid23.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                               </span>
@@ -342,7 +342,7 @@ body{
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/24.mp4" class="position-relative">
-                                              <img class="img-fluid w-100" src="../video/vid24.jpg" alt="Video Preview" />
+                                              <img class="img-fluid w-100" src="../video/vid24.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                               </span>
@@ -350,7 +350,7 @@ body{
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/25.mp4" class="position-relative">
-                                              <img class="img-fluid w-100" src="../video/vid25.jpg" alt="Video Preview" />
+                                              <img class="img-fluid w-100" src="../video/vid25.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                               </span>
@@ -358,7 +358,7 @@ body{
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/26.mp4" class="position-relative">
-                                              <img class="img-fluid w-100" src="../video/vid26.jpg" alt="Video Preview" />
+                                              <img class="img-fluid w-100" src="../video/vid26.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                               </span>
@@ -366,7 +366,7 @@ body{
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/27.mp4" class="position-relative">
-                                              <img class="img-fluid w-100" src="../video/vid27.jpg" alt="Video Preview" />
+                                              <img class="img-fluid w-100" src="../video/vid27.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                               </span>
@@ -374,7 +374,7 @@ body{
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/28.mp4" class="position-relative">
-                                              <img class="img-fluid w-100" src="../video/vid28.jpg" alt="Video Preview" />
+                                              <img class="img-fluid w-100" src="../video/vid28.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                               </span>
@@ -382,7 +382,7 @@ body{
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" href="../video/29.mp4" class="position-relative">
-                                              <img class="img-fluid w-100" src="../video/vid29.jpg" alt="Video Preview" />
+                                              <img class="img-fluid w-100" src="../video/vid29.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                               </span>
@@ -390,7 +390,7 @@ body{
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1BtQzxgdP7/" class="position-relative">
-                                              <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" />
+                                              <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                               </span>
@@ -399,7 +399,7 @@ body{
                                      <!-- YOUTUBE VIDEOS WITH PREVIEWS -->
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=syTx9KCPhSc" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/syTx9KCPhSc/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/syTx9KCPhSc/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -407,7 +407,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=SQv0_9oXSpY" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/SQv0_9oXSpY/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/SQv0_9oXSpY/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -415,7 +415,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=3hCkHK9I_UA" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/3hCkHK9I_UA/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/3hCkHK9I_UA/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -423,7 +423,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=qoQrdj2y4gU" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/qoQrdj2y4gU/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/qoQrdj2y4gU/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -431,7 +431,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=v0c9QYq9Cwg" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/v0c9QYq9Cwg/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/v0c9QYq9Cwg/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -439,7 +439,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=vE5AoEUFwxo" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/vE5AoEUFwxo/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/vE5AoEUFwxo/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -447,7 +447,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=N_JQCzOyY0Q" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/N_JQCzOyY0Q/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/N_JQCzOyY0Q/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -455,7 +455,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=-LEs_SmAQJ4" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/-LEs_SmAQJ4/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/-LEs_SmAQJ4/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -463,7 +463,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=UqTp-oKWYA8" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/UqTp-oKWYA8/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/UqTp-oKWYA8/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -471,7 +471,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=0b0Irc1PA2U" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/0b0Irc1PA2U/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/0b0Irc1PA2U/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -479,7 +479,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=MqEc_stvrP4" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/MqEc_stvrP4/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/MqEc_stvrP4/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -487,7 +487,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=BLoGcnK6umQ" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/BLoGcnK6umQ/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/BLoGcnK6umQ/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -495,7 +495,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=1CM9BmdFsj4" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/1CM9BmdFsj4/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/1CM9BmdFsj4/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -503,7 +503,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=SxnXT1Xh0uA" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/SxnXT1Xh0uA/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/SxnXT1Xh0uA/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -511,7 +511,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=dTsso2bFSm0" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/dTsso2bFSm0/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/dTsso2bFSm0/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -519,7 +519,7 @@ body{
                                      </div>
                                      <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                          <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=sWqkaLzdcEA" class="position-relative">
-                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/sWqkaLzdcEA/hqdefault.jpg" alt="Video Preview" />
+                                             <img class="img-fluid w-100" src="https://img.youtube.com/vi/sWqkaLzdcEA/hqdefault.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                              <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                  <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                              </span>
@@ -528,7 +528,7 @@ body{
 
                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                         <a data-fancybox="video" data-type="iframe" href="https://www.youtube.com/watch?v=GI-4r3-d4AE" class="position-relative">
-                                            <img class="img-fluid w-100" src="../video/vid1.jpg" alt="Image 07" />
+                                            <img class="img-fluid w-100" src="../video/vid1.jpg" alt="Image 07" / loading="lazy" decoding="async">
                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                             </span>
@@ -536,7 +536,7 @@ body{
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=ue2Q-jZRIRg" class="position-relative">
-                                            <img class="img-fluid w-100" src="../video/vid2.jpg" alt="Image 07" />
+                                            <img class="img-fluid w-100" src="../video/vid2.jpg" alt="Image 07" / loading="lazy" decoding="async">
                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                             </span>
@@ -544,7 +544,7 @@ body{
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=knXzSB8RZ7A" class="position-relative">
-                                            <img class="img-fluid w-100" src="../video/vid3.jpg" alt="Image 07" />
+                                            <img class="img-fluid w-100" src="../video/vid3.jpg" alt="Image 07" / loading="lazy" decoding="async">
                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                             </span>
@@ -552,7 +552,7 @@ body{
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=AX5kICXQ4HI" class="position-relative">
-                                            <img class="img-fluid w-100" src="../video/vid4.jpg" alt="Image 07" />
+                                            <img class="img-fluid w-100" src="../video/vid4.jpg" alt="Image 07" / loading="lazy" decoding="async">
                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                             </span>
@@ -560,7 +560,7 @@ body{
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                         <a data-fancybox="gallery" href="https://www.youtube.com/watch?v=OEuKpIv2Uj0" class="position-relative">
-                                            <img class="img-fluid w-100" src="../video/vid5.jpg" alt="Image 07" />
+                                            <img class="img-fluid w-100" src="../video/vid5.jpg" alt="Image 07" / loading="lazy" decoding="async">
                                             <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                 <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                             </span>
@@ -570,28 +570,28 @@ body{
                                     <!--POSTERS-->
 
                                     <div class="col-md-6 col-lg-4 p-3 grid-item poster">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/1.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/1.jpg" alt="Image 08" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/1.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/1.jpg" alt="Image 08" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item poster">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/2.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/2.jpg" alt="Image 09" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/2.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/2.jpg" alt="Image 09" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item poster">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/3.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/3.jpg" alt="Image 10" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/3.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/3.jpg" alt="Image 10" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item poster">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/4.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/4.jpg" alt="Image 11" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/4.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/4.jpg" alt="Image 11" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item poster">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/5.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/5.jpg" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/5.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/5.jpg" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item poster">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/6.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/6.jpg" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/6.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/6.jpg" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item poster">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/7.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/7.jpg" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/7.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/7.jpg" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
                                     <div class="col-md-6 col-lg-4 p-3 grid-item poster">
-                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/8.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/8.jpg" alt="Image 12" /></a>
+                                        <a data-fancybox="gallery" href="../img/Lokdal_content/Lokdal_Posters/8.jpg"><img class="img-fluid w-100" src="../img/Lokdal_content/Lokdal_Posters/8.jpg" alt="Image 12" / loading="lazy" decoding="async"></a>
                                     </div>
                                     
                                 </div>

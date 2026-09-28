@@ -89,6 +89,15 @@ a {
 
     color: #00772d }
 
+@keyframes preloaderAutoFade {
+  to { opacity: 0; visibility: hidden; pointer-events: none; }
+}
+
+#preloader, .preloader {
+  pointer-events: none !important;
+  animation: preloaderAutoFade 0.2s ease 0.3s forwards;
+}
+
 #preloader {
   display: -webkit-box;
   display: -ms-flexbox;

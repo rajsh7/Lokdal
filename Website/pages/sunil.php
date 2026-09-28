@@ -145,8 +145,8 @@ body{
                             <p>Lok Dal In 1980, former Prime Minister of India, Hon. Chau. There is a political party founded by Charan Singh. At the time of the establishment of Lok Dal, almost all the big politicians of the country together laid the foundation of the party, including Hemwati Nandan Bahuguna, Chau. Devilal, Mulayam Singh Yadav, Nitish Kumar, Karpoori Thakur, Sharad Pawar, Rajendra Singh, Ram Vilas Paswan, George Fernandez, Biju Patnaik, Beni Prasad Verma, Qazi Rashid Masood, etc.</p>
                         </div>
                         <div class="col-lg-4">
-                            <img src="../img/Lokdal_content/17.jpeg" class="img-fluid w-100 mb-4 mb-lg-0" alt="" />
-                            <img src="../img/img/if.jpg" class="img-fluid w-100 ml-lg-neg-7 mt-lg-neg-9" alt="" />
+                            <img src="../img/Lokdal_content/17.jpeg" class="img-fluid w-100 mb-4 mb-lg-0" alt="" / loading="lazy" decoding="async">
+                            <img src="../img/img/if.jpg" class="img-fluid w-100 ml-lg-neg-7 mt-lg-neg-9" alt="" / loading="lazy" decoding="async">
                         </div>
                     </div>
                 </div>
@@ -175,7 +175,7 @@ body{
                             <div class="col-6 col-md-4 col-lg-3 mb-5 mb-md-6 px-4 px-lg-5">
                                 <a href="../<?=$row['link'];?>">
                                     <div class="mb-3 grid-item p-1 d-flex square rounded-circle bg-blue-light" data-aos="flip-right" data-aos-delay="50" data-aos-duration="1000">
-                                        <img src="../../dashboard/img/leaders/<?=$row['img'];?>" style="border-radius: 100%; width: 170px;" alt="">
+                                        <img src="../../dashboard/img/leaders/<?=$row['img'];?>" style="border-radius: 100%; width: 170px;" alt="" loading="lazy" decoding="async">
                                     </div>
                                 </a>    
                                 <h6 class="text-uppercase" data-aos="zoom-in" data-aos-delay="50" data-aos-duration="1000"><?=$row['name'];?></h6>

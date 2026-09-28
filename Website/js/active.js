@@ -3,12 +3,15 @@
 
     var $window = $(window);
 
-    // :: Preloader Active Code
-    $window.on('load', function () {
-        $('#preloader').fadeOut('slow', function () {
+    // :: Preloader Active Code - Hide immediately on DOM ready so page renders right away
+    function dismissPreloader() {
+        $('#preloader, .preloader').stop(true, true).fadeOut(150, function () {
             $(this).remove();
         });
-    });
+    }
+    dismissPreloader();
+    $(document).ready(dismissPreloader);
+    $window.on('load', dismissPreloader);
 
     // :: Fullscreen Active Code
     $window.on('resizeEnd', function () {
