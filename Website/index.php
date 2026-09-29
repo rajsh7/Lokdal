@@ -146,6 +146,50 @@
     <!-- ********** Hero Area End ********** -->
     <div class="main-content-wrapper section-padding-100">
       <div class="container">
+        <!-- ============= Official Press Statement Full-Text Banner Start ============= -->
+        <div class="row mb-4">
+          <div class="col-12">
+            <div style="background: #f7fbf8; border: 2px solid #00772D; border-radius: 8px; padding: 22px 24px; box-shadow: 0 4px 14px rgba(0,119,45,0.08);">
+              <div class="d-flex flex-wrap justify-content-between align-items-center mb-3 pb-2" style="border-bottom: 2px solid #00772D;">
+                <span style="background: #00772D; color: #fff; font-weight: 700; font-size: 14px; padding: 5px 14px; border-radius: 4px; letter-spacing: 0.5px;">
+                  <i class="fa fa-bullhorn" aria-hidden="true"></i> लोकदल आधिकारिक प्रेस विज्ञप्ति • LOKDAL OFFICIAL STATEMENT
+                </span>
+                <span style="color: #b30000; font-weight: 700; font-size: 14px;">लखनऊ, उत्तर प्रदेश | 28 Sep 2026</span>
+              </div>
+              <h4 style="color: #111; font-weight: 700; line-height: 1.4; margin-bottom: 16px;">
+                गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह
+              </h4>
+              <div class="row align-items-start">
+                <div class="col-12 col-lg-4 mb-3 mb-lg-0">
+                  <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg" title="प्रेस विज्ञप्ति बड़ा देखने के लिए क्लिक करें">
+                    <img src="img/news/latest-news/news-63.jpeg" alt="गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह" style="width: 100%; border-radius: 6px; border: 1px solid #00772D; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" loading="lazy" decoding="async">
+                  </a>
+                  <div class="mt-3 d-flex flex-column" style="gap: 8px;">
+                    <a href="https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="btn btn-sm" style="background: #14171a; color: #fff; font-weight: 600; border-radius: 4px; padding: 8px 12px; text-align: center;">
+                      <i class="fa fa-twitter" aria-hidden="true"></i> X (Twitter) पर वीडियो संदेश देखें
+                    </a>
+                    <a href="https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr" target="_blank" class="btn btn-sm" style="background: #1877f2; color: #fff; font-weight: 600; border-radius: 4px; padding: 8px 12px; text-align: center;">
+                      <i class="fa fa-facebook-official" aria-hidden="true"></i> Facebook पर वीडियो संदेश देखें
+                    </a>
+                  </div>
+                </div>
+                <div class="col-12 col-lg-8" style="font-size: 15.5px; line-height: 1.75; color: #1f2937; text-align: justify;">
+                  <p class="mb-2"><strong>लखनऊ।</strong> लोकदल के राष्ट्रीय अध्यक्ष एवं पूर्व एमएलसी चौधरी सुनील सिंह ने कहा कि उत्तर प्रदेश में INDIA गठबंधन को मजबूत बनाए रखने की जरूरत है। गठबंधन के किसी भी साथी अथवा नेता की ओर से ऐसे बयान नहीं आने चाहिए, जिससे विपक्षी एकता कमजोर हो।</p>
+                  <p class="mb-2">सुनील सिंह ने कहा कि समाजवादी पार्टी और कांग्रेस के राष्ट्रीय अध्यक्षों से मेरा निवेदन है कि वे अपने नेताओं के बयानों पर ध्यान दें और यह सुनिश्चित करें कि गठबंधन के हितों को नुकसान पहुंचाने वाली बयानबाजी न हो।</p>
+                  <p class="mb-2">उन्होंने कहा कि हमारा संघर्ष केवल किसी एक व्यक्ति या संस्था तक सीमित नहीं है। लोकदल का मुख्य उद्देश्य लोकतांत्रिक संस्थाओं की मजबूती, किसानों, युवाओं, गरीबों और आम जनता के अधिकारों की रक्षा करना है।</p>
+                  <p class="mb-2">लोकदल अध्यक्ष ने कहा कि “वोट चोरी” जैसे गंभीर आरोपों पर निष्पक्ष जांच और संवैधानिक संस्थाओं की जवाबदेही सुनिश्चित होनी चाहिए। उन्होंने कहा कि मुख्य चुनाव आयुक्त ज्ञानेश कुमार के संबंध में विपक्षी दलों की ओर से उठाए जा रहे सवालों का उचित संवैधानिक और कानूनी प्रक्रिया के माध्यम से समाधान होना चाहिए। वर्तमान में ज्ञानेश कुमार मुख्य चुनाव आयुक्त हैं।</p>
+                  <p class="mb-2">सुनील सिंह ने कहा कि INDIA गठबंधन के सभी दलों को आपसी मतभेदों को पीछे रखकर एकजुट रहना होगा। उत्तर प्रदेश में आगामी विधानसभा चुनाव को लेकर विपक्षी दलों के बीच समन्वय और सीटों को लेकर बातचीत का दौर चल रहा है।</p>
+                  <p class="mb-2" style="background: #e9f7ee; border-left: 4px solid #00772D; padding: 8px 12px; font-weight: 600; color: #094a20;">
+                    उन्होंने कहा कि “हमारा लक्ष्य लोकतंत्र को मजबूत करना और जनता के मुद्दों को केंद्र में लाना है। गठबंधन जितना मजबूत होगा, जनता के सामने उतना ही स्पष्ट राजनीतिक विकल्प होगा।”
+                  </p>
+                  <p class="mb-2">लोकदल अध्यक्ष ने सभी सहयोगी दलों के नेताओं और कार्यकर्ताओं से अपील की कि वे व्यक्तिगत बयानबाजी से बचें और किसानों, युवाओं, रोजगार, महंगाई तथा लोकतांत्रिक अधिकारों जैसे जनहित के मुद्दों को प्राथमिकता दें।</p>
+                  <p class="mb-0">चौधरी सुनील सिंह ने कहा कि लोकदल INDIA गठबंधन की एकजुटता और लोकतांत्रिक मूल्यों की मजबूती के लिए लगातार प्रयास करता रहेगा।</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- ============= Official Press Statement Full-Text Banner End ============= -->
         <div class="row justify-content-center">
           <!-- ============= Post Content Area Start ============= -->
           <div class="col-12 col-lg-8">
@@ -173,6 +217,51 @@
                     <div class="row">
                       <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                          <!-- Single Blog Post (Official Press Statement - INDIA Alliance Unity) -->
+                           <div class="single-blog-post">
+                              <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg" class="headline">
+                                <div class="post-thumbnail">
+                                  <img src="img/news/latest-news/news-63.jpeg" alt="गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह" loading="lazy" decoding="async">
+                                </div>
+                                <div class="post-content">
+                                  <h5>गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह</h5>
+                                  <p>By Chaudhary Sunil Singh</p>
+                                  <div class="post-meta">
+                                    <p>Lokdal Press Statement - 28 Sep 2026</p>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                          <!-- Single Blog Post (X Post - Sunil Singh Video Message) -->
+                           <div class="single-blog-post">
+                              <a href="https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="headline">
+                                <div class="post-thumbnail">
+                                  <img src="img/news/latest-news/news-64.jpeg" alt="लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का तीखा संदेश — X Video" loading="lazy" decoding="async">
+                                </div>
+                                <div class="post-content">
+                                  <h5>इंडिया गठबंधन उत्तर प्रदेश में पूरी तरह मजबूत, 300+ सीटें लाकर भाजपा को चित करेंगे : सुनील सिंह</h5>
+                                  <p>By Lokdal Official (@Lokdalindia)</p>
+                                  <div class="post-meta">
+                                    <p>X (Twitter) Video - 28 Sep 2026</p>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                          <!-- Single Blog Post (Facebook Video - Sunil Singh Message) -->
+                           <div class="single-blog-post">
+                              <a href="https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr" target="_blank" class="headline">
+                                <div class="post-thumbnail">
+                                  <img src="img/news/latest-news/news-65.jpeg" alt="लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का तीखा संदेश — Facebook Video" loading="lazy" decoding="async">
+                                </div>
+                                <div class="post-content">
+                                  <h5>लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का तीखा संदेश — देशहित का INDIA गठबंधन कमजोर नहीं पड़ना चाहिए</h5>
+                                  <p>By Chaudhary Sunil Singh</p>
+                                  <div class="post-meta">
+                                    <p>Facebook Video - 28 Sep 2026</p>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
                           <!-- Single Blog Post (Instagram Reel) -->
                            <div class="single-blog-post">
                               <a href="https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4" target="_blank" class="headline">
@@ -507,6 +596,60 @@
                             }
                             ?>          
                         </div>
+                          <!-- Single Blog Post (Official Press Statement - INDIA Alliance Unity) -->
+                           <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.000005s">
+                             <div class="post-thumbnail">
+                               <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg">
+                                 <img src="img/news/latest-news/news-63.jpeg" alt="गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह" loading="lazy" decoding="async">
+                               </a>
+                             </div>
+                             <div class="post-content ">
+                               <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg" class="headline">
+                                 <div class="headline">
+                                   <h5>गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह</h5>
+                                 </div>
+                                 <div class="post-meta">
+                                   <p>Lokdal Official Press Statement - 28 Sep 2026</p>
+                                 </div>
+                               </a>
+                             </div>
+                           </div>
+                          <!-- Single Blog Post (X Post - Sunil Singh Video Message) -->
+                           <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.000007s">
+                             <div class="post-thumbnail">
+                               <a href="https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank">
+                                 <img src="img/news/latest-news/news-64.jpeg" alt="लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का तीखा संदेश — X Video" loading="lazy" decoding="async">
+                               </a>
+                             </div>
+                             <div class="post-content ">
+                               <a href="https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="headline">
+                                 <div class="headline">
+                                   <h5>इंडिया गठबंधन उत्तर प्रदेश में पूरी तरह मजबूत, 300+ सीटें लाकर भाजपा को चित करेंगे : सुनील सिंह</h5>
+                                 </div>
+                                 <div class="post-meta">
+                                   <p>Lokdal Official (@Lokdalindia - X Video) - 28 Sep 2026</p>
+                                 </div>
+                               </a>
+                             </div>
+                           </div>
+                          <!-- Single Blog Post (Facebook Video - Sunil Singh Message) -->
+                           <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.000009s">
+                             <div class="post-thumbnail">
+                               <a href="https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr" target="_blank">
+                                 <img src="img/news/latest-news/news-65.jpeg" alt="लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का तीखा संदेश — Facebook Video" loading="lazy" decoding="async">
+                               </a>
+                             </div>
+                             <div class="post-content ">
+                               <a href="https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr" target="_blank" class="headline">
+                                 <div class="headline">
+                                   <h5>लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का तीखा संदेश — देशहित का INDIA गठबंधन कमजोर नहीं पड़ना चाहिए</h5>
+                                 </div>
+                                 <div class="post-meta">
+                                   <p>Chaudhary Sunil Singh (Facebook Video) - 28 Sep 2026</p>
+                                 </div>
+                               </a>
+                             </div>
+                           </div>
                           <!-- Single Blog Post (Instagram Reel) -->
                            <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.00001s">
                              <div class="post-thumbnail">
@@ -835,6 +978,26 @@
                              </a>
                            </div>
                          </div>
+                      </div>
+                      <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
+                         <!-- Single Blog Post (Official Press Statement Highlight) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0075s">
+                           <div class="post-thumbnail">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg">
+                               <img src="img/news/latest-news/news-63.jpeg" alt="लोकदल प्रेस वक्तव्य" loading="lazy" decoding="async">
+                             </a>
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>लोकदल का मुख्य उद्देश्य लोकतांत्रिक संस्थाओं की मजबूती व किसानों-युवाओं के अधिकारों की रक्षा : सुनील सिंह</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Press Statement - 28 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
                          <!-- Single Blog Post (Facebook Share) -->
                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.008s">
                            <div class="post-thumbnail">
@@ -851,8 +1014,6 @@
                              </a>
                            </div>
                          </div>
-                      </div>
-                      <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                          <!-- Single Blog Post (YouTube Video HbrkBb0k52k) -->
                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.009s">
                            <div class="post-thumbnail">
@@ -1405,6 +1566,22 @@
                         <div class="world-catagory-slider2 owl-carousel wow fadeInUpBig" data-wow-delay="0.4s">
                           <?php 
                             $ourServicesArr = [
+                                     ['img' => 'img/news/latest-news/news-63.jpeg',
+                                      'title' => 'गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह',
+                                      'desc' => 'Lokdal Press Statement - 28 Sep 2026',
+                                      'url' => 'img/news/latest-news/news-63.jpeg'],
+                                     ['img' => 'img/news/latest-news/news-64.jpeg',
+                                      'title' => 'इंडिया गठबंधन उत्तर प्रदेश में पूरी तरह मजबूत, 300+ सीटें लाकर भाजपा को चित करेंगे : सुनील सिंह',
+                                      'desc' => 'Lokdal Official (X Video) - 28 Sep 2026',
+                                      'url' => 'https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
+                                     ['img' => 'img/news/latest-news/news-65.jpeg',
+                                      'title' => 'लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का तीखा संदेश — देशहित का INDIA गठबंधन कमजोर नहीं पड़ना चाहिए',
+                                      'desc' => 'Facebook Video - 28 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr'],
+                                     ['img' => 'img/news/latest-news/news-61.jpeg',
+                                      'title' => 'मुख्य चुनाव आयुक्त ज्ञानेश कुमार को न PM बनना है न CM, फिर सत्ता की बेचैनी क्यों?: सुनील सिंह',
+                                      'desc' => 'Lokdal Press Statement - 28 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr'],
                                      ['img' => 'video/wp-video-thumb.jpeg',
                                       'title' => 'लोकदल विशेष वीडियो रील — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह',
                                       'desc' => 'Instagram Reel - 28 Sep 2026',
@@ -1582,7 +1759,7 @@
                                       'desc' => 'Kisan Sangthan baithak',
                                       'url' => 'https://www.cherishtimes.in/uttar-pradesh/41865F'],
                                  ];
-                                 $inspirationSlides = array_chunk($ourServicesArr, 22);
+                                 $inspirationSlides = array_chunk($ourServicesArr, ceil(count($ourServicesArr) / 2));
                                  ?>
                            <?php foreach ($inspirationSlides as $slideIndex => $slideItems): ?>
                            <!-- ========= Single Catagory Slide ========= -->
@@ -1657,6 +1834,38 @@
                               <!-- Post Meta -->
                               <div class="post-meta">
                                 <p>Lokdal on Feb 25, 2017 at 2:55 pm</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-63.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/news/latest-news/news-63.jpeg" class="headline">
+                              <h5>गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Press Statement - 28 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-64.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a href="https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="headline">
+                              <h5>इंडिया गठबंधन उत्तर प्रदेश में पूरी तरह मजबूत, 300+ सीटें लाकर भाजपा को चित करेंगे : सुनील सिंह</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Official (X Video) - 28 Sep 2026</p>
                               </div>
                             </a>
                           </div>
@@ -1981,6 +2190,9 @@
               </div>
               <?php
                 $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-63.jpeg', 'title' => 'गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह', 'desc' => 'Lokdal Official Press Statement - 28 Sep 2026', 'url' => 'img/news/latest-news/news-63.jpeg'],
+                  ['img' => 'img/news/latest-news/news-64.jpeg', 'title' => 'इंडिया गठबंधन उत्तर प्रदेश में पूरी तरह मजबूत, 300+ सीटें लाकर भाजपा को चित करेंगे : सुनील सिंह', 'desc' => 'Lokdal Official (@Lokdalindia - X Video) - 28 Sep 2026', 'url' => 'https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
+                  ['img' => 'img/news/latest-news/news-65.jpeg', 'title' => 'लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का तीखा संदेश — देशहित का INDIA गठबंधन कमजोर नहीं पड़ना चाहिए', 'desc' => 'Chaudhary Sunil Singh (Facebook Video) - 28 Sep 2026', 'url' => 'https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr'],
                   ['img' => 'video/wp-video-thumb.jpeg', 'title' => 'लोकदल विशेष वीडियो रील — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Instagram Reel - 28 Sep 2026', 'url' => 'https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4'],
                   ['img' => 'img/news/latest-news/news-61.jpeg', 'title' => 'मुख्य चुनाव आयुक्त ज्ञानेश कुमार को न PM बनना है न CM, फिर सत्ता की बेचैनी क्यों?: सुनील सिंह', 'desc' => 'Chaudhary Sunil Singh (Facebook Post) - 28 Sep 2026', 'url' => 'https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr'],
                   ['img' => 'img/news/latest-news/news-60.jpeg', 'title' => 'ज्ञानेश कुमार की फजीहत LIVE || CEC के खिलाफ फिर एकजुट होगा विपक्ष? इस्तीफे के लिए मोर्चेबंदी', 'desc' => 'Ajit Anjum (Facebook Video) - 28 Sep 2026', 'url' => 'https://www.facebook.com/share/v/1Hn2YdNYMt/'],
@@ -2077,6 +2289,9 @@
             </div>
             <?php 
               $ourServicesArr = [
+                ['img' => 'img/news/latest-news/news-64.jpeg','video' => 'https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg', 'name' => 'इंडिया गठबंधन यूपी में 300+ सीटें लाकर भाजपा को चित करेगा : सुनील सिंह', 'desc' => 'लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का तीखा वीडियो संदेश', 'date' => 'Lokdal Official (X Video) - 28 Sep 2026'],
+                ['img' => 'img/news/latest-news/news-65.jpeg','video' => 'https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr', 'name' => 'लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का तीखा संदेश — सहयोगी दल अपने नेताओं पर लगाम लगाएं', 'desc' => 'देशहित का INDIA गठबंधन कमजोर नहीं पड़ना चाहिए — चौधरी सुनील सिंह', 'date' => 'Facebook Video - 28 Sep 2026'],
+                ['img' => 'img/news/latest-news/news-63.jpeg','video' => 'img/news/latest-news/news-63.jpeg', 'name' => 'गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह', 'desc' => 'लोकदल आधिकारिक प्रेस विज्ञप्ति — चौधरी सुनील सिंह', 'date' => 'Lokdal Press Statement - 28 Sep 2026'],
                 ['img' => 'video/wp-video-thumb.jpeg','video' => 'https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4', 'name' => 'लोकदल विशेष वीडियो रील — चौधरी सुनील सिंह', 'desc' => 'राष्ट्रीय नेतृत्व का विशेष वीडियो संदेश', 'date' => 'Instagram Reel - 28 Sep 2026'],
                 ['img' => 'img/news/latest-news/news-61.jpeg','video' => 'https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr', 'name' => 'मुख्य चुनाव आयुक्त ज्ञानेश कुमार को न PM बनना है न CM: सुनील सिंह', 'desc' => 'लोकदल आधिकारिक फेसबुक पोस्ट — चौधरी सुनील सिंह', 'date' => 'Facebook Post - 28 Sep 2026'],
                 ['img' => 'img/news/latest-news/news-60.jpeg','video' => 'https://www.facebook.com/share/v/1Hn2YdNYMt/', 'name' => 'CEC Gyanesh Kumar के खिलाफ फिर एकजुट होगा विपक्ष? इस्तीफे के लिए मोर्चेबंदी', 'desc' => 'Ajit Anjum विशेष विश्लेषण (Facebook Video)', 'date' => 'Facebook Video - 28 Sep 2026'],
@@ -2194,6 +2409,12 @@
           </div>
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-63.jpeg'],
+              ['img' => 'img/news/latest-news/news-64.jpeg'],
+              ['img' => 'img/news/latest-news/news-65.jpeg'],
+              ['img' => 'img/news/latest-news/news-61.jpeg'],
+              ['img' => 'img/news/latest-news/news-62.jpeg'],
+              ['img' => 'img/news/latest-news/news-60.jpeg'],
               ['img' => 'img/news/latest-news/news-57.jpeg'],
               ['img' => 'img/news/latest-news/news-58.jpeg'],
               ['img' => 'img/news/latest-news/news-59.jpeg'],

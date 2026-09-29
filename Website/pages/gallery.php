@@ -1,4 +1,4 @@
-﻿<style>
+<style>
       /* width */
       ::-webkit-scrollbar {
         width: 5px;
@@ -432,7 +432,28 @@ body{
                                               </span>
                                           </a>
                                       </div>
-                                                                                                                   <div class="col-md-6 col-lg-4 p-3 grid-item web photo">
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web photo poster">
+                                           <a data-fancybox="gallery-new" href="../img/news/latest-news/news-63.jpeg" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-63.jpeg" alt="गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह" / loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-64.jpeg" alt="Chaudhary Sunil Singh X Video - 28 Sep 2026" / loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-65.jpeg" alt="Chaudhary Sunil Singh Facebook Video - 28 Sep 2026" / loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web photo">
                                            <a data-fancybox="gallery-new" href="../img/news/latest-news/news-60.jpeg" class="position-relative">
                                                <img class="img-fluid w-100" src="../img/news/latest-news/news-60.jpeg" alt="lokdal news 60" / loading="lazy" decoding="async">
                                            </a>

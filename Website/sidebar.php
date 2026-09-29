@@ -100,6 +100,9 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-63.jpeg', 'title' => 'गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह', 'date' => '28 Sep 2026', 'url' => 'img/news/latest-news/news-63.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-64.jpeg', 'title' => 'INDIA गठबंधन की एकजुटता पर चौधरी सुनील सिंह का विशेष वीडियो संदेश — X (Twitter)', 'date' => '28 Sep 2026', 'url' => 'https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
+                                    ['img' => 'img/news/latest-news/news-65.jpeg', 'title' => 'वोट चोरी, किसान और युवा मुद्दों पर चौधरी सुनील सिंह की अपील — Facebook Video', 'date' => '28 Sep 2026', 'url' => 'https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr'],
                                     ['img' => 'img/news/latest-news/news-61.jpeg', 'title' => 'मुख्य चुनाव आयुक्त ज्ञानेश कुमार को न PM बनना है न CM, फिर सत्ता की बेचैनी क्यों?: सुनील सिंह', 'date' => '28 Sep 2026', 'url' => 'https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr'],
                                     ['img' => 'img/news/latest-news/news-60.jpeg', 'title' => 'CEC के खिलाफ फिर एकजुट होगा विपक्ष? इस्तीफे के लिए मोर्चेबंदी — LIVE', 'date' => '28 Sep 2026', 'url' => 'https://www.facebook.com/share/v/1Hn2YdNYMt/'],
                                     ['img' => 'img/news/latest-news/news-62.jpeg', 'title' => 'मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर तीखा हमला: राष्ट्रीय सुदर्शन रिपोर्ट', 'date' => '26 Sep 2026', 'url' => 'img/news/latest-news/news-62.jpeg'],
