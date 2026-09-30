@@ -100,6 +100,9 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-68.jpeg', 'title' => 'SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN, 60 दिन में मांगा जवाब!', 'date' => '29 Sep 2026', 'url' => 'https://www.facebook.com/share/v/1GrxzshzGh/'],
+                                    ['img' => 'img/news/latest-news/news-67.jpeg', 'title' => 'ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई! — 4PM News LIVE', 'date' => '29 Sep 2026', 'url' => 'https://www.facebook.com/share/v/1EZDeNhw2D/'],
+                                    ['img' => 'img/news/latest-news/news-66.jpeg', 'title' => 'TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच — विशेष वीडियो रील', 'date' => '29 Sep 2026', 'url' => 'https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1'],
                                     ['img' => 'img/news/latest-news/news-63.jpeg', 'title' => 'गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह', 'date' => '28 Sep 2026', 'url' => 'img/news/latest-news/news-63.jpeg'],
                                     ['img' => 'img/news/latest-news/news-64.jpeg', 'title' => 'INDIA गठबंधन की एकजुटता पर चौधरी सुनील सिंह का विशेष वीडियो संदेश — X (Twitter)', 'date' => '28 Sep 2026', 'url' => 'https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
                                     ['img' => 'img/news/latest-news/news-65.jpeg', 'title' => 'वोट चोरी, किसान और युवा मुद्दों पर चौधरी सुनील सिंह की अपील — Facebook Video', 'date' => '28 Sep 2026', 'url' => 'https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr'],

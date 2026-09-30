@@ -217,6 +217,51 @@
                     <div class="row">
                       <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                          <!-- Single Blog Post (Facebook Video - UN & SIR Voter List Report) -->
+                           <div class="single-blog-post">
+                              <a href="https://www.facebook.com/share/v/1GrxzshzGh/" target="_blank" class="headline">
+                                <div class="post-thumbnail">
+                                  <img src="img/news/latest-news/news-68.jpeg" alt="SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN" loading="lazy" decoding="async">
+                                </div>
+                                <div class="post-content">
+                                  <h5>SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN, 60 दिन में मांगा जवाब!</h5>
+                                  <p>By GlobalNews360</p>
+                                  <div class="post-meta">
+                                    <p>Facebook Video - 29 Sep 2026</p>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                          <!-- Single Blog Post (Facebook Video - 4PM News Live) -->
+                           <div class="single-blog-post">
+                              <a href="https://www.facebook.com/share/v/1EZDeNhw2D/" target="_blank" class="headline">
+                                <div class="post-thumbnail">
+                                  <img src="img/news/latest-news/news-67.jpeg" alt="ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई!" loading="lazy" decoding="async">
+                                </div>
+                                <div class="post-content">
+                                  <h5>ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई! — 4PM News LIVE</h5>
+                                  <p>By 4PM News Network</p>
+                                  <div class="post-meta">
+                                    <p>Facebook Video - 29 Sep 2026</p>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                          <!-- Single Blog Post (Instagram Reel - Tadipaar Analysis) -->
+                           <div class="single-blog-post">
+                              <a href="https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1" target="_blank" class="headline">
+                                <div class="post-thumbnail">
+                                  <img src="img/news/latest-news/news-66.jpeg" alt="TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच" loading="lazy" decoding="async">
+                                </div>
+                                <div class="post-content">
+                                  <h5>TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच — विशेष वीडियो रील</h5>
+                                  <p>By Gaurav Shukla</p>
+                                  <div class="post-meta">
+                                    <p>Instagram Reel - 29 Sep 2026</p>
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
                           <!-- Single Blog Post (Official Press Statement - INDIA Alliance Unity) -->
                            <div class="single-blog-post">
                               <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg" class="headline">
@@ -596,6 +641,42 @@
                             }
                             ?>          
                         </div>
+                          <!-- Single Blog Post (Facebook Video - UN & SIR Voter List Report) -->
+                           <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.000001s">
+                             <div class="post-thumbnail">
+                               <a href="https://www.facebook.com/share/v/1GrxzshzGh/" target="_blank">
+                                 <img src="img/news/latest-news/news-68.jpeg" alt="SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN" loading="lazy" decoding="async">
+                               </a>
+                             </div>
+                             <div class="post-content ">
+                               <a href="https://www.facebook.com/share/v/1GrxzshzGh/" target="_blank" class="headline">
+                                 <div class="headline">
+                                   <h5>SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN, 60 दिन में मांगा जवाब!</h5>
+                                 </div>
+                                 <div class="post-meta">
+                                   <p>GlobalNews360 (Facebook Video) - 29 Sep 2026</p>
+                                 </div>
+                               </a>
+                             </div>
+                           </div>
+                          <!-- Single Blog Post (Facebook Video - 4PM News Live) -->
+                           <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.000003s">
+                             <div class="post-thumbnail">
+                               <a href="https://www.facebook.com/share/v/1EZDeNhw2D/" target="_blank">
+                                 <img src="img/news/latest-news/news-67.jpeg" alt="ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई!" loading="lazy" decoding="async">
+                               </a>
+                             </div>
+                             <div class="post-content ">
+                               <a href="https://www.facebook.com/share/v/1EZDeNhw2D/" target="_blank" class="headline">
+                                 <div class="headline">
+                                   <h5>ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई! — 4PM News LIVE</h5>
+                                 </div>
+                                 <div class="post-meta">
+                                   <p>4PM News LIVE (Facebook Video) - 29 Sep 2026</p>
+                                 </div>
+                               </a>
+                             </div>
+                           </div>
                           <!-- Single Blog Post (Official Press Statement - INDIA Alliance Unity) -->
                            <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.000005s">
                              <div class="post-thumbnail">
@@ -962,24 +1043,26 @@
                              </a>
                            </div>
                          </div>
-                         <!-- Single Blog Post (AajTak X) -->
-                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.007s">
+                       </div>
+                      <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
+                         <!-- Single Blog Post (Instagram Reel - Tadipaar Analysis) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0065s">
                            <div class="post-thumbnail">
-                             <img src="img/news/latest-news/news-46.jpeg" alt="" loading="lazy" decoding="async">
+                             <a href="https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1" target="_blank">
+                               <img src="img/news/latest-news/news-66.jpeg" alt="TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच" loading="lazy" decoding="async">
+                             </a>
                            </div>
                            <div class="post-content ">
-                             <a href="https://x.com/aajtak/status/2102412612915138588?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="headline">
+                             <a href="https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1" target="_blank" class="headline">
                                <div class="headline">
-                                 <h5>आजतक (X): राहुल गांधी से मिले लोकदल अध्यक्ष सुनील सिंह — 2027 चुनावी दांव</h5>
+                                 <h5>TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच — विशेष वीडियो रील</h5>
                                </div>
                                <div class="post-meta">
-                                 <p>AajTak News (X/Twitter) - 23 Sep 2026</p>
+                                 <p>Instagram Reel - 29 Sep 2026</p>
                                </div>
                              </a>
                            </div>
                          </div>
-                      </div>
-                      <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                          <!-- Single Blog Post (Official Press Statement Highlight) -->
                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0075s">
                            <div class="post-thumbnail">
@@ -994,6 +1077,22 @@
                                </div>
                                <div class="post-meta">
                                  <p>Lokdal Press Statement - 28 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (AajTak X) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.007s">
+                           <div class="post-thumbnail">
+                             <img src="img/news/latest-news/news-46.jpeg" alt="" loading="lazy" decoding="async">
+                           </div>
+                           <div class="post-content ">
+                             <a href="https://x.com/aajtak/status/2102412612915138588?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="headline">
+                               <div class="headline">
+                                 <h5>आजतक (X): राहुल गांधी से मिले लोकदल अध्यक्ष सुनील सिंह — 2027 चुनावी दांव</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>AajTak News (X/Twitter) - 23 Sep 2026</p>
                                </div>
                              </a>
                            </div>
@@ -1566,6 +1665,22 @@
                         <div class="world-catagory-slider2 owl-carousel wow fadeInUpBig" data-wow-delay="0.4s">
                           <?php 
                             $ourServicesArr = [
+                                     ['img' => 'img/news/latest-news/news-68.jpeg',
+                                      'title' => 'SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN, 60 दिन में मांगा जवाब!',
+                                      'desc' => 'GlobalNews360 (Facebook Video) - 29 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/v/1GrxzshzGh/'],
+                                     ['img' => 'img/news/latest-news/news-67.jpeg',
+                                      'title' => 'ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई! — 4PM News LIVE',
+                                      'desc' => '4PM News LIVE (Facebook Video) - 29 Sep 2026',
+                                      'url' => 'https://www.facebook.com/share/v/1EZDeNhw2D/'],
+                                     ['img' => 'img/news/latest-news/news-66.jpeg',
+                                      'title' => 'TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच — विशेष वीडियो रील',
+                                      'desc' => 'Instagram Reel - 29 Sep 2026',
+                                      'url' => 'https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1'],
+                                     ['img' => 'img/news/latest-news/news-62.jpeg',
+                                      'title' => 'मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर तीखा हमला: राष्ट्रीय सुदर्शन विशेष प्रेस रिपोर्ट',
+                                      'desc' => 'Rashtriya Sudarshan - 26 Sep 2026',
+                                      'url' => 'img/news/latest-news/news-62.jpeg'],
                                      ['img' => 'img/news/latest-news/news-63.jpeg',
                                       'title' => 'गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह',
                                       'desc' => 'Lokdal Press Statement - 28 Sep 2026',
@@ -1834,6 +1949,38 @@
                               <!-- Post Meta -->
                               <div class="post-meta">
                                 <p>Lokdal on Feb 25, 2017 at 2:55 pm</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-68.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a href="https://www.facebook.com/share/v/1GrxzshzGh/" target="_blank" class="headline">
+                              <h5>SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN, 60 दिन में मांगा जवाब!</h5>
+                              <div class="post-meta">
+                                <p>GlobalNews360 (Facebook Video) - 29 Sep 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/news/latest-news/news-67.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a href="https://www.facebook.com/share/v/1EZDeNhw2D/" target="_blank" class="headline">
+                              <h5>ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई! — 4PM News LIVE</h5>
+                              <div class="post-meta">
+                                <p>4PM News LIVE (Facebook Video) - 29 Sep 2026</p>
                               </div>
                             </a>
                           </div>
@@ -2190,6 +2337,9 @@
               </div>
               <?php
                 $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-68.jpeg', 'title' => 'SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN, 60 दिन में मांगा जवाब!', 'desc' => 'GlobalNews360 (Facebook Video) - 29 Sep 2026', 'url' => 'https://www.facebook.com/share/v/1GrxzshzGh/'],
+                  ['img' => 'img/news/latest-news/news-67.jpeg', 'title' => 'ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई! — 4PM News LIVE', 'desc' => '4PM News LIVE (Facebook Video) - 29 Sep 2026', 'url' => 'https://www.facebook.com/share/v/1EZDeNhw2D/'],
+                  ['img' => 'img/news/latest-news/news-66.jpeg', 'title' => 'TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच — विशेष वीडियो रील', 'desc' => 'Instagram Reel - 29 Sep 2026', 'url' => 'https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1'],
                   ['img' => 'img/news/latest-news/news-63.jpeg', 'title' => 'गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह', 'desc' => 'Lokdal Official Press Statement - 28 Sep 2026', 'url' => 'img/news/latest-news/news-63.jpeg'],
                   ['img' => 'img/news/latest-news/news-64.jpeg', 'title' => 'इंडिया गठबंधन उत्तर प्रदेश में पूरी तरह मजबूत, 300+ सीटें लाकर भाजपा को चित करेंगे : सुनील सिंह', 'desc' => 'Lokdal Official (@Lokdalindia - X Video) - 28 Sep 2026', 'url' => 'https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
                   ['img' => 'img/news/latest-news/news-65.jpeg', 'title' => 'लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का तीखा संदेश — देशहित का INDIA गठबंधन कमजोर नहीं पड़ना चाहिए', 'desc' => 'Chaudhary Sunil Singh (Facebook Video) - 28 Sep 2026', 'url' => 'https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr'],
@@ -2289,6 +2439,9 @@
             </div>
             <?php 
               $ourServicesArr = [
+                ['img' => 'img/news/latest-news/news-68.jpeg','video' => 'https://www.facebook.com/share/v/1GrxzshzGh/', 'name' => 'SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN', 'desc' => 'वोटर सूची (SIR) और चुनाव आयोग की प्रक्रिया पर संयुक्त राष्ट्र में उठे गंभीर सवाल — 60 दिन में मांगा जवाब!', 'date' => 'GlobalNews360 (Facebook Video) - 29 Sep 2026'],
+                ['img' => 'img/news/latest-news/news-67.jpeg','video' => 'https://www.facebook.com/share/v/1EZDeNhw2D/', 'name' => 'ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई!', 'desc' => '4PM News LIVE — संजय शर्मा व आचार्य राजीव नारायण शर्मा की विशेष चर्चा', 'date' => '4PM News LIVE (Facebook Video) - 29 Sep 2026'],
+                ['img' => 'img/news/latest-news/news-66.jpeg','video' => 'https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1', 'name' => 'TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच — विशेष वीडियो रील', 'desc' => 'सत्ता और सियासत के इतिहास पर विशेष वीडियो विश्लेषण', 'date' => 'Instagram Reel - 29 Sep 2026'],
                 ['img' => 'img/news/latest-news/news-64.jpeg','video' => 'https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg', 'name' => 'इंडिया गठबंधन यूपी में 300+ सीटें लाकर भाजपा को चित करेगा : सुनील सिंह', 'desc' => 'लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का तीखा वीडियो संदेश', 'date' => 'Lokdal Official (X Video) - 28 Sep 2026'],
                 ['img' => 'img/news/latest-news/news-65.jpeg','video' => 'https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr', 'name' => 'लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह का तीखा संदेश — सहयोगी दल अपने नेताओं पर लगाम लगाएं', 'desc' => 'देशहित का INDIA गठबंधन कमजोर नहीं पड़ना चाहिए — चौधरी सुनील सिंह', 'date' => 'Facebook Video - 28 Sep 2026'],
                 ['img' => 'img/news/latest-news/news-63.jpeg','video' => 'img/news/latest-news/news-63.jpeg', 'name' => 'गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह', 'desc' => 'लोकदल आधिकारिक प्रेस विज्ञप्ति — चौधरी सुनील सिंह', 'date' => 'Lokdal Press Statement - 28 Sep 2026'],
@@ -2409,6 +2562,9 @@
           </div>
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-68.jpeg'],
+              ['img' => 'img/news/latest-news/news-67.jpeg'],
+              ['img' => 'img/news/latest-news/news-66.jpeg'],
               ['img' => 'img/news/latest-news/news-63.jpeg'],
               ['img' => 'img/news/latest-news/news-64.jpeg'],
               ['img' => 'img/news/latest-news/news-65.jpeg'],

@@ -432,6 +432,30 @@ body{
                                               </span>
                                           </a>
                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1GrxzshzGh/" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-68.jpeg" alt="SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN" / loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1EZDeNhw2D/" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-67.jpeg" alt="ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई!" / loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-66.jpeg" alt="TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच" / loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item web photo poster">
                                            <a data-fancybox="gallery-new" href="../img/news/latest-news/news-63.jpeg" class="position-relative">
                                                <img class="img-fluid w-100" src="../img/news/latest-news/news-63.jpeg" alt="गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह" / loading="lazy" decoding="async">
