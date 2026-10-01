@@ -1698,6 +1698,18 @@
                                       'desc' => 'Lokdal Press Statement - 28 Sep 2026',
                                       'url' => 'https://www.facebook.com/share/p/1c9wGrwSyc/?mibextid=wwXIfr'],
                                      ['img' => 'video/wp-video-thumb.jpeg',
+                                      'title' => 'लोकदल विशेष इंस्टाग्राम रील — चौधरी सुनील सिंह',
+                                      'desc' => 'Instagram Reel - Latest Update',
+                                      'url' => 'https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1'],
+                                     ['img' => 'video/fb-gathbandhan.jpg',
+                                      'title' => 'लोकदल विशेष फेसबुक वीडियो — चौधरी सुनील सिंह',
+                                      'desc' => 'Facebook Video - Latest Update',
+                                      'url' => 'https://www.facebook.com/share/v/1EZDeNhw2D/'],
+                                     ['img' => 'video/fb-divya.jpg',
+                                      'title' => 'लोकदल नवीन फेसबुक वीडियो संवाद',
+                                      'desc' => 'Facebook Video - Latest Update',
+                                      'url' => 'https://www.facebook.com/share/v/1GrxzshzGh/'],
+                                     ['img' => 'video/wp-video-thumb.jpeg',
                                       'title' => 'लोकदल विशेष वीडियो रील — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह',
                                       'desc' => 'Instagram Reel - 28 Sep 2026',
                                       'url' => 'https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4'],
@@ -2337,6 +2349,7 @@
               </div>
               <?php
                 $latestDailyUpdates = [
+                  ['img' => 'video/wp-video-thumb.jpeg', 'title' => 'लोकदल विशेष WhatsApp वीडियो — 01 Oct 2026', 'desc' => 'WhatsApp Video - 01 Oct 2026', 'url' => 'video/wa-oct01.mp4'],
                   ['img' => 'img/news/latest-news/news-68.jpeg', 'title' => 'SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN, 60 दिन में मांगा जवाब!', 'desc' => 'GlobalNews360 (Facebook Video) - 29 Sep 2026', 'url' => 'https://www.facebook.com/share/v/1GrxzshzGh/'],
                   ['img' => 'img/news/latest-news/news-67.jpeg', 'title' => 'ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई! — 4PM News LIVE', 'desc' => '4PM News LIVE (Facebook Video) - 29 Sep 2026', 'url' => 'https://www.facebook.com/share/v/1EZDeNhw2D/'],
                   ['img' => 'img/news/latest-news/news-66.jpeg', 'title' => 'TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच — विशेष वीडियो रील', 'desc' => 'Instagram Reel - 29 Sep 2026', 'url' => 'https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1'],
@@ -2439,6 +2452,7 @@
             </div>
             <?php 
               $ourServicesArr = [
+                ['img' => 'video/wp-video-thumb.jpeg','video' => 'video/wa-oct01.mp4', 'name' => 'लोकदल विशेष WhatsApp वीडियो', 'desc' => 'चौधरी सुनील सिंह का विशेष संदेश', 'date' => 'WhatsApp Video - 01 Oct 2026'],
                 ['img' => 'img/news/latest-news/news-68.jpeg','video' => 'https://www.facebook.com/share/v/1GrxzshzGh/', 'name' => 'SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN', 'desc' => 'वोटर सूची (SIR) और चुनाव आयोग की प्रक्रिया पर संयुक्त राष्ट्र में उठे गंभीर सवाल — 60 दिन में मांगा जवाब!', 'date' => 'GlobalNews360 (Facebook Video) - 29 Sep 2026'],
                 ['img' => 'img/news/latest-news/news-67.jpeg','video' => 'https://www.facebook.com/share/v/1EZDeNhw2D/', 'name' => 'ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई!', 'desc' => '4PM News LIVE — संजय शर्मा व आचार्य राजीव नारायण शर्मा की विशेष चर्चा', 'date' => '4PM News LIVE (Facebook Video) - 29 Sep 2026'],
                 ['img' => 'img/news/latest-news/news-66.jpeg','video' => 'https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1', 'name' => 'TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच — विशेष वीडियो रील', 'desc' => 'सत्ता और सियासत के इतिहास पर विशेष वीडियो विश्लेषण', 'date' => 'Instagram Reel - 29 Sep 2026'],
