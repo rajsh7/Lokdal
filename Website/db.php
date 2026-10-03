@@ -7,7 +7,14 @@ $username="root";
 $password="";
 $db="lokdal";
 
-$con = @mysqli_connect($server, $username, $password, $db);
+try {
+    if (function_exists('mysqli_report')) {
+        @mysqli_report(MYSQLI_REPORT_OFF);
+    }
+    $con = @mysqli_connect($server, $username, $password, $db);
+} catch (Throwable $e) {
+    $con = false;
+}
 
 if(!$con){
     $con = false;

@@ -100,6 +100,20 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-78.jpeg', 'title' => '🔴 [एक्सक्लूसिव वीडियो 1] जंतर-मंतर हिरासत बस से चौधरी सुनील सिंह का लाइव संदेश', 'date' => '02 Oct 2026', 'url' => 'video/wp-video-7.mp4'],
+                                    ['img' => 'video/wp-video-8-thumb.jpg', 'title' => '🔴 [ग्राउंड वीडियो 2] जंतर-मंतर जेल भरो आंदोलन: धारा 163 व मीडिया कवरेज', 'date' => '02 Oct 2026', 'url' => 'video/wp-video-8.mp4'],
+                                    ['img' => 'img/news/latest-news/news-76.jpeg', 'title' => 'स्वदेश (03 Oct 2026): 2027 का रण: सपा का पीडीए रथ — “लोकदल इंडिया गठबंधन का मजबूत घटक है” : सुनील सिंह', 'date' => '03 Oct 2026', 'url' => 'img/news/latest-news/news-76.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-77.jpeg', 'title' => 'राष्ट्रीय सुदर्शन: गांधी जयंती पर जंतर-मंतर से लोकदल का जेल भरो आंदोलन : चौधरी सुनील सिंह', 'date' => '02 Oct 2026', 'url' => 'img/news/latest-news/news-77.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-78.jpeg', 'title' => 'जंतर-मंतर जेल भरो आंदोलन: दिल्ली पुलिस बस में राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह व नेतागण', 'date' => '02 Oct 2026', 'url' => 'img/news/latest-news/news-78.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-71.jpeg', 'title' => 'गांधी जयंती पर जंतर-मंतर से लोकदल ने शुरू किया जेल भरो आंदोलन : चौधरी सुनील सिंह — Cherish Times', 'date' => '02 Oct 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/90755'],
+                                    ['img' => 'img/news/latest-news/news-70.jpeg', 'title' => 'जंतर-मंतर पर चुनाव आयुक्त के विरुद्ध \'जेल भरो आंदोलन\'; राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह हिरासत में — सूर्योदय भारत', 'date' => '02 Oct 2026', 'url' => 'https://suryodaybharat.com/lokdals-fill-the-jails-protest-against-the-election-commissioner-at-jantar-mantar-national-president-chaudhary-sunil-singh-in-police-custody/'],
+                                    ['img' => 'img/news/latest-news/news-69.jpeg', 'title' => '4tv News Satellite: गांधी जयंती पर जंतर-मंतर से लोकदल का जेल भरो आंदोलन (YouTube Video)', 'date' => '02 Oct 2026', 'url' => 'https://youtu.be/6Tz2jiiP7G0?si=_fLFHVCDp-0oT_Jc'],
+                                    ['img' => 'img/news/latest-news/news-74.jpeg', 'title' => 'PPN News: गांधी जयंती पर जंतर-मंतर से लोकदल ने शुरू किया जेल भरो आंदोलन : चौधरी सुनील सिंह', 'date' => '02 Oct 2026', 'url' => 'https://prakashprabhaw.com/khabar-hatke/jail-bharo-andolan/detail'],
+                                    ['img' => 'img/news/latest-news/news-72.jpeg', 'title' => 'स्वर्णप्रिया: जंतर-मंतर से लोकदल का ‘जेल भरो’ आंदोलन, चौधरी सुनील सिंह समेत प्रदर्शनकारी हिरासत में', 'date' => '02 Oct 2026', 'url' => 'https://swarnapriya.com/?p=37012'],
+                                    ['img' => 'img/news/latest-news/news-73.png', 'title' => 'बहुजन विचार: मतदाता अधिकार और लोकतांत्रिक संस्थाओं की जवाबदेही पर जेल भरो आंदोलन — सुनील सिंह', 'date' => '02 Oct 2026', 'url' => 'https://bahujanvichar.com/raising-questions-regarding-voters-rights-and-the-accountability-of-democratic-institutions-is-the-democratic-right-of-any-citizen/'],
+                                    ['img' => 'img/news/latest-news/news-75.jpeg', 'title' => 'लोकदल आधिकारिक फेसबुक: यह सिर्फ शुरुआत है! जेल भरो आंदोलन शुरू, रुकेंगे नहीं किसान और युवा', 'date' => '02 Oct 2026', 'url' => 'https://www.facebook.com/share/18LQencKAf/?mibextid=wwXIfr'],
+                                    ['img' => 'img/news/latest-news/news-73.png', 'title' => 'बहुजन विचार वीडियो: पीएम और गृह मंत्री के खिलाफ आंदोलन की औपचारिक घोषणा — सुनील सिंह', 'date' => '02 Oct 2026', 'url' => 'https://www.facebook.com/share/v/1QLV5avxig/'],
+                                    ['img' => 'img/news/latest-news/news-74.jpeg', 'title' => 'PPN वीडियो: जंतर-मंतर से लोकदल का जेल भरो आंदोलन, सुनील सिंह पुलिस हिरासत में — Facebook Live', 'date' => '02 Oct 2026', 'url' => 'https://www.facebook.com/share/v/18CwLzxjMe/'],
                                     ['img' => 'img/news/latest-news/news-68.jpeg', 'title' => 'SIR को लेकर भारत की इंटरनेशनल बेइज्जती: ज्ञानेश कुमार पर बुरी तरह भड़का UN, 60 दिन में मांगा जवाब!', 'date' => '29 Sep 2026', 'url' => 'https://www.facebook.com/share/v/1GrxzshzGh/'],
                                     ['img' => 'img/news/latest-news/news-67.jpeg', 'title' => 'ज्योतिषी का चौंकाने वाला दावा, ग्रहों ने तय कर दी मोदी और ज्ञानेश कुमार की विदाई! — 4PM News LIVE', 'date' => '29 Sep 2026', 'url' => 'https://www.facebook.com/share/v/1EZDeNhw2D/'],
                                     ['img' => 'img/news/latest-news/news-66.jpeg', 'title' => 'TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच — विशेष वीडियो रील', 'date' => '29 Sep 2026', 'url' => 'https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1'],
@@ -139,8 +153,36 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                         </div>
                         <!-- Widget Area: Featured Speeches -->
                         <div class="sidebar-widget-area">
-                            <h5 class="title">विशेष वीडियो संबोधन</h5>
+                            <h5 class="title" style="background:#b30000; color:#fff; padding:6px 12px; border-radius:4px;"><i class="fa fa-video-camera"></i> 🔴 लाइव वीडियो संबोधन</h5>
                             <div class="widget-content">
+                                <!-- Exclusive Video 1 -->
+                                <div class="single-blog-post mb-3" style="border: 2px solid #b30000; border-radius: 6px; padding: 6px; background: #fff5f5;">
+                                    <div class="post-thumbnail" style="position: relative;">
+                                        <img src="img/news/latest-news/news-78.jpeg" alt="हिरासत बस से लाइव संदेश" style="width: 100%; height: 160px; object-fit: cover; border-radius: 4px;" loading="lazy" decoding="async">
+                                        <a href="video/wp-video-7.mp4" target="_blank" class="video-btn"><i class="fa fa-play"></i></a>
+                                        <span style="position: absolute; top: 6px; left: 6px; background: #ff0000; color: #fff; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 3px;">🔴 EXCLUSIVE</span>
+                                    </div>
+                                    <div class="post-content pt-2">
+                                        <a href="video/wp-video-7.mp4" target="_blank" class="headline">
+                                            <h5 style="color: #b30000; font-size: 13.5px; font-weight: 700;">जंतर-मंतर: दिल्ली पुलिस हिरासत बस से राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का लाइव संदेश</h5>
+                                            <div class="post-meta"><p style="color: #666; font-size: 11px;">जेल भरो आंदोलन Live Video - 02 Oct 2026</p></div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <!-- Exclusive Video 2 -->
+                                <div class="single-blog-post mb-3" style="border: 2px solid #e67e22; border-radius: 6px; padding: 6px; background: #fff9f5;">
+                                    <div class="post-thumbnail" style="position: relative;">
+                                        <img src="video/wp-video-8-thumb.jpg" alt="जंतर-मंतर ग्राउंड कवरेज" style="width: 100%; height: 160px; object-fit: cover; border-radius: 4px;" loading="lazy" decoding="async">
+                                        <a href="video/wp-video-8.mp4" target="_blank" class="video-btn"><i class="fa fa-play"></i></a>
+                                        <span style="position: absolute; top: 6px; left: 6px; background: #e67e22; color: #fff; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 3px;">🔴 GROUND REPORT</span>
+                                    </div>
+                                    <div class="post-content pt-2">
+                                        <a href="video/wp-video-8.mp4" target="_blank" class="headline">
+                                            <h5 style="color: #b30000; font-size: 13.5px; font-weight: 700;">जंतर-मंतर ग्राउंड: धारा 163 के बीच नेशनल मीडिया व भारी पुलिस बल कवरेज</h5>
+                                            <div class="post-meta"><p style="color: #666; font-size: 11px;">जंतर-मंतर ग्राउंड रिपोर्ट - 02 Oct 2026</p></div>
+                                        </a>
+                                    </div>
+                                </div>
                                 <div class="single-blog-post mb-3">
                                     <div class="post-thumbnail">
                                         <img src="https://img.youtube.com/vi/1sJB7x3NSOE/hqdefault.jpg" alt="" loading="lazy" decoding="async">
