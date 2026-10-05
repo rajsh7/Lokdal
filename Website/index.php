@@ -95,17 +95,22 @@
             <strong style="color: #ffeb3b; font-size: 13.5px;">03 Oct 2026:</strong>
           </div>
           <div class="d-flex flex-wrap align-items-center justify-content-center my-1" style="gap: 6px;">
-            <a href="#exclusive-videos" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px; box-shadow: 0 0 10px rgba(255,0,0,0.7);"><i class="fa fa-play-circle"></i> 🔴 2 लाइव वीडियो</a>
+            <a href="#exclusive-videos" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px; box-shadow: 0 0 10px rgba(255,0,0,0.7);"><i class="fa fa-play-circle"></i> 🔴 3 लाइव वीडियो</a>
             <a data-lightbox="breaking-news" href="img/news/latest-news/news-76.jpeg" class="btn btn-sm" style="background:#ffeb3b; color:#000; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-newspaper-o"></i> स्वदेश (03 Oct)</a>
+            <a data-lightbox="breaking-news" href="img/news/latest-news/news-81.jpeg" class="btn btn-sm" style="background:#e8f5e9; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border: 1px solid #00772D;"><i class="fa fa-newspaper-o"></i> स्वदेश (02 Oct)</a>
             <a data-lightbox="breaking-news" href="img/news/latest-news/news-77.jpeg" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-newspaper-o"></i> राष्ट्रीय सुदर्शन</a>
             <a data-lightbox="breaking-news" href="img/news/latest-news/news-78.jpeg" class="btn btn-sm" style="background:#ff3333; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-camera"></i> पुलिस बस फोटो</a>
+            <a href="https://www.instagram.com/reel/DeG9hnmBwcv/?stkn=azBmNGxkd3prNmNq" target="_blank" class="btn btn-sm" style="background:linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-instagram"></i> Instagram रील</a>
+            <a href="https://youtu.be/6Tz2jiiP7G0?si=_fLFHVCDp-0oT_Jc" target="_blank" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-youtube-play"></i> 4tv News</a>
+            <a href="https://www.facebook.com/share/v/1QLV5avxig/" target="_blank" class="btn btn-sm" style="background:#1877f2; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-facebook-play"></i> FB Video</a>
+            <a href="https://www.facebook.com/share/18LQencKAf/?mibextid=wwXIfr" target="_blank" class="btn btn-sm" style="background:#1877f2; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-facebook"></i> Post</a>
+            <a href="https://www.facebook.com/share/v/18CwLzxjMe/" target="_blank" class="btn btn-sm" style="background:#1877f2; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-facebook-square"></i> PPN Live</a>
             <a href="https://www.cherishtimes.in/uttar-pradesh/90755" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;">Cherish Times</a>
             <a href="https://suryodaybharat.com/lokdals-fill-the-jails-protest-against-the-election-commissioner-at-jantar-mantar-national-president-chaudhary-sunil-singh-in-police-custody/" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;">सूर्योदय भारत</a>
-            <a href="https://youtu.be/6Tz2jiiP7G0?si=_fLFHVCDp-0oT_Jc" target="_blank" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-youtube-play"></i> 4tv News</a>
             <a href="https://prakashprabhaw.com/khabar-hatke/jail-bharo-andolan/detail" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;">PPN News</a>
             <a href="https://swarnapriya.com/?p=37012" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;">स्वर्णप्रिया</a>
             <a href="https://bahujanvichar.com/raising-questions-regarding-voters-rights-and-the-accountability-of-democratic-institutions-is-the-democratic-right-of-any-citizen/" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;">बहुजन विचार</a>
-            <a href="https://www.facebook.com/share/18LQencKAf/?mibextid=wwXIfr" target="_blank" class="btn btn-sm" style="background:#1877f2; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-facebook"></i> Post</a>
+            <a href="donate.php" class="btn btn-sm" style="background:#00772D; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-heart"></i> दान सहयोग (₹50k)</a>
           </div>
         </div>
       </div>
@@ -288,8 +293,8 @@
                     </span>
                     <span class="text-danger font-weight-bold" style="font-size: 12px;">नई दिल्ली | 02 Oct 2026</span>
                   </div>
-                  <h6 class="font-weight-bold mb-2" style="color: #8b0000; font-size: 15px; line-height: 1.45;">
-                    गांधी जयंती पर जंतर-मंतर से लोकदल ने शुरू किया ‘जेल भरो आंदोलन’ : राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह समेत सैकड़ों कार्यकर्ता पुलिस हिरासत में
+                  <h6 class="font-weight-bold mb-2" style="color: #8b0000; font-size: 15.5px; line-height: 1.45;">
+                    🔥 जेल भरो आंदोलन शुरू! इंडिया गठबंधन और लोकदल का ऐलान — अब तानाशाही से लड़ने का समय आ गया है 🔥
                   </h6>
                   <div class="row align-items-start">
                     <div class="col-12 col-sm-5 mb-2 mb-sm-0">
@@ -302,32 +307,84 @@
                     </div>
                     <div class="col-12 col-sm-7" style="font-size: 13px; line-height: 1.6; color: #2d3748;">
                       <p class="mb-1">
-                        <strong>नई दिल्ली।</strong> मतदाता अधिकारों व पारदर्शी चुनावी व्यवस्था हेतु जंतर-मंतर पर विशाल विरोध-प्रदर्शन में लोकदल राष्ट्रीय अध्यक्ष <strong>चौधरी सुनील सिंह</strong> के नेतृत्व में 'जेल भरो आंदोलन' शुरू हुआ।
+                        <strong>गांधी जयंती। जंतर-मंतर, दिल्ली।</strong> वोट चोरी के खिलाफ खड़े लोकदल के राष्ट्रीय अध्यक्ष <strong>चौधरी सुनील सिंह</strong> और किसानों को उठाकर पुलिस बस में बंद कर दिया गया। ज्ञानेश कुमार जवाब नहीं दे रहे। वोट चोरी पर सवाल पूछना जुर्म बना दिया गया। गांधी की जयंती पर अहिंसक आवाज़ को गिरफ्तारी से कुचला गया।
                       </p>
-                      <div style="background: #fde8e8; border-left: 3px solid #b30000; padding: 6px 10px; border-radius: 0 4px 4px 0; margin: 6px 0; font-size: 12px; font-weight: 600; color: #7f0000;">
-                        “यह सिर्फ शुरुआत है! देश का किसान और नौजवान अधिकारों की रक्षा के लिए अब रुकने वाले नहीं हैं।”
+                      <div style="background: #fde8e8; border-left: 3px solid #b30000; padding: 6px 10px; border-radius: 0 4px 4px 0; margin: 6px 0; font-size: 12px; font-weight: 700; color: #7f0000;">
+                        “इसी का जवाब है — जेल भरो आंदोलन! डरकर घर नहीं बैठेंगे। जेल भरेंगे, सड़क पर रहेंगे। वोट चोरी, किसान की लूट और लोकतंत्र पर हमले का हिसाब लेंगे।”
                       </div>
+                      <p class="mb-1 text-muted" style="font-size: 12px;">
+                        एक गिरफ्तारी से आंदोलन नहीं रुकता। एक बस से आवाज़ नहीं दबती। जितने नेता उठाओगे, उतने और निकलेंगे। यह अब सिर्फ एक गिरफ्तारी नहीं है, यह तानाशाही के खिलाफ लड़ाई है। वोट हमारा, हक हमारा। जेल भरो — लेकिन झुको नहीं। अभी नहीं तो कभी नहीं!
+                      </p>
                     </div>
+                  </div>
+
+                  <!-- Key Highlights Points -->
+                  <div class="mt-2 p-2 rounded" style="background: #fff; border: 1px solid #fecaca; font-size: 12.5px;">
+                    <strong class="d-block text-danger mb-1"><i class="fa fa-flag mr-1"></i> (SD) जंतर-मंतर पर गर्जा लोकदल: मुख्य बिंदु</strong>
+                    <ul class="list-unstyled mb-0" style="line-height: 1.55; color: #374151;">
+                      <li class="mb-1"><i class="fa fa-hand-o-right text-danger mr-1"></i> गांधी जयंती पर जंतर-मंतर पर चुनावी प्रक्रिया व मतदाता अधिकारों को लेकर लोकदल का बड़ा विरोध-प्रदर्शन आयोजित हुआ।</li>
+                      <li class="mb-1"><i class="fa fa-hand-o-right text-danger mr-1"></i> प्रदर्शन के दौरान लोकदल के राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह और कई किसान-कार्यकर्ताओं को पुलिस ने हिरासत में लिया।</li>
+                      <li class="mb-1"><i class="fa fa-hand-o-right text-danger mr-1"></i> चौधरी सुनील सिंह ने ऐलान किया कि जंतर-मंतर से शुरू हुआ यह 'जेल भरो आंदोलन' किसानों व आम जनता की आवाज बुलंद करेगा।</li>
+                      <li><i class="fa fa-hand-o-right text-danger mr-1"></i> उन्होंने स्पष्ट किया कि लोकदल 'INDIA गठबंधन' के साथ मिलकर लोकतांत्रिक अधिकारों व पारदर्शी चुनाव के लिए अहिंसक संघर्ष जारी रखेगा।</li>
+                    </ul>
                   </div>
 
                   <!-- Media Coverage Buttons -->
                   <div class="mt-2 pt-2" style="border-top: 1px solid #fed7d7;">
-                    <small class="font-weight-bold d-block mb-1 text-dark">प्रमुख मीडिया कवरेज पढ़ें:</small>
+                    <small class="font-weight-bold d-block mb-1 text-dark">कवरेज एवं आधिकारिक वीडियो लिंक्स:</small>
                     <div class="d-flex flex-wrap" style="gap: 5px;">
+                      <a href="https://www.instagram.com/reel/DeG9hnmBwcv/?stkn=azBmNGxkd3prNmNq" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-instagram"></i> Instagram रील</a>
+                      <a href="https://youtu.be/6Tz2jiiP7G0?si=_fLFHVCDp-0oT_Jc" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-youtube-play"></i> 4tv News Video</a>
+                      <a href="https://www.facebook.com/share/v/1QLV5avxig/" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-play"></i> बहुजन विचार Video</a>
+                      <a href="https://www.facebook.com/share/18LQencKAf/?mibextid=wwXIfr" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook"></i> फेसबुक पोस्ट</a>
+                      <a href="https://www.facebook.com/share/v/18CwLzxjMe/" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> PPN Live</a>
                       <a href="https://www.cherishtimes.in/uttar-pradesh/90755" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2" style="font-size: 11px; font-weight: 600;">Cherish Times</a>
                       <a href="https://suryodaybharat.com/lokdals-fill-the-jails-protest-against-the-election-commissioner-at-jantar-mantar-national-president-chaudhary-sunil-singh-in-police-custody/" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2" style="font-size: 11px; font-weight: 600;">सूर्योदय भारत</a>
+                      <a href="https://prakashprabhaw.com/khabar-hatke/jail-bharo-andolan/detail" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2" style="font-size: 11px; font-weight: 600;">PPN News</a>
                       <a href="https://swarnapriya.com/?p=37012" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2" style="font-size: 11px; font-weight: 600;">स्वर्णप्रिया</a>
                       <a href="https://bahujanvichar.com/raising-questions-regarding-voters-rights-and-the-accountability-of-democratic-institutions-is-the-democratic-right-of-any-citizen/" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2" style="font-size: 11px; font-weight: 600;">बहुजन विचार</a>
-                      <a href="https://prakashprabhaw.com/khabar-hatke/jail-bharo-andolan/detail" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2" style="font-size: 11px; font-weight: 600;">PPN News</a>
                     </div>
                   </div>
                 </div>
 
-                <!-- Featured Section 3: 🔴 EXCLUSIVE LIVE VIDEOS (DOWNLOAD BUTTONS REMOVED) -->
+                <!-- Story 3: Swadesh 02 Oct 2026 & Press Clippings -->
+                <div class="mb-3 p-3" style="background: #f0fdf4; border: 1.5px solid #16a34a; border-radius: 8px;">
+                  <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
+                    <span class="badge badge-success px-2 py-1" style="font-size: 11.5px; background: #16a34a;">
+                      <i class="fa fa-newspaper-o mr-1"></i> स्वदेश (SWADESH) • 02 Oct 2026
+                    </span>
+                    <span class="text-success font-weight-bold" style="font-size: 12px;">लखनऊ | 02 Oct 2026 | पृष्ठ - 3</span>
+                  </div>
+                  <h6 class="font-weight-bold mb-2" style="color: #14532d; font-size: 15px; line-height: 1.45;">
+                    ‘इंडिया’ गठबंधन में फूट का दावा करने वालों को जनता देगी जवाब : राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                  </h6>
+                  <div class="row align-items-start">
+                    <div class="col-12 col-sm-4 mb-2 mb-sm-0 text-center">
+                      <a data-lightbox="press-clippings" href="img/news/latest-news/news-81.jpeg" title="स्वदेश (02 Oct 2026) - ‘इंडिया’ गठबंधन में फूट का दावा करने वालों को जनता देगी जवाब">
+                        <img src="img/news/latest-news/news-81.jpeg" alt="स्वदेश समाचार पत्र कवरेज (02 Oct 2026)" style="width: 100%; border-radius: 5px; border: 1px solid #16a34a;" loading="lazy">
+                      </a>
+                      <div class="d-flex mt-1 justify-content-center" style="gap: 4px;">
+                        <a data-lightbox="press-clippings" href="img/news/latest-news/news-82.jpeg" class="badge badge-light border p-1" title="अखबार कटिंग 2">कटिंग 2</a>
+                        <a data-lightbox="press-clippings" href="img/news/latest-news/news-83.jpeg" class="badge badge-light border p-1" title="अखबार कटिंग 3">कटिंग 3</a>
+                        <a data-lightbox="press-clippings" href="img/news/latest-news/news-84.jpeg" class="badge badge-light border p-1" title="अखबार कटिंग 4">कटिंग 4</a>
+                      </div>
+                    </div>
+                    <div class="col-12 col-sm-8" style="font-size: 13px; line-height: 1.6; color: #2d3748;">
+                      <p class="mb-1">
+                        <strong>लखनऊ।</strong> लोकदल राष्ट्रीय अध्यक्ष एवं पूर्व एमएलसी <strong>चौधरी सुनील सिंह</strong> ने 'इंडिया' गठबंधन में फूट के दावों पर पलटवार किया। उन्होंने कहा कि गठबंधन के साथियों के बीच लोकतांत्रिक विचार-विमर्श होना किसी फूट का संकेत नहीं है।
+                      </p>
+                      <div style="background: #dcfce7; border-left: 3px solid #16a34a; padding: 6px 10px; border-radius: 0 4px 4px 0; margin: 6px 0; font-size: 12px; color: #14532d;">
+                        “दल अलग-अलग हो सकते हैं लेकिन जनहित के मुद्दों पर पूरा विपक्ष एकजुट है। सत्ता पक्ष को रोजगार, महंगाई व किसानों से जुड़े सवालों के जवाब देने चाहिए।”
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Featured Section 4: 🔴 3 EXCLUSIVE LIVE VIDEOS (DOWNLOAD BUTTONS REMOVED) -->
                 <div id="exclusive-videos" class="mb-3 p-3" style="background: linear-gradient(135deg, #1a0000 0%, #300000 100%); border: 2px solid #ffcc00; border-radius: 8px; color: #fff;">
                   <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
                     <span class="badge badge-danger px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #ff0000;">
-                      <i class="fa fa-circle mr-1" style="font-size: 8px; animation: blinker 1s infinite;"></i> 🔴 एक्सक्लूसिव लाइव वीडियो (02 Oct 2026)
+                      <i class="fa fa-circle mr-1" style="font-size: 8px; animation: blinker 1s infinite;"></i> 🔴 3 एक्सक्लूसिव लाइव वीडियो (02 Oct 2026)
                     </span>
                     <span style="color: #ffcc00; font-size: 11.5px; font-weight: 700;">
                       <i class="fa fa-shield"></i> ग्राउंड रिपोर्ट साक्ष्य
@@ -336,38 +393,59 @@
 
                   <div class="row">
                     <!-- Video 1 -->
-                    <div class="col-12 col-sm-6 mb-2 mb-sm-0">
-                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px;">
-                        <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
-                          <i class="fa fa-video-camera"></i> वीडियो 1: हिरासत बस से लाइव संदेश
-                        </p>
-                        <video controls preload="metadata" poster="img/news/latest-news/news-78.jpeg" style="width: 100%; height: 180px; object-fit: contain; background: #000; border-radius: 4px;">
-                          <source src="video/wp-video-7.mp4" type="video/mp4">
-                          ब्राउज़र वीडियो सपोर्ट नहीं करता।
-                        </video>
-                        <small class="d-block mt-1 text-white-50" style="font-size: 11px; line-height: 1.3;">
+                    <div class="col-12 col-md-4 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-video-camera"></i> वीडियो 1: हिरासत बस से लाइव संदेश
+                          </p>
+                          <video controls preload="metadata" poster="img/news/latest-news/news-78.jpeg" style="width: 100%; height: 160px; object-fit: contain; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-7.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
                           जंतर-मंतर: दिल्ली पुलिस वैन से राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का संदेश।
                         </small>
                       </div>
                     </div>
 
                     <!-- Video 2 -->
-                    <div class="col-12 col-sm-6">
-                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px;">
-                        <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
-                          <i class="fa fa-television"></i> वीडियो 2: ग्राउंड कवरेज व धारा 163
-                        </p>
-                        <video controls preload="metadata" poster="video/wp-video-8-thumb.jpg" style="width: 100%; height: 180px; object-fit: contain; background: #000; border-radius: 4px;">
-                          <source src="video/wp-video-8.mp4" type="video/mp4">
-                          ब्राउज़र वीडियो सपोर्ट नहीं करता।
-                        </video>
-                        <small class="d-block mt-1 text-white-50" style="font-size: 11px; line-height: 1.3;">
+                    <div class="col-12 col-md-4 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-television"></i> वीडियो 2: ग्राउंड कवरेज व धारा 163
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-8-thumb.jpg" style="width: 100%; height: 160px; object-fit: contain; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-8.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
                           जंतर-मंतर ग्राउंड कवरेज: नेशनल मीडिया व पुलिस बल के बीच आंदोलन।
                         </small>
                       </div>
                     </div>
+
+                    <!-- Video 3 -->
+                    <div class="col-12 col-md-4">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-shield"></i> वीडियो 3: पुलिस तैनाती व जंतर-मंतर कूच
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-9-thumb.jpg" style="width: 100%; height: 160px; object-fit: contain; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-9.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          पुलिस वाहन UP32EG3245 घेराबंदी व आंदोलन हेतु रवानगी।
+                        </small>
+                      </div>
+                    </div>
                   </div>
-                  <!-- NOTE: Download buttons cleanly removed per user request! -->
                 </div>
 
                 <!-- Featured Section 4: Other Key Headlines -->
@@ -531,6 +609,17 @@
                         <i class="fa fa-heart mr-1"></i> सहयोग करें
                       </a>
                     </div>
+                    <!-- Recent Donor Recognition -->
+                    <div class="mt-2 p-2 text-left" style="background: #e8f5e9; border: 1px solid #a3d9a5; border-radius: 6px;">
+                      <div class="d-flex align-items-center mb-1">
+                        <span class="badge badge-success px-1 py-0 mr-1" style="font-size: 9.5px; background: #00772D;">आर्थिक सहयोग</span>
+                        <small class="text-muted" style="font-size: 10px;">अक्टूबर 2026</small>
+                      </div>
+                      <p class="mb-1 font-weight-bold" style="font-size: 11.5px; line-height: 1.3; color: #004d1a;">
+                        श्री संदीप तोमर जी द्वारा ₹50,000/- का आर्थिक सहयोग प्राप्त।
+                      </p>
+                      <a href="donate.php" style="font-size: 10.5px; color: #00772D; font-weight: 700;">चेक व विवरण देखें &raquo;</a>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -602,6 +691,55 @@
                                 <p>By नेशनल मीडिया ग्राउंड रिपोर्ट</p>
                                 <div class="post-meta">
                                   <p>Ground TV Coverage - 02 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (Exclusive Video 3: Police Deployment) -->
+                          <div class="single-blog-post">
+                            <a href="#exclusive-videos" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="video/wp-video-9-thumb.jpg" alt="पुलिस घेराबंदी व जंतर-मंतर कूच वीडियो" loading="lazy" decoding="async">
+                                <span class="video-btn"><i class="fa fa-play"></i></span>
+                                <span style="position: absolute; top: 10px; left: 10px; background: #b30000; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">🔴 EXCLUSIVE VIDEO 3</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>🔴 ग्राउंड वीडियो 3: भारी पुलिस तैनाती व जंतर-मंतर कूच से पूर्व राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह</h5>
+                                <p>By लोकदल लाइव कवरेज (Ground Footage)</p>
+                                <div class="post-meta">
+                                  <p>Ground Video - 02 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (Instagram Reel - Jantar Mantar) -->
+                          <div class="single-blog-post">
+                            <a href="https://www.instagram.com/reel/DeG9hnmBwcv/?stkn=azBmNGxkd3prNmNq" target="_blank" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-78.jpeg" alt="आवाज़ को हिरासत में लिया जा सकता है, सवालों को नहीं" loading="lazy" decoding="async">
+                                <span class="video-btn"><i class="fa fa-play"></i></span>
+                                <span style="position: absolute; top: 10px; left: 10px; background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px;">INSTAGRAM REEL</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>आवाज़ को हिरासत में लिया जा सकता है, सवालों को नहीं — जंतर-मंतर जेल भरो आंदोलन</h5>
+                                <p>By लोकदल आधिकारिक Instagram</p>
+                                <div class="post-meta">
+                                  <p>Instagram Reel - 02 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (Swadesh 02 Oct 2026) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-81.jpeg" class="headline">
+                              <div class="post-thumbnail">
+                                <img src="img/news/latest-news/news-81.jpeg" alt="स्वदेश (02 Oct): इंडिया गठबंधन में फूट का दावा करने वालों को जनता देगी जवाब" loading="lazy" decoding="async">
+                              </div>
+                              <div class="post-content">
+                                <h5>स्वदेश (02 Oct): ‘इंडिया’ गठबंधन में फूट का दावा करने वालों को जनता देगी जवाब : चौधरी सुनील सिंह</h5>
+                                <p>By स्वदेश (Swadesh National Daily)</p>
+                                <div class="post-meta">
+                                  <p>Swadesh Lucknow - 02 Oct 2026</p>
                                 </div>
                               </div>
                             </a>
@@ -936,6 +1074,42 @@
                                 </div>
                                 <div class="post-meta">
                                   <p>Swadesh Lucknow - 03 Oct 2026</p>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                          <!-- Single Blog Post (Swadesh 02 Oct 2026) -->
+                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.000001s">
+                            <div class="post-thumbnail">
+                              <a data-lightbox="jansabha" href="img/news/latest-news/news-81.jpeg">
+                                <img src="img/news/latest-news/news-81.jpeg" alt="स्वदेश: ‘इंडिया’ गठबंधन में फूट का दावा करने वालों को जनता देगी जवाब" loading="lazy" decoding="async">
+                              </a>
+                            </div>
+                            <div class="post-content">
+                              <a data-lightbox="jansabha" href="img/news/latest-news/news-81.jpeg" class="headline">
+                                <div class="headline">
+                                  <h5>स्वदेश (02 Oct): ‘इंडिया’ गठबंधन में फूट का दावा करने वालों को जनता देगी जवाब : चौधरी सुनील सिंह</h5>
+                                </div>
+                                <div class="post-meta">
+                                  <p>Swadesh Lucknow - 02 Oct 2026</p>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                          <!-- Single Blog Post (Instagram Reel - Jantar Mantar Jail Bharo) -->
+                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.000001s">
+                            <div class="post-thumbnail">
+                              <a href="https://www.instagram.com/reel/DeG9hnmBwcv/?stkn=azBmNGxkd3prNmNq" target="_blank">
+                                <img src="img/news/latest-news/news-78.jpeg" alt="आवाज़ को हिरासत में लिया जा सकता है, सवालों को नहीं" loading="lazy" decoding="async">
+                              </a>
+                            </div>
+                            <div class="post-content">
+                              <a href="https://www.instagram.com/reel/DeG9hnmBwcv/?stkn=azBmNGxkd3prNmNq" target="_blank" class="headline">
+                                <div class="headline">
+                                  <h5>आवाज़ को हिरासत में लिया जा सकता है, सवालों को नहीं — जंतर-मंतर जेल भरो आंदोलन विशेष रील</h5>
+                                </div>
+                                <div class="post-meta">
+                                  <p>Instagram Reel - 02 Oct 2026</p>
                                 </div>
                               </a>
                             </div>
@@ -2979,6 +3153,14 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/donation/cheque-sandeep-tomar.jpeg', 'title' => 'लोकदल किसान व लोकतंत्र रक्षा कोष: श्री संदीप तोमर जी द्वारा ₹50,000/- का आर्थिक सहयोग प्राप्त', 'desc' => 'दान सहयोग चेक - 05 Oct 2026', 'url' => 'donate.php'],
+                  ['img' => 'video/wp-video-9-thumb.jpg', 'title' => '🔴 [ग्राउंड वीडियो 3] पुलिस तैनाती व जंतर-मंतर कूच — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'पुलिस घेराबंदी व उद्बोधन - 02 Oct 2026', 'url' => '#exclusive-videos'],
+                  ['img' => 'img/news/latest-news/news-78.jpeg', 'title' => 'आवाज़ को हिरासत में लिया जा सकता है, सवालों को नहीं — जंतर-मंतर जेल भरो आंदोलन रील', 'desc' => 'Instagram Reel - 02 Oct 2026', 'url' => 'https://www.instagram.com/reel/DeG9hnmBwcv/?stkn=azBmNGxkd3prNmNq'],
+                  ['img' => 'img/news/latest-news/news-81.jpeg', 'title' => 'स्वदेश (02 Oct): ‘इंडिया’ गठबंधन में फूट का दावा करने वालों को जनता देगी जवाब : चौधरी सुनील सिंह', 'desc' => 'स्वदेश राष्ट्रीय दैनिक (पेज 3) - 02 Oct 2026', 'url' => 'img/news/latest-news/news-81.jpeg'],
+                  ['img' => 'img/news/latest-news/news-80.jpeg', 'title' => 'राष्ट्रपिता महात्मा गांधी जयंती पर लोकदल का कोटि-कोटि नमन व श्रद्धांजलि', 'desc' => 'गांधी जयंती विशेष पोस्टर - 02 Oct 2026', 'url' => 'img/news/latest-news/news-80.jpeg'],
+                  ['img' => 'img/news/latest-news/news-79.jpeg', 'title' => '‘जय जवान, जय किसान’ के प्रणेता पूर्व प्रधानमंत्री लाल बहादुर शास्त्री जी को नमन', 'desc' => 'शास्त्री जयंती विशेष पोस्टर - 02 Oct 2026', 'url' => 'img/news/latest-news/news-79.jpeg'],
+                  ['img' => 'img/news/latest-news/news-77.jpeg', 'title' => 'दैनिक भास्कर (Lucknow 03 Oct): गांधी जयंती पर जंतर-मंतर से लोकदल का जेल भरो आंदोलन', 'desc' => 'Dainik Bhaskar E-Paper (PDF) - 03 Oct 2026', 'url' => 'pdf/DB Lucknow 03 Oct 2026.pdf'],
+                  ['img' => 'img/news/latest-news/news-76.jpeg', 'title' => 'स्वदेश विशेष ई-पेपर (03 Oct PDF): 2027 का रण एवं लोकदल राजनीतिक विश्लेषण', 'desc' => 'Swadesh E-Paper (PDF) - 03 Oct 2026', 'url' => 'pdf/03 oct.pdf'],
                   ['img' => 'img/news/latest-news/news-78.jpeg', 'title' => '🔴 [एक्सक्लूसिव वीडियो 1] जंतर-मंतर हिरासत बस से चौधरी सुनील सिंह का लाइव संदेश', 'desc' => 'दिल्ली पुलिस हिरासत बस से सीधा उद्बोधन - 02 Oct 2026', 'url' => '#exclusive-videos'],
                   ['img' => 'video/wp-video-8-thumb.jpg', 'title' => '🔴 [ग्राउंड वीडियो 2] जंतर-मंतर पर धारा 163 व मीडिया घेराव कवरेज', 'desc' => 'जंतर-मंतर ग्राउंड कवरेज वीडियो - 02 Oct 2026', 'url' => '#exclusive-videos'],
                   ['img' => 'img/news/latest-news/news-76.jpeg', 'title' => '2027 का रण: सपा का पीडीए रथ — “लोकदल इंडिया गठबंधन का मजबूत घटक है” : चौधरी सुनील सिंह', 'desc' => 'स्वदेश (Swadesh) लखनऊ - 03 Oct 2026', 'url' => 'img/news/latest-news/news-76.jpeg'],
@@ -3197,6 +3379,8 @@
             $ourServicesArr = [
                 ['img' => 'img/news/latest-news/news-78.jpeg','video' => 'video/wp-video-7.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 1] दिल्ली पुलिस हिरासत बस से चौधरी सुनील सिंह का लाइव संदेश', 'desc' => 'जंतर-मंतर पर पुलिस हिरासत के दौरान दिल्ली पुलिस बस से राष्ट्रीय अध्यक्ष जी का उद्बोधन', 'date' => '02 Oct 2026 • Exclusive Video'],
                 ['img' => 'video/wp-video-8-thumb.jpg','video' => 'video/wp-video-8.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 2] जंतर-मंतर ग्राउंड कवरेज — धारा 163 व मीडिया घेराव', 'desc' => 'जंतर-मंतर पर भारी पुलिस बल व नेशनल मीडिया के कैमरों के बीच जेल भरो आंदोलन', 'date' => '02 Oct 2026 • Ground Report'],
+                ['img' => 'video/wp-video-9-thumb.jpg','video' => 'video/wp-video-9.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 3] पुलिस तैनाती व जंतर-मंतर कूच — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'जंतर-मंतर कूच से पूर्व पुलिस घेराबंदी व उद्बोधन', 'date' => '02 Oct 2026 • Exclusive Video'],
+                ['img' => 'img/news/latest-news/news-78.jpeg','video' => 'https://www.instagram.com/reel/DeG9hnmBwcv/?stkn=azBmNGxkd3prNmNq', 'name' => 'आवाज़ को हिरासत में लिया जा सकता है, सवालों को नहीं — जंतर-मंतर जेल भरो आंदोलन', 'desc' => 'गांधी जयंती पर जंतर-मंतर से लोकदल का जेल भरो आंदोलन विशेष वीडियो रील', 'date' => 'Instagram Reel • 02 Oct 2026'],
                 ['img' => 'img/news/latest-news/news-76.jpeg','video' => 'img/news/latest-news/news-76.jpeg', 'name' => 'स्वदेश (03 Oct): 2027 का रण: सपा का पीडीए रथ — “लोकदल इंडिया गठबंधन का मजबूत घटक है” : सुनील सिंह', 'desc' => 'स्वदेश राष्ट्रीय दैनिक (पेज 12) विशेष चुनावी विश्लेषण व लोकदल वक्तव्य', 'date' => 'Swadesh News - 03 Oct 2026'],
                 ['img' => 'img/news/latest-news/news-77.jpeg','video' => 'img/news/latest-news/news-77.jpeg', 'name' => 'गांधी जयंती पर जंतर-मंतर से लोकदल ने शुरू किया जेल भरो आंदोलन : चौधरी सुनील सिंह — राष्ट्रीय सुदर्शन', 'desc' => 'राष्ट्रीय सुदर्शन अख़बार विस्तृत रिपोर्ट', 'date' => 'राष्ट्रीय सुदर्शन - 02 Oct 2026'],
                 ['img' => 'img/news/latest-news/news-78.jpeg','video' => 'img/news/latest-news/news-78.jpeg', 'name' => 'जंतर-मंतर जेल भरो आंदोलन: दिल्ली पुलिस बस में राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह एवं नेतागण', 'desc' => 'पुलिस हिरासत के दौरान बस से ऑन-द-स्पॉट लाइव फोटो कवरेज', 'date' => 'Live Photo - 02 Oct 2026'],

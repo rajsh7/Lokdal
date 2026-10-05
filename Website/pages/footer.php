@@ -82,7 +82,7 @@
                       <div class="col-md-12">
                         <div class="py-4 d-flex justify-content-center align-items-center">
                             <p>
-                                Copyright &#xa9; Lokdal | 2021
+                                Copyright &#xa9; Lokdal | 2026
                             </p>
                         </div>
                       </div>

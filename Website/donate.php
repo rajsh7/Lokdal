@@ -86,6 +86,7 @@ include_once("db.php");
     <!-- Style CSS -->
 
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/vendor/lightbox/lightbox.min.css">
     <link rel="stylesheet" href="css/google translator.css">
     <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,700%7CRoboto:300,400,700" rel="stylesheet">
@@ -128,10 +129,44 @@ include_once("db.php");
     <section class="contact-area section-padding-100">
         <div class="container">
             <div class="row justify-content-center">
+                <!-- Recent Donor Acknowledgement / Support Highlight -->
+                <div class="col-12 col-md-10 col-lg-8 mb-4">
+                    <div class="p-3 p-md-4" style="background: #f4fbf7; border: 2px solid #00772D; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,119,45,0.08);">
+                        <div class="d-flex justify-content-between align-items-center mb-3 flex-wrap">
+                            <span class="badge badge-success px-3 py-2 font-weight-bold" style="font-size: 13px; background: #00772D;">
+                                <i class="fa fa-handshake-o mr-1"></i> हाल ही में प्राप्त आर्थिक सहयोग • Donor Acknowledgment
+                            </span>
+                            <span class="text-success font-weight-bold" style="font-size: 12.5px;">अक्टूबर 2026</span>
+                        </div>
+                        <div class="row align-items-center">
+                            <div class="col-12 col-md-5 mb-3 mb-md-0 text-center">
+                                <a data-lightbox="cheque" href="img/donation/cheque-sandeep-tomar.jpeg" title="श्री संदीप तोमर जी द्वारा लोकदल को ₹50,000/- का चेक सहयोग">
+                                    <img src="img/donation/cheque-sandeep-tomar.jpeg" alt="श्री संदीप तोमर जी द्वारा दान का चेक" style="width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; border: 1.5px solid #00772D; background: #fff;" loading="lazy">
+                                </a>
+                                <small class="d-block text-muted mt-1 font-weight-bold" style="font-size: 11px;">
+                                    <i class="fa fa-search-plus"></i> चेक की प्रति देखने के लिए क्लिक करें
+                                </small>
+                            </div>
+                            <div class="col-12 col-md-7">
+                                <h5 class="font-weight-bold mb-1" style="color: #00772D; font-size: 17px;">श्री संदीप तोमर (Mr. Sandeep Tomar)</h5>
+                                <div class="badge badge-warning text-dark font-weight-bold px-2 py-1 mb-2" style="font-size: 13px;">
+                                    सहयोग राशि: ₹50,000/- (पचास हजार रुपये मात्र)
+                                </div>
+                                <p style="font-size: 13px; line-height: 1.6; color: #2d3748; margin-bottom: 8px;">
+                                    लोकदल के जनहित अभियानों, किसान अधिकार आंदोलन एवं लोकतंत्र-संविधान रक्षा संकल्प हेतु <strong>श्री संदीप तोमर</strong> जी द्वारा <strong>₹50,000/-</strong> का आर्थिक सहयोग चेक के माध्यम से प्रदान किया गया।
+                                </p>
+                                <div style="background: #e8f5e9; border-left: 3px solid #00772D; padding: 6px 10px; border-radius: 0 4px 4px 0; font-size: 12px; color: #004d1a;">
+                                    <strong>लोकदल परिवार</strong> श्री संदीप तोमर जी के इस अमूल्य सहयोग, संबल व विश्वास के लिए हार्दिक आभार एवं धन्यवाद व्यक्त करता है।
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <!-- Contact Form Area -->
                 <div class="col-12 col-md-10 col-lg-8">
                     <div class="contact-form">
-                        <h5>Donation</h5>
+                        <h5>Donation Form • सहयोग प्रपत्र</h5>
                         <!-- Contact Form -->
                         <form action="#" method="post">
                             <div class="row">
@@ -198,6 +233,8 @@ include_once("db.php");
     <script src="js/bootstrap.min.js"></script>
     <!-- Plugins js -->
     <script src="js/plugins.js"></script>
+    <!-- Lightbox js -->
+    <script src="assets/vendor/lightbox/lightbox.min.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
 
