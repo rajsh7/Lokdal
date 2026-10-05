@@ -426,41 +426,45 @@ img {
 /* :: Hero Slides Area CSS */
 .hero-area {
   position: relative;
-  z-index: 1; }
+  z-index: 1;
+  width: 100%;
+  overflow: hidden; }
   .hero-area .hero-slides {
     position: relative;
-    z-index: 10; }
+    z-index: 10;
+    width: 100%; }
     .hero-area .hero-slides .single-hero-slide {
       width: 100%;
-      height: calc(100vh - 105px);
-      min-height: 650px;
+      height: 480px;
       position: relative;
       z-index: 1;
-      background-size: cover !important;
+      background-size: 100% 100% !important;
       background-position: center center !important;
       background-repeat: no-repeat !important;
        }
-      @media only screen and (min-width: 1200px) {
+      @media only screen and (min-width: 1400px) {
         .hero-area .hero-slides .single-hero-slide {
-          height: calc(100vh - 105px);
-          min-height: 680px;
-          background-size: cover !important;
+          height: 520px;
+          background-size: 100% 100% !important;
+          background-position: center center !important; } }
+      @media only screen and (min-width: 992px) and (max-width: 1399px) {
+        .hero-area .hero-slides .single-hero-slide {
+          height: 440px;
+          background-size: 100% 100% !important;
           background-position: center center !important; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .hero-area .hero-slides .single-hero-slide {
-          height: calc(100vh - 105px);
-          min-height: 540px;
-          background-size: cover !important;
+          height: 460px;
+          background-size: 100% 100% !important;
           background-position: center center !important; } }
       @media only screen and (max-width: 767px) {
         .hero-area .hero-slides .single-hero-slide {
-          height: calc(100vh - 110px);
-          min-height: 500px;
-          background-size: cover !important;
+          height: 420px;
+          background-size: 100% 100% !important;
           background-position: center center !important; } }
   .hero-area .hero-post-area {
     position: absolute;
-    bottom: 30px;
+    bottom: 15px;
     left: 0;
     width: 100%;
     z-index: 200; }
@@ -1347,52 +1351,52 @@ textarea:focus ~ .highlight {
         @media only screen and (max-width: 767px) {
           #sh1 {
             background-image: url(img/img/head-Mobile.jpg);
-            background-size: cover !important;
+            background-size: 100% 100% !important;
             background-position: center center !important;
           }
           #sh2 {
             background-image: url(img/img/sona-mobile.jpg);
-            background-size: cover !important;
+            background-size: 100% 100% !important;
             background-position: center center !important;
           }
           #sh3 {
             background-image: url(img/img/sone-mobile.jpg);
-            background-size: cover !important;
+            background-size: 100% 100% !important;
             background-position: center center !important;
           }
         }
         @media only screen and (min-width: 768px) and (max-width: 991px) {
           #sh1 {
             background-image: url(img/img/head-tab.jpg);
-            background-size: cover !important;
+            background-size: 100% 100% !important;
             background-position: center center !important;
           }
           #sh2 {
             background-image: url(img/img/sona-tab.jpg);
-            background-size: cover !important;
+            background-size: 100% 100% !important;
             background-position: center center !important;
           }
           #sh3 {
             background-image: url(img/img/sone-tab.jpg);
-            background-size: cover !important;
+            background-size: 100% 100% !important;
             background-position: center center !important;
           }
         }
         @media only screen and (min-width: 992px){
-          .hero-area .hero-post-area {bottom: 30px;}
+          .hero-area .hero-post-area {bottom: 15px;}
           #sh1 {
             background-image: url(img/img/head.jpg);
-            background-size: cover !important;
+            background-size: 100% 100% !important;
             background-position: center center !important;
           }
           #sh2 {
             background-image: url(img/img/sona.jpg);
-            background-size: cover !important;
+            background-size: 100% 100% !important;
             background-position: center center !important;
           }
           #sh3 {
             background-image: url(img/img/sone.jpg);
-            background-size: cover !important;
+            background-size: 100% 100% !important;
             background-position: center center !important;
           }
         }
