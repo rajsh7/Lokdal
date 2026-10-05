@@ -921,294 +921,6 @@
                                 </div>
                               </a>
                             </div>
-                          <!-- Single Blog Post (Rashtriya Sudarshan Paper Clipping) -->
-                           <div class="single-blog-post">
-                              <a data-lightbox="jansabha" href="img/news/latest-news/news-62.jpeg" class="headline">
-                                <div class="post-thumbnail">
-                                  <img src="img/news/latest-news/news-62.jpeg" alt="राष्ट्रीय सुदर्शन रिपोर्ट" loading="lazy" decoding="async">
-                                </div>
-                                <div class="post-content">
-                                  <h5>मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर तीखा हमला: राष्ट्रीय सुदर्शन रिपोर्ट</h5>
-                                  <p>By Rashtriya Sudarshan</p>
-                                  <div class="post-meta">
-                                    <p>राष्ट्रीय सुदर्शन - 26 Sep 2026</p>
-                                  </div>
-                                </div>
-                              </a>
-                            </div>
-                          <!-- Single Blog Post -->
-                           <div class="single-blog-post">
-                             <a href="https://youtu.be/1sJB7x3NSOE?si=zaO4LPSMuI9tBriI" target="_blank" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="https://img.youtube.com/vi/1sJB7x3NSOE/hqdefault.jpg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>अखिलेश यादव का बड़ा दांव! जयंत चौधरी बनाम सुनील सिंह</h5>
-                                 <p>By YBN News</p>
-                                 <div class="post-meta">
-                                   <p>YBN News (YouTube) - 19 Sep 2026</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                           <div class="single-blog-post">
-                             <a href="https://youtu.be/jpAGYMw7tx4?si=7eSnCgmibiJV-8yZ" target="_blank" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="https://img.youtube.com/vi/jpAGYMw7tx4/hqdefault.jpg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>अखिलेश-सुनील सिंह मुलाकात! पश्चिमी UP में सीटों का दांव</h5>
-                                 <p>By TV100 News</p>
-                                 <div class="post-meta">
-                                   <p>TV100 News (YouTube) - 19 Sep 2026</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                           <div class="single-blog-post">
-                             <a href="https://youtu.be/cvdSkNNIgwU?si=N9G_00dO7r2cLQ2_" target="_blank" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="https://img.youtube.com/vi/cvdSkNNIgwU/hqdefault.jpg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>लोकदल अध्यक्ष सुनील सिंह व अखिलेश यादव की विशेष मुलाकात</h5>
-                                 <p>By YouTube News</p>
-                                 <div class="post-meta">
-                                   <p>YouTube News - 19 Sep 2026</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                           <div class="single-blog-post">
-                             <a href="https://x.com/aajtak/status/2100949903572967630" target="_blank" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="img/news/latest-news/wp-image-1.jpeg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>आजतक: 2027 में अखिलेश यादव को मुख्यमंत्री बनाना है — लोकदल अध्यक्ष चौधरी सुनील सिंह</h5>
-                                 <p>By AajTak (@aajtak)</p>
-                                 <div class="post-meta">
-                                   <p>AajTak News (X) - 18 Sep 2026</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                           <div class="single-blog-post">
-                             <a data-lightbox="jansabha" href="img/news/latest-news/news-32.jpeg" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="img/news/latest-news/news-32.jpeg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>लोकदल प्रेस वार्ता एवं ताजा समाचार</h5>
-                                 <p>By Chaudhary Sunil Singh</p>
-                                 <div class="post-meta">
-                                   <p>Lokdal Update - 19 Sep 2026</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                           <div class="single-blog-post">
-                             <a data-lightbox="jansabha" href="img/news/latest-news/news-33.jpeg" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="img/news/latest-news/news-33.jpeg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>किसान अधिकार एवं प्रदेश स्तरीय संवाद</h5>
-                                 <p>By Chaudhary Sunil Singh</p>
-                                 <div class="post-meta">
-                                   <p>Lokdal Update - 19 Sep 2026</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                           <div class="single-blog-post">
-                             <a data-lightbox="jansabha" href="img/news/latest-news/news-34.jpeg" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="img/news/latest-news/news-34.jpeg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>लोकदल संगठन विस्तार एवं विचार गोष्ठी</h5>
-                                 <p>By Chaudhary Sunil Singh</p>
-                                 <div class="post-meta">
-                                   <p>Lokdal Update - 19 Sep 2026</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                           <div class="single-blog-post">
-                             <a data-lightbox="jansabha" href="img/news/latest-news/news-35.jpeg" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="img/news/latest-news/news-35.jpeg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>किसान मजदूर अधिकार महापंचायत</h5>
-                                 <p>By Chaudhary Sunil Singh</p>
-                                 <div class="post-meta">
-                                   <p>Lokdal Update - 19 Sep 2026</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                           <div class="single-blog-post">
-                             <a href="https://www.facebook.com/share/v/1BZzB4rn1W/" target="_blank" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="video/fb-gathbandhan.jpg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>अखिलेश यादव से मुलाकात पर विशेष कवरेज (2027 चुनाव व लोकदल-सपा विमर्श)</h5>
-                                 <p>By Chaudhary Sunil Singh</p>
-                                 <div class="post-meta">
-                                   <p>Facebook Video - 18 Sep 2026</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                           <div class="single-blog-post">
-                             <a href="https://www.amarujala.com/video/lucknow/video-video-akhalsha-yathava-sa-mal-lkathal-athhayakashha-sanal-saha-2027-canava-samata-kaii-mathatha-para-caraca-2026-09-18" target="_blank" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="img/news/latest-news/news-31.jpeg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>अमर उजाला: अखिलेश यादव से मिले लोकदल अध्यक्ष सुनील सिंह</h5>
-                                 <p>By Amar Ujala News</p>
-                                 <div class="post-meta">
-                                   <p>Amar Ujala - 18 Sep 2026</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                           <div class="single-blog-post">
-                             <a href="https://www.facebook.com/share/v/1BswAU7aGt/" target="_blank" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="video/fb-soochana.jpg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>लोकदल विशेष वक्तव्य & प्रेस संवाद</h5>
-                                 <p>By Chaudhary Sunil Singh</p>
-                                 <div class="post-meta">
-                                   <p>Facebook Video Update</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                           <div class="single-blog-post">
-                             <a href="https://www.facebook.com/share/v/1C1DqRiMa4/" target="_blank" class="headline">
-                               <div class="post-thumbnail">
-                                 <img src="video/fb-divya.jpg" alt="" loading="lazy" decoding="async">
-                               </div>
-                               <div class="post-content">
-                                 <h5>लोकदल मीडिया संवाद & नवीन संबोधन</h5>
-                                 <p>By Chaudhary Sunil Singh</p>
-                                 <div class="post-meta">
-                                   <p>Facebook Video Update</p>
-                                 </div>
-                               </div>
-                             </a>
-                           </div>
-                          <div class="single-blog-post">
-                            <a data-lightbox="jansabha" href="img/news/latest-news/wp-image-1.jpeg" class="headline">
-                              <div class="post-thumbnail">
-                                <img src="img/news/latest-news/wp-image-1.jpeg" alt="" loading="lazy" decoding="async">
-                              </div>
-                              <div class="post-content">
-                                <h5>अखिलेश यादव से मिले लोकदल अध्यक्ष सुनील सिंह, 2027 चुनाव पर मंथन</h5>
-                                <p>By Chaudhary Sunil Singh</p>
-                                <div class="post-meta">
-                                  <p>Lokdal Statement - 18 Sep 2026</p>
-                                </div>
-                              </div>
-                            </a>
-                          </div>
-                          <div class="single-blog-post">
-                            <a data-lightbox="jansabha" href="img/news/latest-news/news-31.jpeg" class="headline">
-                              <div class="post-thumbnail">
-                                <img src="img/news/latest-news/news-31.jpeg" alt="" loading="lazy" decoding="async">
-                              </div>
-                              <div class="post-content">
-                                <h5>आलू किसान तीन तरफा मार में: खाद कालाबाजारी व मंडी संकट पर लोकदल</h5>
-                                <p>By Chaudhary Sunil Singh</p>
-                                <div class="post-meta">
-                                  <p>Lokdal Statement - 17 Sep 2026</p>
-                                </div>
-                              </div>
-                            </a>
-                          </div>
-                          <div class="single-blog-post">
-                            <a data-lightbox="jansabha" href="video/yt-wE9bWrA-IrI.jpg" class="headline">
-                              <div class="post-thumbnail">
-                                <img src="video/yt-wE9bWrA-IrI.jpg" alt="" loading="lazy" decoding="async">
-                              </div>
-                              <div class="post-content">
-                                <h5>चौधरी सुनील सिंह जी का विशेष पॉडकास्ट — किसान विमर्श</h5>
-                                <p>By Saargarbhit Podcast</p>
-                                <div class="post-meta">
-                                  <p>Lokdal Video - 16 Sep 2026</p>
-                                </div>
-                              </div>
-                            </a>
-                          </div>
-                          <div class="single-blog-post">
-                            <a data-lightbox="jansabha" href="img/news/latest-news/news-29.jpeg" class="headline">
-                              <div class="post-thumbnail">
-                                <img src="img/news/latest-news/news-29.jpeg" alt="" loading="lazy" decoding="async">
-                              </div>
-                              <div class="post-content">
-                                <h5>बेबाक सवाल पूछना क्या गुनाह? पत्रकार दिव्य श्रीवास्तव के समर्थन में लोकदल</h5>
-                                <p>By Chaudhary Sunil Singh</p>
-                                <div class="post-meta">
-                                  <p>Lokdal Official Statement - 13 Sep 2026</p>
-                                </div>
-                              </div>
-                            </a>
-                          </div>
-                          <div class="single-blog-post">
-                            <a data-lightbox="jansabha" href="img/news/latest-news/news-1.jpeg" class="headline">
-                              <div class="post-thumbnail">
-                                <img src="img/news/latest-news/news-1.jpeg" alt="" loading="lazy" decoding="async">
-                              </div>
-                              <div class="post-content">
-                                <h5>चीनी-इथेनॉल नीति पर लोकदल का सरकार पर हमला</h5>
-                                <p>By Chaudhary Sunil Singh</p>
-                                <div class="post-meta">
-                                  <p>Lokdal Latest Press Update</p>
-                                </div>
-                              </div>
-                            </a>
-                          </div>
-                          <div class="single-blog-post">
-                            <a data-lightbox="jansabha" href="img/gallery/latest-gallery/gallery-1.jpeg" class="headline">
-                              <div class="post-thumbnail">
-                                <img src="img/gallery/latest-gallery/gallery-1.jpeg" alt="" loading="lazy" decoding="async">
-                              </div>
-                              <div class="post-content">
-                                <h5>किसान अधिकार आंदोलन व जनसभा</h5>
-                                <p>By Chaudhary Sunil Singh</p>
-                                <div class="post-meta">
-                                  <p>Lokdal Assembly Event</p>
-                                </div>
-                              </div>
-                            </a>
-                          </div>
-                          <?php
-                            foreach($activitiesDb as $rows)
-                                {?>
-                          <div class="single-blog-post">
-                            <a data-lightbox="jansabha" href="../dashboard/<?= $rows['img1'];?>" class="headline">
-                              <div class="post-thumbnail">
-                                <img src="../dashboard/<?= $rows['img1'];?>" alt="" loading="lazy" decoding="async">
-                              </div>
-                              <div class="post-content">
-                                <h5><?= $rows['t1'];?></h5>
-                                <p><?= $rows['s1'];?></p>
-                                <div class="post-meta">
-                                  <p>Lokdal on <?= $rows['date'];?></p>
-                                </div>
-                              </div>
-                            </a>
-                          </div>
-                          <?php
-                            }
-                            ?>          
                         </div>
                           <!-- Single Blog Post (Swadesh 03 Oct 2026) -->
                           <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.000001s">
@@ -1336,7 +1048,8 @@
                               </a>
                             </div>
                           </div>
-                          <!-- Single Blog Post (Facebook Video - UN & SIR Voter List Report) -->
+                      </div>
+                      <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                            <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.000005s">
                              <div class="post-thumbnail">
                                <a href="https://www.facebook.com/share/v/1GrxzshzGh/" target="_blank">
@@ -1480,6 +1193,48 @@
                               </a>
                             </div>
                           </div>
+                         <!-- Single Blog Post (Instagram Reel - Tadipaar Analysis) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0065s">
+                           <div class="post-thumbnail">
+                             <a href="https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1" target="_blank">
+                               <img src="img/news/latest-news/news-66.jpeg" alt="TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच" loading="lazy" decoding="async">
+                             </a>
+                           </div>
+                           <div class="post-content ">
+                             <a href="https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1" target="_blank" class="headline">
+                               <div class="headline">
+                                 <h5>TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच — विशेष वीडियो रील</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Instagram Reel - 29 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                         <!-- Single Blog Post (Official Press Statement Highlight) -->
+                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0075s">
+                           <div class="post-thumbnail">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg">
+                               <img src="img/news/latest-news/news-63.jpeg" alt="लोकदल प्रेस वक्तव्य" loading="lazy" decoding="async">
+                             </a>
+                           </div>
+                           <div class="post-content ">
+                             <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg" class="headline">
+                               <div class="headline">
+                                 <h5>लोकदल का मुख्य उद्देश्य लोकतांत्रिक संस्थाओं की मजबूती व किसानों-युवाओं के अधिकारों की रक्षा : सुनील सिंह</h5>
+                               </div>
+                               <div class="post-meta">
+                                 <p>Lokdal Press Statement - 28 Sep 2026</p>
+                               </div>
+                             </a>
+                           </div>
+                         </div>
+                      </div>
+                      <!-- Collapsible Older Recent Activities (Before Past Week) -->
+                      <div class="col-12 mt-4">
+                        <div class="collapse w-100" id="moreRecentActivities">
+                          <div class="row">
+                            <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                           <!-- Single Blog Post (Rashtriya Sudarshan Paper Clipping) -->
                           <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.00004s">
                             <div class="post-thumbnail">
@@ -1738,44 +1493,8 @@
                              </a>
                            </div>
                          </div>
-                       </div>
-                      <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
-                         <!-- Single Blog Post (Instagram Reel - Tadipaar Analysis) -->
-                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0065s">
-                           <div class="post-thumbnail">
-                             <a href="https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1" target="_blank">
-                               <img src="img/news/latest-news/news-66.jpeg" alt="TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच" loading="lazy" decoding="async">
-                             </a>
-                           </div>
-                           <div class="post-content ">
-                             <a href="https://www.instagram.com/reel/Dc957qETrZV/?stkn=M3dvNjlpZzd4eWs1" target="_blank" class="headline">
-                               <div class="headline">
-                                 <h5>TADIPAAR: अमित शाह और सत्ता की राजनीति का अनसुना सच — विशेष वीडियो रील</h5>
-                               </div>
-                               <div class="post-meta">
-                                 <p>Instagram Reel - 29 Sep 2026</p>
-                               </div>
-                             </a>
-                           </div>
-                         </div>
-                         <!-- Single Blog Post (Official Press Statement Highlight) -->
-                         <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.0075s">
-                           <div class="post-thumbnail">
-                             <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg">
-                               <img src="img/news/latest-news/news-63.jpeg" alt="लोकदल प्रेस वक्तव्य" loading="lazy" decoding="async">
-                             </a>
-                           </div>
-                           <div class="post-content ">
-                             <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg" class="headline">
-                               <div class="headline">
-                                 <h5>लोकदल का मुख्य उद्देश्य लोकतांत्रिक संस्थाओं की मजबूती व किसानों-युवाओं के अधिकारों की रक्षा : सुनील सिंह</h5>
-                               </div>
-                               <div class="post-meta">
-                                 <p>Lokdal Press Statement - 28 Sep 2026</p>
-                               </div>
-                             </a>
-                           </div>
-                         </div>
+                            </div>
+                            <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                          <!-- Single Blog Post (AajTak X) -->
                          <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.007s">
                            <div class="post-thumbnail">
@@ -2174,6 +1893,15 @@
                           </div>
                         </div>
                         <?php } ?>
+                            </div>
+                          </div>
+                        </div>
+                        <!-- View More Button on the right bottom of Recent Activities -->
+                        <div class="d-flex justify-content-end align-items-center mt-3 mb-2">
+                          <button class="btn btn-outline-success font-weight-bold px-4 py-2 custom-view-more-btn" type="button" data-toggle="collapse" data-target="#moreRecentActivities" aria-expanded="false" aria-controls="moreRecentActivities" style="border-radius: 30px; font-size: 14px; border-width: 2px;">
+                            <span class="btn-text">और देखें / View More</span> <i class="fa fa-angle-down ml-1 toggle-icon"></i>
+                          </button>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -3777,6 +3505,15 @@
         $('#morePopularVideos').on('hide.bs.collapse', function () {
           $('[data-target="#morePopularVideos"]').find('.btn-text').text('और वीडियो देखें / View More');
           $('[data-target="#morePopularVideos"]').find('.toggle-icon').removeClass('fa-angle-up').addClass('fa-angle-down');
+        });
+
+        $('#moreRecentActivities').on('show.bs.collapse', function () {
+          $('[data-target="#moreRecentActivities"]').find('.btn-text').text('कम देखें / View Less');
+          $('[data-target="#moreRecentActivities"]').find('.toggle-icon').removeClass('fa-angle-down').addClass('fa-angle-up');
+        });
+        $('#moreRecentActivities').on('hide.bs.collapse', function () {
+          $('[data-target="#moreRecentActivities"]').find('.btn-text').text('और देखें / View More');
+          $('[data-target="#moreRecentActivities"]').find('.toggle-icon').removeClass('fa-angle-up').addClass('fa-angle-down');
         });
       });
     </script>
