@@ -3215,13 +3215,42 @@
           </div>
         </div>
         <div class="world-latest-articles">
-          <div class="row align-items-stretch">
-            <div class="col-12 d-flex flex-column justify-content-between">
-              <div class="title">
-                <h5>Daily Updates</h5>
+          <?php
+            if (!function_exists('getLokdalItemDateInfo')) {
+              function getLokdalItemDateInfo($item) {
+                $text = isset($item['date']) ? $item['date'] : (isset($item['desc']) ? $item['desc'] : '');
+                $timestamp = 0;
+                $formatted = '';
+                if (!empty($text)) {
+                  if (preg_match('/(?:(\d{1,2})\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+(\d{4})|(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+(\d{1,2}),?\s+(\d{4}))/i', $text, $m)) {
+                    $parsed = strtotime($m[0]);
+                    if ($parsed) {
+                      $timestamp = $parsed;
+                      $formatted = date('d M Y', $parsed);
+                    }
+                  }
+                }
+                if (empty($formatted)) {
+                  $formatted = !empty($text) ? $text : 'Lokdal Update';
+                }
+                return ['timestamp' => $timestamp, 'formatted' => $formatted];
+              }
+            }
+
+            $pastWeekCutoff = strtotime('-8 days 00:00:00'); // Covers past 7-8 days (e.g. 28 Sep - 05 Oct)
+          ?>
+
+          <!-- ==================== Daily Updates (3-Column Card Layout) ==================== -->
+          <div class="daily-updates-section mb-5">
+            <div class="row">
+              <div class="col-12">
+                <div class="title d-flex justify-content-between align-items-center mb-4">
+                  <h5 class="mb-0">Daily Updates</h5>
+                </div>
               </div>
-              <?php
-                $latestDailyUpdates = [
+            </div>
+            <?php
+              $latestDailyUpdates = [
                   ['img' => 'img/news/latest-news/news-78.jpeg', 'title' => '🔴 [एक्सक्लूसिव वीडियो 1] जंतर-मंतर हिरासत बस से चौधरी सुनील सिंह का लाइव संदेश', 'desc' => 'दिल्ली पुलिस हिरासत बस से सीधा उद्बोधन - 02 Oct 2026', 'url' => '#exclusive-videos'],
                   ['img' => 'video/wp-video-8-thumb.jpg', 'title' => '🔴 [ग्राउंड वीडियो 2] जंतर-मंतर पर धारा 163 व मीडिया घेराव कवरेज', 'desc' => 'जंतर-मंतर ग्राउंड कवरेज वीडियो - 02 Oct 2026', 'url' => '#exclusive-videos'],
                   ['img' => 'img/news/latest-news/news-76.jpeg', 'title' => '2027 का रण: सपा का पीडीए रथ — “लोकदल इंडिया गठबंधन का मजबूत घटक है” : चौधरी सुनील सिंह', 'desc' => 'स्वदेश (Swadesh) लखनऊ - 03 Oct 2026', 'url' => 'img/news/latest-news/news-76.jpeg'],
@@ -3299,46 +3328,145 @@
                   ['img' => 'img/news/latest-news/news-22.jpeg', 'title' => 'लोकदल सदस्यता अभियान व संगठन विस्तार', 'desc' => 'Lokdal Membership Drive'],
                   ['img' => 'img/news/latest-news/news-23.jpeg', 'title' => 'लोकदल आधिकारिक विज्ञप्ति व सम्मलेन', 'desc' => 'Lokdal Official Statement']
                 ];
-                foreach ($latestDailyUpdates as $update) {
-                  $linkAttr = isset($update['url']) ? 'href="'.$update['url'].'" target="_blank"' : 'data-lightbox="articals" href="'.$update['img'].'"';
-                ?>
-              <!-- Single Blog Post -->
-              <div class="single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
-                <div class="post-thumbnail">
+
+            $pastWeekDailyUpdates = [];
+            $olderDailyUpdates = [];
+
+            foreach ($latestDailyUpdates as $update) {
+              $info = getLokdalItemDateInfo($update);
+              $update['parsed_date'] = $info['formatted'];
+              if ($info['timestamp'] && $info['timestamp'] >= $pastWeekCutoff) {
+                $pastWeekDailyUpdates[] = $update;
+              } else {
+                $olderDailyUpdates[] = $update;
+              }
+            }
+
+            // Fallback: If less than 6 items qualify as past week, ensure at least 6 are visible so grid is full
+            if (count($pastWeekDailyUpdates) < 6 && count($olderDailyUpdates) > 0) {
+              $needed = 6 - count($pastWeekDailyUpdates);
+              $splice = array_splice($olderDailyUpdates, 0, $needed);
+              $pastWeekDailyUpdates = array_merge($pastWeekDailyUpdates, $splice);
+            }
+
+            // Include database daily updates in older items
+            if (!empty($dailyUpdatesDb)) {
+              foreach ($dailyUpdatesDb as $row) {
+                $olderDailyUpdates[] = [
+                  'img' => '../dashboard/' . $row['img'],
+                  'title' => $row['title'],
+                  'desc' => $row['description'],
+                  'url' => '../dashboard/' . $row['img'],
+                  'parsed_date' => 'Archive Update'
+                ];
+              }
+            }
+          ?>
+
+          <!-- Visible Cards (Past Week) -->
+          <div class="row">
+            <?php foreach ($pastWeekDailyUpdates as $update): 
+              $linkAttr = isset($update['url']) ? 'href="'.$update['url'].'" target="_blank"' : 'data-lightbox="articals" href="'.$update['img'].'"';
+            ?>
+            <div class="col-12 col-md-6 col-lg-4 mb-4 d-flex align-items-stretch">
+              <div class="lokdal-card wow fadeInUpBig" data-wow-delay="0.2s">
+                <div class="lokdal-card-thumb">
                   <a <?= $linkAttr; ?>>
                     <img src="<?= $update['img'];?>" alt="" loading="lazy" decoding="async">
                   </a>
+                  <?php if (stripos($update['title'], 'वीडियो') !== false || stripos($update['title'], 'video') !== false): ?>
+                    <span class="badge badge-danger" style="position: absolute; top: 10px; left: 10px; font-size: 11px; padding: 4px 8px; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">
+                      <i class="fa fa-play mr-1"></i> Video
+                    </span>
+                  <?php else: ?>
+                    <span class="badge badge-success" style="position: absolute; top: 10px; left: 10px; font-size: 11px; padding: 4px 8px; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.3); background-color: #00772D;">
+                      <i class="fa fa-newspaper-o mr-1"></i> Update
+                    </span>
+                  <?php endif; ?>
                 </div>
-                <div class="post-content">
-                  <a <?= $linkAttr; ?> class="headline">
-                    <h5><?= $update['title'];?></h5>
-                    <p><?= $update['desc'];?></p>
-                  </a>
+                <div class="lokdal-card-body">
+                  <div>
+                    <a <?= $linkAttr; ?> class="headline">
+                      <h5 class="lokdal-card-title"><?= $update['title'];?></h5>
+                    </a>
+                    <p class="lokdal-card-desc"><?= $update['desc'];?></p>
+                  </div>
+                  <div class="lokdal-card-footer">
+                    <span><i class="fa fa-clock-o mr-1 text-success"></i><?= htmlspecialchars($update['parsed_date']); ?></span>
+                    <a <?= $linkAttr; ?> class="font-weight-bold text-success" style="text-decoration: none;">
+                      पढ़ें <i class="fa fa-angle-right"></i>
+                    </a>
+                  </div>
                 </div>
               </div>
-              <?php
-                }
-                foreach($dailyUpdatesDb as $row){
-                ?>
-              <div class="single-blog-post post-style-4 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
-                <div class="post-thumbnail">
-                  <a data-lightbox="articals" href="../dashboard/<?= $row['img'];?>">
-                    <img src="../dashboard/<?= $row['img'];?>" alt="" loading="lazy" decoding="async">
-                  </a>
-                </div>
-                <div class="post-content">
-                  <a data-lightbox="articals" href="../dashboard/<?= $row['img'];?>" class="headline">
-                    <h5><?= $row['title'];?></h5>
-                    <p><?= $row['description'];?></p>
-                  </a>
-                </div>
-              </div>
-              <?php
-                }
-                ?>
             </div>
-            <?php 
-              $ourServicesArr = [
+            <?php endforeach; ?>
+          </div>
+
+          <!-- Collapsible Older Daily Updates (Before Past Week) -->
+          <?php if (!empty($olderDailyUpdates)): ?>
+          <div class="collapse w-100" id="moreDailyUpdates">
+            <div class="row">
+              <?php foreach ($olderDailyUpdates as $update): 
+                $linkAttr = isset($update['url']) ? 'href="'.$update['url'].'" target="_blank"' : 'data-lightbox="articals" href="'.$update['img'].'"';
+              ?>
+              <div class="col-12 col-md-6 col-lg-4 mb-4 d-flex align-items-stretch">
+                <div class="lokdal-card">
+                  <div class="lokdal-card-thumb">
+                    <a <?= $linkAttr; ?>>
+                      <img src="<?= $update['img'];?>" alt="" loading="lazy" decoding="async">
+                    </a>
+                    <?php if (stripos($update['title'], 'वीडियो') !== false || stripos($update['title'], 'video') !== false): ?>
+                      <span class="badge badge-danger" style="position: absolute; top: 10px; left: 10px; font-size: 11px; padding: 4px 8px; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">
+                        <i class="fa fa-play mr-1"></i> Video
+                      </span>
+                    <?php else: ?>
+                      <span class="badge badge-success" style="position: absolute; top: 10px; left: 10px; font-size: 11px; padding: 4px 8px; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.3); background-color: #00772D;">
+                        <i class="fa fa-newspaper-o mr-1"></i> Update
+                      </span>
+                    <?php endif; ?>
+                  </div>
+                  <div class="lokdal-card-body">
+                    <div>
+                      <a <?= $linkAttr; ?> class="headline">
+                        <h5 class="lokdal-card-title"><?= $update['title'];?></h5>
+                      </a>
+                      <p class="lokdal-card-desc"><?= $update['desc'];?></p>
+                    </div>
+                    <div class="lokdal-card-footer">
+                      <span><i class="fa fa-clock-o mr-1 text-success"></i><?= htmlspecialchars($update['parsed_date']); ?></span>
+                      <a <?= $linkAttr; ?> class="font-weight-bold text-success" style="text-decoration: none;">
+                        पढ़ें <i class="fa fa-angle-right"></i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <?php endforeach; ?>
+            </div>
+          </div>
+
+          <!-- View More Button on the right bottom of the cards -->
+          <div class="d-flex justify-content-end align-items-center mt-2 mb-4">
+            <button class="btn btn-outline-success font-weight-bold px-4 py-2 custom-view-more-btn" type="button" data-toggle="collapse" data-target="#moreDailyUpdates" aria-expanded="false" aria-controls="moreDailyUpdates" style="border-radius: 30px; font-size: 14px; border-width: 2px;">
+              <span class="btn-text">और देखें / View More</span> <i class="fa fa-angle-down ml-1 toggle-icon"></i>
+            </button>
+          </div>
+          <?php endif; ?>
+        </div>
+        <!-- End Daily Updates Section -->
+
+        <!-- ==================== Most Popular Videos (3-Column Layout) ==================== -->
+        <div class="popular-videos-section mb-5">
+          <div class="row">
+            <div class="col-12">
+              <div class="title d-flex justify-content-between align-items-center mb-4">
+                <h5 class="mb-0">Most Popular Videos</h5>
+              </div>
+            </div>
+          </div>
+          <?php 
+            $ourServicesArr = [
                 ['img' => 'img/news/latest-news/news-78.jpeg','video' => 'video/wp-video-7.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 1] दिल्ली पुलिस हिरासत बस से चौधरी सुनील सिंह का लाइव संदेश', 'desc' => 'जंतर-मंतर पर पुलिस हिरासत के दौरान दिल्ली पुलिस बस से राष्ट्रीय अध्यक्ष जी का उद्बोधन', 'date' => '02 Oct 2026 • Exclusive Video'],
                 ['img' => 'video/wp-video-8-thumb.jpg','video' => 'video/wp-video-8.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 2] जंतर-मंतर ग्राउंड कवरेज — धारा 163 व मीडिया घेराव', 'desc' => 'जंतर-मंतर पर भारी पुलिस बल व नेशनल मीडिया के कैमरों के बीच जेल भरो आंदोलन', 'date' => '02 Oct 2026 • Ground Report'],
                 ['img' => 'img/news/latest-news/news-76.jpeg','video' => 'img/news/latest-news/news-76.jpeg', 'name' => 'स्वदेश (03 Oct): 2027 का रण: सपा का पीडीए रथ — “लोकदल इंडिया गठबंधन का मजबूत घटक है” : सुनील सिंह', 'desc' => 'स्वदेश राष्ट्रीय दैनिक (पेज 12) विशेष चुनावी विश्लेषण व लोकदल वक्तव्य', 'date' => 'Swadesh News - 03 Oct 2026'],
@@ -3427,54 +3555,106 @@
                 ['img' => 'https://img.youtube.com/vi/SxnXT1Xh0uA/hqdefault.jpg','video' => 'https://www.youtube.com/watch?v=SxnXT1Xh0uA', 'name' => 'लोकदल साक्षात्कार', 'desc' => 'किसान अधिकार नीति', 'date' => 'Lokdal News'],
                 ['img' => 'https://img.youtube.com/vi/dTsso2bFSm0/hqdefault.jpg','video' => 'https://www.youtube.com/watch?v=dTsso2bFSm0', 'name' => 'अमर उजाला न्यूज', 'desc' => 'चीनी-इथेनॉल नीति पर हमला', 'date' => 'Lokdal News'],
                 ['img' => 'https://img.youtube.com/vi/sWqkaLzdcEA/hqdefault.jpg','video' => 'https://www.youtube.com/watch?v=sWqkaLzdcEA', 'name' => 'समर सलील न्यूज', 'desc' => 'सीबीआई जांच मांग', 'date' => 'Lokdal News'],
-                ['img' => 'video/vid20.jpg','video' => 'video/20.mp4', 'name' => 'Delhi Chalo', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Dec 23, 2023 at 2:55 pm'],
+                ['img' => 'video/vid20.jpg','video' => 'video/20.mp4', 'name' => 'Delhi Chalo', 'desc' => 'Speech Delivery', 'date' => 'Lokdal on Dec 23, 2023 at 2:55 pm']
               ];
-              ?>
-            <div class="col-12 col-lg-4 d-flex flex-column justify-content-between">
-              <div class="title">
-                <h5>Most Popular Videos</h5>
-              </div>
-              <!-- Single Blog Post -->
-              <?php foreach ($ourServicesArr as $key => $value): ?>
-              <?php if ($key < 8): ?>
-              <div class="single-blog-post wow fadeInUpBig" data-wow-delay="0.2s">
-                <!-- Post Thumbnail -->
-                <div class="post-thumbnail">
-                  <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
-                  <!-- Video Button -->
-                  <a href="<?php echo $value['video']; ?>" target="_blank" class="video-btn"><i class="fa fa-play"></i></a>
+
+            $pastWeekVideos = [];
+            $olderVideos = [];
+
+            foreach ($ourServicesArr as $video) {
+              $info = getLokdalItemDateInfo($video);
+              $video['parsed_date'] = $info['formatted'];
+              if ($info['timestamp'] && $info['timestamp'] >= $pastWeekCutoff) {
+                $pastWeekVideos[] = $video;
+              } else {
+                $olderVideos[] = $video;
+              }
+            }
+
+            // Fallback: If less than 6 items qualify as past week, ensure at least 6 are visible so grid is full
+            if (count($pastWeekVideos) < 6 && count($olderVideos) > 0) {
+              $needed = 6 - count($pastWeekVideos);
+              $splice = array_splice($olderVideos, 0, $needed);
+              $pastWeekVideos = array_merge($pastWeekVideos, $splice);
+            }
+          ?>
+
+          <!-- Visible Video Cards (Past Week) -->
+          <div class="row">
+            <?php foreach ($pastWeekVideos as $value): ?>
+            <div class="col-12 col-md-6 col-lg-4 mb-4 d-flex align-items-stretch">
+              <div class="lokdal-card lokdal-video-card wow fadeInUpBig" data-wow-delay="0.2s">
+                <div class="lokdal-card-thumb" style="background: #000;">
+                  <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async" style="opacity: 0.92;">
+                  <!-- Video Play Button Overlay -->
+                  <a href="<?php echo $value['video']; ?>" target="_blank" class="lokdal-play-btn"><i class="fa fa-play" style="margin-left: 2px;"></i></a>
+                  <span class="badge badge-dark" style="position: absolute; bottom: 8px; right: 8px; background: rgba(0,0,0,0.75); color: #fff; font-size: 11px; padding: 3px 8px; border-radius: 4px;">
+                    <i class="fa fa-play-circle text-danger mr-1"></i> Video
+                  </span>
                 </div>
-                <!-- Post Content -->
-                <div class="post-content">
-                  <a href="<?php echo $value['video']; ?>" target="_blank" class="headline video-btn">
-                    <h5><?php echo $value['name']; ?></h5>
-                    <p><?php echo $value['desc']; ?></p>
-                    <!-- Post Meta -->
-                    <div class="post-meta">
-                      <p><?php echo $value['date']; ?></p>
+                <div class="lokdal-card-body">
+                  <div>
+                    <a href="<?php echo $value['video']; ?>" target="_blank" class="headline video-btn">
+                      <h5 class="lokdal-card-title"><?php echo $value['name']; ?></h5>
+                    </a>
+                    <p class="lokdal-card-desc"><?php echo $value['desc']; ?></p>
+                  </div>
+                  <div class="lokdal-card-footer">
+                    <span><i class="fa fa-calendar-o mr-1 text-danger"></i><?php echo $value['parsed_date']; ?></span>
+                    <a href="<?php echo $value['video']; ?>" target="_blank" class="font-weight-bold text-danger" style="text-decoration: none;">
+                      देखें <i class="fa fa-play-circle ml-1"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <?php endforeach; ?>
+          </div>
+
+          <!-- Collapsible Older Videos (Before Past Week) -->
+          <?php if (!empty($olderVideos)): ?>
+          <div class="collapse w-100" id="morePopularVideos">
+            <div class="row">
+              <?php foreach ($olderVideos as $value): ?>
+              <div class="col-12 col-md-6 col-lg-4 mb-4 d-flex align-items-stretch">
+                <div class="lokdal-card lokdal-video-card">
+                  <div class="lokdal-card-thumb" style="background: #000;">
+                    <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async" style="opacity: 0.92;">
+                    <!-- Video Play Button Overlay -->
+                    <a href="<?php echo $value['video']; ?>" target="_blank" class="lokdal-play-btn"><i class="fa fa-play" style="margin-left: 2px;"></i></a>
+                    <span class="badge badge-dark" style="position: absolute; bottom: 8px; right: 8px; background: rgba(0,0,0,0.75); color: #fff; font-size: 11px; padding: 3px 8px; border-radius: 4px;">
+                      <i class="fa fa-play-circle text-danger mr-1"></i> Video
+                    </span>
+                  </div>
+                  <div class="lokdal-card-body">
+                    <div>
+                      <a href="<?php echo $value['video']; ?>" target="_blank" class="headline video-btn">
+                        <h5 class="lokdal-card-title"><?php echo $value['name']; ?></h5>
+                      </a>
+                      <p class="lokdal-card-desc"><?php echo $value['desc']; ?></p>
                     </div>
-                  </a>
-                </div>
-              </div>
-              <?php else: ?>
-              <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
-                <div class="post-thumbnail" style="position: relative;">
-                  <img src="<?php echo $value['img']; ?>" alt="" loading="lazy" decoding="async">
-                  <a href="<?php echo $value['video']; ?>" target="_blank" class="video-btn" style="width: 26px; height: 26px; line-height: 26px;"><i class="fa fa-play" style="line-height: 26px; font-size: 11px;"></i></a>
-                </div>
-                <div class="post-content">
-                  <a href="<?php echo $value['video']; ?>" target="_blank" class="headline">
-                    <h5><?php echo $value['name']; ?></h5>
-                    <div class="post-meta">
-                      <p><?php echo $value['date']; ?></p>
+                    <div class="lokdal-card-footer">
+                      <span><i class="fa fa-calendar-o mr-1 text-danger"></i><?php echo $value['parsed_date']; ?></span>
+                      <a href="<?php echo $value['video']; ?>" target="_blank" class="font-weight-bold text-danger" style="text-decoration: none;">
+                        देखें <i class="fa fa-play-circle ml-1"></i>
+                      </a>
                     </div>
-                  </a>
+                  </div>
                 </div>
               </div>
-              <?php endif; ?>
               <?php endforeach; ?>
             </div>
           </div>
+
+          <!-- View More Button on the right bottom of the cards -->
+          <div class="d-flex justify-content-end align-items-center mt-2 mb-4">
+            <button class="btn btn-outline-danger font-weight-bold px-4 py-2 custom-view-more-btn" type="button" data-toggle="collapse" data-target="#morePopularVideos" aria-expanded="false" aria-controls="morePopularVideos" style="border-radius: 30px; font-size: 14px; border-width: 2px;">
+              <span class="btn-text">और वीडियो देखें / View More</span> <i class="fa fa-angle-down ml-1 toggle-icon"></i>
+            </button>
+          </div>
+          <?php endif; ?>
+        </div>
+        <!-- End Most Popular Videos Section -->
           <?php 
             $ourServicesArr = [
               ['img' => 'img/news/latest-news/news-76.jpeg'],
@@ -3578,6 +3758,28 @@
     <script src="js/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
+    <!-- Collapse Toggle Text & Icon Handler for Daily Updates and Popular Videos -->
+    <script>
+      $(document).ready(function() {
+        $('#moreDailyUpdates').on('show.bs.collapse', function () {
+          $('[data-target="#moreDailyUpdates"]').find('.btn-text').text('कम देखें / View Less');
+          $('[data-target="#moreDailyUpdates"]').find('.toggle-icon').removeClass('fa-angle-down').addClass('fa-angle-up');
+        });
+        $('#moreDailyUpdates').on('hide.bs.collapse', function () {
+          $('[data-target="#moreDailyUpdates"]').find('.btn-text').text('और देखें / View More');
+          $('[data-target="#moreDailyUpdates"]').find('.toggle-icon').removeClass('fa-angle-up').addClass('fa-angle-down');
+        });
+
+        $('#morePopularVideos').on('show.bs.collapse', function () {
+          $('[data-target="#morePopularVideos"]').find('.btn-text').text('कम देखें / View Less');
+          $('[data-target="#morePopularVideos"]').find('.toggle-icon').removeClass('fa-angle-down').addClass('fa-angle-up');
+        });
+        $('#morePopularVideos').on('hide.bs.collapse', function () {
+          $('[data-target="#morePopularVideos"]').find('.btn-text').text('और वीडियो देखें / View More');
+          $('[data-target="#morePopularVideos"]').find('.toggle-icon').removeClass('fa-angle-up').addClass('fa-angle-down');
+        });
+      });
+    </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
     <script>
