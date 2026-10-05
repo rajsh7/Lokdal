@@ -82,26 +82,23 @@
       <div id="world-load"></div>
     </div>
     <!-- Preloader End -->
-    <!-- ***** Header Area Start ***** -->
-    <?php include_once("header.php"); ?>
-    
     <!-- Top Breaking News Bar Start -->
-    <div class="top-breaking-news-bar" style="background: #00772D; color: #fff; padding: 10px 0; border-bottom: 3px solid #ffcc00; box-shadow: 0 3px 10px rgba(0,0,0,0.18);">
-      <div class="container">
+    <div class="top-breaking-news-bar" style="background: #00772D; color: #fff; padding: 8px 0; border-bottom: 2px solid #ffcc00; position: relative; z-index: 350; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+      <div class="container-fluid px-3 px-lg-4">
         <div class="d-flex flex-wrap align-items-center justify-content-between">
-          <div class="d-flex align-items-center mb-1 mb-md-0" style="white-space: nowrap;">
-            <span class="badge badge-danger text-uppercase px-2 py-1 mr-2" style="background-color: #d90429; font-size: 13px; font-weight: 700; letter-spacing: 0.5px;">
+          <div class="d-flex align-items-center my-1" style="white-space: nowrap;">
+            <span class="badge badge-danger text-uppercase px-2 py-1 mr-2" style="background-color: #d90429; font-size: 12.5px; font-weight: 700; letter-spacing: 0.5px;">
               <i class="fa fa-bullhorn"></i> ताज़ा समाचार
             </span>
-            <strong style="color: #ffeb3b; font-size: 14.5px;">03 Oct 2026:</strong>
+            <strong style="color: #ffeb3b; font-size: 13.5px;">03 Oct 2026:</strong>
           </div>
-          <div class="flex-grow-1 mx-md-3 text-truncate" style="font-size: 14.5px; color: #ffffff;">
+          <div class="flex-grow-1 mx-2 mx-md-3 my-1" style="min-width: 260px; font-size: 13.5px; color: #ffffff;">
             <a href="#swadesh-special" style="color: #fff; text-decoration: underline; font-weight: 600;" title="स्वदेश (03 Oct 2026): 2027 का रण - लोकदल इंडिया गठबंधन का मजबूत घटक है">
               <strong>स्वदेश (03 Oct):</strong> 2027 का रण: सपा का पीडीए रथ — “लोकदल इंडिया गठबंधन का मजबूत घटक है” : चौधरी सुनील सिंह | जंतर-मंतर जेल भरो आंदोलन
             </a>
           </div>
-          <div class="d-flex flex-wrap align-items-center mt-1 mt-lg-0" style="gap: 5px;">
-            <a href="#exclusive-videos" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 8px; border-radius:3px; box-shadow: 0 0 12px rgba(255,0,0,0.8);"><i class="fa fa-play-circle"></i> 🔴 2 लाइव वीडियो</a>
+          <div class="d-flex flex-wrap align-items-center my-1" style="gap: 5px;">
+            <a href="#exclusive-videos" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 8px; border-radius:3px; box-shadow: 0 0 10px rgba(255,0,0,0.7);"><i class="fa fa-play-circle"></i> 🔴 2 लाइव वीडियो</a>
             <a data-lightbox="breaking-news" href="img/news/latest-news/news-76.jpeg" class="btn btn-sm" style="background:#ffeb3b; color:#000; font-weight:700; font-size:11.5px; padding:3px 8px; border-radius:3px;"><i class="fa fa-newspaper-o"></i> स्वदेश (03 Oct)</a>
             <a data-lightbox="breaking-news" href="img/news/latest-news/news-77.jpeg" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 8px; border-radius:3px;"><i class="fa fa-newspaper-o"></i> राष्ट्रीय सुदर्शन</a>
             <a data-lightbox="breaking-news" href="img/news/latest-news/news-78.jpeg" class="btn btn-sm" style="background:#ff3333; color:#fff; font-weight:700; font-size:11.5px; padding:3px 8px; border-radius:3px;"><i class="fa fa-camera"></i> पुलिस बस फोटो</a>
@@ -117,6 +114,9 @@
       </div>
     </div>
     <!-- Top Breaking News Bar End -->
+    <!-- ***** Header Area Start ***** -->
+    <?php include_once("header.php"); ?>
+    <!-- ***** Header Area End ***** -->
     <!-- ********** Hero Area Start ********** -->
     <div class="hero-area">
       <!-- Hero Slides Area -->

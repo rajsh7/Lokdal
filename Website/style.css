@@ -351,21 +351,25 @@ img {
 
 /* :: Header Area CSS */
 .header-area {
-  position: fixed;
+  position: relative;
   top: 0;
   width: 100%;
   height: auto;
-  margin-top: 20px;
+  margin-top: 0;
   left: 0;
   z-index: 300;
-  -webkit-transition-duration: 500ms;
-  transition-duration: 500ms; }
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  -webkit-transition-duration: 300ms;
+  transition-duration: 300ms; }
   .header-area .navbar {
-    border-bottom: 1px solid;
-    border-color: #000000;
-    -webkit-transition-duration: 500ms;
-    transition-duration: 500ms;
-    height: 55px; }
+    border-bottom: none;
+    -webkit-transition-duration: 300ms;
+    transition-duration: 300ms;
+    min-height: 60px;
+    height: auto;
+    padding: 6px 0; }
     .header-area .navbar .navbar-nav {
       margin-right: 5px; }
       .header-area .navbar .navbar-nav .nav-link {
@@ -383,9 +387,13 @@ img {
         .header-area .navbar .navbar-nav {
           margin-right: 30px; } }
   .header-area.sticky {
-    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    left: 0;
     margin-top: 0;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.308); }
+    background-color: #ffffff;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.18);
+    z-index: 999; }
     .header-area.sticky .navbar {
     border-color: #000000;
    }
@@ -423,16 +431,24 @@ img {
     position: relative;
     z-index: 10; }
     .hero-area .hero-slides .single-hero-slide {
+      width: 100%;
       height: 600px;
       position: relative;
       z-index: 1;
+      background-size: cover !important;
+      background-position: center center !important;
+      background-repeat: no-repeat !important;
        }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .hero-area .hero-slides .single-hero-slide {
-          height: 450px; } }
+          height: 500px;
+          background-size: cover !important;
+          background-position: center center !important; } }
       @media only screen and (max-width: 767px) {
         .hero-area .hero-slides .single-hero-slide {
-          height: 400px; } }
+          height: 440px;
+          background-size: cover !important;
+          background-position: center center !important; } }
   .hero-area .hero-post-area {
     position: absolute;
     bottom: 40px;
@@ -1322,40 +1338,55 @@ textarea:focus ~ .highlight {
         @media only screen and (max-width: 767px) {
           #sh1 {
             background-image: url(img/img/head-Mobile.jpg);
+            background-size: cover !important;
+            background-position: center center !important;
           }
           #sh2 {
             background-image: url(img/img/sona-mobile.jpg);
+            background-size: cover !important;
+            background-position: center center !important;
           }
           #sh3 {
             background-image: url(img/img/sone-mobile.jpg);
+            background-size: cover !important;
+            background-position: center center !important;
           }
+        }
+        @media only screen and (min-width: 768px) and (max-width: 991px) {
+          #sh1 {
+            background-image: url(img/img/head-tab.jpg);
+            background-size: cover !important;
+            background-position: center center !important;
           }
-          @media only screen and (min-width: 768px) and (max-width: 991px) {
-            #sh1 {
-              background-image: url(img/img/head-tab.jpg);
-            }
-            #sh2 {
-              background-image: url(img/img/sona-tab.jpg);
-            }
-            #sh3 {
-              background-image: url(img/img/sone-tab.jpg);
-            }
-            }
-            @media only screen and (min-width: 992px){
-              .hero-area .hero-post-area {bottom: 0px;}
-              #sh1 {
-                background-image: url(img/img/head.jpg);
-                background-size: contain;
-              }
-              #sh2 {
-                background-image: url(img/img/sona.jpg);
-                background-size: contain;
-              }
-              #sh3 {
-                background-image: url(img/img/sone.jpg);
-                background-size: contain;
-              }
-              }
+          #sh2 {
+            background-image: url(img/img/sona-tab.jpg);
+            background-size: cover !important;
+            background-position: center center !important;
+          }
+          #sh3 {
+            background-image: url(img/img/sone-tab.jpg);
+            background-size: cover !important;
+            background-position: center center !important;
+          }
+        }
+        @media only screen and (min-width: 992px){
+          .hero-area .hero-post-area {bottom: 10px;}
+          #sh1 {
+            background-image: url(img/img/head.jpg);
+            background-size: cover !important;
+            background-position: center center !important;
+          }
+          #sh2 {
+            background-image: url(img/img/sona.jpg);
+            background-size: cover !important;
+            background-position: center center !important;
+          }
+          #sh3 {
+            background-image: url(img/img/sone.jpg);
+            background-size: cover !important;
+            background-position: center center !important;
+          }
+        }
 
 
 
