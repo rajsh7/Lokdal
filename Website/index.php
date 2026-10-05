@@ -14,6 +14,8 @@
       $activitiesDb[] = $r;
     }
   }
+
+  $leaders = $con ? mysqli_query($con, "SELECT * FROM leaders;") : false;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -123,339 +125,429 @@
         <!-- Single Slide -->
         <div class="single-hero-slide bg-img background-overlay" id="sh3"></div>
       </div>
-      <!-- Hero Post Slide -->
-      <div class="hero-post-area">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <div class="hero-post-slide">
-                <!-- Single Slide -->
-                <div class="single-slide d-flex align-items-center">
-                  <div class="post-number">
-                    <p><i class="fa fa-suitcase" aria-hidden="true"></i></p>
+    </div>
+    <!-- ********** Hero Area End ********** -->
+
+    <!-- ============= HERO SECTION 3-COLUMN LAYOUT (Matches Wireframe) Start ============= -->
+    <div class="main-content-wrapper pt-4 pb-4" style="background: #f7f9fa; border-bottom: 2px solid #e2e8f0;">
+      <div class="container-fluid" style="max-width: 1440px; padding: 0 20px;">
+        <div class="row align-items-stretch">
+          
+          <!-- ============= COLUMN 1: About Lokdal And all the links of social media ============= -->
+          <div class="col-12 col-lg-3 col-md-5 mb-4 d-flex">
+            <div class="card w-100 border-0 shadow-sm" style="border-radius: 12px; overflow: hidden; border: 2px solid #00772D !important; background: #ffffff;">
+              <!-- Header -->
+              <div style="background: linear-gradient(135deg, #00772D 0%, #004d1a 100%); color: #ffffff; padding: 14px 16px; border-bottom: 2px solid #005a20;">
+                <h5 class="mb-0 text-white font-weight-bold" style="font-size: 16.5px; letter-spacing: 0.3px;">
+                  <i class="fa fa-info-circle mr-1"></i> About Lokdal
+                </h5>
+                <small style="color: #d4edda; font-size: 11.5px; font-weight: 500;">लोकदल परिचय एवं सामाजिक संपर्क</small>
+              </div>
+
+              <!-- Body -->
+              <div class="card-body p-3 d-flex flex-column justify-content-between" style="font-size: 13.5px; line-height: 1.65; color: #2d3748;">
+                <div>
+                  <!-- Party Logo & Title -->
+                  <div class="text-center mb-3 pb-2" style="border-bottom: 1px solid #edf2f7;">
+                    <img src="img/img/logo green.png" alt="Lokdal Logo" style="max-height: 50px; width: auto;" loading="lazy">
+                    <h6 class="mt-2 mb-0 font-weight-bold" style="color: #00772D; font-size: 15px;">लोकदल (Lokdal)</h6>
+                    <span class="text-muted" style="font-size: 11.5px;">स्थापना: 1980 • संस्थापक: चौ. चरण सिंह जी</span>
                   </div>
-                  <div class="post-title">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSednDV-de3A7rTE0hFb0Xx5iBopY8HuwY1DIGM6kYZ4_7CEsw/viewform" target="_blank">Right To Employment</a>
+
+                  <!-- Text -->
+                  <p class="mb-2" style="text-align: justify;">
+                    <strong>लोकदल</strong> किसानों, मजदूरों, नौजवानों और उपेक्षित वर्गों के अधिकारों के लिए समर्पित ऐतिहासिक राष्ट्रीय राजनीतिक दल है।
+                  </p>
+                  <p class="mb-2" style="text-align: justify;">
+                    वर्तमान में प्रख्यात सामाजिक-राजनीतिक चिंतक एवं पूर्व एमएलसी <strong>चौधरी सुनील सिंह जी</strong> लोकदल के राष्ट्रीय अध्यक्ष हैं।
+                  </p>
+
+                  <div style="background: #e8f5e9; border-left: 3px solid #00772D; padding: 7px 10px; border-radius: 4px; font-size: 12.5px; margin-bottom: 12px;">
+                    <strong style="color: #00772D;">ध्येय:</strong> “गाँव, गरीब और किसान — यही है देश की असली पहचान।”
+                  </div>
+
+                  <!-- Key Missions / Forms -->
+                  <div class="mb-3">
+                    <h6 style="color: #00772D; font-weight: 700; font-size: 12.5px; margin-bottom: 6px; text-transform: uppercase;">
+                      <i class="fa fa-check-square-o mr-1"></i> प्रमुख अधिकार अभियान:
+                    </h6>
+                    <div class="d-flex flex-column" style="gap: 5px;">
+                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSednDV-de3A7rTE0hFb0Xx5iBopY8HuwY1DIGM6kYZ4_7CEsw/viewform" target="_blank" class="btn btn-sm btn-outline-success text-left py-1 px-2" style="font-size: 11.5px; font-weight: 600; border-radius: 4px;">
+                        <i class="fa fa-suitcase mr-1"></i> Right To Employment (रोजगार)
+                      </a>
+                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSednDV-de3A7rTE0hFb0Xx5iBopY8HuwY1DIGM6kYZ4_7CEsw/viewform" target="_blank" class="btn btn-sm btn-outline-success text-left py-1 px-2" style="font-size: 11.5px; font-weight: 600; border-radius: 4px;">
+                        <i class="fa fa-graduation-cap mr-1"></i> Right For Education (शिक्षा)
+                      </a>
+                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSednDV-de3A7rTE0hFb0Xx5iBopY8HuwY1DIGM6kYZ4_7CEsw/viewform" target="_blank" class="btn btn-sm btn-outline-success text-left py-1 px-2" style="font-size: 11.5px; font-weight: 600; border-radius: 4px;">
+                        <i class="fa fa-plus-circle mr-1"></i> Better Health & Security (स्वास्थ्य)
+                      </a>
+                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSednDV-de3A7rTE0hFb0Xx5iBopY8HuwY1DIGM6kYZ4_7CEsw/viewform" target="_blank" class="btn btn-sm btn-outline-success text-left py-1 px-2" style="font-size: 11.5px; font-weight: 600; border-radius: 4px;">
+                        <i class="fa fa-shield mr-1"></i> Stop Corruption (भ्रष्टाचार मुक्ति)
+                      </a>
+                    </div>
                   </div>
                 </div>
-                <!-- Single Slide -->
-                <div class="single-slide d-flex align-items-center">
-                  <div class="post-number">
-                    <p><i class="fa fa-graduation-cap" aria-hidden="true"></i></p>
+
+                <!-- Social Media Links (Wireframe: "And all the links of social media") -->
+                <div class="mt-3 pt-3" style="border-top: 2px dashed #00772D;">
+                  <h6 style="color: #111; font-weight: 800; font-size: 13px; margin-bottom: 8px; text-transform: uppercase;">
+                    <i class="fa fa-share-alt text-success mr-1"></i> सोशल मीडिया से जुड़ें (All Links):
+                  </h6>
+                  <div class="d-flex flex-column" style="gap: 6px;">
+                    <a href="https://www.facebook.com/Lokdalindia/" target="_blank" class="btn btn-sm text-white text-left font-weight-bold" style="background: #1877F2; border-radius: 6px; padding: 6px 10px; font-size: 12px;">
+                      <i class="fa fa-facebook-official mr-2"></i> Facebook Official Page
+                    </a>
+                    <a href="https://twitter.com/lokdalindia" target="_blank" class="btn btn-sm text-white text-left font-weight-bold" style="background: #000000; border-radius: 6px; padding: 6px 10px; font-size: 12px;">
+                      <i class="fa fa-twitter mr-2"></i> X (Twitter) / @lokdalindia
+                    </a>
+                    <a href="https://youtu.be/6Tz2jiiP7G0?si=_fLFHVCDp-0oT_Jc" target="_blank" class="btn btn-sm text-white text-left font-weight-bold" style="background: #FF0000; border-radius: 6px; padding: 6px 10px; font-size: 12px;">
+                      <i class="fa fa-youtube-play mr-2"></i> Lokdal YouTube Channel
+                    </a>
+                    <a href="https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4" target="_blank" class="btn btn-sm text-white text-left font-weight-bold" style="background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); border-radius: 6px; padding: 6px 10px; font-size: 12px;">
+                      <i class="fa fa-instagram mr-2"></i> Instagram Official
+                    </a>
+                    <a href="tel:9810074878" class="btn btn-sm text-white text-left font-weight-bold" style="background: #25D366; border-radius: 6px; padding: 6px 10px; font-size: 12px;">
+                      <i class="fa fa-whatsapp mr-2"></i> WhatsApp: 9810074878
+                    </a>
+                    <a href="mailto:lokdalparty@gmail.com" class="btn btn-sm text-white text-left font-weight-bold" style="background: #4a5568; border-radius: 6px; padding: 6px 10px; font-size: 12px;">
+                      <i class="fa fa-envelope mr-2"></i> lokdalparty@gmail.com
+                    </a>
                   </div>
-                  <div class="post-title">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSednDV-de3A7rTE0hFb0Xx5iBopY8HuwY1DIGM6kYZ4_7CEsw/viewform" target="_blank">Right For Education</a>
-                  </div>
-                </div>
-                <!-- Single Slide -->
-                <div class="single-slide d-flex align-items-center">
-                  <div class="post-number">
-                    <p><i class="fa fa-plus-circle" aria-hidden="true"></i></p>
-                  </div>
-                  <div class="post-title">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSednDV-de3A7rTE0hFb0Xx5iBopY8HuwY1DIGM6kYZ4_7CEsw/viewform" target="_blank">Better Health And Security</a>
-                  </div>
-                </div>
-                <!-- Single Slide -->
-                <div class="single-slide d-flex align-items-center">
-                  <div class="post-number">
-                    <p><i class="fa fa-bandcamp" aria-hidden="true"></i></p>
-                  </div>
-                  <div class="post-title">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSednDV-de3A7rTE0hFb0Xx5iBopY8HuwY1DIGM6kYZ4_7CEsw/viewform" target="_blank">Stop Corruption</a>
+
+                  <!-- Flipbook & Manifesto Links -->
+                  <div class="mt-3 pt-2 text-center" style="border-top: 1px solid #e2e8f0;">
+                    <a href="https://online.fliphtml5.com/derws/qgbl/" target="_blank" class="badge badge-light p-2 mr-1 mb-1" style="font-size: 11px; border: 1px solid #cbd5e0;">
+                      <i class="fa fa-book text-success"></i> History of Lokdal
+                    </a>
+                    <a href="https://online.fliphtml5.com/derws/mavj/" target="_blank" class="badge badge-light p-2 mb-1" style="font-size: 11px; border: 1px solid #cbd5e0;">
+                      <i class="fa fa-file-text-o text-success"></i> Lokdal Manifesto
+                    </a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
+
+          <!-- ============= COLUMN 2: Latest News ============= -->
+          <div class="col-12 col-lg-6 col-md-7 mb-4 d-flex">
+            <div class="card w-100 border-0 shadow-sm" style="border-radius: 12px; overflow: hidden; border: 2px solid #00772D !important; background: #ffffff;">
+              <!-- Header -->
+              <div style="background: linear-gradient(135deg, #b30000 0%, #730000 100%); color: #ffffff; padding: 14px 16px; border-bottom: 2px solid #5a0000;" class="d-flex justify-content-between align-items-center flex-wrap">
+                <div>
+                  <h5 class="mb-0 text-white font-weight-bold" style="font-size: 16.5px; letter-spacing: 0.3px;">
+                    <i class="fa fa-newspaper-o mr-1"></i> Latest News • ताज़ा समाचार
+                  </h5>
+                  <small style="color: #ffcccc; font-size: 11.5px; font-weight: 500;">दैनिक प्रेस कवरेज, चुनावी विश्लेषण व ग्राउंड रिपोर्ट्स</small>
+                </div>
+                <span class="badge badge-warning text-dark font-weight-bold px-2 py-1 mt-1 mt-sm-0" style="font-size: 11px;">
+                  <i class="fa fa-circle text-danger mr-1" style="font-size: 8px;"></i> LIVE UPDATES
+                </span>
+              </div>
+
+              <!-- Body -->
+              <div class="card-body p-3" style="font-size: 13.5px; line-height: 1.65; color: #2d3748; overflow-y: auto; max-height: 860px;">
+                
+                <!-- Story 1: Swadesh National Daily 03 Oct 2026 -->
+                <div id="swadesh-special" class="mb-3 p-3" style="background: #f4fbf7; border: 1.5px solid #00772D; border-radius: 8px;">
+                  <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
+                    <span class="badge badge-success px-2 py-1" style="font-size: 11.5px; background: #00772D;">
+                      <i class="fa fa-newspaper-o mr-1"></i> स्वदेश (SWADESH) राष्ट्रीय दैनिक कवरेज
+                    </span>
+                    <span class="text-success font-weight-bold" style="font-size: 12px;">लखनऊ | 03 Oct 2026 | पृष्ठ - 12</span>
+                  </div>
+                  <h6 class="font-weight-bold mb-2" style="color: #004d1a; font-size: 15px; line-height: 1.45;">
+                    2027 का रण: सपा का पीडीए रथ तैयार पर मजबूत सारथी की दरकार — “लोकदल इंडिया गठबंधन का मजबूत घटक है, मिलकर बनाएंगे सरकार” : राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                  </h6>
+                  <div class="row align-items-start">
+                    <div class="col-12 col-sm-4 mb-2 mb-sm-0">
+                      <a data-lightbox="press-clippings" href="img/news/latest-news/news-76.jpeg" title="स्वदेश समाचार पत्र (03 Oct 2026)">
+                        <img src="img/news/latest-news/news-76.jpeg" alt="स्वदेश समाचार पत्र कवरेज" style="width: 100%; border-radius: 5px; border: 1px solid #00772D;" loading="lazy">
+                      </a>
+                      <div class="text-center mt-1">
+                        <a data-lightbox="press-clippings" href="img/news/latest-news/news-76.jpeg" class="btn btn-sm btn-outline-success btn-block py-1" style="font-size: 11px; font-weight: 600;">
+                          <i class="fa fa-search-plus"></i> बड़ा देखें
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-12 col-sm-8" style="font-size: 13px; line-height: 1.6; color: #2d3748;">
+                      <p class="mb-1"><strong>लखनऊ।</strong> प्रमुख राष्ट्रीय दैनिक <strong>‘स्वदेश’</strong> के 3 अक्टूबर संस्करण में उप्र 2027 चुनाव व विपक्षी एकजुटता पर विस्तृत विश्लेषण प्रकाशित हुआ है।</p>
+                      <div style="background: #e8f5e9; border-left: 3px solid #00772D; padding: 6px 10px; border-radius: 0 4px 4px 0; margin: 6px 0; font-size: 12.5px;">
+                        <p class="mb-0 text-success font-weight-bold">
+                          “लोकदल इंडिया गठबंधन का मजबूत घटक है। यूपी में गठबंधन के साथ मिलकर चुनाव लड़ेंगे और 2027 में सरकार बनाएंगे।” — चौ. सुनील सिंह
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Story 2: Jantar Mantar Jail Bharo Andolan 02 Oct 2026 -->
+                <div class="mb-3 p-3" style="background: #fff8f8; border: 1.5px solid #b30000; border-radius: 8px;">
+                  <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
+                    <span class="badge badge-danger px-2 py-1" style="font-size: 11.5px; background: #b30000;">
+                      <i class="fa fa-bullhorn mr-1"></i> गांधी जयंती विशेष • जंतर-मंतर जेल भरो आंदोलन
+                    </span>
+                    <span class="text-danger font-weight-bold" style="font-size: 12px;">नई दिल्ली | 02 Oct 2026</span>
+                  </div>
+                  <h6 class="font-weight-bold mb-2" style="color: #8b0000; font-size: 15px; line-height: 1.45;">
+                    गांधी जयंती पर जंतर-मंतर से लोकदल ने शुरू किया ‘जेल भरो आंदोलन’ : राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह समेत सैकड़ों कार्यकर्ता पुलिस हिरासत में
+                  </h6>
+                  <div class="row align-items-start">
+                    <div class="col-12 col-sm-5 mb-2 mb-sm-0">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-78.jpeg" title="जंतर-मंतर पर दिल्ली पुलिस बस में हिरासत के दौरान राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह">
+                        <img src="img/news/latest-news/news-78.jpeg" alt="दिल्ली पुलिस बस में राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह" style="width: 100%; border-radius: 5px; border: 1.5px solid #b30000;" loading="lazy">
+                      </a>
+                      <small class="d-block text-center text-danger font-weight-bold mt-1" style="font-size: 11px;">
+                        <i class="fa fa-camera"></i> दिल्ली पुलिस हिरासत बस से राष्ट्रीय अध्यक्ष
+                      </small>
+                    </div>
+                    <div class="col-12 col-sm-7" style="font-size: 13px; line-height: 1.6; color: #2d3748;">
+                      <p class="mb-1">
+                        <strong>नई दिल्ली।</strong> मतदाता अधिकारों व पारदर्शी चुनावी व्यवस्था हेतु जंतर-मंतर पर विशाल विरोध-प्रदर्शन में लोकदल राष्ट्रीय अध्यक्ष <strong>चौधरी सुनील सिंह</strong> के नेतृत्व में 'जेल भरो आंदोलन' शुरू हुआ।
+                      </p>
+                      <div style="background: #fde8e8; border-left: 3px solid #b30000; padding: 6px 10px; border-radius: 0 4px 4px 0; margin: 6px 0; font-size: 12px; font-weight: 600; color: #7f0000;">
+                        “यह सिर्फ शुरुआत है! देश का किसान और नौजवान अधिकारों की रक्षा के लिए अब रुकने वाले नहीं हैं।”
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Media Coverage Buttons -->
+                  <div class="mt-2 pt-2" style="border-top: 1px solid #fed7d7;">
+                    <small class="font-weight-bold d-block mb-1 text-dark">प्रमुख मीडिया कवरेज पढ़ें:</small>
+                    <div class="d-flex flex-wrap" style="gap: 5px;">
+                      <a href="https://www.cherishtimes.in/uttar-pradesh/90755" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2" style="font-size: 11px; font-weight: 600;">Cherish Times</a>
+                      <a href="https://suryodaybharat.com/lokdals-fill-the-jails-protest-against-the-election-commissioner-at-jantar-mantar-national-president-chaudhary-sunil-singh-in-police-custody/" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2" style="font-size: 11px; font-weight: 600;">सूर्योदय भारत</a>
+                      <a href="https://swarnapriya.com/?p=37012" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2" style="font-size: 11px; font-weight: 600;">स्वर्णप्रिया</a>
+                      <a href="https://bahujanvichar.com/raising-questions-regarding-voters-rights-and-the-accountability-of-democratic-institutions-is-the-democratic-right-of-any-citizen/" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2" style="font-size: 11px; font-weight: 600;">बहुजन विचार</a>
+                      <a href="https://prakashprabhaw.com/khabar-hatke/jail-bharo-andolan/detail" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2" style="font-size: 11px; font-weight: 600;">PPN News</a>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Featured Section 3: 🔴 EXCLUSIVE LIVE VIDEOS (DOWNLOAD BUTTONS REMOVED) -->
+                <div id="exclusive-videos" class="mb-3 p-3" style="background: linear-gradient(135deg, #1a0000 0%, #300000 100%); border: 2px solid #ffcc00; border-radius: 8px; color: #fff;">
+                  <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
+                    <span class="badge badge-danger px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #ff0000;">
+                      <i class="fa fa-circle mr-1" style="font-size: 8px; animation: blinker 1s infinite;"></i> 🔴 एक्सक्लूसिव लाइव वीडियो (02 Oct 2026)
+                    </span>
+                    <span style="color: #ffcc00; font-size: 11.5px; font-weight: 700;">
+                      <i class="fa fa-shield"></i> ग्राउंड रिपोर्ट साक्ष्य
+                    </span>
+                  </div>
+
+                  <div class="row">
+                    <!-- Video 1 -->
+                    <div class="col-12 col-sm-6 mb-2 mb-sm-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px;">
+                        <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                          <i class="fa fa-video-camera"></i> वीडियो 1: हिरासत बस से लाइव संदेश
+                        </p>
+                        <video controls preload="metadata" poster="img/news/latest-news/news-78.jpeg" style="width: 100%; height: 180px; object-fit: contain; background: #000; border-radius: 4px;">
+                          <source src="video/wp-video-7.mp4" type="video/mp4">
+                          ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                        </video>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 11px; line-height: 1.3;">
+                          जंतर-मंतर: दिल्ली पुलिस वैन से राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का संदेश।
+                        </small>
+                      </div>
+                    </div>
+
+                    <!-- Video 2 -->
+                    <div class="col-12 col-sm-6">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px;">
+                        <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                          <i class="fa fa-television"></i> वीडियो 2: ग्राउंड कवरेज व धारा 163
+                        </p>
+                        <video controls preload="metadata" poster="video/wp-video-8-thumb.jpg" style="width: 100%; height: 180px; object-fit: contain; background: #000; border-radius: 4px;">
+                          <source src="video/wp-video-8.mp4" type="video/mp4">
+                          ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                        </video>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 11px; line-height: 1.3;">
+                          जंतर-मंतर ग्राउंड कवरेज: नेशनल मीडिया व पुलिस बल के बीच आंदोलन।
+                        </small>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- NOTE: Download buttons cleanly removed per user request! -->
+                </div>
+
+                <!-- Featured Section 4: Other Key Headlines -->
+                <div class="p-2" style="background: #f7fafc; border: 1px solid #e2e8f0; border-radius: 8px;">
+                  <div class="d-flex justify-content-between align-items-center mb-2 pb-1" style="border-bottom: 1px solid #cbd5e0;">
+                    <strong style="color: #00772D; font-size: 13.5px;"><i class="fa fa-list-alt mr-1"></i> अन्य महत्वपूर्ण समाचार एवं प्रेस कवरेज</strong>
+                    <small class="text-muted">ताज़ा अपडेट्स</small>
+                  </div>
+                  
+                  <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item 1: Rahul Gandhi meeting -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border">
+                      <img src="img/news/latest-news/news-46.jpeg" alt="राहुल गांधी व सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a href="https://zeenews.india.com/hindi/india/up-uttarakhand/up-politics/lokdal-leader-sunil-singh-meet-rahul-gandhi-demands-seats-in-up-election/3304111/amp" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          ज़ी न्यूज़: सुनील सिंह ने की राहुल गांधी से मुलाकात, UP चुनाव में 35 सीटों की मांग
+                        </a>
+                        <span class="d-block text-muted" style="font-size: 11px;">Zee News Hindi • 23 Sep 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item 2: Akhilesh Yadav meeting -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border">
+                      <img src="img/news/latest-news/wp-image-1.jpeg" alt="आजतक अखिलेश यादव व सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a href="https://x.com/aajtak/status/2100949903572967630" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          आजतक: 2027 में अखिलेश यादव को मुख्यमंत्री बनाना है — चौधरी सुनील सिंह
+                        </a>
+                        <span class="d-block text-muted" style="font-size: 11px;">AajTak News (X) • 18 Sep 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item 3: Rashtriya Sudarshan Paper -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border">
+                      <img src="img/news/latest-news/news-77.jpeg" alt="राष्ट्रीय सुदर्शन अख़बार" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-77.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          राष्ट्रीय सुदर्शन: गांधी जयंती पर जंतर-मंतर से लोकदल का जेल भरो आंदोलन
+                        </a>
+                        <span class="d-block text-muted" style="font-size: 11px;">अख़बार रिपोर्ट • 02 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item 4: 4tv News YouTube -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border">
+                      <img src="img/news/latest-news/news-69.jpeg" alt="4tv News Satellite" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a href="https://youtu.be/6Tz2jiiP7G0?si=_fLFHVCDp-0oT_Jc" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          4tv News Satellite: गांधी जयंती पर जंतर-मंतर से लोकदल का जेल भरो आंदोलन
+                        </a>
+                        <span class="d-block text-muted" style="font-size: 11px;">YouTube Video • 02 Oct 2026</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+          <!-- ============= COLUMN 3: Top Profiles ============= -->
+          <div class="col-12 col-lg-3 col-md-12 mb-4 d-flex">
+            <div class="card w-100 border-0 shadow-sm" style="border-radius: 12px; overflow: hidden; border: 2px solid #00772D !important; background: #ffffff;">
+              <!-- Header -->
+              <div style="background: linear-gradient(135deg, #00772D 0%, #004d1a 100%); color: #ffffff; padding: 14px 16px; border-bottom: 2px solid #005a20;">
+                <h5 class="mb-0 text-white font-weight-bold" style="font-size: 16.5px; letter-spacing: 0.3px;">
+                  <i class="fa fa-users mr-1"></i> Top Profiles
+                </h5>
+                <small style="color: #d4edda; font-size: 11.5px; font-weight: 500;">शीर्ष नेतृत्व एवं पार्टी पदाधिकारी</small>
+              </div>
+
+              <!-- Body -->
+              <div class="card-body p-3 d-flex flex-column justify-content-between" style="font-size: 13.5px; line-height: 1.6; color: #2d3748;">
+                <div>
+                  <!-- Profiles List -->
+                  <div class="d-flex flex-column" style="gap: 12px;">
+                    <!-- Profile 1: Chaudhary Charan Singh -->
+                    <div class="p-2" style="background: #f9fdfa; border: 1.5px solid #c3e6cb; border-radius: 8px;">
+                      <div class="d-flex align-items-center mb-2">
+                        <img src="../dashboard/img/leaders/charan profile.jpg" alt="चौधरी चरण सिंह" style="width: 58px; height: 58px; object-fit: cover; border-radius: 50%; border: 2px solid #00772D; margin-right: 10px;" onerror="this.src='img/Lokdal_content/chudhray charan singh.jpg'">
+                        <div>
+                          <h6 class="mb-0 font-weight-bold" style="color: #004d1a; font-size: 14.5px;">चौधरी चरण सिंह</h6>
+                          <span class="badge badge-success" style="font-size: 10.5px; background: #00772D;">पूर्व प्रधानमंत्री • किसान मसीहा</span>
+                          <small class="d-block text-muted" style="line-height: 1.2; margin-top: 2px;">संस्थापक एवं शाश्वत प्रेरणास्रोत</small>
+                        </div>
+                      </div>
+                      <p style="font-size: 12px; line-height: 1.45; color: #4a5568; margin-bottom: 6px;">
+                        देश के 5वें प्रधानमंत्री, जिन्होंने किसानों के सम्मान व ग्रामीण विकास को देश की राजनीति का केंद्र बनाया।
+                      </p>
+                      <a href="pages/charan.php" class="btn btn-sm btn-outline-success btn-block py-1" style="font-size: 11.5px; font-weight: 600;">
+                        जीवन परिचय व विचार पढ़ें &raquo;
+                      </a>
+                    </div>
+
+                    <!-- Profile 2: Chaudhary Sunil Singh -->
+                    <div class="p-2" style="background: #f9fdfa; border: 1.5px solid #c3e6cb; border-radius: 8px;">
+                      <div class="d-flex align-items-center mb-2">
+                        <img src="../dashboard/img/leaders/sunil profile.jpg" alt="चौधरी सुनील सिंह" style="width: 58px; height: 58px; object-fit: cover; border-radius: 50%; border: 2px solid #00772D; margin-right: 10px;" onerror="this.src='img/news/latest-news/news-78.jpeg'">
+                        <div>
+                          <h6 class="mb-0 font-weight-bold" style="color: #004d1a; font-size: 14.5px;">चौधरी सुनील सिंह</h6>
+                          <span class="badge badge-success" style="font-size: 10.5px; background: #00772D;">राष्ट्रीय अध्यक्ष • पूर्व MLC</span>
+                          <small class="d-block text-muted" style="line-height: 1.2; margin-top: 2px;">राष्ट्रीय अध्यक्ष, लोकदल</small>
+                        </div>
+                      </div>
+                      <p style="font-size: 12px; line-height: 1.45; color: #4a5568; margin-bottom: 6px;">
+                        इंजीनियर व प्रबंधन विशेषज्ञ, पूर्व विधान परिषद सदस्य, जो किसान, युवा व लोकतंत्र अधिकारों की लड़ाई लड़ रहे हैं।
+                      </p>
+                      <a href="pages/sunil.php" class="btn btn-sm btn-outline-success btn-block py-1" style="font-size: 11.5px; font-weight: 600;">
+                        जीवन परिचय व नेतृत्व पढ़ें &raquo;
+                      </a>
+                    </div>
+
+                    <!-- Profile 3: Rajinder Singh -->
+                    <div class="p-2" style="background: #f9fdfa; border: 1.5px solid #c3e6cb; border-radius: 8px;">
+                      <div class="d-flex align-items-center">
+                        <img src="../dashboard/img/leaders/Rajinder Singh.png" alt="राजेन्द्र सिंह" style="width: 50px; height: 50px; object-fit: cover; border-radius: 50%; border: 2px solid #00772D; margin-right: 10px;">
+                        <div>
+                          <h6 class="mb-0 font-weight-bold" style="color: #004d1a; font-size: 14px;">राजेन्द्र सिंह</h6>
+                          <span class="badge badge-secondary" style="font-size: 10.5px;">राष्ट्रीय कार्यकारिणी</span>
+                          <small class="d-block text-muted">वरिष्ठ पार्टी नेता</small>
+                        </div>
+                      </div>
+                    </div>
+
+                    <!-- Dynamic Leaders from DB if available -->
+                    <?php
+                    if(isset($leaders) && $leaders && mysqli_num_rows($leaders) > 0){
+                      mysqli_data_seek($leaders, 0);
+                      while($row=mysqli_fetch_assoc($leaders)){
+                        if(stripos($row['name'], 'charan') !== false || stripos($row['name'], 'sunil') !== false || stripos($row['name'], 'rajinder') !== false) continue;
+                    ?>
+                    <div class="p-2" style="background: #f9fdfa; border: 1.5px solid #c3e6cb; border-radius: 8px;">
+                      <div class="d-flex align-items-center">
+                        <img src="../dashboard/img/leaders/<?=$row['img'];?>" alt="<?=$row['name'];?>" style="width: 48px; height: 48px; object-fit: cover; border-radius: 50%; border: 2px solid #00772D; margin-right: 10px;">
+                        <div>
+                          <h6 class="mb-0 font-weight-bold" style="font-size: 13.5px;"><?=$row['name'];?></h6>
+                          <?php if(!empty($row['link'])): ?>
+                          <a href="<?=$row['link'];?>" style="font-size: 11px; color: #00772D; font-weight: 600;">प्रोफाइल देखें &raquo;</a>
+                          <?php endif; ?>
+                        </div>
+                      </div>
+                    </div>
+                    <?php
+                      }
+                    }
+                    ?>
+                  </div>
+                </div>
+
+                <!-- Join Party / Support Box -->
+                <div class="mt-3 pt-3" style="border-top: 2px dashed #00772D;">
+                  <div class="text-center p-2 mb-2" style="background: #f4fbf7; border-radius: 8px; border: 1px solid #d4edda;">
+                    <img src="img/img/logo1.png" alt="Lokdal" style="max-height: 44px;" class="mb-1">
+                    <h6 class="font-weight-bold mb-0" style="color: #00772D; font-size: 13px;">लोकदल का संकल्प</h6>
+                    <p class="text-muted mb-2" style="font-size: 11px;">किसान, नौजवान व संविधान की रक्षा</p>
+                    <div class="d-flex" style="gap: 5px;">
+                      <a href="join.php" class="btn btn-sm btn-success flex-fill font-weight-bold py-1" style="font-size: 11.5px; background: #00772D;">
+                        <i class="fa fa-user-plus mr-1"></i> सदस्यता लें
+                      </a>
+                      <a href="donate.php" class="btn btn-sm btn-outline-success flex-fill font-weight-bold py-1" style="font-size: 11.5px;">
+                        <i class="fa fa-heart mr-1"></i> सहयोग करें
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>
-    <!-- ********** Hero Area End ********** -->
-    <div class="main-content-wrapper section-padding-100">
+    <!-- ============= HERO SECTION 3-COLUMN LAYOUT End ============= -->
+
+    <!-- ============= LOWER CONTENT SECTION (Activities & Inspiration) Start ============= -->
+    <div class="main-content-wrapper section-padding-50">
       <div class="container">
-        <!-- ============= 03 Oct 2026 Swadesh Special Feature Banner Start ============= -->
-        <div class="row mb-4" id="swadesh-special">
-          <div class="col-12">
-            <div style="background: #f4fbf7; border: 2px solid #00772D; border-radius: 8px; padding: 22px 24px; box-shadow: 0 4px 14px rgba(0,119,45,0.12);">
-              <div class="d-flex flex-wrap justify-content-between align-items-center mb-3 pb-2" style="border-bottom: 2px solid #00772D;">
-                <span style="background: #00772D; color: #fff; font-weight: 700; font-size: 14px; padding: 5px 14px; border-radius: 4px; letter-spacing: 0.5px;">
-                  <i class="fa fa-newspaper-o" aria-hidden="true"></i> राष्ट्रीय दैनिक समाचार पत्र कवरेज • स्वदेश (SWADESH)
-                </span>
-                <span style="color: #00772D; font-weight: 700; font-size: 14px;">लखनऊ (मुख्य संस्करण) | 03 Oct 2026 | पृष्ठ - 12</span>
-              </div>
-              <h4 style="color: #004d1a; font-weight: 700; line-height: 1.4; margin-bottom: 16px;">
-                2027 का रण: सपा का पीडीए रथ तैयार पर मजबूत सारथी की दरकार — “लोकदल इंडिया गठबंधन का मजबूत घटक है, मिलकर बनाएंगे सरकार” : राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
-              </h4>
-              <div class="row align-items-start">
-                <div class="col-12 col-lg-4 mb-3 mb-lg-0">
-                  <a data-lightbox="press-clippings" href="img/news/latest-news/news-76.jpeg" title="स्वदेश समाचार पत्र (03 Oct 2026) बड़ा देखने के लिए क्लिक करें">
-                    <img src="img/news/latest-news/news-76.jpeg" alt="स्वदेश समाचार पत्र कवरेज - 03 Oct 2026" style="width: 100%; border-radius: 6px; border: 1px solid #00772D; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" loading="lazy" decoding="async">
-                  </a>
-                  <div class="text-center mt-2">
-                    <a data-lightbox="press-clippings" href="img/news/latest-news/news-76.jpeg" class="btn btn-sm btn-outline-success" style="font-weight: 600; width: 100%;">
-                      <i class="fa fa-search-plus"></i> स्वदेश पूरा अख़बार बड़ा देखें
-                    </a>
-                  </div>
-                </div>
-                <div class="col-12 col-lg-8" style="font-size: 15.5px; line-height: 1.8; color: #1f2937; text-align: justify;">
-                  <p class="mb-2"><strong>लखनऊ।</strong> प्रमुख राष्ट्रीय दैनिक <strong>‘स्वदेश’</strong> के 3 अक्टूबर 2026 के मुख्य संस्करण (पेज 12) में उत्तर प्रदेश विधानसभा चुनाव 2027 के सियासी समीकरणों और विपक्षी एकजुटता पर विस्तृत चुनावी विश्लेषण प्रकाशित हुआ है।</p>
-                  <div style="background: #e8f5e9; border-left: 4px solid #00772D; padding: 14px 18px; margin: 12px 0; border-radius: 0 6px 6px 0;">
-                    <p style="color: #004d1a; font-weight: 700; font-size: 16px; margin-bottom: 6px;">
-                      <i class="fa fa-quote-left"></i> लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का वक्तव्य:
-                    </p>
-                    <p style="font-size: 15px; font-weight: 600; color: #1b5e20; line-height: 1.7; margin-bottom: 0;">
-                      “लोकदल इंडिया गठबंधन का मजबूत घटक है। यूपी में गठबंधन के साथ मिलकर विधानसभा चुनाव लड़ा जाएगा। लोकदल अपनी ऐतिहासिक विचारधारा, संगठनात्मक ताकत, किसानों, गरीबों एवं युवाओं के मुद्दों को लेकर पूरी मजबूती से जनता के बीच जाएगा। उम्मीद है कि इंडिया एलायंस 27 में सरकार बनाएगा।”
-                    </p>
-                  </div>
-                  <p class="mb-2">अख़बार ने रेखांकित किया है कि 2027 के चुनाव में सपा के पीडीए रथ के लिए लोकदल जैसा मजबूत सारथी किसान-मजदूर वर्ग को एकजुट करने में सबसे निर्णायक भूमिका निभाएगा।</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- ============= 03 Oct 2026 Swadesh Special Feature Banner End ============= -->
-
-        <!-- ============= Official Press Statement Full-Text Banner Start ============= -->
-        <div class="row mb-4">
-          <div class="col-12">
-            <div style="background: #fff8f8; border: 2px solid #b30000; border-radius: 8px; padding: 22px 24px; box-shadow: 0 4px 14px rgba(179,0,0,0.12);">
-              <div class="d-flex flex-wrap justify-content-between align-items-center mb-3 pb-2" style="border-bottom: 2px solid #b30000;">
-                <span style="background: #b30000; color: #fff; font-weight: 700; font-size: 14px; padding: 5px 14px; border-radius: 4px; letter-spacing: 0.5px;">
-                  <i class="fa fa-bullhorn" aria-hidden="true"></i> लोकदल ताज़ा प्रेस अपडेट • LOKDAL BREAKING UPDATE
-                </span>
-                <span style="color: #b30000; font-weight: 700; font-size: 14px;">नई दिल्ली (जंतर-मंतर) | 02 Oct 2026</span>
-              </div>
-              <h4 style="color: #111; font-weight: 700; line-height: 1.4; margin-bottom: 16px;">
-                गांधी जयंती पर जंतर-मंतर से लोकदल ने शुरू किया ‘जेल भरो आंदोलन’ : राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह समेत सैकड़ों कार्यकर्ता पुलिस हिरासत में
-              </h4>
-              <div class="row align-items-start">
-                <div class="col-12 col-lg-5 mb-3 mb-lg-0">
-                  <!-- Main Live Image: Police Detention Bus -->
-                  <a data-lightbox="jansabha" href="img/news/latest-news/news-78.jpeg" title="जंतर-मंतर पर दिल्ली पुलिस बस में हिरासत के दौरान राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह एवं नेतागण">
-                    <img src="img/news/latest-news/news-78.jpeg" alt="दिल्ली पुलिस बस में राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह" style="width: 100%; max-height: 380px; object-fit: cover; border-radius: 6px; border: 2px solid #b30000; box-shadow: 0 2px 8px rgba(0,0,0,0.18);" loading="lazy" decoding="async">
-                  </a>
-                  <p class="text-center font-weight-bold mt-1 mb-2" style="font-size: 12.5px; color: #b30000;">
-                    <i class="fa fa-camera"></i> जंतर-मंतर: दिल्ली पुलिस हिरासत बस से राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह व नेता
-                  </p>
-
-                  <!-- Thumbnail Gallery -->
-                  <div class="row no-gutters mb-3" style="gap: 6px;">
-                    <div class="col">
-                      <a data-lightbox="jansabha" href="img/news/latest-news/news-77.jpeg" title="राष्ट्रीय सुदर्शन अख़बार रिपोर्ट: गांधी जयंती पर जंतर-मंतर से लोकदल ने शुरू किया जेल भरो आंदोलन">
-                        <img src="img/news/latest-news/news-77.jpeg" alt="राष्ट्रीय सुदर्शन रिपोर्ट" style="width: 100%; height: 70px; object-fit: cover; border-radius: 4px; border: 1px solid #999;">
-                        <span class="d-block text-center" style="font-size: 10.5px; color: #444; line-height: 1.2; margin-top: 2px;">सुदर्शन अख़बार</span>
-                      </a>
-                    </div>
-                    <div class="col">
-                      <a data-lightbox="jansabha" href="img/news/latest-news/news-71.jpeg" title="Cherish Times: जंतर-मंतर विरोध-प्रदर्शन ग्राउंड फोटो">
-                        <img src="img/news/latest-news/news-71.jpeg" alt="जंतर-मंतर प्रदर्शन" style="width: 100%; height: 70px; object-fit: cover; border-radius: 4px; border: 1px solid #999;">
-                        <span class="d-block text-center" style="font-size: 10.5px; color: #444; line-height: 1.2; margin-top: 2px;">प्रदर्शन ग्राउंड</span>
-                      </a>
-                    </div>
-                    <div class="col">
-                      <a data-lightbox="jansabha" href="img/news/latest-news/news-76.jpeg" title="स्वदेश (03 Oct 2026): 2027 का रण: सपा का पीडीए रथ">
-                        <img src="img/news/latest-news/news-76.jpeg" alt="स्वदेश अख़बार 03 Oct" style="width: 100%; height: 70px; object-fit: cover; border-radius: 4px; border: 1px solid #999;">
-                        <span class="d-block text-center" style="font-size: 10.5px; color: #444; line-height: 1.2; margin-top: 2px;">स्वदेश (03 Oct)</span>
-                      </a>
-                    </div>
-                  </div>
-
-                  <div class="d-flex flex-column" style="gap: 8px;">
-                    <a href="#exclusive-videos" class="btn btn-sm" style="background: #ff0000; color: #fff; font-weight: 700; border-radius: 4px; padding: 8px 10px; text-align: center; box-shadow: 0 0 10px rgba(255,0,0,0.5);">
-                      <i class="fa fa-play-circle" aria-hidden="true"></i> 🔴 2 एक्सक्लूसिव लाइव वीडियो देखें (Police Bus & Ground)
-                    </a>
-                    <a href="https://youtu.be/6Tz2jiiP7G0?si=_fLFHVCDp-0oT_Jc" target="_blank" class="btn btn-sm" style="background: #cc0000; color: #fff; font-weight: 600; border-radius: 4px; padding: 7px 10px; text-align: center;">
-                      <i class="fa fa-youtube-play" aria-hidden="true"></i> 4tv News पर वीडियो देखें
-                    </a>
-                    <a href="https://www.facebook.com/share/18LQencKAf/?mibextid=wwXIfr" target="_blank" class="btn btn-sm" style="background: #1877f2; color: #fff; font-weight: 600; border-radius: 4px; padding: 7px 10px; text-align: center;">
-                      <i class="fa fa-facebook-official" aria-hidden="true"></i> लोकदल आधिकारिक फेसबुक पोस्ट देखें
-                    </a>
-                    <a href="https://www.facebook.com/share/v/1QLV5avxig/" target="_blank" class="btn btn-sm" style="background: #2d88ff; color: #fff; font-weight: 600; border-radius: 4px; padding: 7px 10px; text-align: center;">
-                      <i class="fa fa-play-circle" aria-hidden="true"></i> बहुजन विचार फेसबुक वीडियो देखें
-                    </a>
-                    <a href="https://www.facebook.com/share/v/18CwLzxjMe/" target="_blank" class="btn btn-sm" style="background: #0056b3; color: #fff; font-weight: 600; border-radius: 4px; padding: 7px 10px; text-align: center;">
-                      <i class="fa fa-video-camera" aria-hidden="true"></i> PPN News फेसबुक लाइव वीडियो देखें
-                    </a>
-                  </div>
-                </div>
-                <div class="col-12 col-lg-7" style="font-size: 15.5px; line-height: 1.75; color: #1f2937; text-align: justify;">
-                  <p class="mb-2"><strong>नई दिल्ली।</strong> 2 अक्टूबर को गांधी जयंती के पावन अवसर पर दिल्ली के ऐतिहासिक जंतर-मंतर पर मतदाता अधिकारों, निष्पक्ष व पारदर्शी चुनावी प्रक्रिया और लोकतांत्रिक संस्थाओं की जवाबदेही को लेकर आयोजित विशाल विरोध-प्रदर्शन में लोकदल के राष्ट्रीय अध्यक्ष एवं पूर्व एमएलसी <strong>चौधरी सुनील सिंह</strong> के नेतृत्व में <strong>‘जेल भरो आंदोलन’</strong> का आगाज किया गया।</p>
-                  <p class="mb-2">प्रदर्शन के दौरान भारी पुलिस बल की तैनाती के बीच दिल्ली पुलिस ने राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह सहित किसानों, युवाओं और आंदोलनकारियों को हिरासत में लिया।</p>
-                  <p class="mb-2">हिरासत में लिए जाने के दौरान चौधरी सुनील सिंह ने मीडिया से कहा कि <em>“यह आंदोलन किसी व्यक्ति विशेष के खिलाफ नहीं है, बल्कि देश के मतदाता के संवैधानिक अधिकार, पारदर्शी व निष्पक्ष चुनावी व्यवस्था और लोकतांत्रिक संस्थाओं की जवाबदेही को सुनिश्चित करने के लिए है। वोटर लिस्ट में गड़बड़ी और संवैधानिक संस्थाओं पर उठ रहे सवालों का समाधान संविधान के दायरे में होना ही चाहिए।”</em></p>
-                  <p class="mb-2" style="background: #fde8e8; border-left: 4px solid #b30000; padding: 10px 14px; font-weight: 600; color: #7f0000;">
-                    चौधरी सुनील सिंह ने हुंकार भरते हुए कहा: <strong>“यह सिर्फ शुरुआत है! लोकदल और इंडिया गठबंधन का जेल भरो आंदोलन शुरू हो चुका है — अब देश का किसान और नौजवान अपने अधिकारों की रक्षा के लिए रुकने वाले नहीं हैं।”</strong>
-                  </p>
-                  <div class="mt-3 pt-2" style="border-top: 1px solid #e5e7eb;">
-                    <strong style="color: #111; font-size: 14px; display: block; margin-bottom: 8px;">विस्तृत मीडिया कवरेज एवं समाचार रिपोर्ट्स पढ़ें:</strong>
-                    <div class="d-flex flex-wrap" style="gap: 8px;">
-                      <a href="https://www.cherishtimes.in/uttar-pradesh/90755" target="_blank" class="btn btn-sm btn-outline-danger" style="font-weight: 600;">
-                        <i class="fa fa-newspaper-o"></i> Cherish Times रिपोर्ट
-                      </a>
-                      <a href="https://suryodaybharat.com/lokdals-fill-the-jails-protest-against-the-election-commissioner-at-jantar-mantar-national-president-chaudhary-sunil-singh-in-police-custody/" target="_blank" class="btn btn-sm btn-outline-danger" style="font-weight: 600;">
-                        <i class="fa fa-newspaper-o"></i> सूर्योदय भारत रिपोर्ट
-                      </a>
-                      <a href="https://swarnapriya.com/?p=37012" target="_blank" class="btn btn-sm btn-outline-danger" style="font-weight: 600;">
-                        <i class="fa fa-newspaper-o"></i> स्वर्णप्रिया न्यूज़
-                      </a>
-                      <a href="https://bahujanvichar.com/raising-questions-regarding-voters-rights-and-the-accountability-of-democratic-institutions-is-the-democratic-right-of-any-citizen/" target="_blank" class="btn btn-sm btn-outline-danger" style="font-weight: 600;">
-                        <i class="fa fa-newspaper-o"></i> बहुजन विचार रिपोर्ट
-                      </a>
-                      <a href="https://prakashprabhaw.com/khabar-hatke/jail-bharo-andolan/detail" target="_blank" class="btn btn-sm btn-outline-danger" style="font-weight: 600;">
-                        <i class="fa fa-newspaper-o"></i> Prakash Prabhaw News
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- Previous Statement Toggle / Archive Section -->
-            <div class="mt-3" style="background: #f7fbf8; border: 1px solid #00772D; border-radius: 6px; padding: 12px 18px;">
-              <div class="d-flex flex-wrap justify-content-between align-items-center">
-                <span style="color: #00772D; font-weight: 700; font-size: 13.5px;">
-                  <i class="fa fa-file-text-o"></i> पूर्व प्रेस विज्ञप्ति (28 Sep 2026): गठबंधन को कमजोर करने वाले बयानों से बचें, सभी साथी एकजुट रहें : सुनील सिंह
-                </span>
-                <a class="btn btn-sm btn-success" data-toggle="collapse" href="#prevStatementCollapse" role="button" aria-expanded="false" aria-controls="prevStatementCollapse" style="font-size: 12px; padding: 3px 10px; background: #00772D;">
-                  पढ़ें / Read <i class="fa fa-angle-down"></i>
-                </a>
-              </div>
-              <div class="collapse mt-3 pt-3" id="prevStatementCollapse" style="border-top: 1px dashed #00772D;">
-                <div class="row align-items-start">
-                  <div class="col-12 col-lg-3 mb-2 mb-lg-0">
-                    <a data-lightbox="jansabha" href="img/news/latest-news/news-63.jpeg" title="प्रेस विज्ञप्ति बड़ा देखने के लिए क्लिक करें">
-                      <img src="img/news/latest-news/news-63.jpeg" alt="गठबंधन को कमजोर करने वाले बयानों से बचें" style="width: 100%; border-radius: 4px;" loading="lazy" decoding="async">
-                    </a>
-                  </div>
-                  <div class="col-12 col-lg-9" style="font-size: 14px; line-height: 1.6; color: #333;">
-                    <p class="mb-1"><strong>लखनऊ।</strong> लोकदल के राष्ट्रीय अध्यक्ष एवं पूर्व एमएलसी चौधरी सुनील सिंह ने कहा कि उत्तर प्रदेश में INDIA गठबंधन को मजबूत बनाए रखने की जरूरत है। गठबंधन के किसी भी साथी अथवा नेता की ओर से ऐसे बयान नहीं आने चाहिए, जिससे विपक्षी एकता कमजोर हो। सपा और कांग्रेस नेतृत्व अपने नेताओं के बयानों पर ध्यान दें ताकि विपक्षी एकता अटूट रहे।</p>
-                    <div class="mt-2">
-                      <a href="https://x.com/lokdalindia/status/2104572588303565103?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="btn btn-sm btn-dark" style="font-size: 11px;"><i class="fa fa-twitter"></i> X Video</a>
-                      <a href="https://www.facebook.com/share/v/19fTgFLpLJ/?mibextid=wwXIfr" target="_blank" class="btn btn-sm btn-primary" style="font-size: 11px;"><i class="fa fa-facebook"></i> FB Video</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-          </div>
-        </div>
-        <!-- ============= Official Press Statement Full-Text Banner End ============= -->
-
-        <!-- ============= EXCLUSIVE LIVE VIDEO COVERAGE SECTION START ============= -->
-        <div class="row mb-5" id="exclusive-videos">
-          <div class="col-12">
-            <div style="background: linear-gradient(135deg, #1a0000 0%, #380000 50%, #1a0000 100%); border: 3px solid #ffcc00; border-radius: 12px; padding: 25px 24px; box-shadow: 0 10px 35px rgba(179,0,0,0.4); position: relative; overflow: hidden;">
-              <!-- Header -->
-              <div class="d-flex flex-wrap justify-content-between align-items-center mb-4 pb-3" style="border-bottom: 2px solid rgba(255, 204, 0, 0.45);">
-                <div class="d-flex align-items-center flex-wrap mb-2 mb-md-0">
-                  <span style="background: #ff0000; color: #fff; font-weight: 800; font-size: 14.5px; padding: 6px 16px; border-radius: 30px; letter-spacing: 0.8px; display: inline-flex; align-items: center; box-shadow: 0 0 16px rgba(255,0,0,0.7);">
-                    <i class="fa fa-circle mr-2" style="font-size: 11px; animation: blinker 1s linear infinite;"></i>
-                    एक्सक्लूसिव लाइव वीडियो • EXCLUSIVE LIVE FOOTAGE
-                  </span>
-                  <span class="ml-md-3 mt-2 mt-md-0 font-weight-bold" style="color: #ffeb3b; font-size: 15px;">
-                    <i class="fa fa-star text-warning"></i> अत्यंत महत्वपूर्ण — जंतर-मंतर जेल भरो आंदोलन (02 Oct 2026)
-                  </span>
-                </div>
-                <div>
-                  <span class="badge badge-warning px-3 py-2 font-weight-bold" style="font-size: 13px; color: #111;">
-                    <i class="fa fa-shield"></i> ग्राउंड रिपोर्ट व वीडियो साक्ष्य
-                  </span>
-                </div>
-              </div>
-
-              <!-- Two Featured Video Players -->
-              <div class="row">
-                <!-- Video 1 -->
-                <div class="col-12 col-lg-6 mb-4 mb-lg-0">
-                  <div style="background: rgba(255,255,255,0.06); border: 2px solid rgba(255, 204, 0, 0.6); border-radius: 10px; padding: 18px; height: 100%; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 4px 18px rgba(0,0,0,0.5);">
-                    <div>
-                      <div class="d-flex justify-content-between align-items-center mb-2">
-                        <span class="badge badge-danger px-2 py-1" style="font-size: 12px; font-weight: 700; background: #e60000;">
-                          <i class="fa fa-video-camera"></i> वीडियो 1: हिरासत बस से लाइव संदेश
-                        </span>
-                        <span style="color: #ffeb3b; font-size: 12.5px; font-weight: 700;">
-                          <i class="fa fa-clock-o"></i> 0:40 Min • HD
-                        </span>
-                      </div>
-                      <h5 style="color: #ffffff; font-size: 16px; font-weight: 700; line-height: 1.45; margin-bottom: 14px;">
-                        जंतर-मंतर: दिल्ली पुलिस हिरासत बस से राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह व लोकदल कार्यकर्ताओं का लाइव संदेश
-                      </h5>
-                    </div>
-                    
-                    <div style="position: relative; border-radius: 8px; overflow: hidden; background: #000; border: 2px solid #555;">
-                      <video controls preload="metadata" poster="img/news/latest-news/news-78.jpeg" style="width: 100%; height: 360px; object-fit: contain; background: #000;">
-                        <source src="video/wp-video-7.mp4" type="video/mp4">
-                        आपका ब्राउज़र वीडियो प्लेबैक को सपोर्ट नहीं करता।
-                      </video>
-                    </div>
-
-                    <div class="mt-3" style="color: #e2e8f0; font-size: 13.5px; line-height: 1.6;">
-                      <p class="mb-0">
-                        <strong style="color: #ffcc00;"><i class="fa fa-info-circle"></i> वीडियो विवरण:</strong> 
-                        गांधी जयंती पर जंतर-मंतर पर पुलिस द्वारा हिरासत में लिए जाने के बाद पुलिस वैन के अंदर से राष्ट्रीय अध्यक्ष <strong>चौधरी सुनील सिंह</strong> एवं युवा व किसान नेताओं द्वारा लोकतंत्र और मतदाता अधिकारों की रक्षा के संकल्प का सीधा लाइव वीडियो।
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <!-- Video 2 -->
-                <div class="col-12 col-lg-6">
-                  <div style="background: rgba(255,255,255,0.06); border: 2px solid rgba(255, 204, 0, 0.6); border-radius: 10px; padding: 18px; height: 100%; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 4px 18px rgba(0,0,0,0.5);">
-                    <div>
-                      <div class="d-flex justify-content-between align-items-center mb-2">
-                        <span class="badge badge-warning px-2 py-1 text-dark" style="font-size: 12px; font-weight: 700; background: #ffc107;">
-                          <i class="fa fa-television"></i> वीडियो 2: ग्राउंड कवरेज व मीडिया घेराव
-                        </span>
-                        <span style="color: #ffeb3b; font-size: 12.5px; font-weight: 700;">
-                          <i class="fa fa-clock-o"></i> 0:25 Min • Ground TV Report
-                        </span>
-                      </div>
-                      <h5 style="color: #ffffff; font-size: 16px; font-weight: 700; line-height: 1.45; margin-bottom: 14px;">
-                        जंतर-मंतर ग्राउंड कवरेज: धारा 163 लागू होने के बीच भारी पुलिस बल, नेशनल मीडिया और लोकदल का विशाल आंदोलन
-                      </h5>
-                    </div>
-                    
-                    <div style="position: relative; border-radius: 8px; overflow: hidden; background: #000; border: 2px solid #555;">
-                      <video controls preload="metadata" poster="video/wp-video-8-thumb.jpg" style="width: 100%; height: 360px; object-fit: contain; background: #000;">
-                        <source src="video/wp-video-8.mp4" type="video/mp4">
-                        आपका ब्राउज़र वीडियो प्लेबैक को सपोर्ट नहीं करता।
-                      </video>
-                    </div>
-
-                    <div class="mt-3" style="color: #e2e8f0; font-size: 13.5px; line-height: 1.6;">
-                      <p class="mb-0">
-                        <strong style="color: #ffcc00;"><i class="fa fa-info-circle"></i> वीडियो विवरण:</strong> 
-                        दिल्ली में धारा 163 लागू होने के बावजूद जंतर-मंतर पर पुलिस बसों और छावनी में तब्दील क्षेत्र में नेशनल मीडिया के कैमरों से घिरा लोकदल का ऐतिहासिक 'जेल भरो आंदोलन'।
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <!-- Quick Video Actions Bar -->
-              <div class="mt-4 pt-3 d-flex flex-wrap justify-content-between align-items-center" style="border-top: 1px dashed rgba(255, 204, 0, 0.45);">
-                <div class="d-flex align-items-center text-white" style="font-size: 14px;">
-                  <i class="fa fa-check-circle text-success mr-2 font-weight-bold"></i>
-                  <span>सीधे यहीं प्ले करें या डाउनलोड करके साझा करें — किसान व संविधान विरोधी नीतियों के खिलाफ साक्ष्य</span>
-                </div>
-                <div class="d-flex flex-wrap mt-2 mt-md-0" style="gap: 8px;">
-                  <a href="video/wp-video-7.mp4" download class="btn btn-sm btn-outline-warning" style="font-weight: 700; border-width: 1.5px;">
-                    <i class="fa fa-download"></i> वीडियो 1 डाउनलोड करें (4.8 MB)
-                  </a>
-                  <a href="video/wp-video-8.mp4" download class="btn btn-sm btn-outline-warning" style="font-weight: 700; border-width: 1.5px;">
-                    <i class="fa fa-download"></i> वीडियो 2 डाउनलोड करें (5.0 MB)
-                  </a>
-                </div>
-              </div>
-
-            </div>
-          </div>
-        </div>
-        <!-- ============= EXCLUSIVE LIVE VIDEO COVERAGE SECTION END ============= -->
-        <div class="row justify-content-center">
+        <div class="row">
           <!-- ============= Post Content Area Start ============= -->
-          <div class="col-12 col-lg-8">
+          <div class="col-12">
             <div class="post-content-area mb-50">
               <!-- Catagory Area -->
               <div class="world-catagory-area">
@@ -3121,12 +3213,10 @@
               </div>
             </div>
           </div>
-          <!-- ========== Sidebar Area ========== -->
-          <?php include_once("sidebar.php"); ?>
         </div>
         <div class="world-latest-articles">
           <div class="row align-items-stretch">
-            <div class="col-12 col-lg-8 d-flex flex-column justify-content-between">
+            <div class="col-12 d-flex flex-column justify-content-between">
               <div class="title">
                 <h5>Daily Updates</h5>
               </div>
