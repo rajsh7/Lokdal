@@ -92,24 +92,21 @@
             <span class="badge badge-danger text-uppercase px-2 py-1 mr-2" style="background-color: #d90429; font-size: 13px; font-weight: 700; letter-spacing: 0.5px;">
               <i class="fa fa-bullhorn"></i> ताज़ा समाचार
             </span>
-            <strong style="color: #ffeb3b; font-size: 13.5px;">03 Oct 2026:</strong>
+            <strong style="color: #ffeb3b; font-size: 13.5px;">06 Oct 2026:</strong>
           </div>
           <div class="d-flex flex-wrap align-items-center justify-content-center my-1" style="gap: 6px;">
-            <a href="#exclusive-videos" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px; box-shadow: 0 0 10px rgba(255,0,0,0.7);"><i class="fa fa-play-circle"></i> 🔴 3 लाइव वीडियो</a>
+            <a data-lightbox="breaking-news" href="img/news/latest-news/news-86.jpeg" class="btn btn-sm" style="background:#d90429; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px; box-shadow: 0 0 10px rgba(217,4,41,0.6);"><i class="fa fa-fire"></i> चुनाव आयोग पर हमला (जन मंच)</a>
+            <a data-lightbox="breaking-news" href="img/news/latest-news/news-87.jpeg" class="btn btn-sm" style="background:#ff9900; color:#000; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-picture-o"></i> PPN News ग्राफिक</a>
+            <a href="https://samarsaleel.com/india-alliance-halla-bol-sunil-singh-gyanesh-kumar-resignation/531993" target="_blank" class="btn btn-sm" style="background:#fff; color:#b30000; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #b30000;"><i class="fa fa-newspaper-o"></i> समर सलिल</a>
+            <a href="https://suryodaybharat.com/lokdal-president-sunil-singh-launches-a-scathing-attack-on-the-bjp-and-the-election-commission-demands-the-chief-election-commissioners-resignation/" target="_blank" class="btn btn-sm" style="background:#fff; color:#d90429; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #d90429;"><i class="fa fa-newspaper-o"></i> सूर्योदय भारत</a>
+            <a href="https://prakashprabhaw.com/khabar-hatke/india-gathabthhana-ka-hall-bl-sa-ghabraii-bhajapa/detail" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #00772D;"><i class="fa fa-newspaper-o"></i> PPN News (इज़हार अहमद)</a>
+            <a href="https://9473938609.blogspot.com/2026/10/india_0442479220.html" target="_blank" class="btn btn-sm" style="background:#ff5722; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-rss"></i> ब्लॉग रिपोर्ट</a>
+            <a href="#exclusive-videos" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-play-circle"></i> 🔴 3 लाइव वीडियो</a>
             <a data-lightbox="breaking-news" href="img/news/latest-news/news-76.jpeg" class="btn btn-sm" style="background:#ffeb3b; color:#000; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-newspaper-o"></i> स्वदेश (03 Oct)</a>
             <a data-lightbox="breaking-news" href="img/news/latest-news/news-81.jpeg" class="btn btn-sm" style="background:#e8f5e9; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border: 1px solid #00772D;"><i class="fa fa-newspaper-o"></i> स्वदेश (02 Oct)</a>
-            <a data-lightbox="breaking-news" href="img/news/latest-news/news-77.jpeg" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-newspaper-o"></i> राष्ट्रीय सुदर्शन</a>
             <a data-lightbox="breaking-news" href="img/news/latest-news/news-78.jpeg" class="btn btn-sm" style="background:#ff3333; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-camera"></i> पुलिस बस फोटो</a>
             <a href="https://www.instagram.com/reel/DeG9hnmBwcv/?stkn=azBmNGxkd3prNmNq" target="_blank" class="btn btn-sm" style="background:linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-instagram"></i> Instagram रील</a>
             <a href="https://youtu.be/6Tz2jiiP7G0?si=_fLFHVCDp-0oT_Jc" target="_blank" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-youtube-play"></i> 4tv News</a>
-            <a href="https://www.facebook.com/share/v/1QLV5avxig/" target="_blank" class="btn btn-sm" style="background:#1877f2; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-facebook-play"></i> FB Video</a>
-            <a href="https://www.facebook.com/share/18LQencKAf/?mibextid=wwXIfr" target="_blank" class="btn btn-sm" style="background:#1877f2; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-facebook"></i> Post</a>
-            <a href="https://www.facebook.com/share/v/18CwLzxjMe/" target="_blank" class="btn btn-sm" style="background:#1877f2; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-facebook-square"></i> PPN Live</a>
-            <a href="https://www.cherishtimes.in/uttar-pradesh/90755" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;">Cherish Times</a>
-            <a href="https://suryodaybharat.com/lokdals-fill-the-jails-protest-against-the-election-commissioner-at-jantar-mantar-national-president-chaudhary-sunil-singh-in-police-custody/" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;">सूर्योदय भारत</a>
-            <a href="https://prakashprabhaw.com/khabar-hatke/jail-bharo-andolan/detail" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;">PPN News</a>
-            <a href="https://swarnapriya.com/?p=37012" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;">स्वर्णप्रिया</a>
-            <a href="https://bahujanvichar.com/raising-questions-regarding-voters-rights-and-the-accountability-of-democratic-institutions-is-the-democratic-right-of-any-citizen/" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;">बहुजन विचार</a>
             <a href="donate.php" class="btn btn-sm" style="background:#00772D; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-heart"></i> दान सहयोग (₹50k)</a>
           </div>
         </div>
@@ -252,6 +249,61 @@
               <!-- Body -->
               <div class="card-body p-3" style="font-size: 13.5px; line-height: 1.65; color: #2d3748; overflow-y: auto; max-height: 860px;">
                 
+                <!-- Featured Story: EC & BJP Attack 06 Oct 2026 -->
+                <div class="mb-3 p-3" style="background: #fff9f0; border: 2px solid #e65100; border-radius: 8px; box-shadow: 0 3px 10px rgba(230,81,0,0.08);">
+                  <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
+                    <span class="badge badge-warning text-dark px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #ffb74d;">
+                      <i class="fa fa-fire text-danger mr-1"></i> ताज़ा प्रेस बयान • 06 Oct 2026
+                    </span>
+                    <span class="text-danger font-weight-bold" style="font-size: 12px;">लखनऊ / नई दिल्ली | 06 Oct 2026</span>
+                  </div>
+                  <h6 class="font-weight-bold mb-2" style="color: #b71c1c; font-size: 16px; line-height: 1.45;">
+                    चुनाव आयोग की सफाई भाजपा क्यों दे रही है? क्या आयोग वही कर रहा है जो भाजपा चाहती है : लोकदल अध्यक्ष सुनील सिंह
+                  </h6>
+                  <div class="row align-items-start mb-2">
+                    <div class="col-12 col-sm-6 mb-2 mb-sm-0">
+                      <a data-lightbox="ec-attack" href="img/news/latest-news/news-86.jpeg" title="जन मंच समाचार: चुनाव आयोग की सफाई भाजपा क्यों दे रही है? क्या आयोग वही कर रहा है जो भाजपा चाहती है... — चौ. सुनील सिंह">
+                        <img src="img/news/latest-news/news-86.jpeg" alt="जन मंच समाचार पोस्टर" style="width: 100%; border-radius: 6px; border: 1.5px solid #e65100;" loading="lazy">
+                      </a>
+                      <div class="text-center mt-1">
+                        <small class="text-muted font-weight-bold" style="font-size: 11px;">
+                          <i class="fa fa-search-plus"></i> जन मंच समाचार ग्राफिक (क्लिक कर बड़ा देखें)
+                        </small>
+                      </div>
+                    </div>
+                    <div class="col-12 col-sm-6">
+                      <a data-lightbox="ec-attack" href="img/news/latest-news/news-87.jpeg" title="PPN NEWS 24x7: चुनाव आयोग की सफाई भाजपा क्यों दे रही है? क्या आयोग वही कर रहा है जो भाजपा चाहती है? — लोकदल अध्यक्ष सुनील सिंह">
+                        <img src="img/news/latest-news/news-87.jpeg" alt="PPN News ग्राफिक पोस्टर" style="width: 100%; border-radius: 6px; border: 1.5px solid #b71c1c;" loading="lazy">
+                      </a>
+                      <div class="text-center mt-1">
+                        <small class="text-muted font-weight-bold" style="font-size: 11px;">
+                          <i class="fa fa-search-plus"></i> PPN News विशेष पोस्टर (क्लिक कर बड़ा देखें)
+                        </small>
+                      </div>
+                    </div>
+                  </div>
+                  <div style="font-size: 13px; line-height: 1.65; color: #2d3748;">
+                    <div style="background: #fff3e0; border-left: 3px solid #e65100; padding: 8px 12px; border-radius: 0 4px 4px 0; margin-bottom: 8px; font-weight: 600; color: #bf360c;">
+                      “INDIA गठबंधन के हल्ला बोल आंदोलन से भाजपा में बेचैनी साफ दिखाई दे रही है। भाजपा सरकार लोगों को उनके मताधिकार से वंचित करने की कोशिश करती है और सवाल उठने पर चोरी भी करती है और सीना-जोरी भी!” — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                    </div>
+                    <p class="mb-2">
+                      लोकदल राष्ट्रीय अध्यक्ष एवं पूर्व एमएलसी <strong>चौधरी सुनील सिंह</strong> ने कहा कि चुनाव आयोग की कार्यप्रणाली को लेकर लगातार सवाल उठ रहे हैं। ऐसे में सबसे बड़ा सवाल यह है कि चुनाव आयोग की सफाई भाजपा नेता क्यों दे रहे हैं? क्या चुनाव आयोग वही कर रहा है जो भाजपा चाहती है?
+                    </p>
+                    <p class="mb-2">
+                      यदि चुनाव आयोग स्वतंत्र और निष्पक्ष है तो उसे किसी राजनीतिक दल के बचाव की जरूरत नहीं होनी चाहिए, बल्कि जनता के सामने स्पष्ट और पारदर्शी जवाब देना चाहिए। उन्होंने कहा कि चुनाव आयोग की भूमिका पर लगातार उठ रहे सवालों की नैतिक जिम्मेदारी लेते हुए <strong>मुख्य चुनाव आयुक्त ज्ञानेश कुमार को तुरंत इस्तीफा देना चाहिए</strong>।
+                    </p>
+                    <div class="mt-2 pt-2" style="border-top: 1px solid #ffe0b2;">
+                      <small class="font-weight-bold d-block mb-1 text-dark"><i class="fa fa-external-link text-danger mr-1"></i> विस्तृत समाचार व रिपोर्ट्स पढ़ें:</small>
+                      <div class="d-flex flex-wrap" style="gap: 5px;">
+                        <a href="https://samarsaleel.com/india-alliance-halla-bol-sunil-singh-gyanesh-kumar-resignation/531993" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o mr-1"></i> समर सलिल (Samar Saleel)</a>
+                        <a href="https://suryodaybharat.com/lokdal-president-sunil-singh-launches-a-scathing-attack-on-the-bjp-and-the-election-commission-demands-the-chief-election-commissioners-resignation/" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o mr-1"></i> सूर्योदय भारत</a>
+                        <a href="https://prakashprabhaw.com/khabar-hatke/india-gathabthhana-ka-hall-bl-sa-ghabraii-bhajapa/detail" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o mr-1"></i> PPN NEWS (इज़हार अहमद)</a>
+                        <a href="https://9473938609.blogspot.com/2026/10/india_0442479220.html" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-rss mr-1"></i> विशेष ब्लॉग रिपोर्ट</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
                 <!-- Story 1: Swadesh National Daily 03 Oct 2026 -->
                 <div id="swadesh-special" class="mb-3 p-3" style="background: #f4fbf7; border: 1.5px solid #00772D; border-radius: 8px;">
                   <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
@@ -661,6 +713,38 @@
                     <div class="row">
                       <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                          <!-- Single Blog Post (EC & BJP Attack - Jan Manch Samachar) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-86.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-86.jpeg" alt="चुनाव आयोग की सफाई भाजपा क्यों दे रही है" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #d90429; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">🔥 ताज़ा बयान • 06 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>चुनाव आयोग की सफाई भाजपा क्यों दे रही है? क्या आयोग वही कर रहा है जो भाजपा चाहती है : सुनील सिंह</h5>
+                                <p>By जन मंच समाचार (@janmanchsamachar)</p>
+                                <div class="post-meta">
+                                  <p>Jan Manch Samachar - 06 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (EC Attack - PPN News Graphic) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-87.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-87.jpeg" alt="PPN News: चुनाव आयोग की सफाई भाजपा क्यों दे रही है" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #e65100; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 PPN NEWS • 06 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>PPN NEWS: INDIA गठबंधन के हल्ला बोल से घबराई भाजपा, चोरी भी और सीना-जोरी भी : सुनील सिंह</h5>
+                                <p>By Prakash Prabhaw News (PPN 24x7)</p>
+                                <div class="post-meta">
+                                  <p>PPN News - 06 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
                           <!-- Single Blog Post (Exclusive Video 1: Bus Message) -->
                           <div class="single-blog-post">
                             <a href="#exclusive-videos" class="headline">
@@ -725,6 +809,51 @@
                                 <p>By लोकदल आधिकारिक Instagram</p>
                                 <div class="post-meta">
                                   <p>Instagram Reel - 02 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (EC Attack: Jan Manch Samachar & Samar Saleel) -->
+                          <div class="single-blog-post">
+                            <a href="https://samarsaleel.com/india-alliance-halla-bol-sunil-singh-gyanesh-kumar-resignation/531993" target="_blank" class="headline">
+                              <div class="post-thumbnail">
+                                <img src="img/news/latest-news/news-86.jpeg" alt="समर सलिल: चुनाव आयोग की सफाई भाजपा क्यों दे रही है" loading="lazy" decoding="async">
+                              </div>
+                              <div class="post-content">
+                                <h5>समर सलिल: INDIA गठबंधन के हल्ला बोल से भाजपा में बेचैनी, ज्ञानेश कुमार इस्तीफा दें : सुनील सिंह</h5>
+                                <p>By समर सलिल (Samar Saleel News)</p>
+                                <div class="post-meta">
+                                  <p>Samar Saleel - 06 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (EC Attack: PPN News) -->
+                          <div class="single-blog-post">
+                            <a href="https://prakashprabhaw.com/khabar-hatke/india-gathabthhana-ka-hall-bl-sa-ghabraii-bhajapa/detail" target="_blank" class="headline">
+                              <div class="post-thumbnail">
+                                <img src="img/news/latest-news/news-87.jpeg" alt="PPN News: INDIA गठबंधन के हल्ला बोल से घबराई भाजपा" loading="lazy" decoding="async">
+                              </div>
+                              <div class="post-content">
+                                <h5>PPN NEWS: INDIA गठबंधन के हल्ला बोल से घबराई भाजपा, चोरी भी और सीना-जोरी भी : सुनील सिंह</h5>
+                                <p>By PPN News (इज़हार अहमद)</p>
+                                <div class="post-meta">
+                                  <p>Prakash Prabhaw News - 06 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (EC Attack: Suryoday Bharat) -->
+                          <div class="single-blog-post">
+                            <a href="https://suryodaybharat.com/lokdal-president-sunil-singh-launches-a-scathing-attack-on-the-bjp-and-the-election-commission-demands-the-chief-election-commissioners-resignation/" target="_blank" class="headline">
+                              <div class="post-thumbnail">
+                                <img src="img/news/latest-news/news-86.jpeg" alt="सूर्योदय भारत: भाजपा और चुनाव आयोग पर लोकदल अध्यक्ष सुनील सिंह का तीखा हमला" loading="lazy" decoding="async">
+                              </div>
+                              <div class="post-content">
+                                <h5>सूर्योदय भारत: भाजपा और चुनाव आयोग पर लोकदल अध्यक्ष सुनील सिंह का तीखा हमला; CEC से मांगा इस्तीफा</h5>
+                                <p>By सूर्योदय भारत</p>
+                                <div class="post-meta">
+                                  <p>Suryoday Bharat - 06 Oct 2026</p>
                                 </div>
                               </div>
                             </a>
@@ -3153,6 +3282,11 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-86.jpeg', 'title' => 'चुनाव आयोग की सफाई भाजपा क्यों दे रही है? क्या आयोग वही कर रहा है जो भाजपा चाहती है : सुनील सिंह', 'desc' => 'जन मंच समाचार (प्रेस बयान) - 06 Oct 2026', 'url' => 'img/news/latest-news/news-86.jpeg'],
+                  ['img' => 'img/news/latest-news/news-87.jpeg', 'title' => 'PPN NEWS: INDIA गठबंधन के हल्ला बोल से घबराई भाजपा, चोरी भी और सीना-जोरी भी : सुनील सिंह', 'desc' => 'Prakash Prabhaw News (इज़हार अहमद) - 06 Oct 2026', 'url' => 'https://prakashprabhaw.com/khabar-hatke/india-gathabthhana-ka-hall-bl-sa-ghabraii-bhajapa/detail'],
+                  ['img' => 'img/news/latest-news/news-86.jpeg', 'title' => 'समर सलिल: INDIA गठबंधन के हल्ला बोल से भाजपा में बेचैनी, ज्ञानेश कुमार इस्तीफा दें : सुनील सिंह', 'desc' => 'Samar Saleel News - 06 Oct 2026', 'url' => 'https://samarsaleel.com/india-alliance-halla-bol-sunil-singh-gyanesh-kumar-resignation/531993'],
+                  ['img' => 'img/news/latest-news/news-87.jpeg', 'title' => 'सूर्योदय भारत: भाजपा और चुनाव आयोग पर लोकदल अध्यक्ष सुनील सिंह का तीखा हमला; CEC से मांगा इस्तीफा', 'desc' => 'सूर्योदय भारत - 06 Oct 2026', 'url' => 'https://suryodaybharat.com/lokdal-president-sunil-singh-launches-a-scathing-attack-on-the-bjp-and-the-election-commission-demands-the-chief-election-commissioners-resignation/'],
+                  ['img' => 'img/news/latest-news/news-86.jpeg', 'title' => 'विशेष ब्लॉग: INDIA गठबंधन के हल्ला बोल से घबराई भाजपा, चोरी भी और सीना-जोरी भी : सुनील सिंह', 'desc' => 'Lokdal News Bureau - 06 Oct 2026', 'url' => 'https://9473938609.blogspot.com/2026/10/india_0442479220.html'],
                   ['img' => 'img/donation/cheque-sandeep-tomar.jpeg', 'title' => 'लोकदल किसान व लोकतंत्र रक्षा कोष: श्री संदीप तोमर जी द्वारा ₹50,000/- का आर्थिक सहयोग प्राप्त', 'desc' => 'दान सहयोग चेक - 05 Oct 2026', 'url' => 'donate.php'],
                   ['img' => 'video/wp-video-9-thumb.jpg', 'title' => '🔴 [ग्राउंड वीडियो 3] पुलिस तैनाती व जंतर-मंतर कूच — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'पुलिस घेराबंदी व उद्बोधन - 02 Oct 2026', 'url' => '#exclusive-videos'],
                   ['img' => 'img/news/latest-news/news-78.jpeg', 'title' => 'आवाज़ को हिरासत में लिया जा सकता है, सवालों को नहीं — जंतर-मंतर जेल भरो आंदोलन रील', 'desc' => 'Instagram Reel - 02 Oct 2026', 'url' => 'https://www.instagram.com/reel/DeG9hnmBwcv/?stkn=azBmNGxkd3prNmNq'],
@@ -3377,6 +3511,11 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'img/news/latest-news/news-86.jpeg','video' => 'img/news/latest-news/news-86.jpeg', 'name' => 'चुनाव आयोग की सफाई भाजपा क्यों दे रही है? क्या आयोग वही कर रहा है जो भाजपा चाहती है : सुनील सिंह', 'desc' => 'जन मंच समाचार विशेष प्रेस वक्तव्य एवं ग्राफिक पोस्टर', 'date' => '06 Oct 2026 • Press Statement'],
+                ['img' => 'img/news/latest-news/news-87.jpeg','video' => 'https://prakashprabhaw.com/khabar-hatke/india-gathabthhana-ka-hall-bl-sa-ghabraii-bhajapa/detail', 'name' => 'PPN NEWS: INDIA गठबंधन के हल्ला बोल से घबराई भाजपा, चोरी भी और सीना-जोरी भी : सुनील सिंह', 'desc' => 'Prakash Prabhaw News 24x7 विशेष ग्राउंड रिपोर्ट (इज़हार अहमद)', 'date' => 'PPN News - 06 Oct 2026'],
+                ['img' => 'img/news/latest-news/news-86.jpeg','video' => 'https://samarsaleel.com/india-alliance-halla-bol-sunil-singh-gyanesh-kumar-resignation/531993', 'name' => 'समर सलिल: INDIA गठबंधन के हल्ला बोल से भाजपा में बेचैनी, ज्ञानेश कुमार इस्तीफा दें : सुनील सिंह', 'desc' => 'समर सलिल राष्ट्रीय दैनिक विशेष कवरेज', 'date' => 'Samar Saleel - 06 Oct 2026'],
+                ['img' => 'img/news/latest-news/news-87.jpeg','video' => 'https://suryodaybharat.com/lokdal-president-sunil-singh-launches-a-scathing-attack-on-the-bjp-and-the-election-commission-demands-the-chief-election-commissioners-resignation/', 'name' => 'सूर्योदय भारत: भाजपा और चुनाव आयोग पर लोकदल अध्यक्ष सुनील सिंह का तीखा हमला; CEC से मांगा इस्तीफा', 'desc' => 'सूर्योदय भारत विशेष राजनीतिक विश्लेषण', 'date' => 'सूर्योदय भारत - 06 Oct 2026'],
+                ['img' => 'img/news/latest-news/news-86.jpeg','video' => 'https://9473938609.blogspot.com/2026/10/india_0442479220.html', 'name' => 'विशेष ब्लॉग: INDIA गठबंधन के हल्ला बोल से घबराई भाजपा, चोरी भी और सीना-जोरी भी : सुनील सिंह', 'desc' => 'लोकदल प्रेस एवं मीडिया विमर्श', 'date' => 'Blogspot News - 06 Oct 2026'],
                 ['img' => 'img/news/latest-news/news-78.jpeg','video' => 'video/wp-video-7.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 1] दिल्ली पुलिस हिरासत बस से चौधरी सुनील सिंह का लाइव संदेश', 'desc' => 'जंतर-मंतर पर पुलिस हिरासत के दौरान दिल्ली पुलिस बस से राष्ट्रीय अध्यक्ष जी का उद्बोधन', 'date' => '02 Oct 2026 • Exclusive Video'],
                 ['img' => 'video/wp-video-8-thumb.jpg','video' => 'video/wp-video-8.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 2] जंतर-मंतर ग्राउंड कवरेज — धारा 163 व मीडिया घेराव', 'desc' => 'जंतर-मंतर पर भारी पुलिस बल व नेशनल मीडिया के कैमरों के बीच जेल भरो आंदोलन', 'date' => '02 Oct 2026 • Ground Report'],
                 ['img' => 'video/wp-video-9-thumb.jpg','video' => 'video/wp-video-9.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 3] पुलिस तैनाती व जंतर-मंतर कूच — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'जंतर-मंतर कूच से पूर्व पुलिस घेराबंदी व उद्बोधन', 'date' => '02 Oct 2026 • Exclusive Video'],
