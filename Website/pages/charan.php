@@ -64,7 +64,7 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
         <link href="../assets/vendor/material-design-iconic-font/dist/css/material-design-iconic-font.min.css" rel="stylesheet">
         <link href="../assets/vendor/aos/dist/aos.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
-        <link rel="stylesheet" href="../style.css">
+        <link rel="stylesheet" href="../style.css?v=20261006_3">
         <!-- Theme Stylesheets -->
         <link href="../assets/css/theme.css" rel="stylesheet">
         <link rel="stylesheet" href="../assets/vendor/lightbox/lightbox.min.css">

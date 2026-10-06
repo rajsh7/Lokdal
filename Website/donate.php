@@ -85,7 +85,7 @@ include_once("db.php");
     <link rel="icon" href="img/img/logo1.png">
     <!-- Style CSS -->
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=20261006_3">
     <link rel="stylesheet" href="assets/vendor/lightbox/lightbox.min.css">
     <link rel="stylesheet" href="css/google translator.css">
     <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">

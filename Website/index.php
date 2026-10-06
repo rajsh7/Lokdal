@@ -43,10 +43,37 @@
     <!--LightBox-->
     <link rel="stylesheet" href="assets/vendor/lightbox/lightbox.min.css">
     <!-- Style CSS -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=20261006_3">
     <!--Google Translate API-->
     <link rel="stylesheet" href="css/google translator.css">
     <style>
+      /* Prevent navbar from overlapping with breaking news bar */
+      .top-breaking-news-bar {
+        position: relative !important;
+        z-index: 995 !important;
+        display: block !important;
+        width: 100% !important;
+        clear: both !important;
+      }
+      .header-area {
+        position: -webkit-sticky !important;
+        position: sticky !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        margin-top: 0 !important;
+        z-index: 990 !important;
+        clear: both !important;
+      }
+      .header-area.sticky {
+        position: -webkit-sticky !important;
+        position: sticky !important;
+        top: 0 !important;
+        left: 0 !important;
+        margin-top: 0 !important;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.18) !important;
+        z-index: 990 !important;
+      }
       /* width */
       ::-webkit-scrollbar { width: 5px; }
       /* Track */
@@ -85,7 +112,7 @@
     </div>
     <!-- Preloader End -->
     <!-- Top Breaking News Bar Start -->
-    <div class="top-breaking-news-bar" style="background: #00772D; color: #fff; padding: 7px 0; border-bottom: 2px solid #ffcc00; position: relative; z-index: 350; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+    <div class="top-breaking-news-bar" style="background: #00772D; color: #fff; padding: 7px 0; border-bottom: 2px solid #ffcc00; position: relative; z-index: 995; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
       <div class="container-fluid px-3 px-lg-4">
         <div class="d-flex flex-wrap align-items-center justify-content-center text-center">
           <div class="d-flex align-items-center my-1 mr-md-2" style="white-space: nowrap;">
@@ -3808,7 +3835,7 @@
     <!-- Plugins js -->
     <script src="js/plugins.js"></script>
     <!-- Active js -->
-    <script src="js/active.js"></script>
+    <script src="js/active.js?v=20261006_3"></script>
     <!-- Collapse Toggle Text & Icon Handler for Daily Updates and Popular Videos -->
     <script>
       $(document).ready(function() {

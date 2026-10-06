@@ -86,7 +86,7 @@
     <!-- Favicon  -->
     <link rel="icon" href="img/img/logo1.png">
     <!-- Style CSS -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=20261006_3">
     <link rel="stylesheet" href="css/google translator.css">
     <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,700%7CRoboto:300,400,700" rel="stylesheet">

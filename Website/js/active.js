@@ -26,8 +26,14 @@
     }).trigger("resize");
 
     // :: Sticky Active Code
+    var getStickyThreshold = function () {
+        var $topBar = $('.top-breaking-news-bar');
+        return ($topBar.length && $topBar.is(':visible')) ? $topBar.outerHeight() : 20;
+    };
+
     $window.on('scroll', function () {
-        if ($window.scrollTop() > 20) {
+        var threshold = getStickyThreshold();
+        if ($window.scrollTop() > threshold) {
             $('.header-area').addClass('sticky');
         } else {
             $('.header-area').removeClass('sticky');

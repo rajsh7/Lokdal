@@ -46,7 +46,7 @@
         <link href="../assets/vendor/material-design-iconic-font/dist/css/material-design-iconic-font.min.css" rel="stylesheet">
         <link href="../assets/vendor/%40fancyapps/fancybox/dist/jquery.fancybox.min.css" rel="stylesheet">
         <link href="../assets/vendor/aos/dist/aos.css" rel="stylesheet">
-        <link rel="stylesheet" href="../style.css">
+        <link rel="stylesheet" href="../style.css?v=20261006_3">
         <!-- Theme Stylesheets -->
         <link href="../assets/css/theme.css" rel="stylesheet">
         <link rel="stylesheet" href="../css/google translator.css">
