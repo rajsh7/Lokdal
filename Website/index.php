@@ -463,17 +463,94 @@
                 <div id="exclusive-videos" class="mb-3 p-3" style="background: linear-gradient(135deg, #1a0000 0%, #300000 100%); border: 2px solid #ffcc00; border-radius: 8px; color: #fff;">
                   <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
                     <span class="badge badge-danger px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #ff0000;">
-                      <i class="fa fa-circle mr-1" style="font-size: 8px; animation: blinker 1s infinite;"></i> 🔴 3 एक्सक्लूसिव लाइव वीडियो (02 Oct 2026)
+                      <i class="fa fa-circle mr-1" style="font-size: 8px; animation: blinker 1s infinite;"></i> 🔴 4 एक्सक्लूसिव लाइव वीडियो (09 Oct 2026)
                     </span>
                     <span style="color: #ffcc00; font-size: 11.5px; font-weight: 700;">
-                      <i class="fa fa-shield"></i> ग्राउंड रिपोर्ट साक्ष्य
+                      <i class="fa fa-shield"></i> आज के ताज़ा वीडियो अपडेट्स
                     </span>
                   </div>
 
+                  <!-- New Videos: 09 Oct 2026 -->
                   <div class="row">
-                    <!-- Video 1 -->
+                    <!-- Video 1 - wp-video-10 -->
+                    <div class="col-12 col-md-3 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-video-camera"></i> वीडियो 1 — 09 Oct 2026
+                          </p>
+                          <video controls preload="metadata" poster="img/news/latest-news/news-91.jpeg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-10.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          लोकदल विशेष अपडेट — 09 Oct 2026
+                        </small>
+                      </div>
+                    </div>
+                    <!-- Video 2 - wp-video-11 -->
+                    <div class="col-12 col-md-3 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-television"></i> वीडियो 2 — 09 Oct 2026
+                          </p>
+                          <video controls preload="metadata" poster="img/news/latest-news/news-92.jpeg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-11.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          लोकदल विशेष संदेश — 09 Oct 2026
+                        </small>
+                      </div>
+                    </div>
+                    <!-- Video 3 - wp-video-12 -->
+                    <div class="col-12 col-md-3 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-shield"></i> वीडियो 3 — 09 Oct 2026
+                          </p>
+                          <video controls preload="metadata" poster="img/news/latest-news/news-95.jpeg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-12.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          लोकदल राजनीतिक अपडेट — 09 Oct 2026
+                        </small>
+                      </div>
+                    </div>
+                    <!-- Video 4 - wp-video-13 -->
+                    <div class="col-12 col-md-3">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-play-circle"></i> वीडियो 4 — 09 Oct 2026
+                          </p>
+                          <video controls preload="metadata" poster="img/news/latest-news/news-106.jpeg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-13.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          लोकदल नवीनतम वीडियो संदेश — 09 Oct 2026
+                        </small>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Old Videos: 02 Oct 2026 -->
+                  <div class="d-flex align-items-center mt-3 mb-2">
+                    <span class="badge px-2 py-1 font-weight-bold" style="font-size: 11px; background: #555; color:#fff;">
+                      <i class="fa fa-history mr-1"></i> पिछले वीडियो — 02 Oct 2026
+                    </span>
+                  </div>
+                  <div class="row">
                     <div class="col-12 col-md-4 mb-2 mb-md-0">
-                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-column; justify-content: space-between;">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
                         <div>
                           <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
                             <i class="fa fa-video-camera"></i> वीडियो 1: हिरासत बस से लाइव संदेश
@@ -488,10 +565,8 @@
                         </small>
                       </div>
                     </div>
-
-                    <!-- Video 2 -->
                     <div class="col-12 col-md-4 mb-2 mb-md-0">
-                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-column; justify-content: space-between;">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
                         <div>
                           <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
                             <i class="fa fa-television"></i> वीडियो 2: ग्राउंड कवरेज व धारा 163
@@ -506,10 +581,8 @@
                         </small>
                       </div>
                     </div>
-
-                    <!-- Video 3 -->
                     <div class="col-12 col-md-4">
-                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-column; justify-content: space-between;">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
                         <div>
                           <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
                             <i class="fa fa-shield"></i> वीडियो 3: पुलिस तैनाती व जंतर-मंतर कूच
@@ -3309,6 +3382,26 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-109.jpeg', 'title' => 'द्वारका सेक्टर-23 पुलिस स्टेशन: हिरासत के बाद राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह व पदाधिकारियों का मार्च', 'desc' => 'Dwarka Sector-23 Police Station - 09 Oct 2026', 'url' => 'img/news/latest-news/news-109.jpeg'],
+                  ['img' => 'img/news/latest-news/news-107.jpeg', 'title' => 'दिल्ली पुलिस हिरासत परिसर: पुलिस अधिकारियों द्वारा औपचारिक कार्रवाई एवं नेताओं का अडिग रुख', 'desc' => 'Police Detention Arena - 09 Oct 2026', 'url' => 'img/news/latest-news/news-107.jpeg'],
+                  ['img' => 'img/news/latest-news/news-108.jpeg', 'title' => 'शांति सेवा न्याय: पुलिस अधिकारियों से लोकतांत्रिक अधिकारों पर वार्ता करते राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Police Station Dialogue - 09 Oct 2026', 'url' => 'img/news/latest-news/news-108.jpeg'],
+                  ['img' => 'img/news/latest-news/news-110.jpeg', 'title' => 'हिरासत के दौरान लोकदल शीर्ष नेतृत्व व प्रमुख पदाधिकारियों की आपात बैठक एवं विमर्श', 'desc' => 'Custody Meeting - 09 Oct 2026', 'url' => 'img/news/latest-news/news-110.jpeg'],
+                  ['img' => 'img/news/latest-news/news-91.jpeg', 'title' => 'ग्राउंड रिपोर्ट: दिल्ली पुलिस बैरिकेडिंग पर डटे राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह व कार्यकर्ता — तिरंगे के साथ विशाल धरना', 'desc' => 'Lokdal Ground Coverage - 09 Oct 2026', 'url' => 'img/news/latest-news/news-91.jpeg'],
+                  ['img' => 'img/news/latest-news/news-92.jpeg', 'title' => 'एक्सक्लूसive दृश्य: दिल्ली पुलिस वैन में राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह की हिरासत के क्षण', 'desc' => 'Police Detention Live - 09 Oct 2026', 'url' => 'img/news/latest-news/news-92.jpeg'],
+                  ['img' => 'img/news/latest-news/news-93.jpeg', 'title' => 'जंतर-मंतर पर तानाशाही के खिलाफ हुंकार: लोकतंत्र व किसान रक्षा हेतु लोकदल का ऐतिहासिक प्रदर्शन', 'desc' => 'Jantar Mantar Protest - 09 Oct 2026', 'url' => 'img/news/latest-news/news-93.jpeg'],
+                  ['img' => 'img/news/latest-news/news-94.jpeg', 'title' => 'सत्याग्रह आंदोलन: पुलिसिया दबाव के बावजूद सड़क पर जमे रहे लोकदल अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Lokdal Satyagraha - 09 Oct 2026', 'url' => 'img/news/latest-news/news-94.jpeg'],
+                  ['img' => 'img/news/latest-news/news-95.jpeg', 'title' => 'शांतिपूर्ण विरोध पर पुलिस की बर्बरता: सड़क पर बैठकर तानाशाही के खिलाफ लोकदल का कड़ा प्रतिरोध', 'desc' => 'Peaceful Protest Live - 09 Oct 2026', 'url' => 'img/news/latest-news/news-95.jpeg'],
+                  ['img' => 'img/news/latest-news/news-96.jpeg', 'title' => 'लोकदल कार्यकर्ताओं का अदम्य साहस: तानाशाही के आगे कभी नहीं झुकेंगे किसान और युवा — सुनील सिंह', 'desc' => 'Lokdal Protest Update - 09 Oct 2026', 'url' => 'img/news/latest-news/news-96.jpeg'],
+                  ['img' => 'img/news/latest-news/news-97.jpeg', 'title' => 'जेल भरो आंदोलन 2.0: हक और इंसाफ की मांग को लेकर दिल्ली की सड़कों पर उतरा लोकदल', 'desc' => 'Jail Bharo Andolan - 09 Oct 2026', 'url' => 'img/news/latest-news/news-97.jpeg'],
+                  ['img' => 'img/news/latest-news/news-98.jpeg', 'title' => 'राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का संदेश: "हमारी आवाज को दबाया नहीं जा सकता, संघर्ष जारी रहेगा"', 'desc' => 'National President Message - 09 Oct 2026', 'url' => 'img/news/latest-news/news-98.jpeg'],
+                  ['img' => 'img/news/latest-news/news-99.jpeg', 'title' => 'दिल्ली पुलिस द्वारा भारी बल प्रयोग व बैरिकेडिंग: लोकदल का शांतिपूर्ण मार्च रोकने की कोशिश', 'desc' => 'Police Barricading - 09 Oct 2026', 'url' => 'img/news/latest-news/news-99.jpeg'],
+                  ['img' => 'img/news/latest-news/news-100.jpeg', 'title' => 'लोकदल शीर्ष नेतृत्व का उद्बोधन: लोकतंत्र की रक्षा के लिए हर कुर्बानी देने को तैयार', 'desc' => 'Leadership Address - 09 Oct 2026', 'url' => 'img/news/latest-news/news-100.jpeg'],
+                  ['img' => 'img/news/latest-news/news-101.jpeg', 'title' => 'युवा व किसान शक्ति का ऐतिहासिक प्रदर्शन: दिल्ली में गूंजा लोकदल का जयघोष', 'desc' => 'Youth & Kisan Rally - 09 Oct 2026', 'url' => 'img/news/latest-news/news-101.jpeg'],
+                  ['img' => 'img/news/latest-news/news-102.jpeg', 'title' => 'पुलिस वैन से जनता के नाम सीधा संदेश: जब तक हक नहीं मिलेगा, तब तक चैन से नहीं बैठेंगे', 'desc' => 'Direct Public Message - 09 Oct 2026', 'url' => 'img/news/latest-news/news-102.jpeg'],
+                  ['img' => 'img/news/latest-news/news-103.jpeg', 'title' => 'लोकदल आंदोलनकारी हिरासत में: कार्यकर्ताओं ने नारे लगाकर किया विरोध दर्ज', 'desc' => 'Workers Detention - 09 Oct 2026', 'url' => 'img/news/latest-news/news-103.jpeg'],
+                  ['img' => 'img/news/latest-news/news-104.jpeg', 'title' => 'चौधरी सुनील सिंह का ऐतिहासिक सत्याग्रह: लोकतांत्रिक अधिकारों की लड़ाई का जीवंत प्रमाण', 'desc' => 'Satyagraha Coverage - 09 Oct 2026', 'url' => 'img/news/latest-news/news-104.jpeg'],
+                  ['img' => 'img/news/latest-news/news-105.jpeg', 'title' => 'विशाल पुलिस तैनाती के बीच लोकदल का अडिग आंदोलन: किसानों के अधिकारों पर कोई समझौता नहीं', 'desc' => 'Historic Movement - 09 Oct 2026', 'url' => 'img/news/latest-news/news-105.jpeg'],
+                  ['img' => 'img/news/latest-news/news-106.jpeg', 'title' => 'पुलिस हिरासत बस के गेट से चौधरी सुनील सिंह का संदेश: लोकतंत्र को बचाने की जंग जारी रहेगी', 'desc' => 'Police Bus Message - 09 Oct 2026', 'url' => 'img/news/latest-news/news-106.jpeg'],
                   ['img' => 'img/news/latest-news/news-88.jpeg', 'title' => 'अनुपूरक, लखनऊ: INDIA गठबंधन के हल्ला बोल से घबराई भाजपा, चोरी भी और सीना-जोरी भी : सुनील सिंह', 'desc' => 'Anupurak Lucknow - 07 Oct 2026', 'url' => 'img/news/latest-news/news-88.jpeg'],
                   ['img' => 'img/news/latest-news/news-89.jpeg', 'title' => 'सूर्योदय भारत समाचार सेवा: मुख्य चुनाव आयुक्त ज्ञानेश कुमार से इस्तीफे की मांग — चौधरी सुनील सिंह', 'desc' => 'Suryodaya Bharat Samachar Seva - 07 Oct 2026', 'url' => 'img/news/latest-news/news-89.jpeg'],
                   ['img' => 'img/news/latest-news/news-90.jpeg', 'title' => 'सद्भावना समाचार: इंडिया गठबंधन के आंदोलन से भाजपा में बेचैनी : चौधरी सुनील सिंह', 'desc' => 'Sadbhavana Samachar, Lucknow - 07 Oct 2026', 'url' => 'img/news/latest-news/news-90.jpeg'],
