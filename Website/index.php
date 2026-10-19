@@ -463,14 +463,91 @@
                 <div id="exclusive-videos" class="mb-3 p-3" style="background: linear-gradient(135deg, #1a0000 0%, #300000 100%); border: 2px solid #ffcc00; border-radius: 8px; color: #fff;">
                   <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
                     <span class="badge badge-danger px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #ff0000;">
-                      <i class="fa fa-circle mr-1" style="font-size: 8px; animation: blinker 1s infinite;"></i> 🔴 4 एक्सक्लूसिव लाइव वीडियो (09 Oct 2026)
+                      <i class="fa fa-circle mr-1" style="font-size: 8px; animation: blinker 1s infinite;"></i> 🔴 4 एक्सक्लूसिव वीडियो — लखनऊ प्रेस वार्ता (16 Oct 2026)
                     </span>
                     <span style="color: #ffcc00; font-size: 11.5px; font-weight: 700;">
                       <i class="fa fa-shield"></i> आज के ताज़ा वीडियो अपडेट्स
                     </span>
                   </div>
 
-                  <!-- New Videos: 09 Oct 2026 -->
+                  <!-- New Videos: 16 Oct 2026 -->
+                  <div class="row">
+                    <!-- Video 1 - wp-video-14 -->
+                    <div class="col-12 col-md-3 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-video-camera"></i> वीडियो 1: मीडिया प्रेस वार्ता
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-14-thumb.jpg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-14.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          लखनऊ: मीडिया कैमरों के समक्ष राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह की प्रेस वार्ता।
+                        </small>
+                      </div>
+                    </div>
+                    <!-- Video 2 - wp-video-15 -->
+                    <div class="col-12 col-md-3 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-television"></i> वीडियो 2: पंचायत चुनाव व SIR (भाग 1)
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-15-thumb.jpg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-15.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          पंचायत चुनाव टालने पर सरकार को घेरा — किसानों के हक में तीखा हमला।
+                        </small>
+                      </div>
+                    </div>
+                    <!-- Video 3 - wp-video-16 -->
+                    <div class="col-12 col-md-3 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-bullhorn"></i> वीडियो 3: विस्तृत संबोधन (भाग 2)
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-16-thumb.jpg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-16.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          सड़क से सदन तक लड़ाई, यूपी में बदलाव व गठबंधन का संकल्प।
+                        </small>
+                      </div>
+                    </div>
+                    <!-- Video 4 - wp-video-17 -->
+                    <div class="col-12 col-md-3">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-play-circle"></i> वीडियो 4: मुख्य प्रेस संदेश
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-17-thumb.jpg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-17.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का प्रेस संदेश।
+                        </small>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Previous Videos: 09 Oct 2026 -->
+                  <div class="d-flex align-items-center mt-3 mb-2">
+                    <span class="badge px-2 py-1 font-weight-bold" style="font-size: 11px; background: #555; color:#fff;">
+                      <i class="fa fa-history mr-1"></i> पिछले एक्सक्लूसिव वीडियो — 09 Oct 2026
+                    </span>
+                  </div>
                   <div class="row">
                     <!-- Video 1 - wp-video-10 -->
                     <div class="col-12 col-md-3 mb-2 mb-md-0">
@@ -479,7 +556,7 @@
                           <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
                             <i class="fa fa-video-camera"></i> वीडियो 1 — 09 Oct 2026
                           </p>
-                          <video controls preload="metadata" poster="img/news/latest-news/news-91.jpeg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                          <video controls preload="metadata" poster="img/news/latest-news/news-91.jpeg" style="width: 100%; height: 130px; object-fit: cover; background: #000; border-radius: 4px;">
                             <source src="video/wp-video-10.mp4" type="video/mp4">
                             ब्राउज़र वीडियो सपोर्ट नहीं करता।
                           </video>
@@ -496,7 +573,7 @@
                           <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
                             <i class="fa fa-television"></i> वीडियो 2 — 09 Oct 2026
                           </p>
-                          <video controls preload="metadata" poster="img/news/latest-news/news-92.jpeg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                          <video controls preload="metadata" poster="img/news/latest-news/news-92.jpeg" style="width: 100%; height: 130px; object-fit: cover; background: #000; border-radius: 4px;">
                             <source src="video/wp-video-11.mp4" type="video/mp4">
                             ब्राउज़र वीडियो सपोर्ट नहीं करता।
                           </video>
@@ -513,7 +590,7 @@
                           <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
                             <i class="fa fa-shield"></i> वीडियो 3 — 09 Oct 2026
                           </p>
-                          <video controls preload="metadata" poster="img/news/latest-news/news-95.jpeg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                          <video controls preload="metadata" poster="img/news/latest-news/news-95.jpeg" style="width: 100%; height: 130px; object-fit: cover; background: #000; border-radius: 4px;">
                             <source src="video/wp-video-12.mp4" type="video/mp4">
                             ब्राउज़र वीडियो सपोर्ट नहीं करता।
                           </video>
@@ -530,7 +607,7 @@
                           <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
                             <i class="fa fa-play-circle"></i> वीडियो 4 — 09 Oct 2026
                           </p>
-                          <video controls preload="metadata" poster="img/news/latest-news/news-106.jpeg" style="width: 100%; height: 150px; object-fit: cover; background: #000; border-radius: 4px;">
+                          <video controls preload="metadata" poster="img/news/latest-news/news-106.jpeg" style="width: 100%; height: 130px; object-fit: cover; background: #000; border-radius: 4px;">
                             <source src="video/wp-video-13.mp4" type="video/mp4">
                             ब्राउज़र वीडियो सपोर्ट नहीं करता।
                           </video>
@@ -3548,6 +3625,10 @@
                   ['img' => 'img/news/latest-news/news-121.jpeg', 'title' => 'जन माध्यम: एसआईंआर के खिलाफ ट्रैक्टरों संग दिल्ली कूच करेंगे किसान — चौधरी सुनील सिंह', 'desc' => 'Jan Madhyam - 17 Oct 2026', 'url' => 'img/news/latest-news/news-121.jpeg'],
                   ['img' => 'img/news/latest-news/news-122.jpeg', 'title' => 'तीसरा विकल्प न्यूज़: एसआईआर के खिलाफ दिल्ली में गूंजेंगे किसानों के ट्रैक्टर: सुनील सिंह', 'desc' => 'Teesra Vikalp News - 17 Oct 2026', 'url' => 'img/news/latest-news/news-122.jpeg'],
                   ['img' => 'img/news/latest-news/news-123.jpeg', 'title' => 'SIR की लड़ाई अब दिल्ली में किसानों के ट्रैक्टरों की गूंज के साथ लड़ी जाएगी — चौधरी सुनील सिंह', 'desc' => 'Rashtriya Samachar - 17 Oct 2026', 'url' => 'img/news/latest-news/news-123.jpeg'],
+                  ['img' => 'video/wp-video-14-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो 1] लखनऊ प्रेस वार्ता: मीडिया कैमरों के सामने राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Lucknow Press Conference Video - 16 Oct 2026', 'url' => 'video/wp-video-14.mp4'],
+                  ['img' => 'video/wp-video-15-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो 2] लखनऊ प्रेस वार्ता (भाग 1): पंचायत चुनाव टालने व SIR पर तीखा हमला', 'desc' => 'Sunil Singh Address Part 1 - 16 Oct 2026', 'url' => 'video/wp-video-15.mp4'],
+                  ['img' => 'video/wp-video-16-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो 3] लखनऊ प्रेस वार्ता (भाग 2): सड़क से सदन तक लड़ाई, यूपी बदलाव का संकल्प', 'desc' => 'Sunil Singh Address Part 2 - 16 Oct 2026', 'url' => 'video/wp-video-16.mp4'],
+                  ['img' => 'video/wp-video-17-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो 4] लखनऊ प्रेस वार्ता मुख्य संदेश: लोकतंत्र और किसानों के हक की हुंकार', 'desc' => 'Key Press Highlights - 16 Oct 2026', 'url' => 'video/wp-video-17.mp4'],
                   ['img' => 'img/news/latest-news/news-113.jpeg', 'title' => '@चेतना: किसान आंदोलन की तैयारी: सड़क से सदन तक किसानों की लड़ाई लड़ेगा इंडिया गठबंधन : चौधरी सुनील सिंह', 'desc' => '@Chetna Newspaper - 16 Oct 2026', 'url' => 'img/news/latest-news/news-113.jpeg'],
                   ['img' => 'img/news/latest-news/news-114.jpeg', 'title' => 'राष्ट्रीय सुदर्शन: किसान जल्द सड़कों पर उतरेगा, लोकतंत्र और किसानों की लड़ाई को निर्णायक मोड़ तक ले जाएगा INDIA गठबंधन : चौधरी सुनील सिंह', 'desc' => 'Rashtriya Sudarshan - 16 Oct 2026', 'url' => 'img/news/latest-news/news-114.jpeg'],
                   ['img' => 'img/news/latest-news/news-115.jpeg', 'title' => 'दैनिक समाचार पत्र: किसान आंदोलन की तैयारी, सड़क से सदन तक किसानों की लड़ाई लड़ेगा \'इंडिया\' गठबंधन — चौधरी सुनील सिंह', 'desc' => 'Dainik Samachar - 16 Oct 2026', 'url' => 'img/news/latest-news/news-115.jpeg'],
@@ -3809,6 +3890,10 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'video/wp-video-15-thumb.jpg', 'video' => 'video/wp-video-15.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 1] लखनऊ प्रेस वार्ता (भाग 1): पंचायत चुनाव टालने व SIR पर सुनील सिंह का तीखा हमला', 'desc' => 'लोकदल केंद्रीय कार्यालय लखनऊ प्रेस वार्ता', 'date' => '16 Oct 2026 • Exclusive Video'],
+                ['img' => 'video/wp-video-16-thumb.jpg', 'video' => 'video/wp-video-16.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 2] लखनऊ प्रेस वार्ता (भाग 2): सड़क से सदन तक किसानों व जनता की लड़ाई', 'desc' => 'राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह विस्तृत वक्तव्य', 'date' => '16 Oct 2026 • Exclusive Video'],
+                ['img' => 'video/wp-video-14-thumb.jpg', 'video' => 'video/wp-video-14.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 3] लखनऊ प्रेस वार्ता लाइव मीडिया कवरेज — राष्ट्रीय चैनलों के कैमरे', 'desc' => 'मीडिया वार्ता एवं प्रेस संबोधन', 'date' => '16 Oct 2026 • Media Coverage'],
+                ['img' => 'video/wp-video-17-thumb.jpg', 'video' => 'video/wp-video-17.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 4] लखनऊ प्रेस वार्ता विशेष संदेश — चौधरी सुनील सिंह', 'desc' => 'लोकदल राष्ट्रीय अध्यक्ष का विशेष संदेश', 'date' => '16 Oct 2026 • Exclusive Video'],
                 ['img' => 'https://img.youtube.com/vi/7qd4eSJ2ihE/hqdefault.jpg', 'video' => 'https://youtu.be/7qd4eSJ2ihE?si=lzx4ExhPhMch6zGF', 'name' => 'मोदी जी अभी भी संभल जाओ, वरना शेख हसीना के जैसे देश छोड़कर भागना पड़ेगा — सुनील सिंह', 'desc' => 'Azamgarh Express News विशेष कवरेज एवं प्रेस वार्ता', 'date' => '18 Oct 2026 • YouTube Video'],
                 ['img' => 'https://img.youtube.com/vi/eZT9u2hhhuU/hqdefault.jpg', 'video' => 'https://youtu.be/eZT9u2hhhuU?si=6Fd9aQOCEHct57sD', 'name' => 'Chaudhary Sunil Singh | \'देश के तीन गद्दार कौन?\' क्या बोले लोकदल अध्यक्ष?', 'desc' => 'Vedam News (Rishabh Rai) विशेष साक्षात्कार व प्रेस वार्ता', 'date' => '18 Oct 2026 • YouTube Video'],
                 ['img' => 'https://img.youtube.com/vi/HrF4rRki-4s/hqdefault.jpg', 'video' => 'https://youtu.be/HrF4rRki-4s?si=N03DnFl8G3MoYKym', 'name' => 'JanManch Samachar: मोदी जी को भी छोड़ना पड़ेगा देश? शेख हसीना जैसा होगा हाल? — सुनील सिंह', 'desc' => 'JanManch Samachar JM लखनऊ प्रेस वार्ता विस्तृत रिपोर्ट', 'date' => '18 Oct 2026 • YouTube Video'],

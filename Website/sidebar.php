@@ -120,6 +120,10 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                                     ['img' => 'img/news/latest-news/news-121.jpeg', 'title' => 'जन माध्यम: एसआईंआर के खिलाफ ट्रैक्टरों संग दिल्ली कूच करेंगे किसान — सुनील सिंह', 'date' => '17 Oct 2026', 'url' => 'img/news/latest-news/news-121.jpeg'],
                                     ['img' => 'img/news/latest-news/news-122.jpeg', 'title' => 'तीसरा विकल्प न्यूज़: एसआईआर के खिलाफ दिल्ली में गूंजेंगे किसानों के ट्रैक्टर- सुनील सिंह', 'date' => '17 Oct 2026', 'url' => 'img/news/latest-news/news-122.jpeg'],
                                     ['img' => 'img/news/latest-news/news-123.jpeg', 'title' => 'राष्ट्रीय समाचार: SIR की लड़ाई अब दिल्ली में किसानों के ट्रैक्टरों की गूंज के साथ लड़ी जाएगी', 'date' => '17 Oct 2026', 'url' => 'img/news/latest-news/news-123.jpeg'],
+                                    ['img' => 'video/wp-video-14-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो 1] लखनऊ प्रेस वार्ता: मीडिया कैमरों के सामने राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'date' => '16 Oct 2026', 'url' => 'video/wp-video-14.mp4'],
+                                    ['img' => 'video/wp-video-15-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो 2] लखनऊ प्रेस वार्ता (भाग 1): पंचायत चुनाव टालने व SIR पर तीखा हमला', 'date' => '16 Oct 2026', 'url' => 'video/wp-video-15.mp4'],
+                                    ['img' => 'video/wp-video-16-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो 3] लखनऊ प्रेस वार्ता (भाग 2): सड़क से सदन तक लड़ाई, यूपी बदलाव का संकल्प', 'date' => '16 Oct 2026', 'url' => 'video/wp-video-16.mp4'],
+                                    ['img' => 'video/wp-video-17-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो 4] लखनऊ प्रेस वार्ता मुख्य संदेश: लोकतंत्र और किसानों के हक की हुंकार', 'date' => '16 Oct 2026', 'url' => 'video/wp-video-17.mp4'],
                                     ['img' => 'img/news/latest-news/news-113.jpeg', 'title' => '@चेतना: किसान आंदोलन की तैयारी: सड़क से सदन तक किसानों की लड़ाई लड़ेगा इंडिया गठबंधन : चौधरी सुनील सिंह', 'date' => '16 Oct 2026', 'url' => 'img/news/latest-news/news-113.jpeg'],
                                     ['img' => 'img/news/latest-news/news-114.jpeg', 'title' => 'राष्ट्रीय सुदर्शन: किसान जल्द सड़कों पर उतरेगा, लोकतंत्र और किसानों की लड़ाई को निर्णायक मोड़ तक ले जाएगा INDIA गठबंधन : चौधरी सुनील सिंह', 'date' => '16 Oct 2026', 'url' => 'img/news/latest-news/news-114.jpeg'],
                                     ['img' => 'img/news/latest-news/news-115.jpeg', 'title' => 'दैनिक समाचार पत्र: किसान आंदोलन की तैयारी, सड़क से सदन तक किसानों की लड़ाई लड़ेगा \'इंडिया\' गठबंधन — चौधरी सुनील सिंह', 'date' => '16 Oct 2026', 'url' => 'img/news/latest-news/news-115.jpeg'],
@@ -200,6 +204,20 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                         <div class="sidebar-widget-area">
                             <h5 class="title" style="background:#b30000; color:#fff; padding:6px 12px; border-radius:4px;"><i class="fa fa-video-camera"></i> 🔴 लाइव वीडियो संबोधन</h5>
                             <div class="widget-content">
+                                <!-- Exclusive Video: Lucknow Press Conference -->
+                                <div class="single-blog-post mb-3" style="border: 2px solid #b30000; border-radius: 6px; padding: 6px; background: #fff5f5;">
+                                    <div class="post-thumbnail" style="position: relative;">
+                                        <img src="video/wp-video-15-thumb.jpg" alt="लखनऊ प्रेस वार्ता लाइव संदेश" style="width: 100%; height: 160px; object-fit: cover; border-radius: 4px;" loading="lazy" decoding="async">
+                                        <a href="video/wp-video-15.mp4" target="_blank" class="video-btn"><i class="fa fa-play"></i></a>
+                                        <span style="position: absolute; top: 6px; left: 6px; background: #ff0000; color: #fff; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 3px;">🔴 EXCLUSIVE</span>
+                                    </div>
+                                    <div class="post-content pt-2">
+                                        <a href="video/wp-video-15.mp4" target="_blank" class="headline">
+                                            <h5 style="color: #b30000; font-size: 13.5px; font-weight: 700;">लखनऊ: प्रेस वार्ता में पंचायत चुनाव व SIR पर राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का तीखा हमला</h5>
+                                            <div class="post-meta"><p style="color: #666; font-size: 11px;">विशेष प्रेस वार्ता Live Video - 16 Oct 2026</p></div>
+                                        </a>
+                                    </div>
+                                </div>
                                 <!-- Exclusive Video 1 -->
                                 <div class="single-blog-post mb-3" style="border: 2px solid #b30000; border-radius: 6px; padding: 6px; background: #fff5f5;">
                                     <div class="post-thumbnail" style="position: relative;">
