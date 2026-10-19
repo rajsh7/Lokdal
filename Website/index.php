@@ -608,6 +608,72 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Mission 2027 Meeting Poster -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <img src="img/news/latest-news/news-116.jpeg" alt="मिशन 2027 चुनावी बैठक" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-116.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          मिशन 2027 चुनावी बैठक: 21 अक्टूबर 2026, 8 मॉल एवेन्यू लखनऊ में शीर्ष बैठक
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;">महत्वपूर्ण बैठक • 21 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Dainik Jagran 18 Oct 2026 -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border">
+                      <img src="img/news/latest-news/news-117.jpeg" alt="दैनिक जागरण" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-117.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          दैनिक जागरण: पंचायत चुनाव कराने से डर रही सरकार — सुनील सिंह
+                        </a>
+                        <span class="d-block text-muted" style="font-size: 11px;">दैनिक जागरण (लखनऊ) • 18 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Sadbhavana Samachar 17 Oct 2026 -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border">
+                      <img src="img/news/latest-news/news-118.jpeg" alt="सद्भावना समाचार" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-118.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          सद्भावना समाचार: SIR के खिलाफ अब दिल्ली में ट्रैक्टरों संग उतरेंगे किसान
+                        </a>
+                        <span class="d-block text-muted" style="font-size: 11px;">सद्भावना समाचार • 17 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Chetna Newspaper 16 Oct 2026 -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border">
+                      <img src="img/news/latest-news/news-113.jpeg" alt="@चेतना समाचार पत्र" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-113.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          @चेतना: किसान आंदोलन की तैयारी, सड़क से सदन तक लड़ेगा 'इंडिया' गठबंधन : सुनील सिंह
+                        </a>
+                        <span class="d-block text-muted" style="font-size: 11px;">दैनिक समाचार पत्र • 16 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Rashtriya Sudarshan Paper 16 Oct 2026 -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border">
+                      <img src="img/news/latest-news/news-114.jpeg" alt="राष्ट्रीय सुदर्शन अख़बार" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-114.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          राष्ट्रीय सुदर्शन: किसान जल्द सड़कों पर उतरेगा, लड़ाई को निर्णायक मोड़ तक ले जाएगा INDIA गठबंधन
+                        </a>
+                        <span class="d-block text-muted" style="font-size: 11px;">प्रयागराज प्रेस वार्ता • 16 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Dainik Samachar Paper 16 Oct 2026 -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border">
+                      <img src="img/news/latest-news/news-115.jpeg" alt="दैनिक समाचार पत्र" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-115.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          दैनिक समाचार पत्र: किसान आंदोलन की तैयारी, सड़क से सदन तक किसानों की लड़ाई
+                        </a>
+                        <span class="d-block text-muted" style="font-size: 11px;">अख़बार रिपोर्ट • 16 Oct 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item 1: Rahul Gandhi meeting -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border">
                       <img src="img/news/latest-news/news-46.jpeg" alt="राहुल गांधी व सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
@@ -813,6 +879,86 @@
                     <div class="row">
                       <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                          <!-- Single Blog Post (Mission 2027 Meeting Poster) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-116.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-116.jpeg" alt="मिशन 2027 चुनावी बैठक - 21 अक्टूबर 2026" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #00772D; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">🔥 चुनावी बैठक • 21 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>मिशन 2027 चुनावी बैठक: 21 अक्टूबर 2026, 8 मॉल एवेन्यू लखनऊ में शीर्ष बैठक — सभी पदाधिकारियों की उपस्थिति अनिवार्य</h5>
+                                <p>By लोकदल केंद्रीय कार्यालय (आधिकारिक विज्ञप्ति)</p>
+                                <div class="post-meta">
+                                  <p>8 Mall Avenue, Lucknow - 21 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (Dainik Jagran 18 Oct) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-117.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-117.jpeg" alt="दैनिक जागरण: पंचायत चुनाव कराने से डर रही सरकार" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #d90429; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 दैनिक जागरण • 18 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>दैनिक जागरण: पंचायत चुनाव कराने से डर रही सरकार — लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह</h5>
+                                <p>By दैनिक जागरण (राज्य ब्यूरो, लखनऊ)</p>
+                                <div class="post-meta">
+                                  <p>Dainik Jagran - 18 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (@Chetna Newspaper 16 Oct) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-113.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-113.jpeg" alt="@चेतना: किसान आंदोलन की तैयारी: सड़क से सदन तक किसानों की लड़ाई लड़ेगा इंडिया गठबंधन" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #00772D; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 ताज़ा समाचार पत्र • 16 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>@चेतना: किसान आंदोलन की तैयारी: सड़क से सदन तक किसानों की लड़ाई लड़ेगा इंडिया गठबंधन : चौधरी सुनील सिंह</h5>
+                                <p>By @चेतना (दैनिक समाचार पत्र, लखनऊ)</p>
+                                <div class="post-meta">
+                                  <p>Chetna Newspaper - 16 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (Rashtriya Sudarshan Newspaper 16 Oct) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-114.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-114.jpeg" alt="राष्ट्रीय सुदर्शन: किसान जल्द सड़कों पर उतरेगा" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #d90429; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 राष्ट्रीय सुदर्शन • 16 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>राष्ट्रीय सुदर्शन: किसान जल्द सड़कों पर उतरेगा, लोकतंत्र और किसानों की लड़ाई को निर्णायक मोड़ तक ले जाएगा INDIA गठबंधन : चौधरी सुनील सिंह</h5>
+                                <p>By राष्ट्रीय सुदर्शन (एन के सिंह, प्रयागराज)</p>
+                                <div class="post-meta">
+                                  <p>Rashtriya Sudarshan - 16 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (Dainik Samachar Newspaper 16 Oct) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-115.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-115.jpeg" alt="दैनिक समाचार पत्र: किसान आंदोलन की तैयारी" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #e65100; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 अख़बार रिपोर्ट • 16 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>दैनिक समाचार पत्र: किसान आंदोलन की तैयारी, सड़क से सदन तक किसानों की लड़ाई लड़ेगा 'इंडिया' गठबंधन — चौधरी सुनील सिंह</h5>
+                                <p>By दैनिक समाचार पत्र (लखनऊ/प्रयागराज ब्यूरो)</p>
+                                <div class="post-meta">
+                                  <p>Dainik Samachar - 16 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
                           <!-- Single Blog Post (EC & BJP Attack - Jan Manch Samachar) -->
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-86.jpeg" class="headline">
@@ -3382,6 +3528,21 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-116.jpeg', 'title' => 'मिशन 2027 चुनावी बैठक: 21 अक्टूबर 2026, लोकदल केंद्रीय कार्यालय 8 मॉल एवेन्यू लखनऊ में सभी पदाधिकारियों की अनिवार्य बैठक', 'desc' => 'Mission 2027 Chunavi Baithak - 21 Oct 2026', 'url' => 'img/news/latest-news/news-116.jpeg'],
+                  ['img' => 'img/news/latest-news/news-117.jpeg', 'title' => 'दैनिक जागरण: पंचायत चुनाव कराने से डर रही सरकार — लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Dainik Jagran Lucknow - 18 Oct 2026', 'url' => 'img/news/latest-news/news-117.jpeg'],
+                  ['img' => 'img/news/latest-news/news-118.jpeg', 'title' => 'सद्भावना समाचार: SIR के खिलाफ अब दिल्ली में ट्रैक्टरों के साथ उतरेंगे किसान : पंचायत चुनाव टालने पर सुप्रीम कोर्ट जाएगा लोकदल', 'desc' => 'Sadbhavana Samachar - 17 Oct 2026', 'url' => 'img/news/latest-news/news-118.jpeg'],
+                  ['img' => 'img/news/latest-news/news-119.jpeg', 'title' => 'स्वतंत्र चेतना / अलीगढ़ @ चेतना: एसआईंआर के खिलाफ दिल्ली में ट्रैक्टरों के साथ उतरेंगे किसान: सुनील सिंह', 'desc' => 'Swatantra Chetna - 17 Oct 2026', 'url' => 'img/news/latest-news/news-119.jpeg'],
+                  ['img' => 'img/news/latest-news/news-120.jpeg', 'title' => 'पब्लिक एशिया ब्यूरो: एसआईंआर के विरोध में किसानों के ट्रैक्टरों के साथ दिल्ली कूच करेगा लोकदल: सुनील सिंह', 'desc' => 'Public Asia Bureau - 17 Oct 2026', 'url' => 'img/news/latest-news/news-120.jpeg'],
+                  ['img' => 'img/news/latest-news/news-121.jpeg', 'title' => 'जन माध्यम: एसआईंआर के खिलाफ ट्रैक्टरों संग दिल्ली कूच करेंगे किसान — चौधरी सुनील सिंह', 'desc' => 'Jan Madhyam - 17 Oct 2026', 'url' => 'img/news/latest-news/news-121.jpeg'],
+                  ['img' => 'img/news/latest-news/news-122.jpeg', 'title' => 'तीसरा विकल्प न्यूज़: एसआईआर के खिलाफ दिल्ली में गूंजेंगे किसानों के ट्रैक्टर: सुनील सिंह', 'desc' => 'Teesra Vikalp News - 17 Oct 2026', 'url' => 'img/news/latest-news/news-122.jpeg'],
+                  ['img' => 'img/news/latest-news/news-123.jpeg', 'title' => 'SIR की लड़ाई अब दिल्ली में किसानों के ट्रैक्टरों की गूंज के साथ लड़ी जाएगी — चौधरी सुनील सिंह', 'desc' => 'Rashtriya Samachar - 17 Oct 2026', 'url' => 'img/news/latest-news/news-123.jpeg'],
+                  ['img' => 'img/news/latest-news/news-113.jpeg', 'title' => '@चेतना: किसान आंदोलन की तैयारी: सड़क से सदन तक किसानों की लड़ाई लड़ेगा इंडिया गठबंधन : चौधरी सुनील सिंह', 'desc' => '@Chetna Newspaper - 16 Oct 2026', 'url' => 'img/news/latest-news/news-113.jpeg'],
+                  ['img' => 'img/news/latest-news/news-114.jpeg', 'title' => 'राष्ट्रीय सुदर्शन: किसान जल्द सड़कों पर उतरेगा, लोकतंत्र और किसानों की लड़ाई को निर्णायक मोड़ तक ले जाएगा INDIA गठबंधन : चौधरी सुनील सिंह', 'desc' => 'Rashtriya Sudarshan - 16 Oct 2026', 'url' => 'img/news/latest-news/news-114.jpeg'],
+                  ['img' => 'img/news/latest-news/news-115.jpeg', 'title' => 'दैनिक समाचार पत्र: किसान आंदोलन की तैयारी, सड़क से सदन तक किसानों की लड़ाई लड़ेगा \'इंडिया\' गठबंधन — चौधरी सुनील सिंह', 'desc' => 'Dainik Samachar - 16 Oct 2026', 'url' => 'img/news/latest-news/news-115.jpeg'],
+                  ['img' => 'img/news/latest-news/news-111.jpeg', 'title' => 'स्वर्णप्रिया: किसानों के मुद्दों पर जल्द सड़क पर उतरेगा आंदोलन : चौधरी सुनील सिंह', 'desc' => 'Swarnapriya - 16 Oct 2026', 'url' => 'https://swarnapriya.com/?p=37342'],
+                  ['img' => 'img/news/latest-news/news-112.jpeg', 'title' => 'Triangle News: किसान जल्द सड़कों पर उतरेगा, लोकतंत्र और किसानों की लड़ाई को निर्णायक मोड़ तक ले जाएगा INDIA गठबंधन : चौधरी सुनील सिंह', 'desc' => 'Triangle News Lucknow - 16 Oct 2026', 'url' => 'https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01389210424.html'],
+                  ['img' => 'img/news/latest-news/news-112.jpeg', 'title' => 'बहुजन विचार: लोकतंत्र और किसानों की लड़ाई को निर्णायक मोड़ तक ले जाएगा INDIA गठबंधन : चौधरी सुनील सिंह', 'desc' => 'Bahujan Vichar (Facebook) - 16 Oct 2026', 'url' => 'https://www.facebook.com/share/p/18PAdK3JC8/'],
+                  ['img' => 'img/news/latest-news/news-111.jpeg', 'title' => 'प्रयागराज प्रेस वार्ता: राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का उद्बोधन — लोकदल फेसबुक पोस्ट', 'desc' => 'Lokdal Facebook - 16 Oct 2026', 'url' => 'https://www.facebook.com/share/p/1dWo9tnFCU/?mibextid=wwXIfr'],
                   ['img' => 'img/news/latest-news/news-109.jpeg', 'title' => 'द्वारका सेक्टर-23 पुलिस स्टेशन: हिरासत के बाद राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह व पदाधिकारियों का मार्च', 'desc' => 'Dwarka Sector-23 Police Station - 09 Oct 2026', 'url' => 'img/news/latest-news/news-109.jpeg'],
                   ['img' => 'img/news/latest-news/news-107.jpeg', 'title' => 'दिल्ली पुलिस हिरासत परिसर: पुलिस अधिकारियों द्वारा औपचारिक कार्रवाई एवं नेताओं का अडिग रुख', 'desc' => 'Police Detention Arena - 09 Oct 2026', 'url' => 'img/news/latest-news/news-107.jpeg'],
                   ['img' => 'img/news/latest-news/news-108.jpeg', 'title' => 'शांति सेवा न्याय: पुलिस अधिकारियों से लोकतांत्रिक अधिकारों पर वार्ता करते राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Police Station Dialogue - 09 Oct 2026', 'url' => 'img/news/latest-news/news-108.jpeg'],
@@ -3833,6 +3994,17 @@
         <!-- End Most Popular Videos Section -->
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-116.jpeg'],
+              ['img' => 'img/news/latest-news/news-117.jpeg'],
+              ['img' => 'img/news/latest-news/news-118.jpeg'],
+              ['img' => 'img/news/latest-news/news-119.jpeg'],
+              ['img' => 'img/news/latest-news/news-120.jpeg'],
+              ['img' => 'img/news/latest-news/news-121.jpeg'],
+              ['img' => 'img/news/latest-news/news-122.jpeg'],
+              ['img' => 'img/news/latest-news/news-123.jpeg'],
+              ['img' => 'img/news/latest-news/news-113.jpeg'],
+              ['img' => 'img/news/latest-news/news-114.jpeg'],
+              ['img' => 'img/news/latest-news/news-115.jpeg'],
               ['img' => 'img/news/latest-news/news-76.jpeg'],
               ['img' => 'img/news/latest-news/news-77.jpeg'],
               ['img' => 'img/news/latest-news/news-78.jpeg'],
