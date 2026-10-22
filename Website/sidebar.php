@@ -100,6 +100,9 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'video/wp-video-18-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव टीवी] समाचार PLUS: दिल्ली में INDIA गठबंधन की महारैली की तैयारी — लखनऊ बैठक', 'date' => '21 Oct 2026', 'url' => 'video/wp-video-18.mp4'],
+                                    ['img' => 'video/wp-video-19-thumb.jpg', 'title' => '🔴 [विशेष साक्षात्कार] NBC 24: UP-2027 Election — CEC ज्ञानेश पर बरसे अध्यक्ष चौधरी सुनील सिंह', 'date' => '21 Oct 2026', 'url' => 'video/wp-video-19.mp4'],
+                                    ['img' => 'video/wp-video-20-thumb.jpg', 'title' => '🔴 [ब्रेकिंग न्यूज़] न्यूज़ इंडिया 24x7: लखनऊ में लोकदल की अहम बैठक, चौधरी सुनील सिंह का संबोधन', 'date' => '21 Oct 2026', 'url' => 'video/wp-video-20.mp4'],
                                     ['img' => 'https://img.youtube.com/vi/zRjlOJxaEHc/hqdefault.jpg', 'title' => 'दिल्ली में महारैली की तैयारी! किसान मुद्दों पर लोकदल का मंथन — ID Times', 'date' => '21 Oct 2026', 'url' => 'https://youtu.be/zRjlOJxaEHc?si=h_rKp5vOZV6k5fRw'],
                                     ['img' => 'img/news/latest-news/news-124.jpeg', 'title' => 'स्वर्णप्रिया: किसानों के मुद्दों पर लोकदल मुखर, एक नवंबर की महारैली में जुटेंगे किसान', 'date' => '21 Oct 2026', 'url' => 'https://swarnapriya.com/?p=37626'],
                                     ['img' => 'img/news/latest-news/news-116.jpeg', 'title' => 'मिशन 2027 चुनावी बैठक: 21 अक्टूबर 2026, लोकदल केंद्रीय कार्यालय 8 मॉल एवेन्यू लखनऊ में बैठक', 'date' => '21 Oct 2026', 'url' => 'img/news/latest-news/news-116.jpeg'],
@@ -206,6 +209,20 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                         <div class="sidebar-widget-area">
                             <h5 class="title" style="background:#b30000; color:#fff; padding:6px 12px; border-radius:4px;"><i class="fa fa-video-camera"></i> 🔴 लाइव वीडियो संबोधन</h5>
                             <div class="widget-content">
+                                <!-- Exclusive Video: Delhi Maharally Prep & Lucknow Meeting -->
+                                <div class="single-blog-post mb-3" style="border: 2px solid #b30000; border-radius: 6px; padding: 6px; background: #fff5f5;">
+                                    <div class="post-thumbnail" style="position: relative;">
+                                        <img src="video/wp-video-18-thumb.jpg" alt="समाचार PLUS लाइव टीवी कवरेज" style="width: 100%; height: 160px; object-fit: cover; border-radius: 4px;" loading="lazy" decoding="async">
+                                        <a href="video/wp-video-18.mp4" target="_blank" class="video-btn"><i class="fa fa-play"></i></a>
+                                        <span style="position: absolute; top: 6px; left: 6px; background: #ff0000; color: #fff; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 3px;">🔴 EXCLUSIVE TV</span>
+                                    </div>
+                                    <div class="post-content pt-2">
+                                        <a href="video/wp-video-18.mp4" target="_blank" class="headline">
+                                            <h5 style="color: #b30000; font-size: 13.5px; font-weight: 700;">समाचार PLUS: दिल्ली में INDIA गठबंधन की महारैली की तैयारी — लखनऊ बैठक</h5>
+                                            <div class="post-meta"><p style="color: #666; font-size: 11px;">1 नवंबर महारैली Live Coverage - 21 Oct 2026</p></div>
+                                        </a>
+                                    </div>
+                                </div>
                                 <!-- Exclusive Video: Lucknow Press Conference -->
                                 <div class="single-blog-post mb-3" style="border: 2px solid #b30000; border-radius: 6px; padding: 6px; background: #fff5f5;">
                                     <div class="post-thumbnail" style="position: relative;">

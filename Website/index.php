@@ -463,14 +463,74 @@
                 <div id="exclusive-videos" class="mb-3 p-3" style="background: linear-gradient(135deg, #1a0000 0%, #300000 100%); border: 2px solid #ffcc00; border-radius: 8px; color: #fff;">
                   <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
                     <span class="badge badge-danger px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #ff0000;">
-                      <i class="fa fa-circle mr-1" style="font-size: 8px; animation: blinker 1s infinite;"></i> 🔴 4 एक्सक्लूसिव वीडियो — लखनऊ प्रेस वार्ता (16 Oct 2026)
+                      <i class="fa fa-circle mr-1" style="font-size: 8px; animation: blinker 1s infinite;"></i> 🔴 3 एक्सक्लूसिव वीडियो — 1 नवंबर महारैली तैयारी व लखनऊ बैठक (21 Oct 2026)
                     </span>
                     <span style="color: #ffcc00; font-size: 11.5px; font-weight: 700;">
                       <i class="fa fa-shield"></i> आज के ताज़ा वीडियो अपडेट्स
                     </span>
                   </div>
 
-                  <!-- New Videos: 16 Oct 2026 -->
+                  <!-- New Videos: 21 Oct 2026 -->
+                  <div class="row mb-3">
+                    <!-- Video 1 - wp-video-18 -->
+                    <div class="col-12 col-md-4 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-television"></i> वीडियो 1: समाचार PLUS — दिल्ली में महारैली तैयारी
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-18-thumb.jpg" style="width: 100%; height: 160px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-18.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          लखनऊ बैठक: 1 नवंबर दिल्ली महारैली पर राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह की रणनीति।
+                        </small>
+                      </div>
+                    </div>
+                    <!-- Video 2 - wp-video-19 -->
+                    <div class="col-12 col-md-4 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-bullhorn"></i> वीडियो 2: NBC 24 — CEC ज्ञानेश पर बड़ा हमला
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-19-thumb.jpg" style="width: 100%; height: 160px; object-fit: contain; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-19.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          U.P-2027 चुनाव व किसान अधिकारों पर अध्यक्ष चौधरी सुनील सिंह का साक्षात्कार।
+                        </small>
+                      </div>
+                    </div>
+                    <!-- Video 3 - wp-video-20 -->
+                    <div class="col-12 col-md-4">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-video-camera"></i> वीडियो 3: न्यूज़ इंडिया 24x7 — लखनऊ बैठक
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-20-thumb.jpg" style="width: 100%; height: 160px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-20.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          चौधरी सुनील सिंह की अध्यक्षता में लखनऊ में लोकदल की शीर्ष संगठनात्मक बैठक।
+                        </small>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Previous Videos: 16 Oct 2026 -->
+                  <div class="d-flex align-items-center mt-3 mb-2">
+                    <span class="badge px-2 py-1 font-weight-bold" style="font-size: 11px; background: #555; color:#fff;">
+                      <i class="fa fa-history mr-1"></i> पिछले एक्सक्लूसिव वीडियो — लखनऊ प्रेस वार्ता (16 Oct 2026)
+                    </span>
+                  </div>
                   <div class="row">
                     <!-- Video 1 - wp-video-14 -->
                     <div class="col-12 col-md-3 mb-2 mb-md-0">
@@ -3627,6 +3687,9 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'video/wp-video-18-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव टीवी कवरेज] समाचार PLUS: दिल्ली में INDIA गठबंधन की महारैली की तैयारी — लखनऊ बैठक', 'desc' => 'Samachar Plus 24x7 - 21 Oct 2026', 'url' => 'video/wp-video-18.mp4'],
+                  ['img' => 'video/wp-video-19-thumb.jpg', 'title' => '🔴 [विशेष साक्षात्कार] NBC 24: UP-2027 Election — CEC ज्ञानेश पर बरसे अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'NBC 24 Media - 21 Oct 2026', 'url' => 'video/wp-video-19.mp4'],
+                  ['img' => 'video/wp-video-20-thumb.jpg', 'title' => '🔴 [ब्रेकिंग न्यूज़] न्यूज़ इंडिया 24x7: लखनऊ में लोकदल की अहम बैठक, चौधरी सुनील सिंह का संबोधन', 'desc' => 'News India 24x7 - 21 Oct 2026', 'url' => 'video/wp-video-20.mp4'],
                   ['img' => 'https://img.youtube.com/vi/zRjlOJxaEHc/hqdefault.jpg', 'title' => 'दिल्ली में महारैली की तैयारी! किसान मुद्दों पर लोकदल का मंथन — ID Times', 'desc' => 'ID Times (YouTube Video) - 21 Oct 2026', 'url' => 'https://youtu.be/zRjlOJxaEHc?si=h_rKp5vOZV6k5fRw'],
                   ['img' => 'img/news/latest-news/news-124.jpeg', 'title' => 'स्वर्णप्रिया: किसानों के मुद्दों पर लोकदल मुखर, एक नवंबर की महारैली में जुटेंगे किसान', 'desc' => 'Swarnapriya Special Report - 21 Oct 2026', 'url' => 'https://swarnapriya.com/?p=37626'],
                   ['img' => 'img/news/latest-news/news-116.jpeg', 'title' => 'मिशन 2027 चुनावी बैठक: 21 अक्टूबर 2026, लोकदल केंद्रीय कार्यालय 8 मॉल एवेन्यू लखनऊ में सभी पदाधिकारियों की अनिवार्य बैठक', 'desc' => 'Mission 2027 Chunavi Baithak - 21 Oct 2026', 'url' => 'img/news/latest-news/news-116.jpeg'],
@@ -3914,6 +3977,9 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'video/wp-video-18-thumb.jpg', 'video' => 'video/wp-video-18.mp4', 'name' => '🔴 [एक्सक्लूसिव टीवी] समाचार PLUS: दिल्ली में INDIA गठबंधन की महारैली की तैयारी — लखनऊ बैठक', 'desc' => 'समाचार PLUS 24x7 विशेष टीवी कवरेज', 'date' => '21 Oct 2026 • Exclusive Video'],
+                ['img' => 'video/wp-video-19-thumb.jpg', 'video' => 'video/wp-video-19.mp4', 'name' => '🔴 [विशेष साक्षात्कार] NBC 24: UP-2027 Election — CEC ज्ञानेश पर बरसे अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'NBC 24 Media विशेष ग्राउंड इंटरव्यू', 'date' => '21 Oct 2026 • Exclusive Video'],
+                ['img' => 'video/wp-video-20-thumb.jpg', 'video' => 'video/wp-video-20.mp4', 'name' => '🔴 [ब्रेकिंग न्यूज़] न्यूज़ इंडिया 24x7: लखनऊ में लोकदल की अहम बैठक, चौधरी सुनील सिंह का संबोधन', 'desc' => 'न्यूज़ इंडिया 24x7 विस्तृत कवरेज', 'date' => '21 Oct 2026 • Exclusive Video'],
                 ['img' => 'https://img.youtube.com/vi/zRjlOJxaEHc/hqdefault.jpg', 'video' => 'https://youtu.be/zRjlOJxaEHc?si=h_rKp5vOZV6k5fRw', 'name' => 'ID Times: दिल्ली में महारैली की तैयारी! किसान मुद्दों पर लोकदल का मंथन', 'desc' => 'ID Times विशेष कवरेज — 1 नवंबर महारैली की रणनीति', 'date' => '21 Oct 2026 • YouTube Video'],
                 ['img' => 'img/news/latest-news/news-124.jpeg', 'video' => 'https://swarnapriya.com/?p=37626', 'name' => 'स्वर्णप्रिया: किसानों के मुद्दों पर लोकदल मुखर, एक नवंबर की महारैली में जुटेंगे किसान', 'desc' => 'Swarnapriya राष्ट्रीय समाचार कवरेज', 'date' => '21 Oct 2026 • News Portal'],
                 ['img' => 'video/wp-video-15-thumb.jpg', 'video' => 'video/wp-video-15.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 1] लखनऊ प्रेस वार्ता (भाग 1): पंचायत चुनाव टालने व SIR पर सुनील सिंह का तीखा हमला', 'desc' => 'लोकदल केंद्रीय कार्यालय लखनऊ प्रेस वार्ता', 'date' => '16 Oct 2026 • Exclusive Video'],
