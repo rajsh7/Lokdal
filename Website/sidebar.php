@@ -100,6 +100,8 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'https://img.youtube.com/vi/zRjlOJxaEHc/hqdefault.jpg', 'title' => 'दिल्ली में महारैली की तैयारी! किसान मुद्दों पर लोकदल का मंथन — ID Times', 'date' => '21 Oct 2026', 'url' => 'https://youtu.be/zRjlOJxaEHc?si=h_rKp5vOZV6k5fRw'],
+                                    ['img' => 'img/news/latest-news/news-124.jpeg', 'title' => 'स्वर्णप्रिया: किसानों के मुद्दों पर लोकदल मुखर, एक नवंबर की महारैली में जुटेंगे किसान', 'date' => '21 Oct 2026', 'url' => 'https://swarnapriya.com/?p=37626'],
                                     ['img' => 'img/news/latest-news/news-116.jpeg', 'title' => 'मिशन 2027 चुनावी बैठक: 21 अक्टूबर 2026, लोकदल केंद्रीय कार्यालय 8 मॉल एवेन्यू लखनऊ में बैठक', 'date' => '21 Oct 2026', 'url' => 'img/news/latest-news/news-116.jpeg'],
                                     ['img' => 'https://img.youtube.com/vi/7qd4eSJ2ihE/hqdefault.jpg', 'title' => 'मोदी जी अभी भी संभल जाओ, वरना शेख हसीना के जैसे देश छोड़कर भागना पड़ेगा — सुनील सिंह', 'date' => '18 Oct 2026', 'url' => 'https://youtu.be/7qd4eSJ2ihE?si=lzx4ExhPhMch6zGF'],
                                     ['img' => 'https://img.youtube.com/vi/eZT9u2hhhuU/hqdefault.jpg', 'title' => 'Chaudhary Sunil Singh | \'देश के तीन गद्दार कौन?\' क्या बोले लोकदल अध्यक्ष? | Vedam News', 'date' => '18 Oct 2026', 'url' => 'https://youtu.be/eZT9u2hhhuU?si=6Fd9aQOCEHct57sD'],
@@ -243,6 +245,18 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                                         <a href="video/wp-video-8.mp4" target="_blank" class="headline">
                                             <h5 style="color: #b30000; font-size: 13.5px; font-weight: 700;">जंतर-मंतर ग्राउंड: धारा 163 के बीच नेशनल मीडिया व भारी पुलिस बल कवरेज</h5>
                                             <div class="post-meta"><p style="color: #666; font-size: 11px;">जंतर-मंतर ग्राउंड रिपोर्ट - 02 Oct 2026</p></div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="single-blog-post mb-3">
+                                    <div class="post-thumbnail">
+                                        <img src="https://img.youtube.com/vi/zRjlOJxaEHc/hqdefault.jpg" alt="दिल्ली में महारैली की तैयारी" loading="lazy" decoding="async">
+                                        <a href="https://youtu.be/zRjlOJxaEHc?si=h_rKp5vOZV6k5fRw" target="_blank" class="video-btn"><i class="fa fa-play"></i></a>
+                                    </div>
+                                    <div class="post-content">
+                                        <a href="https://youtu.be/zRjlOJxaEHc?si=h_rKp5vOZV6k5fRw" target="_blank" class="headline">
+                                            <h5>दिल्ली में महारैली की तैयारी! किसान मुद्दों पर लोकदल का मंथन</h5>
+                                            <div class="post-meta"><p>ID Times (YouTube) • 21 Oct 2026</p></div>
                                         </a>
                                     </div>
                                 </div>

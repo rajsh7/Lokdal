@@ -685,6 +685,28 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Swarnapriya 21 Oct 2026 Maharally -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <img src="img/news/latest-news/news-124.jpeg" alt="स्वर्णप्रिया: किसानों के मुद्दों पर लोकदल मुखर" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a href="https://swarnapriya.com/?p=37626" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          स्वर्णप्रिया: किसानों के मुद्दों पर लोकदल मुखर, एक नवंबर की महारैली में जुटेंगे किसान
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;">विशेष कवरेज • 21 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: ID Times 21 Oct 2026 Video -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #ff0000 !important;">
+                      <img src="https://img.youtube.com/vi/zRjlOJxaEHc/hqdefault.jpg" alt="ID Times YouTube Video" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a href="https://youtu.be/zRjlOJxaEHc?si=h_rKp5vOZV6k5fRw" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          ID Times: दिल्ली में महारैली की तैयारी! किसान मुद्दों पर लोकदल का मंथन
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-youtube-play"></i> वीडियो कवरेज • 21 Oct 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Mission 2027 Meeting Poster -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
                       <img src="img/news/latest-news/news-116.jpeg" alt="मिशन 2027 चुनावी बैठक" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
@@ -3605,6 +3627,8 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'https://img.youtube.com/vi/zRjlOJxaEHc/hqdefault.jpg', 'title' => 'दिल्ली में महारैली की तैयारी! किसान मुद्दों पर लोकदल का मंथन — ID Times', 'desc' => 'ID Times (YouTube Video) - 21 Oct 2026', 'url' => 'https://youtu.be/zRjlOJxaEHc?si=h_rKp5vOZV6k5fRw'],
+                  ['img' => 'img/news/latest-news/news-124.jpeg', 'title' => 'स्वर्णप्रिया: किसानों के मुद्दों पर लोकदल मुखर, एक नवंबर की महारैली में जुटेंगे किसान', 'desc' => 'Swarnapriya Special Report - 21 Oct 2026', 'url' => 'https://swarnapriya.com/?p=37626'],
                   ['img' => 'img/news/latest-news/news-116.jpeg', 'title' => 'मिशन 2027 चुनावी बैठक: 21 अक्टूबर 2026, लोकदल केंद्रीय कार्यालय 8 मॉल एवेन्यू लखनऊ में सभी पदाधिकारियों की अनिवार्य बैठक', 'desc' => 'Mission 2027 Chunavi Baithak - 21 Oct 2026', 'url' => 'img/news/latest-news/news-116.jpeg'],
                   ['img' => 'https://img.youtube.com/vi/7qd4eSJ2ihE/hqdefault.jpg', 'title' => 'मोदी जी अभी भी संभल जाओ, वरना शेख हसीना के जैसे देश छोड़कर भागना पड़ेगा — सुनील सिंह', 'desc' => 'Azamgarh Express News - 18 Oct 2026', 'url' => 'https://youtu.be/7qd4eSJ2ihE?si=lzx4ExhPhMch6zGF'],
                   ['img' => 'https://img.youtube.com/vi/eZT9u2hhhuU/hqdefault.jpg', 'title' => 'Chaudhary Sunil Singh | \'देश के तीन गद्दार कौन?\' क्या बोले लोकदल अध्यक्ष? | Vedam News', 'desc' => 'Vedam News - 18 Oct 2026', 'url' => 'https://youtu.be/eZT9u2hhhuU?si=6Fd9aQOCEHct57sD'],
@@ -3890,6 +3914,8 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'https://img.youtube.com/vi/zRjlOJxaEHc/hqdefault.jpg', 'video' => 'https://youtu.be/zRjlOJxaEHc?si=h_rKp5vOZV6k5fRw', 'name' => 'ID Times: दिल्ली में महारैली की तैयारी! किसान मुद्दों पर लोकदल का मंथन', 'desc' => 'ID Times विशेष कवरेज — 1 नवंबर महारैली की रणनीति', 'date' => '21 Oct 2026 • YouTube Video'],
+                ['img' => 'img/news/latest-news/news-124.jpeg', 'video' => 'https://swarnapriya.com/?p=37626', 'name' => 'स्वर्णप्रिया: किसानों के मुद्दों पर लोकदल मुखर, एक नवंबर की महारैली में जुटेंगे किसान', 'desc' => 'Swarnapriya राष्ट्रीय समाचार कवरेज', 'date' => '21 Oct 2026 • News Portal'],
                 ['img' => 'video/wp-video-15-thumb.jpg', 'video' => 'video/wp-video-15.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 1] लखनऊ प्रेस वार्ता (भाग 1): पंचायत चुनाव टालने व SIR पर सुनील सिंह का तीखा हमला', 'desc' => 'लोकदल केंद्रीय कार्यालय लखनऊ प्रेस वार्ता', 'date' => '16 Oct 2026 • Exclusive Video'],
                 ['img' => 'video/wp-video-16-thumb.jpg', 'video' => 'video/wp-video-16.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 2] लखनऊ प्रेस वार्ता (भाग 2): सड़क से सदन तक किसानों व जनता की लड़ाई', 'desc' => 'राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह विस्तृत वक्तव्य', 'date' => '16 Oct 2026 • Exclusive Video'],
                 ['img' => 'video/wp-video-14-thumb.jpg', 'video' => 'video/wp-video-14.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो 3] लखनऊ प्रेस वार्ता लाइव मीडिया कवरेज — राष्ट्रीय चैनलों के कैमरे', 'desc' => 'मीडिया वार्ता एवं प्रेस संबोधन', 'date' => '16 Oct 2026 • Media Coverage'],
