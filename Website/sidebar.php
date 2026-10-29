@@ -100,6 +100,10 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-125.jpeg', 'title' => 'मोदी के बनारस से लखनऊ तक भाजपा को जनता ने दिया जवाब : सुनील सिंह', 'date' => '29 Oct 2026', 'url' => 'img/news/latest-news/news-125.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-126.jpeg', 'title' => 'स्वदेश: दिल्ली रामलीला मैदान महारैली में जुटेंगे किसान : चौधरी सुनील सिंह', 'date' => '22 Oct 2026', 'url' => 'img/news/latest-news/news-126.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-127.jpeg', 'title' => '@चेतना: रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल की रणनीति', 'date' => '22 Oct 2026', 'url' => 'img/news/latest-news/news-127.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-128.jpeg', 'title' => 'आज़मगढ़ एक्सप्रेस: 1 नवंबर को रामलीला मैदान महारैली में जुटेंगे किसान', 'date' => '22 Oct 2026', 'url' => 'img/news/latest-news/news-128.jpeg'],
                                     ['img' => 'https://img.youtube.com/vi/iSt1xNJBMKI/hqdefault.jpg', 'title' => 'News India 24x7: लखनऊ में लोकदल की अहम बैठक, मतदाता सूची पर बड़ा प्लान!', 'date' => 'ताज़ा वीडियो', 'url' => 'https://youtu.be/iSt1xNJBMKI?si=9lEf7php7yp4uTGC'],
                                     ['img' => 'https://img.youtube.com/vi/iR2_3F8attY/hqdefault.jpg', 'title' => 'Vedam News: लोकदल अध्यक्ष चौधरी सुनील सिंह का Exclusive इंटरव्यू', 'date' => 'विशेष इंटरव्यू', 'url' => 'https://youtu.be/iR2_3F8attY?si=dmuyKNZTyf-pLgRb'],
                                     ['img' => 'video/wp-video-18-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव टीवी] समाचार PLUS: दिल्ली में INDIA गठबंधन की महारैली की तैयारी — लखनऊ बैठक', 'date' => '21 Oct 2026', 'url' => 'video/wp-video-18.mp4'],

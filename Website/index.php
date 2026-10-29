@@ -767,6 +767,50 @@
                       </div>
                     </div>
 
+                    <!-- Item: Modi Banaras to Lucknow Press Statement (29 Oct 2026) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <img src="img/news/latest-news/news-125.jpeg" alt="मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-125.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — चौधरी सुनील सिंह
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> प्रेस वक्तव्य • 29 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Swadesh 22 Oct 2026 -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <img src="img/news/latest-news/news-126.jpeg" alt="स्वदेश: दिल्ली रामलीला मैदान महारैली में जुटेंगे किसान" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-126.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          स्वदेश: दिल्ली रामलीला मैदान महारैली में जुटेंगे किसान : चौधरी सुनील सिंह
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> अख़बार कवरेज • 22 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Chetna 22 Oct 2026 -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <img src="img/news/latest-news/news-127.jpeg" alt="@चेतना: रामलीला मैदान महारैली में जुटेंगे किसान" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-127.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          @चेतना: रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल ने बनाई आंदोलन की रणनीति
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> समाचार पत्र • 22 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Azamgarh Express 22 Oct 2026 -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <img src="img/news/latest-news/news-128.jpeg" alt="आज़मगढ़ एक्सप्रेस: 1 नवंबर को रामलीला मैदान महारैली" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-128.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          आज़मगढ़ एक्सप्रेस: 1 नवंबर को रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल ने बनाई रणनीति
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> दैनिक अख़बार • 22 Oct 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Swarnapriya 21 Oct 2026 Maharally -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
                       <img src="img/news/latest-news/news-124.jpeg" alt="स्वर्णप्रिया: किसानों के मुद्दों पर लोकदल मुखर" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
@@ -1060,6 +1104,70 @@
                     <div class="row">
                       <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                          <!-- Single Blog Post (Modi Banaras to Lucknow 29 Oct) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-125.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-125.jpeg" alt="मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #00772D; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">🔥 ताज़ा बयान • 29 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — चौधरी सुनील सिंह</h5>
+                                <p>By लोकदल केंद्रीय कार्यालय (प्रेस वक्तव्य)</p>
+                                <div class="post-meta">
+                                  <p>Lucknow / Varanasi - 29 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (Swadesh 22 Oct) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-126.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-126.jpeg" alt="स्वदेश: दिल्ली रामलीला मैदान महारैली में जुटेंगे किसान" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #d90429; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 स्वदेश • 22 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>स्वदेश: दिल्ली रामलीला मैदान महारैली में जुटेंगे किसान : चौधरी सुनील सिंह</h5>
+                                <p>By स्वदेश (लखनऊ मुख्य संस्करण, पेज 3)</p>
+                                <div class="post-meta">
+                                  <p>Swadesh Lucknow - 22 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (@Chetna 22 Oct) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-127.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-127.jpeg" alt="@चेतना: रामलीला मैदान महारैली में जुटेंगे किसान" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #00772D; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 स्वतंत्र चेतना • 22 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>@चेतना: रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल ने बनाई आंदोलन की रणनीति</h5>
+                                <p>By स्वतंत्र चेतना (लखनऊ, पेज 15)</p>
+                                <div class="post-meta">
+                                  <p>Swatantra Chetna - 22 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (Azamgarh Express 22 Oct) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-128.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-128.jpeg" alt="आज़मगढ़ एक्सप्रेस: 1 नवंबर को रामलीला मैदान महारैली" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #d90429; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 आज़मगढ़ एक्सप्रेस • 22 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>आज़मगढ़ एक्सप्रेस: 1 नवंबर को रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल ने बनाई आंदोलन की रणनीति</h5>
+                                <p>By आज़मगढ़ एक्सप्रेस (पेज 4)</p>
+                                <div class="post-meta">
+                                  <p>Azamgarh Express - 22 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
                           <!-- Single Blog Post (Mission 2027 Meeting Poster) -->
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-116.jpeg" class="headline">
@@ -3709,6 +3817,10 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-125.jpeg', 'title' => 'मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — चौधरी सुनील सिंह', 'desc' => 'प्रेस वक्तव्य - 29 Oct 2026', 'url' => 'img/news/latest-news/news-125.jpeg'],
+                  ['img' => 'img/news/latest-news/news-126.jpeg', 'title' => 'स्वदेश: दिल्ली रामलीला मैदान महारैली में जुटेंगे किसान : चौधरी सुनील सिंह', 'desc' => 'Swadesh Lucknow - 22 Oct 2026', 'url' => 'img/news/latest-news/news-126.jpeg'],
+                  ['img' => 'img/news/latest-news/news-127.jpeg', 'title' => '@चेतना: रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल ने बनाई आंदोलन की रणनीति', 'desc' => 'Swatantra Chetna - 22 Oct 2026', 'url' => 'img/news/latest-news/news-127.jpeg'],
+                  ['img' => 'img/news/latest-news/news-128.jpeg', 'title' => 'आज़मगढ़ एक्सप्रेस: 1 नवंबर को रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल ने बनाई रणनीति', 'desc' => 'Azamgarh Express - 22 Oct 2026', 'url' => 'img/news/latest-news/news-128.jpeg'],
                   ['img' => 'https://img.youtube.com/vi/iSt1xNJBMKI/hqdefault.jpg', 'title' => 'News India 24x7: लखनऊ में लोकदल की अहम बैठक, मतदाता सूची पर इंडिया गठबंधन के साथ बड़ा प्लान!', 'desc' => 'News India 24x7 (YouTube Video)', 'url' => 'https://youtu.be/iSt1xNJBMKI?si=9lEf7php7yp4uTGC'],
                   ['img' => 'https://img.youtube.com/vi/iR2_3F8attY/hqdefault.jpg', 'title' => 'Vedam News: लोकदल अध्यक्ष चौधरी सुनील सिंह का Exclusive इंटरव्यू — अखिलेश को मिला जयंत के विरोधी का साथ', 'desc' => 'Vedam News (YouTube Video)', 'url' => 'https://youtu.be/iR2_3F8attY?si=dmuyKNZTyf-pLgRb'],
                   ['img' => 'video/wp-video-18-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव टीवी कवरेज] समाचार PLUS: दिल्ली में INDIA गठबंधन की महारैली की तैयारी — लखनऊ बैठक', 'desc' => 'Samachar Plus 24x7 - 21 Oct 2026', 'url' => 'video/wp-video-18.mp4'],
@@ -4221,6 +4333,11 @@
         <!-- End Most Popular Videos Section -->
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-125.jpeg'],
+              ['img' => 'img/news/latest-news/news-126.jpeg'],
+              ['img' => 'img/news/latest-news/news-127.jpeg'],
+              ['img' => 'img/news/latest-news/news-128.jpeg'],
+              ['img' => 'img/news/latest-news/news-124.jpeg'],
               ['img' => 'img/news/latest-news/news-116.jpeg'],
               ['img' => 'img/news/latest-news/news-117.jpeg'],
               ['img' => 'img/news/latest-news/news-118.jpeg'],
