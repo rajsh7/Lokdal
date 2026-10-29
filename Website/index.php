@@ -745,6 +745,28 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: News India 24x7 Lucknow Meeting -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #ff0000 !important;">
+                      <img src="https://img.youtube.com/vi/iSt1xNJBMKI/hqdefault.jpg" alt="News India 24x7 YouTube Video" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a href="https://youtu.be/iSt1xNJBMKI?si=9lEf7php7yp4uTGC" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          News India 24x7: लखनऊ में लोकदल की अहम बैठक, मतदाता सूची पर इंडिया गठबंधन के साथ बड़ा प्लान!
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-youtube-play"></i> वीडियो कवरेज • ताज़ा समाचार</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Vedam News Interview Chaudhary Sunil Singh -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #ff0000 !important;">
+                      <img src="https://img.youtube.com/vi/iR2_3F8attY/hqdefault.jpg" alt="Vedam News Interview" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <div style="line-height: 1.3;">
+                        <a href="https://youtu.be/iR2_3F8attY?si=dmuyKNZTyf-pLgRb" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Vedam News: लोकदल अध्यक्ष चौधरी सुनील सिंह का इंटरव्यू — अखिलेश को मिला जयंत के विरोधी का साथ
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-youtube-play"></i> विशेष साक्षात्कार • ताज़ा वीडियो</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Swarnapriya 21 Oct 2026 Maharally -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
                       <img src="img/news/latest-news/news-124.jpeg" alt="स्वर्णप्रिया: किसानों के मुद्दों पर लोकदल मुखर" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
@@ -3687,6 +3709,8 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'https://img.youtube.com/vi/iSt1xNJBMKI/hqdefault.jpg', 'title' => 'News India 24x7: लखनऊ में लोकदल की अहम बैठक, मतदाता सूची पर इंडिया गठबंधन के साथ बड़ा प्लान!', 'desc' => 'News India 24x7 (YouTube Video)', 'url' => 'https://youtu.be/iSt1xNJBMKI?si=9lEf7php7yp4uTGC'],
+                  ['img' => 'https://img.youtube.com/vi/iR2_3F8attY/hqdefault.jpg', 'title' => 'Vedam News: लोकदल अध्यक्ष चौधरी सुनील सिंह का Exclusive इंटरव्यू — अखिलेश को मिला जयंत के विरोधी का साथ', 'desc' => 'Vedam News (YouTube Video)', 'url' => 'https://youtu.be/iR2_3F8attY?si=dmuyKNZTyf-pLgRb'],
                   ['img' => 'video/wp-video-18-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव टीवी कवरेज] समाचार PLUS: दिल्ली में INDIA गठबंधन की महारैली की तैयारी — लखनऊ बैठक', 'desc' => 'Samachar Plus 24x7 - 21 Oct 2026', 'url' => 'video/wp-video-18.mp4'],
                   ['img' => 'video/wp-video-19-thumb.jpg', 'title' => '🔴 [विशेष साक्षात्कार] NBC 24: UP-2027 Election — CEC ज्ञानेश पर बरसे अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'NBC 24 Media - 21 Oct 2026', 'url' => 'video/wp-video-19.mp4'],
                   ['img' => 'video/wp-video-20-thumb.jpg', 'title' => '🔴 [ब्रेकिंग न्यूज़] न्यूज़ इंडिया 24x7: लखनऊ में लोकदल की अहम बैठक, चौधरी सुनील सिंह का संबोधन', 'desc' => 'News India 24x7 - 21 Oct 2026', 'url' => 'video/wp-video-20.mp4'],
@@ -3977,6 +4001,8 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'https://img.youtube.com/vi/iSt1xNJBMKI/hqdefault.jpg', 'video' => 'https://youtu.be/iSt1xNJBMKI?si=9lEf7php7yp4uTGC', 'name' => 'News India 24x7: लखनऊ में लोकदल की अहम बैठक, मतदाता सूची पर इंडिया गठबंधन के साथ बड़ा प्लान!', 'desc' => 'News India 24x7 विशेष टीवी एवं डिजिटल कवरेज', 'date' => 'ताज़ा वीडियो • YouTube Video'],
+                ['img' => 'https://img.youtube.com/vi/iR2_3F8attY/hqdefault.jpg', 'video' => 'https://youtu.be/iR2_3F8attY?si=dmuyKNZTyf-pLgRb', 'name' => 'Vedam News: लोकदल अध्यक्ष चौधरी सुनील सिंह का Exclusive इंटरव्यू — अखिलेश को मिला जयंत के विरोधी का साथ', 'desc' => 'Vedam News विशेष राजनीतिक साक्षात्कार', 'date' => 'विशेष साक्षात्कार • YouTube Video'],
                 ['img' => 'video/wp-video-18-thumb.jpg', 'video' => 'video/wp-video-18.mp4', 'name' => '🔴 [एक्सक्लूसिव टीवी] समाचार PLUS: दिल्ली में INDIA गठबंधन की महारैली की तैयारी — लखनऊ बैठक', 'desc' => 'समाचार PLUS 24x7 विशेष टीवी कवरेज', 'date' => '21 Oct 2026 • Exclusive Video'],
                 ['img' => 'video/wp-video-19-thumb.jpg', 'video' => 'video/wp-video-19.mp4', 'name' => '🔴 [विशेष साक्षात्कार] NBC 24: UP-2027 Election — CEC ज्ञानेश पर बरसे अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'NBC 24 Media विशेष ग्राउंड इंटरव्यू', 'date' => '21 Oct 2026 • Exclusive Video'],
                 ['img' => 'video/wp-video-20-thumb.jpg', 'video' => 'video/wp-video-20.mp4', 'name' => '🔴 [ब्रेकिंग न्यूज़] न्यूज़ इंडिया 24x7: लखनऊ में लोकदल की अहम बैठक, चौधरी सुनील सिंह का संबोधन', 'desc' => 'न्यूज़ इंडिया 24x7 विस्तृत कवरेज', 'date' => '21 Oct 2026 • Exclusive Video'],

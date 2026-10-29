@@ -100,6 +100,8 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'https://img.youtube.com/vi/iSt1xNJBMKI/hqdefault.jpg', 'title' => 'News India 24x7: लखनऊ में लोकदल की अहम बैठक, मतदाता सूची पर बड़ा प्लान!', 'date' => 'ताज़ा वीडियो', 'url' => 'https://youtu.be/iSt1xNJBMKI?si=9lEf7php7yp4uTGC'],
+                                    ['img' => 'https://img.youtube.com/vi/iR2_3F8attY/hqdefault.jpg', 'title' => 'Vedam News: लोकदल अध्यक्ष चौधरी सुनील सिंह का Exclusive इंटरव्यू', 'date' => 'विशेष इंटरव्यू', 'url' => 'https://youtu.be/iR2_3F8attY?si=dmuyKNZTyf-pLgRb'],
                                     ['img' => 'video/wp-video-18-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव टीवी] समाचार PLUS: दिल्ली में INDIA गठबंधन की महारैली की तैयारी — लखनऊ बैठक', 'date' => '21 Oct 2026', 'url' => 'video/wp-video-18.mp4'],
                                     ['img' => 'video/wp-video-19-thumb.jpg', 'title' => '🔴 [विशेष साक्षात्कार] NBC 24: UP-2027 Election — CEC ज्ञानेश पर बरसे अध्यक्ष चौधरी सुनील सिंह', 'date' => '21 Oct 2026', 'url' => 'video/wp-video-19.mp4'],
                                     ['img' => 'video/wp-video-20-thumb.jpg', 'title' => '🔴 [ब्रेकिंग न्यूज़] न्यूज़ इंडिया 24x7: लखनऊ में लोकदल की अहम बैठक, चौधरी सुनील सिंह का संबोधन', 'date' => '21 Oct 2026', 'url' => 'video/wp-video-20.mp4'],
@@ -262,6 +264,30 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                                         <a href="video/wp-video-8.mp4" target="_blank" class="headline">
                                             <h5 style="color: #b30000; font-size: 13.5px; font-weight: 700;">जंतर-मंतर ग्राउंड: धारा 163 के बीच नेशनल मीडिया व भारी पुलिस बल कवरेज</h5>
                                             <div class="post-meta"><p style="color: #666; font-size: 11px;">जंतर-मंतर ग्राउंड रिपोर्ट - 02 Oct 2026</p></div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="single-blog-post mb-3">
+                                    <div class="post-thumbnail">
+                                        <img src="https://img.youtube.com/vi/iSt1xNJBMKI/hqdefault.jpg" alt="News India 24x7: लखनऊ में लोकदल की बैठक" loading="lazy" decoding="async">
+                                        <a href="https://youtu.be/iSt1xNJBMKI?si=9lEf7php7yp4uTGC" target="_blank" class="video-btn"><i class="fa fa-play"></i></a>
+                                    </div>
+                                    <div class="post-content">
+                                        <a href="https://youtu.be/iSt1xNJBMKI?si=9lEf7php7yp4uTGC" target="_blank" class="headline">
+                                            <h5>News India 24x7: लखनऊ में लोकदल की अहम बैठक, मतदाता सूची पर इंडिया गठबंधन के साथ बड़ा प्लान!</h5>
+                                            <div class="post-meta"><p>News India 24x7 (YouTube) • ताज़ा कवरेज</p></div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="single-blog-post mb-3">
+                                    <div class="post-thumbnail">
+                                        <img src="https://img.youtube.com/vi/iR2_3F8attY/hqdefault.jpg" alt="Vedam News: चौधरी सुनील सिंह इंटरव्यू" loading="lazy" decoding="async">
+                                        <a href="https://youtu.be/iR2_3F8attY?si=dmuyKNZTyf-pLgRb" target="_blank" class="video-btn"><i class="fa fa-play"></i></a>
+                                    </div>
+                                    <div class="post-content">
+                                        <a href="https://youtu.be/iR2_3F8attY?si=dmuyKNZTyf-pLgRb" target="_blank" class="headline">
+                                            <h5>Vedam News: लोकदल अध्यक्ष चौधरी सुनील सिंह Exclusive इंटरव्यू — अखिलेश को मिला जयंत के विरोधी का साथ</h5>
+                                            <div class="post-meta"><p>Vedam News (YouTube) • विशेष साक्षात्कार</p></div>
                                         </a>
                                     </div>
                                 </div>
