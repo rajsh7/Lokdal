@@ -100,7 +100,7 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
-                                    ['img' => 'img/news/latest-news/news-125.jpeg', 'title' => 'मोदी के बनारस से लखनऊ तक भाजपा को जनता ने दिया जवाब : सुनील सिंह', 'date' => '29 Oct 2026', 'url' => 'img/news/latest-news/news-125.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-125.jpeg', 'title' => 'मोदी के बनारस से लखनऊ तक भाजपा को जनता ने दिया जवाब : सुनील सिंह', 'date' => '29 Oct 2026', 'url' => 'https://9473938609.blogspot.com/2026/10/blog-post_218.html'],
                                     ['img' => 'img/news/latest-news/news-126.jpeg', 'title' => 'स्वदेश: दिल्ली रामलीला मैदान महारैली में जुटेंगे किसान : चौधरी सुनील सिंह', 'date' => '22 Oct 2026', 'url' => 'img/news/latest-news/news-126.jpeg'],
                                     ['img' => 'img/news/latest-news/news-127.jpeg', 'title' => '@चेतना: रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल की रणनीति', 'date' => '22 Oct 2026', 'url' => 'img/news/latest-news/news-127.jpeg'],
                                     ['img' => 'img/news/latest-news/news-128.jpeg', 'title' => 'आज़मगढ़ एक्सप्रेस: 1 नवंबर को रामलीला मैदान महारैली में जुटेंगे किसान', 'date' => '22 Oct 2026', 'url' => 'img/news/latest-news/news-128.jpeg'],

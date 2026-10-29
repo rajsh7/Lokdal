@@ -769,12 +769,14 @@
 
                     <!-- Item: Modi Banaras to Lucknow Press Statement (29 Oct 2026) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
-                      <img src="img/news/latest-news/news-125.jpeg" alt="मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-125.jpeg">
+                        <img src="img/news/latest-news/news-125.jpeg" alt="मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
                       <div style="line-height: 1.3;">
-                        <a data-lightbox="jansabha" href="img/news/latest-news/news-125.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
-                          मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — चौधरी सुनील सिंह
+                        <a href="https://9473938609.blogspot.com/2026/10/blog-post_218.html" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          सोशलिस्ट न्याय: मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — चौधरी सुनील सिंह
                         </a>
-                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> प्रेस वक्तव्य • 29 Oct 2026</span>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> ब्लॉग रिपोर्ट • 29 Oct 2026</span>
                       </div>
                     </div>
 
@@ -1106,16 +1108,16 @@
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
                           <!-- Single Blog Post (Modi Banaras to Lucknow 29 Oct) -->
                           <div class="single-blog-post">
-                            <a data-lightbox="jansabha" href="img/news/latest-news/news-125.jpeg" class="headline">
+                            <a href="https://9473938609.blogspot.com/2026/10/blog-post_218.html" target="_blank" class="headline">
                               <div class="post-thumbnail" style="position: relative;">
                                 <img src="img/news/latest-news/news-125.jpeg" alt="मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब" loading="lazy" decoding="async">
                                 <span style="position: absolute; top: 10px; left: 10px; background: #00772D; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">🔥 ताज़ा बयान • 29 OCT 2026</span>
                               </div>
                               <div class="post-content">
                                 <h5>मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — चौधरी सुनील सिंह</h5>
-                                <p>By लोकदल केंद्रीय कार्यालय (प्रेस वक्तव्य)</p>
+                                <p>By सोशलिस्ट न्याय (अजय कुमार गुप्ता, लखनऊ)</p>
                                 <div class="post-meta">
-                                  <p>Lucknow / Varanasi - 29 Oct 2026</p>
+                                  <p>Socialist Nyay - 29 Oct 2026</p>
                                 </div>
                               </div>
                             </a>
@@ -3817,7 +3819,7 @@
             </div>
             <?php
               $latestDailyUpdates = [
-                  ['img' => 'img/news/latest-news/news-125.jpeg', 'title' => 'मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — चौधरी सुनील सिंह', 'desc' => 'प्रेस वक्तव्य - 29 Oct 2026', 'url' => 'img/news/latest-news/news-125.jpeg'],
+                  ['img' => 'img/news/latest-news/news-125.jpeg', 'title' => 'मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — चौधरी सुनील सिंह', 'desc' => 'सोशलिस्ट न्याय (ब्लॉग) - 29 Oct 2026', 'url' => 'https://9473938609.blogspot.com/2026/10/blog-post_218.html'],
                   ['img' => 'img/news/latest-news/news-126.jpeg', 'title' => 'स्वदेश: दिल्ली रामलीला मैदान महारैली में जुटेंगे किसान : चौधरी सुनील सिंह', 'desc' => 'Swadesh Lucknow - 22 Oct 2026', 'url' => 'img/news/latest-news/news-126.jpeg'],
                   ['img' => 'img/news/latest-news/news-127.jpeg', 'title' => '@चेतना: रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल ने बनाई आंदोलन की रणनीति', 'desc' => 'Swatantra Chetna - 22 Oct 2026', 'url' => 'img/news/latest-news/news-127.jpeg'],
                   ['img' => 'img/news/latest-news/news-128.jpeg', 'title' => 'आज़मगढ़ एक्सप्रेस: 1 नवंबर को रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल ने बनाई रणनीति', 'desc' => 'Azamgarh Express - 22 Oct 2026', 'url' => 'img/news/latest-news/news-128.jpeg'],
@@ -4113,6 +4115,7 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'img/news/latest-news/news-125.jpeg', 'video' => 'https://9473938609.blogspot.com/2026/10/blog-post_218.html', 'name' => 'सोशलिस्ट न्याय: मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — सुनील सिंह', 'desc' => 'Socialist Nyay विशेष विश्लेषण (अजय कुमार गुप्ता)', 'date' => '29 Oct 2026 • Web News'],
                 ['img' => 'https://img.youtube.com/vi/iSt1xNJBMKI/hqdefault.jpg', 'video' => 'https://youtu.be/iSt1xNJBMKI?si=9lEf7php7yp4uTGC', 'name' => 'News India 24x7: लखनऊ में लोकदल की अहम बैठक, मतदाता सूची पर इंडिया गठबंधन के साथ बड़ा प्लान!', 'desc' => 'News India 24x7 विशेष टीवी एवं डिजिटल कवरेज', 'date' => 'ताज़ा वीडियो • YouTube Video'],
                 ['img' => 'https://img.youtube.com/vi/iR2_3F8attY/hqdefault.jpg', 'video' => 'https://youtu.be/iR2_3F8attY?si=dmuyKNZTyf-pLgRb', 'name' => 'Vedam News: लोकदल अध्यक्ष चौधरी सुनील सिंह का Exclusive इंटरव्यू — अखिलेश को मिला जयंत के विरोधी का साथ', 'desc' => 'Vedam News विशेष राजनीतिक साक्षात्कार', 'date' => 'विशेष साक्षात्कार • YouTube Video'],
                 ['img' => 'video/wp-video-18-thumb.jpg', 'video' => 'video/wp-video-18.mp4', 'name' => '🔴 [एक्सक्लूसिव टीवी] समाचार PLUS: दिल्ली में INDIA गठबंधन की महारैली की तैयारी — लखनऊ बैठक', 'desc' => 'समाचार PLUS 24x7 विशेष टीवी कवरेज', 'date' => '21 Oct 2026 • Exclusive Video'],
