@@ -745,6 +745,32 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Facebook 30 Oct Gyanesh Kumar Mahabhiyog -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #1877F2 !important;">
+                      <a href="https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr" target="_blank">
+                        <img src="img/news/latest-news/news-118.jpeg" alt="ज्ञानेश कुमार का सार्वजनिक महाभियोग" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          ज्ञानेश कुमार का सार्वजनिक महाभियोग — INDIA गठबंधन लड़ रहा है, लोकदल और किसान साथ हैं
+                        </a>
+                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> फेसबुक आधिकारिक पोस्ट • 30 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Facebook 30 Oct Ramlila Maidan Call -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #1877F2 !important;">
+                      <a href="https://www.facebook.com/share/1SYG2qgZUS/?mibextid=wwXIfr" target="_blank">
+                        <img src="img/news/latest-news/news-126.jpeg" alt="जब संसद आवारा हो जाए" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.facebook.com/share/1SYG2qgZUS/?mibextid=wwXIfr" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          जब संसद आवारा हो जाए तो जनता को सड़क पर उतरना पड़ता है! 1 नवंबर रामलीला मैदान दिल्ली चलो
+                        </a>
+                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> फेसबुक जन-आह्वान • ताज़ा पोस्ट</span>
+                      </div>
+                    </div>
+
                     <!-- Item: News India 24x7 Lucknow Meeting -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #ff0000 !important;">
                       <img src="https://img.youtube.com/vi/iSt1xNJBMKI/hqdefault.jpg" alt="News India 24x7 YouTube Video" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
@@ -2928,7 +2954,15 @@
                         <div class="world-catagory-slider2 owl-carousel wow fadeInUpBig" data-wow-delay="0.4s">
                           <?php 
                             $ourServicesArr = [
-                                     ['img' => 'img/news/latest-news/news-78.jpeg',
+                ['img' => 'img/news/latest-news/news-118.jpeg',
+                                       'title' => 'ज्ञानेश कुमार का सार्वजनिक महाभियोग — INDIA गठबंधन लड़ रहा है, लोकदल और किसान साथ हैं',
+                                       'desc' => 'Lokdal Official Facebook - 30 Oct 2026',
+                                       'url' => 'https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr'],
+                                      ['img' => 'img/news/latest-news/news-126.jpeg',
+                                       'title' => 'जब संसद आवारा हो जाए तो जनता को सड़क पर उतरना पड़ता है! 1 नवंबर रामलीला मैदान चलो',
+                                       'desc' => 'Lokdal Official Facebook - 30 Oct 2026',
+                                       'url' => 'https://www.facebook.com/share/1SYG2qgZUS/?mibextid=wwXIfr'],
+                                      ['img' => 'img/news/latest-news/news-78.jpeg',
                                       'title' => '🔴 [लाइव वीडियो] दिल्ली पुलिस हिरासत बस से राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का संदेश',
                                       'desc' => '02 Oct 2026 • Exclusive Ground Video Footage',
                                       'url' => '#exclusive-videos'],
@@ -3819,6 +3853,8 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-118.jpeg', 'title' => 'ज्ञानेश कुमार का सार्वजनिक महाभियोग — INDIA गठबंधन लड़ रहा है, लोकदल और किसान साथ हैं', 'desc' => 'Lokdal Official Facebook - 30 Oct 2026', 'url' => 'https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr'],
+                  ['img' => 'img/news/latest-news/news-126.jpeg', 'title' => 'जब संसद आवारा हो जाए तो जनता को सड़क पर उतरना पड़ता है! 1 नवंबर रामलीला मैदान चलो', 'desc' => 'Lokdal Official Facebook - 30 Oct 2026', 'url' => 'https://www.facebook.com/share/1SYG2qgZUS/?mibextid=wwXIfr'],
                   ['img' => 'img/news/latest-news/news-125.jpeg', 'title' => 'मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — चौधरी सुनील सिंह', 'desc' => 'सोशलिस्ट न्याय (ब्लॉग) - 29 Oct 2026', 'url' => 'https://9473938609.blogspot.com/2026/10/blog-post_218.html'],
                   ['img' => 'img/news/latest-news/news-126.jpeg', 'title' => 'स्वदेश: दिल्ली रामलीला मैदान महारैली में जुटेंगे किसान : चौधरी सुनील सिंह', 'desc' => 'Swadesh Lucknow - 22 Oct 2026', 'url' => 'img/news/latest-news/news-126.jpeg'],
                   ['img' => 'img/news/latest-news/news-127.jpeg', 'title' => '@चेतना: रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल ने बनाई आंदोलन की रणनीति', 'desc' => 'Swatantra Chetna - 22 Oct 2026', 'url' => 'img/news/latest-news/news-127.jpeg'],
@@ -4115,6 +4151,8 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'img/news/latest-news/news-118.jpeg', 'video' => 'https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr', 'name' => 'ज्ञानेश कुमार का सार्वजनिक महाभियोग — INDIA गठबंधन लड़ रहा है, लोकदल और किसान साथ हैं', 'desc' => 'लोकदल आधिकारिक फेसबुक पोस्ट व वक्तव्य', 'date' => '30 Oct 2026 • Facebook Post'],
+                ['img' => 'img/news/latest-news/news-126.jpeg', 'video' => 'https://www.facebook.com/share/1SYG2qgZUS/?mibextid=wwXIfr', 'name' => 'जब संसद आवारा हो जाए तो जनता को सड़क पर उतरना पड़ता है! 1 नवंबर रामलीला मैदान चलो', 'desc' => '1 नवंबर दिल्ली महारैली आधिकारिक जन-आह्वान', 'date' => '30 Oct 2026 • Facebook Post'],
                 ['img' => 'img/news/latest-news/news-125.jpeg', 'video' => 'https://9473938609.blogspot.com/2026/10/blog-post_218.html', 'name' => 'सोशलिस्ट न्याय: मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — सुनील सिंह', 'desc' => 'Socialist Nyay विशेष विश्लेषण (अजय कुमार गुप्ता)', 'date' => '29 Oct 2026 • Web News'],
                 ['img' => 'https://img.youtube.com/vi/iSt1xNJBMKI/hqdefault.jpg', 'video' => 'https://youtu.be/iSt1xNJBMKI?si=9lEf7php7yp4uTGC', 'name' => 'News India 24x7: लखनऊ में लोकदल की अहम बैठक, मतदाता सूची पर इंडिया गठबंधन के साथ बड़ा प्लान!', 'desc' => 'News India 24x7 विशेष टीवी एवं डिजिटल कवरेज', 'date' => 'ताज़ा वीडियो • YouTube Video'],
                 ['img' => 'https://img.youtube.com/vi/iR2_3F8attY/hqdefault.jpg', 'video' => 'https://youtu.be/iR2_3F8attY?si=dmuyKNZTyf-pLgRb', 'name' => 'Vedam News: लोकदल अध्यक्ष चौधरी सुनील सिंह का Exclusive इंटरव्यू — अखिलेश को मिला जयंत के विरोधी का साथ', 'desc' => 'Vedam News विशेष राजनीतिक साक्षात्कार', 'date' => 'विशेष साक्षात्कार • YouTube Video'],

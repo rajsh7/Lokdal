@@ -100,6 +100,8 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-118.jpeg', 'title' => 'ज्ञानेश कुमार का महाभियोग: लोकदल व किसान साथ — INDIA गठबंधन', 'date' => '30 Oct 2026', 'url' => 'https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr'],
+                                    ['img' => 'img/news/latest-news/news-126.jpeg', 'title' => 'संसद आवारा हो जाए तो जनता सड़क पर उतरती है: 1 Nov महारैली', 'date' => '30 Oct 2026', 'url' => 'https://www.facebook.com/share/1SYG2qgZUS/?mibextid=wwXIfr'],
                                     ['img' => 'img/news/latest-news/news-125.jpeg', 'title' => 'मोदी के बनारस से लखनऊ तक भाजपा को जनता ने दिया जवाब : सुनील सिंह', 'date' => '29 Oct 2026', 'url' => 'https://9473938609.blogspot.com/2026/10/blog-post_218.html'],
                                     ['img' => 'img/news/latest-news/news-126.jpeg', 'title' => 'स्वदेश: दिल्ली रामलीला मैदान महारैली में जुटेंगे किसान : चौधरी सुनील सिंह', 'date' => '22 Oct 2026', 'url' => 'img/news/latest-news/news-126.jpeg'],
                                     ['img' => 'img/news/latest-news/news-127.jpeg', 'title' => '@चेतना: रामलीला मैदान महारैली में जुटेंगे किसान, लोकदल की रणनीति', 'date' => '22 Oct 2026', 'url' => 'img/news/latest-news/news-127.jpeg'],
@@ -268,6 +270,32 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                                         <a href="video/wp-video-8.mp4" target="_blank" class="headline">
                                             <h5 style="color: #b30000; font-size: 13.5px; font-weight: 700;">जंतर-मंतर ग्राउंड: धारा 163 के बीच नेशनल मीडिया व भारी पुलिस बल कवरेज</h5>
                                             <div class="post-meta"><p style="color: #666; font-size: 11px;">जंतर-मंतर ग्राउंड रिपोर्ट - 02 Oct 2026</p></div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="single-blog-post mb-3" style="border: 2px solid #1877F2; border-radius: 6px; padding: 6px; background: #f0f7ff;">
+                                    <div class="post-thumbnail" style="position: relative;">
+                                        <img src="img/news/latest-news/news-118.jpeg" alt="ज्ञानेश कुमार का सार्वजनिक महाभियोग" style="width: 100%; height: 160px; object-fit: cover; border-radius: 4px;" loading="lazy" decoding="async">
+                                        <a href="https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr" target="_blank" class="video-btn"><i class="fa fa-facebook"></i></a>
+                                        <span style="position: absolute; top: 6px; left: 6px; background: #1877F2; color: #fff; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 3px;">🔵 FACEBOOK POST</span>
+                                    </div>
+                                    <div class="post-content pt-2">
+                                        <a href="https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr" target="_blank" class="headline">
+                                            <h5 style="color: #1877F2; font-size: 13.5px; font-weight: 700;">ज्ञानेश कुमार का सार्वजनिक महाभियोग — INDIA गठबंधन लड़ रहा है, लोकदल साथ है</h5>
+                                            <div class="post-meta"><p style="color: #666; font-size: 11px;">Lokdal Official Post • 30 Oct 2026</p></div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="single-blog-post mb-3" style="border: 2px solid #1877F2; border-radius: 6px; padding: 6px; background: #f0f7ff;">
+                                    <div class="post-thumbnail" style="position: relative;">
+                                        <img src="img/news/latest-news/news-126.jpeg" alt="1 नवंबर रामलीला मैदान महारैली" style="width: 100%; height: 160px; object-fit: cover; border-radius: 4px;" loading="lazy" decoding="async">
+                                        <a href="https://www.facebook.com/share/1SYG2qgZUS/?mibextid=wwXIfr" target="_blank" class="video-btn"><i class="fa fa-facebook"></i></a>
+                                        <span style="position: absolute; top: 6px; left: 6px; background: #1877F2; color: #fff; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 3px;">🔵 FACEBOOK POST</span>
+                                    </div>
+                                    <div class="post-content pt-2">
+                                        <a href="https://www.facebook.com/share/1SYG2qgZUS/?mibextid=wwXIfr" target="_blank" class="headline">
+                                            <h5 style="color: #1877F2; font-size: 13.5px; font-weight: 700;">जब संसद आवारा हो जाए तो जनता सड़क पर उतरती है! 1 Nov रामलीला मैदान चलो</h5>
+                                            <div class="post-meta"><p style="color: #666; font-size: 11px;">Lokdal Official Post • 30 Oct 2026</p></div>
                                         </a>
                                     </div>
                                 </div>
