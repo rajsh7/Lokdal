@@ -229,11 +229,11 @@
                     <a href="https://twitter.com/lokdalindia" target="_blank" class="btn btn-sm text-white text-left font-weight-bold" style="background: #000000; border-radius: 6px; padding: 6px 10px; font-size: 12px;">
                       <i class="fa fa-twitter mr-2"></i> X (Twitter) / @lokdalindia
                     </a>
-                    <a href="https://youtu.be/6Tz2jiiP7G0?si=_fLFHVCDp-0oT_Jc" target="_blank" class="btn btn-sm text-white text-left font-weight-bold" style="background: #FF0000; border-radius: 6px; padding: 6px 10px; font-size: 12px;">
-                      <i class="fa fa-youtube-play mr-2"></i> Lokdal YouTube Channel
+                    <a href="https://www.youtube.com/@lokdal" target="_blank" class="btn btn-sm text-white text-left font-weight-bold" style="background: #FF0000; border-radius: 6px; padding: 6px 10px; font-size: 12px;">
+                      <i class="fa fa-youtube-play mr-2"></i> YouTube / @lokdal
                     </a>
-                    <a href="https://www.instagram.com/reel/DdyuL0DvquJ/?stkn=eG0zZmVkOWo3YjI4" target="_blank" class="btn btn-sm text-white text-left font-weight-bold" style="background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); border-radius: 6px; padding: 6px 10px; font-size: 12px;">
-                      <i class="fa fa-instagram mr-2"></i> Instagram Official
+                    <a href="https://www.instagram.com/lokdal0001/" target="_blank" class="btn btn-sm text-white text-left font-weight-bold" style="background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); border-radius: 6px; padding: 6px 10px; font-size: 12px;">
+                      <i class="fa fa-instagram mr-2"></i> Instagram / @lokdal0001
                     </a>
                     <a href="tel:9810074878" class="btn btn-sm text-white text-left font-weight-bold" style="background: #25D366; border-radius: 6px; padding: 6px 10px; font-size: 12px;">
                       <i class="fa fa-whatsapp mr-2"></i> WhatsApp: 9810074878
