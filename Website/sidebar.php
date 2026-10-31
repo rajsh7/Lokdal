@@ -100,6 +100,9 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-129.jpeg', 'title' => 'Triangle News: 1 नवम्बर को रामलीला मैदान जुटेंगे किसान : सुनील सिंह', 'date' => '31 Oct 2026', 'url' => 'https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html'],
+                                    ['img' => 'img/news/latest-news/news-131.jpeg', 'title' => 'Cherish Times: 1 नवंबर को रामलीला मैदान पहुंचे जनता : सुनील सिंह', 'date' => '31 Oct 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/92039'],
+                                    ['img' => 'img/news/latest-news/news-130.jpeg', 'title' => '1 नवंबर को रामलीला मैदान पहुंचे जनता: सुनील सिंह — INDIA महारैली', 'date' => '31 Oct 2026', 'url' => 'https://www.facebook.com/share/p/1CHhjGcLpt/'],
                                     ['img' => 'img/news/latest-news/news-132.jpeg', 'title' => 'DELHI AWAITS: दिल्ली चलो! 1 Nov 2026 रामलीला मैदान', 'date' => '01 Nov 2026', 'url' => 'img/news/latest-news/news-132.jpeg'],
                                     ['img' => 'img/news/latest-news/news-129.jpeg', 'title' => 'INTV News: 1 Nov महारैली में शामिल होंगे सुनील सिंह', 'date' => '31 Oct 2026', 'url' => 'img/news/latest-news/news-129.jpeg'],
                                     ['img' => 'img/news/latest-news/news-130.jpeg', 'title' => 'तीसरा विकल्प: रामलीला मैदान महारैली में शामिल होंगे लोकदल अध्यक्ष', 'date' => '31 Oct 2026', 'url' => 'img/news/latest-news/news-130.jpeg'],

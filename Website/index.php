@@ -745,6 +745,44 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Triangle News Lucknow 31 Oct -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a href="https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html" target="_blank">
+                        <img src="img/news/latest-news/news-129.jpeg" alt="Triangle News: 1 नवम्बर को रामलीला मैदान जुटेंगे किसान" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Triangle News: 1 नवम्बर को रामलीला मैदान जुटेंगे किसान — INDIA गठबंधन महारैली में शामिल होंगे सुनील सिंह
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> ट्रायंगल न्यूज़ लखनऊ • 31 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Cherish Times 31 Oct -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a href="https://www.cherishtimes.in/uttar-pradesh/92039" target="_blank">
+                        <img src="img/news/latest-news/news-131.jpeg" alt="Cherish Times: 1 नवंबर को रामलीला मैदान पहुंचे जनता : सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.cherishtimes.in/uttar-pradesh/92039" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Cherish Times: 1 नवंबर को रामलीला मैदान पहुंचे जनता : लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> चेरिश टाइम्स न्यूज़ • 31 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Facebook 31 Oct Ramlila Maidan PPN -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #1877F2 !important;">
+                      <a href="https://www.facebook.com/share/p/1CHhjGcLpt/" target="_blank">
+                        <img src="img/news/latest-news/news-130.jpeg" alt="Facebook: 1 नवंबर को रामलीला मैदान पहुंचे जनता" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.facebook.com/share/p/1CHhjGcLpt/" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          1 नवंबर को रामलीला मैदान पहुंचे जनता: लोकदल अध्यक्ष सुनील सिंह का आह्वान, INDIA गठबंधन महारैली
+                        </a>
+                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> फेसबुक आधिकारिक पोस्ट • 31 Oct 2026</span>
+                      </div>
+                    </div>
                     <!-- Item: Delhi Awaits 1 Nov 2026 Poster (news-132) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #FF9900 !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-132.jpeg">
@@ -3968,6 +4006,9 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-129.jpeg', 'title' => 'Triangle News: 1 नवम्बर को रामलीला मैदान जुटेंगे किसान — सुनील सिंह INDIA गठबंधन की महारैली में होंगे शामिल', 'desc' => 'Triangle News Lucknow - 31 Oct 2026', 'url' => 'https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html'],
+                  ['img' => 'img/news/latest-news/news-131.jpeg', 'title' => 'Cherish Times: 1 नवंबर को रामलीला मैदान पहुंचे जनता : लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह', 'desc' => 'Cherish Times - 31 Oct 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/92039'],
+                  ['img' => 'img/news/latest-news/news-130.jpeg', 'title' => '1 नवंबर को रामलीला मैदान पहुंचे जनता: लोकदल अध्यक्ष सुनील सिंह का आह्वान, INDIA गठबंधन की महारैली में होंगे शामिल', 'desc' => 'Lokdal Official Facebook - 31 Oct 2026', 'url' => 'https://www.facebook.com/share/p/1CHhjGcLpt/'],
                   ['img' => 'img/news/latest-news/news-132.jpeg', 'title' => 'DELHI AWAITS: दिल्ली चलो! 1 Nov 2026 रामलीला मैदान नई दिल्ली — आधिकारिक पोस्टर', 'desc' => 'India Bloc & Lokdal - 1 Nov 2026', 'url' => 'img/news/latest-news/news-132.jpeg'],
                   ['img' => 'img/news/latest-news/news-129.jpeg', 'title' => 'INTV News: लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह INDIA गठबंधन महारैली में होंगे शामिल — 1 Nov रामलीला मैदान', 'desc' => 'INTV News - 31 Oct 2026', 'url' => 'img/news/latest-news/news-129.jpeg'],
                   ['img' => 'img/news/latest-news/news-130.jpeg', 'title' => 'तीसरा विकल्प: रामलीला मैदान महारैली में शामिल होंगे सुनील सिंह, किसानों-युवाओं से दिल्ली पहुंचने की अपील', 'desc' => 'Teesra Vikalp - 31 Oct 2026', 'url' => 'img/news/latest-news/news-130.jpeg'],
@@ -4270,6 +4311,9 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'img/news/latest-news/news-129.jpeg', 'video' => 'https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html', 'name' => 'Triangle News: 1 नवम्बर को रामलीला मैदान जुटेंगे किसान — INDIA गठबंधन महारैली में शामिल होंगे सुनील सिंह', 'desc' => 'ट्रायंगल न्यूज़ लखनऊ विशेष कवरेज (संजय अग्रवाल)', 'date' => '31 Oct 2026 • Web News'],
+                ['img' => 'img/news/latest-news/news-131.jpeg', 'video' => 'https://www.cherishtimes.in/uttar-pradesh/92039', 'name' => 'Cherish Times: 1 नवंबर को रामलीला मैदान पहुंचे जनता : लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह', 'desc' => 'चेरिश टाइम्स विशेष डिजिटल कवरेज', 'date' => '31 Oct 2026 • News Portal'],
+                ['img' => 'img/news/latest-news/news-130.jpeg', 'video' => 'https://www.facebook.com/share/p/1CHhjGcLpt/', 'name' => '1 नवंबर को रामलीला मैदान पहुंचे जनता: लोकदल अध्यक्ष सुनील सिंह का आह्वान, INDIA गठबंधन की महारैली में होंगे शामिल', 'desc' => 'लोकदल आधिकारिक फेसबुक वीडियो व वक्तव्य', 'date' => '31 Oct 2026 • Facebook Post'],
                 ['img' => 'img/news/latest-news/news-118.jpeg', 'video' => 'https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr', 'name' => 'ज्ञानेश कुमार का सार्वजनिक महाभियोग — INDIA गठबंधन लड़ रहा है, लोकदल और किसान साथ हैं', 'desc' => 'लोकदल आधिकारिक फेसबुक पोस्ट व वक्तव्य', 'date' => '30 Oct 2026 • Facebook Post'],
                 ['img' => 'img/news/latest-news/news-126.jpeg', 'video' => 'https://www.facebook.com/share/1SYG2qgZUS/?mibextid=wwXIfr', 'name' => 'जब संसद आवारा हो जाए तो जनता को सड़क पर उतरना पड़ता है! 1 नवंबर रामलीला मैदान चलो', 'desc' => '1 नवंबर दिल्ली महारैली आधिकारिक जन-आह्वान', 'date' => '30 Oct 2026 • Facebook Post'],
                 ['img' => 'img/news/latest-news/news-125.jpeg', 'video' => 'https://9473938609.blogspot.com/2026/10/blog-post_218.html', 'name' => 'सोशलिस्ट न्याय: मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — सुनील सिंह', 'desc' => 'Socialist Nyay विशेष विश्लेषण (अजय कुमार गुप्ता)', 'date' => '29 Oct 2026 • Web News'],
