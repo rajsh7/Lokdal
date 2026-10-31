@@ -100,6 +100,9 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-129.jpeg', 'title' => 'INTV News: 1 Nov महारैली में शामिल होंगे सुनील सिंह', 'date' => '31 Oct 2026', 'url' => 'img/news/latest-news/news-129.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-130.jpeg', 'title' => 'तीसरा विकल्प: रामलीला मैदान महारैली में शामिल होंगे लोकदल अध्यक्ष', 'date' => '31 Oct 2026', 'url' => 'img/news/latest-news/news-130.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-131.jpeg', 'title' => 'पब्लिक एशिया: दिल्ली रैली में उमड़ेगा जनसमूह — सुनील सिंह', 'date' => '31 Oct 2026', 'url' => 'img/news/latest-news/news-131.jpeg'],
                                     ['img' => 'img/news/latest-news/news-118.jpeg', 'title' => 'ज्ञानेश कुमार का महाभियोग: लोकदल व किसान साथ — INDIA गठबंधन', 'date' => '30 Oct 2026', 'url' => 'https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr'],
                                     ['img' => 'img/news/latest-news/news-126.jpeg', 'title' => 'संसद आवारा हो जाए तो जनता सड़क पर उतरती है: 1 Nov महारैली', 'date' => '30 Oct 2026', 'url' => 'https://www.facebook.com/share/1SYG2qgZUS/?mibextid=wwXIfr'],
                                     ['img' => 'img/news/latest-news/news-125.jpeg', 'title' => 'मोदी के बनारस से लखनऊ तक भाजपा को जनता ने दिया जवाब : सुनील सिंह', 'date' => '29 Oct 2026', 'url' => 'https://9473938609.blogspot.com/2026/10/blog-post_218.html'],

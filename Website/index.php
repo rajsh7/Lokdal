@@ -745,6 +745,44 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: INTV News 31 Oct (news-129) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-129.jpeg">
+                        <img src="img/news/latest-news/news-129.jpeg" alt="INTV News: सुनील सिंह INDIA गठबंधन की महारैली में होंगे शामिल" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-129.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          INTV News: लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह INDIA गठबंधन महारैली में होंगे शामिल — 1 नवंबर रामलीला मैदान चलो
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-bullhorn"></i> डिजिटल न्यूज़ कवरेज • 31 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Teesra Vikalp 31 Oct (news-130) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-130.jpeg">
+                        <img src="img/news/latest-news/news-130.jpeg" alt="तीसरा विकल्प: रामलीला मैदान की महारैली में शामिल होंगे लोकदल अध्यक्ष सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-130.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          तीसरा विकल्प: रामलीला मैदान महारैली में शामिल होंगे सुनील सिंह — किसानों व युवाओं से दिल्ली पहुंचने की अपील
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> समाचार पत्र • 31 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Public Asia Bureau 31 Oct (news-131) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-131.jpeg">
+                        <img src="img/news/latest-news/news-131.jpeg" alt="पब्लिक एशिया: दिल्ली महागठबंधन रैली में उमड़ेगा भारी जनसमूह: सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-131.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          पब्लिक एशिया: दिल्ली महागठबंधन रैली में उमड़ेगा भारी जनसमूह — सुनील सिंह ने किया ट्रैक्टरों संग दिल्ली कूच का आह्वान
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> प्रेस ब्यूरो रिपोर्ट • 31 Oct 2026</span>
+                      </div>
+                    </div>
                     <!-- Item: Facebook 30 Oct Gyanesh Kumar Mahabhiyog -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #1877F2 !important;">
                       <a href="https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr" target="_blank">
@@ -1132,6 +1170,54 @@
                     <div class="row">
                       <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                          <!-- Single Blog Post (INTV News 31 Oct) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-129.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-129.jpeg" alt="INTV News: INDIA गठबंधन महारैली" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #00772D; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">🔥 महारैली आह्वान • 31 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>लोकदल पार्टी राष्ट्रीय अध्यक्ष सुनील सिंह INDIA गठबंधन की महारैली में होंगे शामिल — 1 नवंबर रामलीला मैदान चलो</h5>
+                                <p>By INTV News (@Intv_news)</p>
+                                <div class="post-meta">
+                                  <p>INTV News - 31 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (Teesra Vikalp 31 Oct) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-130.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-130.jpeg" alt="तीसरा विकल्प: रामलीला मैदान की महारैली में शामिल होंगे लोकदल अध्यक्ष सुनील सिंह" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #d90429; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 तीसरा विकल्प • 31 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>रामलीला मैदान की महारैली में शामिल होंगे लोकदल अध्यक्ष सुनील सिंह: किसानों व युवाओं से दिल्ली पहुंचने की अपील</h5>
+                                <p>By तीसरा विकल्प न्यूज़ (संवाददाता, लखनऊ)</p>
+                                <div class="post-meta">
+                                  <p>Teesra Vikalp News - 31 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+                          <!-- Single Blog Post (Public Asia Bureau 31 Oct) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-131.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-131.jpeg" alt="पब्लिक एशिया: दिल्ली महागठबंधन रैली में उमड़ेगा भारी जनसमूह: सुनील सिंह" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #00772D; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 पब्लिक एशिया • 31 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>दिल्ली महागठबंधन रैली में उमड़ेगा भारी जनसमूह: सुनील सिंह — ट्रैक्टरों के साथ दिल्ली कूच</h5>
+                                <p>By पब्लिक एशिया ब्यूरो</p>
+                                <div class="post-meta">
+                                  <p>Public Asia Bureau - 31 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
                           <!-- Single Blog Post (Modi Banaras to Lucknow 29 Oct) -->
                           <div class="single-blog-post">
                             <a href="https://9473938609.blogspot.com/2026/10/blog-post_218.html" target="_blank" class="headline">
@@ -3853,6 +3939,9 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-129.jpeg', 'title' => 'INTV News: लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह INDIA गठबंधन महारैली में होंगे शामिल — 1 Nov रामलीला मैदान', 'desc' => 'INTV News - 31 Oct 2026', 'url' => 'img/news/latest-news/news-129.jpeg'],
+                  ['img' => 'img/news/latest-news/news-130.jpeg', 'title' => 'तीसरा विकल्प: रामलीला मैदान महारैली में शामिल होंगे सुनील सिंह, किसानों-युवाओं से दिल्ली पहुंचने की अपील', 'desc' => 'Teesra Vikalp - 31 Oct 2026', 'url' => 'img/news/latest-news/news-130.jpeg'],
+                  ['img' => 'img/news/latest-news/news-131.jpeg', 'title' => 'पब्लिक एशिया: दिल्ली महागठबंधन रैली में उमड़ेगा भारी जनसमूह — सुनील सिंह ने किया ट्रैक्टरों संग कूच का आह्वान', 'desc' => 'Public Asia Bureau - 31 Oct 2026', 'url' => 'img/news/latest-news/news-131.jpeg'],
                   ['img' => 'img/news/latest-news/news-118.jpeg', 'title' => 'ज्ञानेश कुमार का सार्वजनिक महाभियोग — INDIA गठबंधन लड़ रहा है, लोकदल और किसान साथ हैं', 'desc' => 'Lokdal Official Facebook - 30 Oct 2026', 'url' => 'https://www.facebook.com/share/p/1VXa4sauTh/?mibextid=wwXIfr'],
                   ['img' => 'img/news/latest-news/news-126.jpeg', 'title' => 'जब संसद आवारा हो जाए तो जनता को सड़क पर उतरना पड़ता है! 1 नवंबर रामलीला मैदान चलो', 'desc' => 'Lokdal Official Facebook - 30 Oct 2026', 'url' => 'https://www.facebook.com/share/1SYG2qgZUS/?mibextid=wwXIfr'],
                   ['img' => 'img/news/latest-news/news-125.jpeg', 'title' => 'मोदी के बनारस से लेकर लखनऊ तक भाजपा को जनता ने दिया जवाब — चौधरी सुनील सिंह', 'desc' => 'सोशलिस्ट न्याय (ब्लॉग) - 29 Oct 2026', 'url' => 'https://9473938609.blogspot.com/2026/10/blog-post_218.html'],
@@ -4374,6 +4463,9 @@
         <!-- End Most Popular Videos Section -->
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-129.jpeg'],
+              ['img' => 'img/news/latest-news/news-130.jpeg'],
+              ['img' => 'img/news/latest-news/news-131.jpeg'],
               ['img' => 'img/news/latest-news/news-125.jpeg'],
               ['img' => 'img/news/latest-news/news-126.jpeg'],
               ['img' => 'img/news/latest-news/news-127.jpeg'],
