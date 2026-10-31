@@ -745,6 +745,32 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Exclusive Video 21 - CEC Gyanesh Kumar Public Impeachment -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a href="video/wp-video-21.mp4" target="_blank">
+                        <img src="video/wp-video-21-thumb.jpg" alt="INDIA गठबंधन: CEC ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="video/wp-video-21.mp4" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          🔴 [एक्सक्लूसिव वीडियो] CEC ज्ञानेश कुमार के खिलाफ INDIA गठबंधन का सार्वजनिक महाभियोग — खड़गे आवास, नई दिल्ली
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-play-circle"></i> एक्सक्लूसिव वीडियो • 31 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: ANI Live Photo news-133 -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-133.jpeg">
+                        <img src="img/news/latest-news/news-133.jpeg" alt="ANI Live: CEC ज्ञानेश कुमार सार्वजनिक महाभियोग कार्यक्रम" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-133.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          ANI Live दृश्य: CEC ज्ञानेश कुमार के महाभियोग कार्यक्रम में राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह व INDIA गठबंधन शीर्ष नेतृत्व
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-camera"></i> लाइव प्रेस कवरेज • 31 Oct 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: ANI on X - INDIA bloc public impeachment against CEC Gyanesh Kumar -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #000000 !important;">
                       <a href="https://x.com/ANI/status/2116475797301244413" target="_blank">
@@ -1234,6 +1260,22 @@
                     <div class="row">
                       <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                          <!-- Single Blog Post (ANI Live Photo news-133) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-133.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-133.jpeg" alt="CEC ज्ञानेश कुमार सार्वजनिक महाभियोग — INDIA गठबंधन" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #b30000; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">🔴 ANI LIVE • 31 OCT 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>CEC ज्ञानेश कुमार के सार्वजनिक महाभियोग कार्यक्रम में चौधरी सुनील सिंह व INDIA गठबंधन शीर्ष नेतृत्व</h5>
+                                <p>By ANI Live Coverage (Congress President Kharge Residence, New Delhi)</p>
+                                <div class="post-meta">
+                                  <p>New Delhi - 31 Oct 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
                           <!-- Single Blog Post (Delhi Awaits Official Poster 1 Nov) -->
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-132.jpeg" class="headline">
@@ -4019,6 +4061,8 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'video/wp-video-21-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो] INDIA गठबंधन: CEC ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग कार्यक्रम — खड़गे आवास, नई दिल्ली', 'desc' => 'Exclusive Video - 31 Oct 2026', 'url' => 'video/wp-video-21.mp4'],
+                  ['img' => 'img/news/latest-news/news-133.jpeg', 'title' => 'ANI Live दृश्य: CEC ज्ञानेश कुमार के सार्वजनिक महाभियोग कार्यक्रम में चौधरी सुनील सिंह व INDIA गठबंधन शीर्ष नेतृत्व', 'desc' => 'ANI Live Photo - 31 Oct 2026', 'url' => 'img/news/latest-news/news-133.jpeg'],
                   ['img' => 'img/news/latest-news/ani-gyanesh-kumar.jpg', 'title' => 'ANI: INDIA bloc is holding a public impeachment program against CEC Gyanesh Kumar at Kharge residence', 'desc' => 'ANI on X (Video Source: AICC) - 31 Oct 2026', 'url' => 'https://x.com/ANI/status/2116475797301244413'],
                   ['img' => 'img/news/latest-news/news-129.jpeg', 'title' => 'Triangle News: 1 नवम्बर को रामलीला मैदान जुटेंगे किसान — सुनील सिंह INDIA गठबंधन की महारैली में होंगे शामिल', 'desc' => 'Triangle News Lucknow - 31 Oct 2026', 'url' => 'https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html'],
                   ['img' => 'img/news/latest-news/news-131.jpeg', 'title' => 'Cherish Times: 1 नवंबर को रामलीला मैदान पहुंचे जनता : लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह', 'desc' => 'Cherish Times - 31 Oct 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/92039'],
@@ -4325,6 +4369,7 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'video/wp-video-21-thumb.jpg', 'video' => 'video/wp-video-21.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो] CEC ज्ञानेश कुमार के खिलाफ INDIA गठबंधन का सार्वजनिक महाभियोग कार्यक्रम', 'desc' => 'कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे आवास नई दिल्ली — चौधरी सुनील सिंह संबोधन व सहभागिता', 'date' => '31 Oct 2026 • Exclusive Video'],
                 ['img' => 'img/news/latest-news/ani-gyanesh-kumar.jpg', 'video' => 'https://x.com/ANI/status/2116475797301244413', 'name' => 'ANI (#WATCH): INDIA bloc public impeachment program against CEC Gyanesh Kumar at Congress President Kharge residence', 'desc' => 'ANI विशेष राष्ट्रीय वीडियो कवरेज (X / Twitter)', 'date' => '31 Oct 2026 • ANI Video'],
                 ['img' => 'img/news/latest-news/news-129.jpeg', 'video' => 'https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html', 'name' => 'Triangle News: 1 नवम्बर को रामलीला मैदान जुटेंगे किसान — INDIA गठबंधन महारैली में शामिल होंगे सुनील सिंह', 'desc' => 'ट्रायंगल न्यूज़ लखनऊ विशेष कवरेज (संजय अग्रवाल)', 'date' => '31 Oct 2026 • Web News'],
                 ['img' => 'img/news/latest-news/news-131.jpeg', 'video' => 'https://www.cherishtimes.in/uttar-pradesh/92039', 'name' => 'Cherish Times: 1 नवंबर को रामलीला मैदान पहुंचे जनता : लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह', 'desc' => 'चेरिश टाइम्स विशेष डिजिटल कवरेज', 'date' => '31 Oct 2026 • News Portal'],
@@ -4552,6 +4597,7 @@
         <!-- End Most Popular Videos Section -->
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-133.jpeg'],
               ['img' => 'img/news/latest-news/news-132.jpeg'],
               ['img' => 'img/news/latest-news/news-129.jpeg'],
               ['img' => 'img/news/latest-news/news-130.jpeg'],
