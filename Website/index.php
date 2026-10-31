@@ -745,6 +745,19 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Delhi Awaits 1 Nov 2026 Poster (news-132) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #FF9900 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-132.jpeg">
+                        <img src="img/news/latest-news/news-132.jpeg" alt="DELHI AWAITS: दिल्ली चलो — 1 Nov 2026 रामलीला मैदान" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-132.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          🔴 DELHI AWAITS: दिल्ली चलो! 1 NOV 2026 — रामलीला मैदान, नई दिल्ली (INDIA BLOC & LOKDAL)
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-flag"></i> अधिकारिक महारैली पोस्टर • 10 AM - 5 PM</span>
+                      </div>
+                    </div>
+
                     <!-- Item: INTV News 31 Oct (news-129) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-129.jpeg">
@@ -1170,6 +1183,22 @@
                     <div class="row">
                       <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                          <!-- Single Blog Post (Delhi Awaits Official Poster 1 Nov) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-132.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-132.jpeg" alt="DELHI AWAITS: दिल्ली चलो 1 Nov 2026" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #FF9900; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">🔥 DELHI AWAITS • 1 NOV 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>DELHI AWAITS: दिल्ली चलो! One people. One voice. — 1 नवम्बर रामलीला मैदान नई दिल्ली</h5>
+                                <p>By लोकदल & INDIA BLOC (आधिकारिक महारैली पोस्टर)</p>
+                                <div class="post-meta">
+                                  <p>Ramlila Maidan, New Delhi - 1 Nov 2026 (10 AM - 5 PM)</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
                           <!-- Single Blog Post (INTV News 31 Oct) -->
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-129.jpeg" class="headline">
@@ -3939,6 +3968,7 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-132.jpeg', 'title' => 'DELHI AWAITS: दिल्ली चलो! 1 Nov 2026 रामलीला मैदान नई दिल्ली — आधिकारिक पोस्टर', 'desc' => 'India Bloc & Lokdal - 1 Nov 2026', 'url' => 'img/news/latest-news/news-132.jpeg'],
                   ['img' => 'img/news/latest-news/news-129.jpeg', 'title' => 'INTV News: लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह INDIA गठबंधन महारैली में होंगे शामिल — 1 Nov रामलीला मैदान', 'desc' => 'INTV News - 31 Oct 2026', 'url' => 'img/news/latest-news/news-129.jpeg'],
                   ['img' => 'img/news/latest-news/news-130.jpeg', 'title' => 'तीसरा विकल्प: रामलीला मैदान महारैली में शामिल होंगे सुनील सिंह, किसानों-युवाओं से दिल्ली पहुंचने की अपील', 'desc' => 'Teesra Vikalp - 31 Oct 2026', 'url' => 'img/news/latest-news/news-130.jpeg'],
                   ['img' => 'img/news/latest-news/news-131.jpeg', 'title' => 'पब्लिक एशिया: दिल्ली महागठबंधन रैली में उमड़ेगा भारी जनसमूह — सुनील सिंह ने किया ट्रैक्टरों संग कूच का आह्वान', 'desc' => 'Public Asia Bureau - 31 Oct 2026', 'url' => 'img/news/latest-news/news-131.jpeg'],
@@ -4463,6 +4493,7 @@
         <!-- End Most Popular Videos Section -->
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-132.jpeg'],
               ['img' => 'img/news/latest-news/news-129.jpeg'],
               ['img' => 'img/news/latest-news/news-130.jpeg'],
               ['img' => 'img/news/latest-news/news-131.jpeg'],

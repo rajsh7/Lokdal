@@ -100,6 +100,7 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-132.jpeg', 'title' => 'DELHI AWAITS: दिल्ली चलो! 1 Nov 2026 रामलीला मैदान', 'date' => '01 Nov 2026', 'url' => 'img/news/latest-news/news-132.jpeg'],
                                     ['img' => 'img/news/latest-news/news-129.jpeg', 'title' => 'INTV News: 1 Nov महारैली में शामिल होंगे सुनील सिंह', 'date' => '31 Oct 2026', 'url' => 'img/news/latest-news/news-129.jpeg'],
                                     ['img' => 'img/news/latest-news/news-130.jpeg', 'title' => 'तीसरा विकल्प: रामलीला मैदान महारैली में शामिल होंगे लोकदल अध्यक्ष', 'date' => '31 Oct 2026', 'url' => 'img/news/latest-news/news-130.jpeg'],
                                     ['img' => 'img/news/latest-news/news-131.jpeg', 'title' => 'पब्लिक एशिया: दिल्ली रैली में उमड़ेगा जनसमूह — सुनील सिंह', 'date' => '31 Oct 2026', 'url' => 'img/news/latest-news/news-131.jpeg'],
