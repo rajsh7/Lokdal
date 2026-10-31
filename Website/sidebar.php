@@ -100,6 +100,7 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/ani-gyanesh-kumar.jpg', 'title' => 'ANI: INDIA bloc impeachment against CEC Gyanesh Kumar', 'date' => '31 Oct 2026', 'url' => 'https://x.com/ANI/status/2116475797301244413'],
                                     ['img' => 'img/news/latest-news/news-129.jpeg', 'title' => 'Triangle News: 1 नवम्बर को रामलीला मैदान जुटेंगे किसान : सुनील सिंह', 'date' => '31 Oct 2026', 'url' => 'https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html'],
                                     ['img' => 'img/news/latest-news/news-131.jpeg', 'title' => 'Cherish Times: 1 नवंबर को रामलीला मैदान पहुंचे जनता : सुनील सिंह', 'date' => '31 Oct 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/92039'],
                                     ['img' => 'img/news/latest-news/news-130.jpeg', 'title' => '1 नवंबर को रामलीला मैदान पहुंचे जनता: सुनील सिंह — INDIA महारैली', 'date' => '31 Oct 2026', 'url' => 'https://www.facebook.com/share/p/1CHhjGcLpt/'],

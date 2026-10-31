@@ -745,6 +745,19 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: ANI on X - INDIA bloc public impeachment against CEC Gyanesh Kumar -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #000000 !important;">
+                      <a href="https://x.com/ANI/status/2116475797301244413" target="_blank">
+                        <img src="img/news/latest-news/ani-gyanesh-kumar.jpg" alt="ANI: INDIA bloc public impeachment program against CEC Gyanesh Kumar" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://x.com/ANI/status/2116475797301244413" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          ANI News: INDIA bloc holding public impeachment program against CEC Gyanesh Kumar at Kharge residence
+                        </a>
+                        <span class="d-block text-dark font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> ANI आधिकारिक कवरेज (X) • 31 Oct 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Triangle News Lucknow 31 Oct -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
                       <a href="https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html" target="_blank">
@@ -4006,6 +4019,7 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/ani-gyanesh-kumar.jpg', 'title' => 'ANI: INDIA bloc is holding a public impeachment program against CEC Gyanesh Kumar at Kharge residence', 'desc' => 'ANI on X (Video Source: AICC) - 31 Oct 2026', 'url' => 'https://x.com/ANI/status/2116475797301244413'],
                   ['img' => 'img/news/latest-news/news-129.jpeg', 'title' => 'Triangle News: 1 नवम्बर को रामलीला मैदान जुटेंगे किसान — सुनील सिंह INDIA गठबंधन की महारैली में होंगे शामिल', 'desc' => 'Triangle News Lucknow - 31 Oct 2026', 'url' => 'https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html'],
                   ['img' => 'img/news/latest-news/news-131.jpeg', 'title' => 'Cherish Times: 1 नवंबर को रामलीला मैदान पहुंचे जनता : लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह', 'desc' => 'Cherish Times - 31 Oct 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/92039'],
                   ['img' => 'img/news/latest-news/news-130.jpeg', 'title' => '1 नवंबर को रामलीला मैदान पहुंचे जनता: लोकदल अध्यक्ष सुनील सिंह का आह्वान, INDIA गठबंधन की महारैली में होंगे शामिल', 'desc' => 'Lokdal Official Facebook - 31 Oct 2026', 'url' => 'https://www.facebook.com/share/p/1CHhjGcLpt/'],
@@ -4311,6 +4325,7 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'img/news/latest-news/ani-gyanesh-kumar.jpg', 'video' => 'https://x.com/ANI/status/2116475797301244413', 'name' => 'ANI (#WATCH): INDIA bloc public impeachment program against CEC Gyanesh Kumar at Congress President Kharge residence', 'desc' => 'ANI विशेष राष्ट्रीय वीडियो कवरेज (X / Twitter)', 'date' => '31 Oct 2026 • ANI Video'],
                 ['img' => 'img/news/latest-news/news-129.jpeg', 'video' => 'https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html', 'name' => 'Triangle News: 1 नवम्बर को रामलीला मैदान जुटेंगे किसान — INDIA गठबंधन महारैली में शामिल होंगे सुनील सिंह', 'desc' => 'ट्रायंगल न्यूज़ लखनऊ विशेष कवरेज (संजय अग्रवाल)', 'date' => '31 Oct 2026 • Web News'],
                 ['img' => 'img/news/latest-news/news-131.jpeg', 'video' => 'https://www.cherishtimes.in/uttar-pradesh/92039', 'name' => 'Cherish Times: 1 नवंबर को रामलीला मैदान पहुंचे जनता : लोकदल राष्ट्रीय अध्यक्ष सुनील सिंह', 'desc' => 'चेरिश टाइम्स विशेष डिजिटल कवरेज', 'date' => '31 Oct 2026 • News Portal'],
                 ['img' => 'img/news/latest-news/news-130.jpeg', 'video' => 'https://www.facebook.com/share/p/1CHhjGcLpt/', 'name' => '1 नवंबर को रामलीला मैदान पहुंचे जनता: लोकदल अध्यक्ष सुनील सिंह का आह्वान, INDIA गठबंधन की महारैली में होंगे शामिल', 'desc' => 'लोकदल आधिकारिक फेसबुक वीडियो व वक्तव्य', 'date' => '31 Oct 2026 • Facebook Post'],
