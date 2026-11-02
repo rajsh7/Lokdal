@@ -463,13 +463,74 @@
                 <div id="exclusive-videos" class="mb-3 p-3" style="background: linear-gradient(135deg, #1a0000 0%, #300000 100%); border: 2px solid #ffcc00; border-radius: 8px; color: #fff;">
                   <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
                     <span class="badge badge-danger px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #ff0000;">
-                      <i class="fa fa-circle mr-1" style="font-size: 8px; animation: blinker 1s infinite;"></i> 🔴 3 एक्सक्लूसिव वीडियो — 1 नवंबर महारैली तैयारी व लखनऊ बैठक (21 Oct 2026)
+                      <i class="fa fa-circle mr-1" style="font-size: 8px; animation: blinker 1s infinite;"></i> 🔴 एक्सक्लूसिव वीडियो — INDIA गठबंधन: CEC ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग (31 Oct 2026)
                     </span>
                     <span style="color: #ffcc00; font-size: 11.5px; font-weight: 700;">
                       <i class="fa fa-shield"></i> आज के ताज़ा वीडियो अपडेट्स
                     </span>
                   </div>
 
+                  <!-- New Videos: 31 Oct 2026 - CEC Public Impeachment -->
+                  <div class="row mb-3">
+                    <!-- Video 1 - wp-video-22 -->
+                    <div class="col-12 col-md-4 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-television"></i> वीडियो 1: सोनिया गांधी, खड़गे व सुनील सिंह
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-22-thumb.jpg" style="width: 100%; height: 160px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-22.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          खड़गे आवास नई दिल्ली: CEC ज्ञानेश कुमार महाभियोग सभा में सोनिया गांधी, खड़गे व राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह।
+                        </small>
+                      </div>
+                    </div>
+                    <!-- Video 2 - wp-video-23 -->
+                    <div class="col-12 col-md-4 mb-2 mb-md-0">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-bullhorn"></i> वीडियो 2: खड़गे जी द्वारा महाभियोग प्रस्ताव
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-23-thumb.jpg" style="width: 100%; height: 160px; object-fit: contain; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-23.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे द्वारा CEC ज्ञानेश कुमार के विरुद्ध 6 आरोपों का सार्वजनिक महाभियोग वाचन।
+                        </small>
+                      </div>
+                    </div>
+                    <!-- Video 3 - wp-video-21 -->
+                    <div class="col-12 col-md-4">
+                      <div style="background: rgba(255,255,255,0.08); border-radius: 6px; padding: 8px; height: 100%; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div>
+                          <p class="mb-1 font-weight-bold" style="font-size: 12px; color: #ffeb3b; line-height: 1.3;">
+                            <i class="fa fa-video-camera"></i> वीडियो 3: महाभियोग संबोधन व सहभागिता
+                          </p>
+                          <video controls preload="metadata" poster="video/wp-video-21-thumb.jpg" style="width: 100%; height: 160px; object-fit: cover; background: #000; border-radius: 4px;">
+                            <source src="video/wp-video-21.mp4" type="video/mp4">
+                            ब्राउज़र वीडियो सपोर्ट नहीं करता।
+                          </video>
+                        </div>
+                        <small class="d-block mt-1 text-white-50" style="font-size: 10.5px; line-height: 1.3;">
+                          राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह व INDIA गठबंधन नेताओं का संबोधन व पूर्ण समर्थन।
+                        </small>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Earlier Videos: 21 Oct 2026 -->
+                  <div class="d-flex justify-content-between align-items-center mb-2 mt-4 pt-2" style="border-top: 1px dashed rgba(255,255,255,0.2);">
+                    <span class="badge badge-warning px-2 py-1 font-weight-bold text-dark" style="font-size: 11px;">
+                      <i class="fa fa-history mr-1"></i> 🔴 3 एक्सक्लूसिव वीडियो — 1 नवंबर महारैली तैयारी व लखनऊ बैठक (21 Oct 2026)
+                    </span>
+                  </div>
                   <!-- New Videos: 21 Oct 2026 -->
                   <div class="row mb-3">
                     <!-- Video 1 - wp-video-18 -->
@@ -745,6 +806,32 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Exclusive Video 22 - Sonia Gandhi, Kharge, Sunil Singh -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a href="video/wp-video-22.mp4" target="_blank">
+                        <img src="video/wp-video-22-thumb.jpg" alt="INDIA गठबंधन: CEC ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="video/wp-video-22.mp4" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          🔴 [एक्सक्लूसिव वीडियो] CEC ज्ञानेश कुमार महाभियोग: सोनिया गांधी, खड़गे व चौधरी सुनील सिंह सहित INDIA गठबंधन शीर्ष नेतृत्व
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-play-circle"></i> एक्सक्लूसिव वीडियो • 31 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Exclusive Video 23 - Kharge reading resolution -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a href="video/wp-video-23.mp4" target="_blank">
+                        <img src="video/wp-video-23-thumb.jpg" alt="INDIA गठबंधन: CEC ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग प्रस्ताव" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="video/wp-video-23.mp4" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          🔴 [एक्सक्लूसिव वीडियो] कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे द्वारा CEC ज्ञानेश कुमार के विरुद्ध सार्वजनिक महाभियोग प्रस्ताव का वाचन
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-play-circle"></i> एक्सक्लूसिव वीडियो • 31 Oct 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Exclusive Video 21 - CEC Gyanesh Kumar Public Impeachment -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
                       <a href="video/wp-video-21.mp4" target="_blank">
@@ -755,6 +842,71 @@
                           🔴 [एक्सक्लूसिव वीडियो] CEC ज्ञानेश कुमार के खिलाफ INDIA गठबंधन का सार्वजनिक महाभियोग — खड़गे आवास, नई दिल्ली
                         </a>
                         <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-play-circle"></i> एक्सक्लूसिव वीडियो • 31 Oct 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Vidhan Kesari 02 Nov (news-134) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-134.jpeg">
+                        <img src="img/news/latest-news/news-134.jpeg" alt="विधान केसरी: विपक्षी एकजुटता से घबराई भाजपा, ज्ञानेश कुमार का जाना तय: सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-134.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          विधान केसरी: विपक्षी एकजुटता से घबराई भाजपा, ज्ञानेश कुमार का जाना तय: सुनील सिंह — रामलीला मैदान महारैली
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> विधान केसरी • 02 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Rashtriya Sudarshan 02 Nov (news-135) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-135.jpeg">
+                        <img src="img/news/latest-news/news-135.jpeg" alt="राष्ट्रीय सुदर्शन: विपक्षी एकजुटता देखकर भाजपा घबराई - ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-135.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          राष्ट्रीय सुदर्शन: विपक्षी एकजुटता देखकर भाजपा घबराई - ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> राष्ट्रीय सुदर्शन • 02 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Press Coverage 02 Nov (news-136) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #ff9900 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-136.jpeg">
+                        <img src="img/news/latest-news/news-136.jpeg" alt="प्रेस कवरेज: विपक्षी एकजुटता से भाजपा घबराई, ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-136.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          लखनऊ/नई दिल्ली प्रेस कवरेज: रामलीला मैदान महारैली सफल, ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह
+                        </a>
+                        <span class="d-block text-warning font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> विशेष प्रेस रिपोर्ट • 02 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Vidhan Kesari 02 Nov Rally (news-137) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-137.jpeg">
+                        <img src="img/news/latest-news/news-137.jpeg" alt="विधान केसरी: राहुल गांधी के साथ अखिलेश-ममता ने भी खोला मोर्चा, वोट चोरी के खिलाफ लड़ाई" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-137.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          विधान केसरी: राहुल-अखिलेश-ममता संग रामलीला मैदान से विपक्ष का ऐलान — 'वोट चोरी के खिलाफ जारी रहेगी लड़ाई'
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> विधान केसरी विशेष पेज • 02 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Navbharat Times 02 Nov (news-138) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #d90429 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-138.jpeg">
+                        <img src="img/news/latest-news/news-138.jpeg" alt="नवभारत टाइम्स: 'वोट चोरी' पर विपक्ष आया साथ — रैली में जुटी भीड़, CEC जेल जाएंगे" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-138.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          नवभारत टाइम्स: 'वोट चोरी' पर विपक्ष आया साथ — रामलीला मैदान में 20 दलों के नेता, 100 सांसद जुटे
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> नवभारत टाइम्स (NBT) • 02 Nov 2026</span>
                       </div>
                     </div>
 
@@ -1260,6 +1412,91 @@
                     <div class="row">
                       <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                          <!-- Single Blog Post (Vidhan Kesari Sunil Singh 02 Nov) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-134.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-134.jpeg" alt="विपक्षी एकजुटता से घबराई भाजपा, ज्ञानेश कुमार का जाना तय: सुनील सिंह" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #00772D; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 विधान केसरी • 02 NOV 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>विपक्षी एकजुटता से घबराई भाजपा, ज्ञानेश कुमार का जाना तय: चौधरी सुनील सिंह</h5>
+                                <p>By विधान केसरी (विशेष संवाददाता, नई दिल्ली)</p>
+                                <div class="post-meta">
+                                  <p>Vidhan Kesari - 02 Nov 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+
+                          <!-- Single Blog Post (Rashtriya Sudarshan 02 Nov) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-135.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-135.jpeg" alt="विपक्षी एकजुटता देखकर भाजपा घबराई - ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #b30000; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 राष्ट्रीय सुदर्शन • 02 NOV 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>विपक्षी एकजुटता देखकर भाजपा घबराई - ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह</h5>
+                                <p>By संवाददाता राष्ट्रीय सुदर्शन (नई दिल्ली)</p>
+                                <div class="post-meta">
+                                  <p>Rashtriya Sudarshan - 02 Nov 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+
+                          <!-- Single Blog Post (Press Coverage 02 Nov) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-136.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-136.jpeg" alt="विपक्षी एकजुटता से भाजपा घबराई, ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #ff9900; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 प्रेस रिपोर्ट • 02 NOV 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>रामलीला मैदान महारैली सफल, ज्ञानेश कुमार को जाना ही होगा: लोकदल अध्यक्ष सुनील सिंह</h5>
+                                <p>By विशेष संवाददाता (लखनऊ/नई दिल्ली)</p>
+                                <div class="post-meta">
+                                  <p>Press Release - 02 Nov 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+
+                          <!-- Single Blog Post (Vidhan Kesari Mega Rally 02 Nov) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-137.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-137.jpeg" alt="राहुल गांधी के साथ अखिलेश-ममता ने भी खोला मोर्चा: वोट चोरी के खिलाफ लड़ाई" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #00772D; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">🔥 विशाल रैली • 02 NOV 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>'वोट चोरी के खिलाफ जारी रहेगी लड़ाई': राहुल गांधी संग अखिलेश, ममता और INDIA गठबंधन का ऐलान</h5>
+                                <p>By विधान केसरी ब्यूरो (नई दिल्ली)</p>
+                                <div class="post-meta">
+                                  <p>Vidhan Kesari - 02 Nov 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+
+                          <!-- Single Blog Post (NBT 02 Nov) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-138.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-138.jpeg" alt="नवभारत टाइम्स: 'वोट चोरी' पर विपक्ष आया साथ" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #d90429; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 नवभारत टाइम्स • 02 NOV 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>'वोट चोरी' पर विपक्ष आया साथ: 20 दलों के नेता व 100 सांसद पहुंचे रामलीला मैदान</h5>
+                                <p>By नवभारत टाइम्स (NBT ब्यूरो, नई दिल्ली)</p>
+                                <div class="post-meta">
+                                  <p>Navbharat Times - 02 Nov 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+
                           <!-- Single Blog Post (ANI Live Photo news-133) -->
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-133.jpeg" class="headline">
@@ -3719,6 +3956,198 @@
                         <!-- Single Blog Post -->
                         <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
                           <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-37.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-37.jpeg" class="headline">
+                              <h5>रामलीला मैदान महारैली: खुले वाहन में जनसैलाब का नेतृत्व करते राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह</h5>
+                              <div class="post-meta">
+                                <p>Ramlila Maidan Rally - 01 Nov 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-38.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-38.jpeg" class="headline">
+                              <h5>रामलीला मैदान महारैली: कपिल सिब्बल व राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का मीडिया संबोधन</h5>
+                              <div class="post-meta">
+                                <p>Media Briefing Ramlila Maidan - 01 Nov 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-32.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-32.jpeg" class="headline">
+                              <h5>महारैली पूर्व बैठक: अखिलेश यादव, फारूक अब्दुल्ला व INDIA गठबंधन शीर्ष नेतृत्व संग चौधरी सुनील सिंह</h5>
+                              <div class="post-meta">
+                                <p>INDIA Bloc Leaders Meet - 01 Nov 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-33.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-33.jpeg" class="headline">
+                              <h5>आज तक LIVE: रामलीला मैदान मंच पर राहुल गांधी, सोनिया गांधी, ममता बनर्जी व अखिलेश संग चौधरी सुनील सिंह</h5>
+                              <div class="post-meta">
+                                <p>National Media LIVE Coverage - 01 Nov 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-36.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-36.jpeg" class="headline">
+                              <h5>रामलीला मैदान में उमड़ा भारी जनसैलाब: 'वोट बचाओ देश बचाओ' महारैली में लाखों की संख्या में पहुंचे लोग</h5>
+                              <div class="post-meta">
+                                <p>Historic Crowd Ramlila Maidan - 01 Nov 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-34.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-34.jpeg" class="headline">
+                              <h5>रामलीला मैदान महारैली में लोकदल के कार्यकर्ताओं व समर्थकों का भारी उत्साह</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Workers & Farmers - 01 Nov 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-35.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-35.jpeg" class="headline">
+                              <h5>रामलीला मैदान महारैली: लोकदल ध्वज व बैनर के साथ दिल्ली पहुंचे किसान और कार्यकर्ता</h5>
+                              <div class="post-meta">
+                                <p>Lokdal Delegation - 01 Nov 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-39.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-39.jpeg" class="headline">
+                              <h5>ANI LIVE: CEC ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग कार्यक्रम में चौधरी सुनील सिंह व INDIA नेता</h5>
+                              <div class="post-meta">
+                                <p>Kharge Residence Impeachment - 31 Oct 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-40.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-40.jpeg" class="headline">
+                              <h5>खड़गे आवास पर महाभियोग प्रस्ताव पढ़ते कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे, उपस्थित चौधरी सुनील सिंह</h5>
+                              <div class="post-meta">
+                                <p>Resolution Reading - 31 Oct 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-41.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-41.jpeg" class="headline">
+                              <h5>CEC ज्ञानेश कुमार सार्वजनिक महाभियोग: मुख्य चुनाव आयुक्त के खिलाफ विपक्ष का साझा मंच</h5>
+                              <div class="post-meta">
+                                <p>Joint Opposition Meet - 31 Oct 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-42.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-42.jpeg" class="headline">
+                              <h5>लाइव प्रसारण: चुनाव आयोग की कार्यप्रणाली के खिलाफ महाभियोग कार्यक्रम में लोकदल की सहभागिता</h5>
+                              <div class="post-meta">
+                                <p>Live Broadcast - 31 Oct 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
+                            <img src="img/gallery/latest-gallery/gallery-43.jpeg" alt="" loading="lazy" decoding="async">
+                          </div>
+                          <div class="post-content">
+                            <a data-lightbox="sunil" href="img/gallery/latest-gallery/gallery-43.jpeg" class="headline">
+                              <h5>विपक्ष के शीर्ष नेतागण खड़गे आवास पर एकत्रित — लोकतंत्र व निष्पक्ष चुनाव की रक्षा का संकल्प</h5>
+                              <div class="post-meta">
+                                <p>INDIA Leadership Council - 31 Oct 2026</p>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-12 col-md-6">
+                        <!-- Single Blog Post -->
+                        <div class="single-blog-post post-style-2 d-flex align-items-center mb-1">
+                          <div class="post-thumbnail">
                             <img src="img/gallery/latest-gallery/gallery-31.jpeg" alt="" loading="lazy" decoding="async">
                           </div>
                           <div class="post-content">
@@ -4061,6 +4490,13 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-134.jpeg', 'title' => 'विधान केसरी: विपक्षी एकजुटता से घबराई भाजपा, ज्ञानेश कुमार का जाना तय — चौधरी सुनील सिंह', 'desc' => 'Vidhan Kesari - 02 Nov 2026', 'url' => 'img/news/latest-news/news-134.jpeg'],
+                  ['img' => 'img/news/latest-news/news-135.jpeg', 'title' => 'राष्ट्रीय सुदर्शन: विपक्षी एकजुटता देखकर भाजपा घबराई - ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह', 'desc' => 'Rashtriya Sudarshan - 02 Nov 2026', 'url' => 'img/news/latest-news/news-135.jpeg'],
+                  ['img' => 'img/news/latest-news/news-136.jpeg', 'title' => 'प्रेस रिपोर्ट: रामलीला मैदान महारैली सफल, ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह', 'desc' => 'Press Coverage Lucknow/Delhi - 02 Nov 2026', 'url' => 'img/news/latest-news/news-136.jpeg'],
+                  ['img' => 'img/news/latest-news/news-137.jpeg', 'title' => 'विधान केसरी: राहुल-अखिलेश-ममता संग रामलीला मैदान से विपक्ष का ऐलान: वोट चोरी के खिलाफ जारी रहेगी लड़ाई', 'desc' => 'Vidhan Kesari Special - 02 Nov 2026', 'url' => 'img/news/latest-news/news-137.jpeg'],
+                  ['img' => 'img/news/latest-news/news-138.jpeg', 'title' => 'नवभारत टाइम्स: \'वोट चोरी\' पर विपक्ष आया साथ — रामलीला मैदान में 20 दल और 100 सांसद जुटे', 'desc' => 'Navbharat Times (NBT) - 02 Nov 2026', 'url' => 'img/news/latest-news/news-138.jpeg'],
+                  ['img' => 'video/wp-video-22-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो] CEC ज्ञानेश कुमार महाभियोग: सोनिया गांधी, खड़गे व चौधरी सुनील सिंह सहित शीर्ष नेतृत्व', 'desc' => 'Exclusive Video - 31 Oct 2026', 'url' => 'video/wp-video-22.mp4'],
+                  ['img' => 'video/wp-video-23-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो] कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे द्वारा CEC ज्ञानेश कुमार के विरुद्ध सार्वजनिक महाभियोग प्रस्ताव का वाचन', 'desc' => 'Exclusive Video - 31 Oct 2026', 'url' => 'video/wp-video-23.mp4'],
                   ['img' => 'video/wp-video-21-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो] INDIA गठबंधन: CEC ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग कार्यक्रम — खड़गे आवास, नई दिल्ली', 'desc' => 'Exclusive Video - 31 Oct 2026', 'url' => 'video/wp-video-21.mp4'],
                   ['img' => 'img/news/latest-news/news-133.jpeg', 'title' => 'ANI Live दृश्य: CEC ज्ञानेश कुमार के सार्वजनिक महाभियोग कार्यक्रम में चौधरी सुनील सिंह व INDIA गठबंधन शीर्ष नेतृत्व', 'desc' => 'ANI Live Photo - 31 Oct 2026', 'url' => 'img/news/latest-news/news-133.jpeg'],
                   ['img' => 'img/news/latest-news/ani-gyanesh-kumar.jpg', 'title' => 'ANI: INDIA bloc is holding a public impeachment program against CEC Gyanesh Kumar at Kharge residence', 'desc' => 'ANI on X (Video Source: AICC) - 31 Oct 2026', 'url' => 'https://x.com/ANI/status/2116475797301244413'],
@@ -4369,6 +4805,13 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'img/news/latest-news/news-134.jpeg', 'video' => 'img/news/latest-news/news-134.jpeg', 'name' => 'विधान केसरी: विपक्षी एकजुटता से घबराई भाजपा, ज्ञानेश कुमार का जाना तय : चौधरी सुनील सिंह', 'desc' => 'विधान केसरी राष्ट्रीय दैनिक विशेष समाचार कवरेज', 'date' => '02 Nov 2026 • Vidhan Kesari'],
+                ['img' => 'img/news/latest-news/news-135.jpeg', 'video' => 'img/news/latest-news/news-135.jpeg', 'name' => 'राष्ट्रीय सुदर्शन: विपक्षी एकजुटता देखकर भाजपा घबराई - ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह', 'desc' => 'राष्ट्रीय सुदर्शन विशेष मीडिया कवरेज', 'date' => '02 Nov 2026 • Rashtriya Sudarshan'],
+                ['img' => 'img/news/latest-news/news-136.jpeg', 'video' => 'img/news/latest-news/news-136.jpeg', 'name' => 'प्रेस रिपोर्ट: रामलीला मैदान महारैली सफल, देश भर से जुटे किसान व कार्यकर्ता : सुनील सिंह', 'desc' => 'विशेष प्रेस वार्ता एवं मीडिया संबोधन', 'date' => '02 Nov 2026 • Press Release'],
+                ['img' => 'img/news/latest-news/news-137.jpeg', 'video' => 'img/news/latest-news/news-137.jpeg', 'name' => 'विधान केसरी: राहुल गांधी के साथ अखिलेश-ममता ने भी खोला मोर्चा — वोट चोरी के खिलाफ जारी रहेगी लड़ाई', 'desc' => 'विधान केसरी दिल्ली रामलीला मैदान महारैली विस्तृत कवरेज', 'date' => '02 Nov 2026 • Vidhan Kesari'],
+                ['img' => 'img/news/latest-news/news-138.jpeg', 'video' => 'img/news/latest-news/news-138.jpeg', 'name' => 'नवभारत टाइम्स: \'वोट चोरी\' पर विपक्ष आया साथ — 20 दलों के नेता और 100 सांसद जुटे', 'desc' => 'नवभारत टाइम्स (NBT) राष्ट्रीय कवरेज', 'date' => '02 Nov 2026 • Navbharat Times'],
+                ['img' => 'video/wp-video-22-thumb.jpg', 'video' => 'video/wp-video-22.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो] CEC ज्ञानेश कुमार महाभियोग: सोनिया गांधी, खड़गे व चौधरी सुनील सिंह सहित INDIA गठबंधन शीर्ष नेतृत्व', 'desc' => 'कांग्रेस अध्यक्ष खड़गे आवास नई दिल्ली — संयुक्त महाभियोग सभा', 'date' => '31 Oct 2026 • Exclusive Video'],
+                ['img' => 'video/wp-video-23-thumb.jpg', 'video' => 'video/wp-video-23.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो] कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे द्वारा CEC ज्ञानेश कुमार के विरुद्ध सार्वजनिक महाभियोग प्रस्ताव का वाचन', 'desc' => 'INDIA गठबंधन नेताओं की उपस्थिति में ऐतिहासिक महाभियोग प्रस्ताव', 'date' => '31 Oct 2026 • Exclusive Video'],
                 ['img' => 'video/wp-video-21-thumb.jpg', 'video' => 'video/wp-video-21.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो] CEC ज्ञानेश कुमार के खिलाफ INDIA गठबंधन का सार्वजनिक महाभियोग कार्यक्रम', 'desc' => 'कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे आवास नई दिल्ली — चौधरी सुनील सिंह संबोधन व सहभागिता', 'date' => '31 Oct 2026 • Exclusive Video'],
                 ['img' => 'img/news/latest-news/ani-gyanesh-kumar.jpg', 'video' => 'https://x.com/ANI/status/2116475797301244413', 'name' => 'ANI (#WATCH): INDIA bloc public impeachment program against CEC Gyanesh Kumar at Congress President Kharge residence', 'desc' => 'ANI विशेष राष्ट्रीय वीडियो कवरेज (X / Twitter)', 'date' => '31 Oct 2026 • ANI Video'],
                 ['img' => 'img/news/latest-news/news-129.jpeg', 'video' => 'https://8896209555.blogspot.com/2026/10/sanjay-agarwal-triangle-news-lucknow_01597043570.html', 'name' => 'Triangle News: 1 नवम्बर को रामलीला मैदान जुटेंगे किसान — INDIA गठबंधन महारैली में शामिल होंगे सुनील सिंह', 'desc' => 'ट्रायंगल न्यूज़ लखनऊ विशेष कवरेज (संजय अग्रवाल)', 'date' => '31 Oct 2026 • Web News'],
@@ -4597,6 +5040,11 @@
         <!-- End Most Popular Videos Section -->
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-134.jpeg'],
+              ['img' => 'img/news/latest-news/news-135.jpeg'],
+              ['img' => 'img/news/latest-news/news-136.jpeg'],
+              ['img' => 'img/news/latest-news/news-137.jpeg'],
+              ['img' => 'img/news/latest-news/news-138.jpeg'],
               ['img' => 'img/news/latest-news/news-133.jpeg'],
               ['img' => 'img/news/latest-news/news-132.jpeg'],
               ['img' => 'img/news/latest-news/news-129.jpeg'],

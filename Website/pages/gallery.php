@@ -207,6 +207,44 @@ body{
                                     
                                      <!--Karkarta Sambelan & Latest Press Updates-->
 
+                                      <!-- 1 Nov 2026 Ramlila Maidan Maha Rally & 31 Oct 2026 Impeachment Meet -->
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha delhichalo karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-37.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-37.jpeg" alt="Chaudhary Sunil Singh leading Ramlila Maidan Maharally 1 Nov 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha delhichalo karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-38.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-38.jpeg" alt="Chaudhary Sunil Singh and Kapil Sibal at Ramlila Maidan 1 Nov 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha delhichalo karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-32.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-32.jpeg" alt="Chaudhary Sunil Singh with Akhilesh Yadav, Farooq Abdullah & INDIA leaders 1 Nov 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha delhichalo karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-33.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-33.jpeg" alt="Aaj Tak LIVE Ramlila Maidan stage with Sunil Singh, Rahul Gandhi, Sonia Gandhi, Mamata Banerjee 1 Nov 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha delhichalo karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-36.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-36.jpeg" alt="Massive crowd at Ramlila Maidan Delhi Chalo Maharally 1 Nov 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha delhichalo karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-34.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-34.jpeg" alt="Lokdal workers at Ramlila Maidan Maharally 1 Nov 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha delhichalo karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-35.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-35.jpeg" alt="Lokdal workers with Sunil Singh banner at Ramlila Maidan 1 Nov 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-39.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-39.jpeg" alt="ANI Live: CEC Gyanesh Kumar impeachment program with Chaudhary Sunil Singh 31 Oct 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-40.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-40.jpeg" alt="Mallikarjun Kharge reading resolution with Sunil Singh present 31 Oct 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-41.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-41.jpeg" alt="Public impeachment program of CEC Gyanesh Kumar 31 Oct 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-42.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-42.jpeg" alt="LIVE broadcast: Impeachment resolution against CEC Gyanesh Kumar 31 Oct 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+                                      <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
+                                          <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-43.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-43.jpeg" alt="INDIA bloc leaders at Kharge residence with Sunil Singh 31 Oct 2026" loading="lazy" decoding="async"></a>
+                                      </div>
+
                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta">
                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-31.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-31.jpeg" alt="Rahul Gandhi & Chaudhary Sunil Singh meeting - 22 Sep 2026" / loading="lazy" decoding="async"></a>
                                       </div>

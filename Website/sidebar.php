@@ -100,6 +100,13 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-134.jpeg', 'title' => 'विधान केसरी: विपक्षी एकजुटता से घबराई भाजपा, ज्ञानेश का जाना तय : सुनील सिंह', 'date' => '02 Nov 2026', 'url' => 'img/news/latest-news/news-134.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-135.jpeg', 'title' => 'राष्ट्रीय सुदर्शन: विपक्षी एकजुटता से भाजपा घबराई — सुनील सिंह', 'date' => '02 Nov 2026', 'url' => 'img/news/latest-news/news-135.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-136.jpeg', 'title' => 'प्रेस रिपोर्ट: रामलीला मैदान महारैली सफल, ज्ञानेश कुमार को जाना ही होगा', 'date' => '02 Nov 2026', 'url' => 'img/news/latest-news/news-136.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-137.jpeg', 'title' => 'विधान केसरी: राहुल-अखिलेश-ममता बोले — वोट चोरी के खिलाफ लड़ाई जारी रहेगी', 'date' => '02 Nov 2026', 'url' => 'img/news/latest-news/news-137.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-138.jpeg', 'title' => 'नवभारत टाइम्स: \'वोट चोरी\' पर विपक्ष एकजुट, 20 दल व 100 सांसद जुटे', 'date' => '02 Nov 2026', 'url' => 'img/news/latest-news/news-138.jpeg'],
+                                    ['img' => 'video/wp-video-22-thumb.jpg', 'title' => '🔴 [वीडियो] CEC ज्ञानेश कुमार महाभियोग में सोनिया गांधी, खड़गे व सुनील सिंह', 'date' => '31 Oct 2026', 'url' => 'video/wp-video-22.mp4'],
+                                    ['img' => 'video/wp-video-23-thumb.jpg', 'title' => '🔴 [वीडियो] खड़गे द्वारा CEC ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग प्रस्ताव', 'date' => '31 Oct 2026', 'url' => 'video/wp-video-23.mp4'],
                                     ['img' => 'video/wp-video-21-thumb.jpg', 'title' => '🔴 [वीडियो] CEC ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग', 'date' => '31 Oct 2026', 'url' => 'video/wp-video-21.mp4'],
                                     ['img' => 'img/news/latest-news/news-133.jpeg', 'title' => 'ANI Live: CEC ज्ञानेश कुमार महाभियोग में सुनील सिंह', 'date' => '31 Oct 2026', 'url' => 'img/news/latest-news/news-133.jpeg'],
                                     ['img' => 'img/news/latest-news/ani-gyanesh-kumar.jpg', 'title' => 'ANI: INDIA bloc impeachment against CEC Gyanesh Kumar', 'date' => '31 Oct 2026', 'url' => 'https://x.com/ANI/status/2116475797301244413'],
