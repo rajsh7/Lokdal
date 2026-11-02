@@ -100,6 +100,10 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/cherishtimes-92144.jpg', 'title' => 'Cherish Times: विपक्षी एकजुटता देखकर भाजपा घबराई — सुनील सिंह', 'date' => '01 Nov 2026', 'url' => 'https://www.cherishtimes.in/big-news/92144'],
+                                    ['img' => 'img/news/latest-news/triangle-news-01nov.jpg', 'title' => 'Triangle News: विपक्षी एकजुटता से भाजपा घबराई, उल्टी गिनती शुरू', 'date' => '01 Nov 2026', 'url' => 'https://8896209555.blogspot.com/2026/11/01112026-sanjay-agarwal-triangle-news.html'],
+                                    ['img' => 'img/news/latest-news/ians-sunilsingh-rally.jpg', 'title' => 'IANS Video: रामलीला मैदान महारैली में लोकदल अध्यक्ष सुनील सिंह', 'date' => '01 Nov 2026', 'url' => 'https://x.com/ians_india/status/2116865401439047997'],
+                                    ['img' => 'img/news/latest-news/pti-kharge-impeachment.jpg', 'title' => 'PTI News: CEC ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग — खड़गे', 'date' => '31 Oct 2026', 'url' => 'https://x.com/PTI_News/status/2116484414733783079'],
                                     ['img' => 'img/news/latest-news/news-134.jpeg', 'title' => 'विधान केसरी: विपक्षी एकजुटता से घबराई भाजपा, ज्ञानेश का जाना तय : सुनील सिंह', 'date' => '02 Nov 2026', 'url' => 'img/news/latest-news/news-134.jpeg'],
                                     ['img' => 'img/news/latest-news/news-135.jpeg', 'title' => 'राष्ट्रीय सुदर्शन: विपक्षी एकजुटता से भाजपा घबराई — सुनील सिंह', 'date' => '02 Nov 2026', 'url' => 'img/news/latest-news/news-135.jpeg'],
                                     ['img' => 'img/news/latest-news/news-136.jpeg', 'title' => 'प्रेस रिपोर्ट: रामलीला मैदान महारैली सफल, ज्ञानेश कुमार को जाना ही होगा', 'date' => '02 Nov 2026', 'url' => 'img/news/latest-news/news-136.jpeg'],

@@ -845,6 +845,58 @@
                       </div>
                     </div>
 
+                    <!-- Item: IANS on X - Chaudhary Sunil Singh at Mega Rally -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #000000 !important;">
+                      <a href="https://x.com/ians_india/status/2116865401439047997" target="_blank">
+                        <img src="img/news/latest-news/ians-sunilsingh-rally.jpg" alt="IANS: Lok Dal President Chaudhary Sunil Singh at Mega Rally" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://x.com/ians_india/status/2116865401439047997" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          IANS Video: Delhi Mega Rally — Lok Dal President Chaudhary Sunil: "People know votes are being stolen"
+                        </a>
+                        <span class="d-block text-dark font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> IANS आधिकारिक वीडियो (X) • 01 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Cherish Times 01 Nov (92144) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a href="https://www.cherishtimes.in/big-news/92144" target="_blank">
+                        <img src="img/news/latest-news/cherishtimes-92144.jpg" alt="Cherish Times: विपक्षी एकजुटता देखकर भाजपा घबराई — सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.cherishtimes.in/big-news/92144" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Cherish Times: विपक्षी एकजुटता देखकर भाजपा घबराई — ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-globe"></i> Cherish Times • 01 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Triangle News 01 Nov -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a href="https://8896209555.blogspot.com/2026/11/01112026-sanjay-agarwal-triangle-news.html" target="_blank">
+                        <img src="img/news/latest-news/triangle-news-01nov.jpg" alt="Triangle News: विपक्षी एकजुटता देखकर भाजपा घबराई" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://8896209555.blogspot.com/2026/11/01112026-sanjay-agarwal-triangle-news.html" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Triangle News: विपक्षी एकजुटता देखकर भाजपा घबराई, मोदी सरकार की उल्टी गिनती शुरू : सुनील सिंह
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> Triangle News Lucknow • 01 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: PTI News on X - Kharge Impeachment Speech -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #000000 !important;">
+                      <a href="https://x.com/PTI_News/status/2116484414733783079" target="_blank">
+                        <img src="img/news/latest-news/pti-kharge-impeachment.jpg" alt="PTI News: Symbolic public impeachment of CEC Gyanesh Kumar" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://x.com/PTI_News/status/2116484414733783079" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          PTI News: Symbolic Public Impeachment of CEC Gyanesh Kumar — Kharge says Article 326 under serious threat
+                        </a>
+                        <span class="d-block text-dark font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> PTI राष्ट्रीय वीडियो (X) • 31 Oct 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Vidhan Kesari 02 Nov (news-134) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-134.jpeg">
@@ -4495,6 +4547,10 @@
                   ['img' => 'img/news/latest-news/news-136.jpeg', 'title' => 'प्रेस रिपोर्ट: रामलीला मैदान महारैली सफल, ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह', 'desc' => 'Press Coverage Lucknow/Delhi - 02 Nov 2026', 'url' => 'img/news/latest-news/news-136.jpeg'],
                   ['img' => 'img/news/latest-news/news-137.jpeg', 'title' => 'विधान केसरी: राहुल-अखिलेश-ममता संग रामलीला मैदान से विपक्ष का ऐलान: वोट चोरी के खिलाफ जारी रहेगी लड़ाई', 'desc' => 'Vidhan Kesari Special - 02 Nov 2026', 'url' => 'img/news/latest-news/news-137.jpeg'],
                   ['img' => 'img/news/latest-news/news-138.jpeg', 'title' => 'नवभारत टाइम्स: \'वोट चोरी\' पर विपक्ष आया साथ — रामलीला मैदान में 20 दल और 100 सांसद जुटे', 'desc' => 'Navbharat Times (NBT) - 02 Nov 2026', 'url' => 'img/news/latest-news/news-138.jpeg'],
+                  ['img' => 'img/news/latest-news/cherishtimes-92144.jpg', 'title' => 'Cherish Times: विपक्षी एकजुटता देखकर भाजपा घबराई — ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह', 'desc' => 'Cherish Times National Report - 01 Nov 2026', 'url' => 'https://www.cherishtimes.in/big-news/92144'],
+                  ['img' => 'img/news/latest-news/triangle-news-01nov.jpg', 'title' => 'Triangle News: विपक्षी एकजुटता देखकर भाजपा घबराई, उल्टी गिनती शुरू — ज्ञानेश कुमार का जाना तय : सुनील सिंह', 'desc' => 'Triangle News Lucknow (Sanjay Agarwal) - 01 Nov 2026', 'url' => 'https://8896209555.blogspot.com/2026/11/01112026-sanjay-agarwal-triangle-news.html'],
+                  ['img' => 'img/news/latest-news/ians-sunilsingh-rally.jpg', 'title' => 'IANS Video: Delhi INDIA Bloc Mega Rally — Lok Dal National President Chaudhary Sunil: "People know votes are being stolen"', 'desc' => 'IANS News Agency (X / Twitter) - 01 Nov 2026', 'url' => 'https://x.com/ians_india/status/2116865401439047997'],
+                  ['img' => 'img/news/latest-news/pti-kharge-impeachment.jpg', 'title' => 'PTI News Video: Delhi Symbolic Public Impeachment — Kharge says "Article 326 universal adult franchise under serious threat"', 'desc' => 'Press Trust of India (X / Twitter) - 31 Oct 2026', 'url' => 'https://x.com/PTI_News/status/2116484414733783079'],
                   ['img' => 'video/wp-video-22-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो] CEC ज्ञानेश कुमार महाभियोग: सोनिया गांधी, खड़गे व चौधरी सुनील सिंह सहित शीर्ष नेतृत्व', 'desc' => 'Exclusive Video - 31 Oct 2026', 'url' => 'video/wp-video-22.mp4'],
                   ['img' => 'video/wp-video-23-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो] कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे द्वारा CEC ज्ञानेश कुमार के विरुद्ध सार्वजनिक महाभियोग प्रस्ताव का वाचन', 'desc' => 'Exclusive Video - 31 Oct 2026', 'url' => 'video/wp-video-23.mp4'],
                   ['img' => 'video/wp-video-21-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो] INDIA गठबंधन: CEC ज्ञानेश कुमार के खिलाफ सार्वजनिक महाभियोग कार्यक्रम — खड़गे आवास, नई दिल्ली', 'desc' => 'Exclusive Video - 31 Oct 2026', 'url' => 'video/wp-video-21.mp4'],
@@ -4810,6 +4866,10 @@
                 ['img' => 'img/news/latest-news/news-136.jpeg', 'video' => 'img/news/latest-news/news-136.jpeg', 'name' => 'प्रेस रिपोर्ट: रामलीला मैदान महारैली सफल, देश भर से जुटे किसान व कार्यकर्ता : सुनील सिंह', 'desc' => 'विशेष प्रेस वार्ता एवं मीडिया संबोधन', 'date' => '02 Nov 2026 • Press Release'],
                 ['img' => 'img/news/latest-news/news-137.jpeg', 'video' => 'img/news/latest-news/news-137.jpeg', 'name' => 'विधान केसरी: राहुल गांधी के साथ अखिलेश-ममता ने भी खोला मोर्चा — वोट चोरी के खिलाफ जारी रहेगी लड़ाई', 'desc' => 'विधान केसरी दिल्ली रामलीला मैदान महारैली विस्तृत कवरेज', 'date' => '02 Nov 2026 • Vidhan Kesari'],
                 ['img' => 'img/news/latest-news/news-138.jpeg', 'video' => 'img/news/latest-news/news-138.jpeg', 'name' => 'नवभारत टाइम्स: \'वोट चोरी\' पर विपक्ष आया साथ — 20 दलों के नेता और 100 सांसद जुटे', 'desc' => 'नवभारत टाइम्स (NBT) राष्ट्रीय कवरेज', 'date' => '02 Nov 2026 • Navbharat Times'],
+                ['img' => 'img/news/latest-news/cherishtimes-92144.jpg', 'video' => 'https://www.cherishtimes.in/big-news/92144', 'name' => 'Cherish Times: विपक्षी एकजुटता देखकर भाजपा घबराई — ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह', 'desc' => 'चेरिश टाइम्स विस्तृत डिजिटल समाचार कवरेज', 'date' => '01 Nov 2026 • Cherish Times'],
+                ['img' => 'img/news/latest-news/triangle-news-01nov.jpg', 'video' => 'https://8896209555.blogspot.com/2026/11/01112026-sanjay-agarwal-triangle-news.html', 'name' => 'Triangle News: विपक्षी एकजुटता देखकर भाजपा घबराई, उल्टी गिनती शुरू — ज्ञानेश कुमार का जाना तय : सुनील सिंह', 'desc' => 'ट्रायंगल न्यूज़ लखनऊ विशेष समाचार रिपोर्ट (संजय अग्रवाल)', 'date' => '01 Nov 2026 • Web News'],
+                ['img' => 'img/news/latest-news/ians-sunilsingh-rally.jpg', 'video' => 'https://x.com/ians_india/status/2116865401439047997', 'name' => 'IANS (WATCH): At INDIA bloc mega rally, Lok Dal National President Chaudhary Sunil: "People know votes are being stolen"', 'desc' => 'IANS राष्ट्रीय समाचार एजेंसी विशेष वीडियो (X / Twitter)', 'date' => '01 Nov 2026 • IANS Video'],
+                ['img' => 'img/news/latest-news/pti-kharge-impeachment.jpg', 'video' => 'https://x.com/PTI_News/status/2116484414733783079', 'name' => 'PTI News (VIDEO): Delhi — At symbolic public impeachment of CEC Gyanesh Kumar, Kharge says Article 326 under serious threat', 'desc' => 'Press Trust of India (PTI) राष्ट्रीय वीडियो कवरेज (X / Twitter)', 'date' => '31 Oct 2026 • PTI Video'],
                 ['img' => 'video/wp-video-22-thumb.jpg', 'video' => 'video/wp-video-22.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो] CEC ज्ञानेश कुमार महाभियोग: सोनिया गांधी, खड़गे व चौधरी सुनील सिंह सहित INDIA गठबंधन शीर्ष नेतृत्व', 'desc' => 'कांग्रेस अध्यक्ष खड़गे आवास नई दिल्ली — संयुक्त महाभियोग सभा', 'date' => '31 Oct 2026 • Exclusive Video'],
                 ['img' => 'video/wp-video-23-thumb.jpg', 'video' => 'video/wp-video-23.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो] कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे द्वारा CEC ज्ञानेश कुमार के विरुद्ध सार्वजनिक महाभियोग प्रस्ताव का वाचन', 'desc' => 'INDIA गठबंधन नेताओं की उपस्थिति में ऐतिहासिक महाभियोग प्रस्ताव', 'date' => '31 Oct 2026 • Exclusive Video'],
                 ['img' => 'video/wp-video-21-thumb.jpg', 'video' => 'video/wp-video-21.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो] CEC ज्ञानेश कुमार के खिलाफ INDIA गठबंधन का सार्वजनिक महाभियोग कार्यक्रम', 'desc' => 'कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे आवास नई दिल्ली — चौधरी सुनील सिंह संबोधन व सहभागिता', 'date' => '31 Oct 2026 • Exclusive Video'],
