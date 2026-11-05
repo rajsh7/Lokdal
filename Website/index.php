@@ -276,6 +276,44 @@
               <!-- Body -->
               <div class="card-body p-3" style="font-size: 13.5px; line-height: 1.65; color: #2d3748; overflow-y: auto; max-height: 860px;">
                 
+                <!-- Featured Story: BJP Vidai Yatra 04/05 Nov 2026 -->
+                <div class="mb-3 p-3" style="background: #f0fdf4; border: 2px solid #00772D; border-radius: 8px; box-shadow: 0 3px 10px rgba(0,119,45,0.08);">
+                  <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
+                    <span class="badge badge-success px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #00772D;">
+                      <i class="fa fa-newspaper-o mr-1"></i> ताज़ा प्रेस कवरेज • 04-05 Nov 2026
+                    </span>
+                    <span class="text-success font-weight-bold" style="font-size: 12px;">लखनऊ | 04-05 Nov 2026</span>
+                  </div>
+                  <h6 class="font-weight-bold mb-2" style="color: #004d1a; font-size: 16px; line-height: 1.45;">
+                    भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : लोकदल राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                  </h6>
+                  <div class="row align-items-start mb-2">
+                    <div class="col-12 col-sm-6 mb-2 mb-sm-0">
+                      <a data-lightbox="vidai-yatra" href="img/news/latest-news/news-139.jpeg" title="भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : सुनील सिंह">
+                        <img src="img/news/latest-news/news-139.jpeg" alt="प्रेस वक्तव्य" style="width: 100%; border-radius: 6px; border: 1.5px solid #00772D;" loading="lazy">
+                      </a>
+                    </div>
+                    <div class="col-12 col-sm-6">
+                      <a data-lightbox="vidai-yatra" href="img/news/latest-news/news-143.jpeg" title="विधान केसरी: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा: सुनील सिंह">
+                        <img src="img/news/latest-news/news-143.jpeg" alt="विधान केसरी कवरेज" style="width: 100%; border-radius: 6px; border: 1.5px solid #00772D;" loading="lazy">
+                      </a>
+                    </div>
+                  </div>
+                  <div class="d-flex mt-1 justify-content-center mb-2 flex-wrap" style="gap: 5px;">
+                    <a data-lightbox="vidai-yatra" href="img/news/latest-news/news-140.jpeg" class="badge badge-light border p-1" title="विश्ववार्ता कवरेज"><i class="fa fa-file-image-o mr-1"></i>विश्ववार्ता कटिंग</a>
+                    <a data-lightbox="vidai-yatra" href="img/news/latest-news/news-141.jpeg" class="badge badge-light border p-1" title="स्वतंत्र चेतना कवरेज"><i class="fa fa-file-image-o mr-1"></i>स्वतंत्र चेतना कटिंग</a>
+                    <a data-lightbox="vidai-yatra" href="img/news/latest-news/news-142.jpeg" class="badge badge-light border p-1" title="शेरे बलिया कवरेज"><i class="fa fa-file-image-o mr-1"></i>शेरे बलिया कटिंग</a>
+                  </div>
+                  <div style="font-size: 13px; line-height: 1.65; color: #2d3748;">
+                    <div style="background: #e8f5e9; border-left: 3px solid #00772D; padding: 8px 12px; border-radius: 0 4px 4px 0; margin-bottom: 8px; font-weight: 600; color: #004d1a;">
+                      “प्रदेश की जनता महंगाई, बेरोजगारी, किसानों की समस्याओं और लोकतंत्र से जुड़े सवालों से परेशान है। केवल यात्रा निकालने से जनता के सवाल खत्म नहीं होंगे — यह भाजपा की विदाई यात्रा है!” — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                    </div>
+                    <p class="mb-1">
+                      लोकदल के राष्ट्रीय अध्यक्ष एवं पूर्व एमएलसी <strong>चौधरी सुनील सिंह</strong> ने उत्तर प्रदेश में भाजपा की यात्रा पर कड़ी प्रतिक्रिया व्यक्त करते हुए कहा कि यह भाजपा की कोई सामान्य यात्रा नहीं, बल्कि उत्तर प्रदेश से उसकी विदाई यात्रा साबित होगी। जनता अब अपने वोट की ताकत से भाजपा को सत्ता से बाहर का रास्ता दिखाएगी।
+                    </p>
+                  </div>
+                </div>
+
                 <!-- Featured Story: EC & BJP Attack 06 Oct 2026 -->
                 <div class="mb-3 p-3" style="background: #fff9f0; border: 2px solid #e65100; border-radius: 8px; box-shadow: 0 3px 10px rgba(230,81,0,0.08);">
                   <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
@@ -806,6 +844,71 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Press Release 04 Nov (news-139) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-139.jpeg">
+                        <img src="img/news/latest-news/news-139.jpeg" alt="भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-139.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          प्रेस वक्तव्य: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है — चौधरी सुनील सिंह
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> प्रेस वक्तव्य लखनऊ • 04 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Vidhan Kesari 04 Nov (news-143) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-143.jpeg">
+                        <img src="img/news/latest-news/news-143.jpeg" alt="विधान केसरी: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-143.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          विधान केसरी: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा: सुनील सिंह
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> विधान केसरी • 04 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Vishwavarta 04 Nov (news-140) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-140.jpeg">
+                        <img src="img/news/latest-news/news-140.jpeg" alt="विश्ववार्ता: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-140.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          विश्ववार्ता: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : सुनील सिंह
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> विश्ववार्ता • 04 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Swatantra Chetna 04 Nov (news-141) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-141.jpeg">
+                        <img src="img/news/latest-news/news-141.jpeg" alt="स्वतंत्र चेतना: भाजपा की पदयात्रा नहीं, प्रदेश में विदाई यात्रा है" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-141.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          स्वतंत्र चेतना: भाजपा की पदयात्रा नहीं, प्रदेश में विदाई यात्रा है: सुनील सिंह — जनता वोट की ताकत से देगी जवाब
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> स्वतंत्र चेतना लखनऊ • 04 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Shere Ballia 04 Nov (news-142) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-142.jpeg">
+                        <img src="img/news/latest-news/news-142.jpeg" alt="शेरे बलिया: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-142.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          शेरे बलिया: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है: सुनील सिंह
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> शेरे बलिया • 04 Nov 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Exclusive Video 22 - Sonia Gandhi, Kharge, Sunil Singh -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
                       <a href="video/wp-video-22.mp4" target="_blank">
@@ -4542,6 +4645,11 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-139.jpeg', 'title' => 'प्रेस वक्तव्य: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है — चौधरी सुनील सिंह', 'desc' => 'Press Release Lucknow - 04 Nov 2026', 'url' => 'img/news/latest-news/news-139.jpeg'],
+                  ['img' => 'img/news/latest-news/news-143.jpeg', 'title' => 'विधान केसरी: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा : सुनील सिंह', 'desc' => 'Vidhan Kesari Lucknow - 04 Nov 2026', 'url' => 'img/news/latest-news/news-143.jpeg'],
+                  ['img' => 'img/news/latest-news/news-140.jpeg', 'title' => 'विश्ववार्ता: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : सुनील सिंह', 'desc' => 'Vishwavarta Daily - 04 Nov 2026', 'url' => 'img/news/latest-news/news-140.jpeg'],
+                  ['img' => 'img/news/latest-news/news-141.jpeg', 'title' => 'स्वतंत्र चेतना: भाजपा की पदयात्रा नहीं, प्रदेश में विदाई यात्रा है: सुनील सिंह — जनता वोट से देगी जवाब', 'desc' => 'Swatantra Chetna Lucknow - 04 Nov 2026', 'url' => 'img/news/latest-news/news-141.jpeg'],
+                  ['img' => 'img/news/latest-news/news-142.jpeg', 'title' => 'शेरे बलिया: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है: सुनील सिंह', 'desc' => 'Shere Ballia Hindi Dainik - 04 Nov 2026', 'url' => 'img/news/latest-news/news-142.jpeg'],
                   ['img' => 'img/news/latest-news/news-134.jpeg', 'title' => 'विधान केसरी: विपक्षी एकजुटता से घबराई भाजपा, ज्ञानेश कुमार का जाना तय — चौधरी सुनील सिंह', 'desc' => 'Vidhan Kesari - 02 Nov 2026', 'url' => 'img/news/latest-news/news-134.jpeg'],
                   ['img' => 'img/news/latest-news/news-135.jpeg', 'title' => 'राष्ट्रीय सुदर्शन: विपक्षी एकजुटता देखकर भाजपा घबराई - ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह', 'desc' => 'Rashtriya Sudarshan - 02 Nov 2026', 'url' => 'img/news/latest-news/news-135.jpeg'],
                   ['img' => 'img/news/latest-news/news-136.jpeg', 'title' => 'प्रेस रिपोर्ट: रामलीला मैदान महारैली सफल, ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह', 'desc' => 'Press Coverage Lucknow/Delhi - 02 Nov 2026', 'url' => 'img/news/latest-news/news-136.jpeg'],
@@ -4861,6 +4969,11 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'img/news/latest-news/news-139.jpeg', 'video' => 'img/news/latest-news/news-139.jpeg', 'name' => 'प्रेस वक्तव्य: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : सुनील सिंह', 'desc' => 'लोकदल केंद्रीय कार्यालय लखनऊ विशेष प्रेस वक्तव्य', 'date' => '04 Nov 2026 • Press Release'],
+                ['img' => 'img/news/latest-news/news-143.jpeg', 'video' => 'img/news/latest-news/news-143.jpeg', 'name' => 'विधान केसरी: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा : सुनील सिंह', 'desc' => 'विधान केसरी राजधानी विशेष समाचार कवरेज', 'date' => '04 Nov 2026 • Vidhan Kesari'],
+                ['img' => 'img/news/latest-news/news-140.jpeg', 'video' => 'img/news/latest-news/news-140.jpeg', 'name' => 'विश्ववार्ता: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : सुनील सिंह', 'desc' => 'विश्ववार्ता दैनिक समाचार विशेष रिपोर्ट', 'date' => '04 Nov 2026 • Vishwavarta'],
+                ['img' => 'img/news/latest-news/news-141.jpeg', 'video' => 'img/news/latest-news/news-141.jpeg', 'name' => 'स्वतंत्र चेतना: भाजपा की पदयात्रा नहीं, प्रदेश में विदाई यात्रा है: सुनील सिंह', 'desc' => 'स्वतंत्र चेतना लखनऊ विशेष कवरेज', 'date' => '04 Nov 2026 • Swatantra Chetna'],
+                ['img' => 'img/news/latest-news/news-142.jpeg', 'video' => 'img/news/latest-news/news-142.jpeg', 'name' => 'शेरे बलिया: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है: सुनील सिंह', 'desc' => 'शेरे बलिया हिंदी दैनिक विशेष कवरेज', 'date' => '04 Nov 2026 • Shere Ballia'],
                 ['img' => 'img/news/latest-news/news-134.jpeg', 'video' => 'img/news/latest-news/news-134.jpeg', 'name' => 'विधान केसरी: विपक्षी एकजुटता से घबराई भाजपा, ज्ञानेश कुमार का जाना तय : चौधरी सुनील सिंह', 'desc' => 'विधान केसरी राष्ट्रीय दैनिक विशेष समाचार कवरेज', 'date' => '02 Nov 2026 • Vidhan Kesari'],
                 ['img' => 'img/news/latest-news/news-135.jpeg', 'video' => 'img/news/latest-news/news-135.jpeg', 'name' => 'राष्ट्रीय सुदर्शन: विपक्षी एकजुटता देखकर भाजपा घबराई - ज्ञानेश कुमार को जाना ही होगा : सुनील सिंह', 'desc' => 'राष्ट्रीय सुदर्शन विशेष मीडिया कवरेज', 'date' => '02 Nov 2026 • Rashtriya Sudarshan'],
                 ['img' => 'img/news/latest-news/news-136.jpeg', 'video' => 'img/news/latest-news/news-136.jpeg', 'name' => 'प्रेस रिपोर्ट: रामलीला मैदान महारैली सफल, देश भर से जुटे किसान व कार्यकर्ता : सुनील सिंह', 'desc' => 'विशेष प्रेस वार्ता एवं मीडिया संबोधन', 'date' => '02 Nov 2026 • Press Release'],

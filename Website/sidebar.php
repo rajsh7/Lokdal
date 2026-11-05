@@ -100,6 +100,11 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-139.jpeg', 'title' => 'प्रेस वक्तव्य: भाजपा की यात्रा नहीं, यूपी में विदाई यात्रा है : सुनील सिंह', 'date' => '04 Nov 2026', 'url' => 'img/news/latest-news/news-139.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-143.jpeg', 'title' => 'विधान केसरी: भाजपा की यात्रा नहीं, यूपी में विदाई यात्रा : सुनील सिंह', 'date' => '04 Nov 2026', 'url' => 'img/news/latest-news/news-143.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-140.jpeg', 'title' => 'विश्ववार्ता: भाजपा की यात्रा नहीं, यूपी में विदाई यात्रा : सुनील सिंह', 'date' => '04 Nov 2026', 'url' => 'img/news/latest-news/news-140.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-141.jpeg', 'title' => 'स्वतंत्र चेतना: भाजपा की पदयात्रा नहीं, प्रदेश में विदाई यात्रा : सुनील सिंह', 'date' => '04 Nov 2026', 'url' => 'img/news/latest-news/news-141.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-142.jpeg', 'title' => 'शेरे बलिया: भाजपा की यात्रा नहीं, यूपी में विदाई यात्रा : सुनील सिंह', 'date' => '04 Nov 2026', 'url' => 'img/news/latest-news/news-142.jpeg'],
                                     ['img' => 'img/news/latest-news/cherishtimes-92144.jpg', 'title' => 'Cherish Times: विपक्षी एकजुटता देखकर भाजपा घबराई — सुनील सिंह', 'date' => '01 Nov 2026', 'url' => 'https://www.cherishtimes.in/big-news/92144'],
                                     ['img' => 'img/news/latest-news/triangle-news-01nov.jpg', 'title' => 'Triangle News: विपक्षी एकजुटता से भाजपा घबराई, उल्टी गिनती शुरू', 'date' => '01 Nov 2026', 'url' => 'https://8896209555.blogspot.com/2026/11/01112026-sanjay-agarwal-triangle-news.html'],
                                     ['img' => 'img/news/latest-news/ians-sunilsingh-rally.jpg', 'title' => 'IANS Video: रामलीला मैदान महारैली में लोकदल अध्यक्ष सुनील सिंह', 'date' => '01 Nov 2026', 'url' => 'https://x.com/ians_india/status/2116865401439047997'],
