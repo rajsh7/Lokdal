@@ -100,6 +100,8 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'Facebook: 18 नवंबर सादाबाद में हल्ला बोल किसान महारैली', 'date' => '18 Nov 2026', 'url' => 'https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr'],
+                                    ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'Cherish Times: दलों को सम्मानजनक सीटें मिलेंगी, सरकार बनाएंगे : सुनील सिंह', 'date' => '17 Nov 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/92781'],
                                     ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला — सुनील सिंह', 'date' => '17 Nov 2026', 'url' => 'img/news/latest-news/news-151.jpeg'],
                                     ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'हल्ला बोल किसान महारैली 18 Nov सादाबाद: आलू किसान सवाल', 'date' => '18 Nov 2026', 'url' => 'img/news/latest-news/news-150.jpeg'],
                                     ['img' => 'img/news/latest-news/news-144.jpeg', 'title' => 'परिवर्तन 2027: अबकी बार INDIA गठबंधन सरकार — लोकदल', 'date' => '15 Nov 2026', 'url' => 'img/news/latest-news/news-144.jpeg'],

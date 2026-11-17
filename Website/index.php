@@ -313,6 +313,15 @@
                       सादाबाद के छाबी मियां बाग में 18 नवंबर को ऐतिहासिक विराट किसान महारैली का आयोजन किया जा रहा है। साथ ही लोकदल अध्यक्ष चौधरी सुनील सिंह ने बीजेपी के मथुरा चिंतन शिविर पर तीखा हमला बोलते हुए कहा कि बीजेपी का चिंतन जनता के मुद्दों पर नहीं, बल्कि सत्ता वापसी व सीटों के सौदे पर केंद्रित है।
                     </p>
                   </div>
+                
+                  <!-- Media Coverage & Social Links -->
+                  <div class="mt-2 pt-2" style="border-top: 1px solid #fde047;">
+                    <small class="font-weight-bold d-block mb-1 text-dark">कवरेज एवं आधिकारिक सोशल लिंक्स:</small>
+                    <div class="d-flex flex-wrap" style="gap: 5px;">
+                      <a href="https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> 18 Nov सादाबाद रैली Facebook पोस्ट</a>
+                      <a href="https://www.cherishtimes.in/uttar-pradesh/92781" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> Cherish Times कवरेज</a>
+                    </div>
+                  </div>
                 </div>
 
                 <!-- Featured Story: BJP Vidai Yatra 04/05 Nov 2026 -->
@@ -883,6 +892,32 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Facebook Sadabad Rally Post -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #1877f2 !important;">
+                      <a href="https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr" target="_blank">
+                        <img src="img/news/latest-news/news-150.jpeg" alt="फेसबुक पोस्ट: 18 नवंबर सादाबाद में हल्ला बोल किसान महारैली" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Facebook: आलू किसानों की बदहाली का हिसाब! 18 नवंबर, छवि मियां बाग, सादाबाद में ऐतिहासिक विराट किसान महारैली
+                        </a>
+                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> आधिकारिक फेसबुक पोस्ट • 18 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Cherish Times Seat Sharing -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a href="https://www.cherishtimes.in/uttar-pradesh/92781" target="_blank">
+                        <img src="img/news/latest-news/news-151.jpeg" alt="Cherish Times रिपोर्ट" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.cherishtimes.in/uttar-pradesh/92781" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Cherish Times: इंडिया गठबंधन में शामिल दलों को सम्मानजनक सीटें मिलेंगी, सरकार भी बनाएगा गठबंधन : सुनील सिंह
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> Cherish Times रिपोर्ट • 17 Nov 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Teesra Vikalp 17 Nov (news-151) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-151.jpeg">
@@ -4788,6 +4823,8 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'Facebook पोस्ट: 18 नवंबर सादाबाद में हल्ला बोल किसान महारैली — आलू किसानों की बदहाली का हिसाब', 'desc' => 'Lokdal Official Facebook - 18 Nov 2026', 'url' => 'https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr'],
+                  ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'Cherish Times: इंडिया गठबंधन में शामिल दलों को सम्मानजनक सीटें मिलेंगी, सरकार भी बनाएगा गठबंधन : सुनील सिंह', 'desc' => 'Cherish Times - 17 Nov 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/92781'],
                   ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला — पहले काशी, अयोध्या और अब मथुरा में सीटों के सौदे पर चिंतन: सुनील सिंह', 'desc' => 'Teesra Vikalp News Bureau - 17 Nov 2026', 'url' => 'img/news/latest-news/news-151.jpeg'],
                   ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'हल्ला बोल किसान महारैली (18 नवंबर सादाबाद) — आलू किसान बदहाल, केंद्र/राज्य सरकार से सवाल (अधिवक्ता चौ. भूपेंद्र सिंह)', 'desc' => 'Kisan Rally Sadabad Official - 18 Nov 2026', 'url' => 'img/news/latest-news/news-150.jpeg'],
                   ['img' => 'img/news/latest-news/news-144.jpeg', 'title' => 'परिवर्तन 2027: लोकदल - INDIA गठबंधन — “अबकी बार, INDIA गठबंधन सरकार” (संदीप तोमर, प्रदीप हुड्डा, हरीश हूण)', 'desc' => 'Parivartan 2027 Campaign - 15 Nov 2026', 'url' => 'img/news/latest-news/news-144.jpeg'],

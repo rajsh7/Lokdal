@@ -463,6 +463,19 @@ body{
                                           </a>
                                       </div>
                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-150.jpeg" alt="हल्ला बोल किसान महारैली 18 नवंबर सादाबाद" loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web news">
+                                           <a target="_blank" href="https://www.cherishtimes.in/uttar-pradesh/92781" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-151.jpeg" alt="Cherish Times: सीटों के साथ सरकार भी बनाएगा गठबंधन" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                           <a data-fancybox="video" target="_blank" href="https://m.facebook.com/story.php?story_fbid=pfbid0d56tZkTwzxkDDcBHY3WAZTmr8MsXzLAEdpkXdE7f3pfW7theU89sLC2j2jqSKHQcl&id=100050662051558&mibextid=wwXIfr" class="position-relative">
                                               <img class="img-fluid w-100" src="../video/vid21.jpg" alt="Video Preview" / loading="lazy" decoding="async">
                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
