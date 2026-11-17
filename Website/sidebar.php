@@ -100,6 +100,14 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला — सुनील सिंह', 'date' => '17 Nov 2026', 'url' => 'img/news/latest-news/news-151.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'हल्ला बोल किसान महारैली 18 Nov सादाबाद: आलू किसान सवाल', 'date' => '18 Nov 2026', 'url' => 'img/news/latest-news/news-150.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-144.jpeg', 'title' => 'परिवर्तन 2027: अबकी बार INDIA गठबंधन सरकार — लोकदल', 'date' => '15 Nov 2026', 'url' => 'img/news/latest-news/news-144.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-145.jpeg', 'title' => 'हिन्दुस्तान: 18 नवंबर को सादाबाद विराट किसान पंचायत', 'date' => '14 Nov 2026', 'url' => 'img/news/latest-news/news-145.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-146.jpeg', 'title' => 'प्रेस रिपोर्ट: लोकदल में शामिल हुए अधिवक्ता भूपेंद्र सिंह', 'date' => '14 Nov 2026', 'url' => 'img/news/latest-news/news-146.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-149.jpeg', 'title' => 'स्वदेश: सहयोगी दल एकजुट, विपक्षी गठबंधन मजबूत : सुनील सिंह', 'date' => '13 Nov 2026', 'url' => 'img/news/latest-news/news-149.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-147.jpeg', 'title' => 'हिन्द वतन: मोर्चा बनने से फर्क नहीं पड़ेगा, गठबंधन मजबूत', 'date' => '13 Nov 2026', 'url' => 'img/news/latest-news/news-147.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-148.jpeg', 'title' => 'विशेष कॉलम: मोर्चा बनने से फर्क नहीं, INDIA गठबंधन मजबूत', 'date' => '13 Nov 2026', 'url' => 'img/news/latest-news/news-148.jpeg'],
                                     ['img' => 'img/news/latest-news/news-139.jpeg', 'title' => 'प्रेस वक्तव्य: भाजपा की यात्रा नहीं, यूपी में विदाई यात्रा है : सुनील सिंह', 'date' => '04 Nov 2026', 'url' => 'img/news/latest-news/news-139.jpeg'],
                                     ['img' => 'img/news/latest-news/news-143.jpeg', 'title' => 'विधान केसरी: भाजपा की यात्रा नहीं, यूपी में विदाई यात्रा : सुनील सिंह', 'date' => '04 Nov 2026', 'url' => 'img/news/latest-news/news-143.jpeg'],
                                     ['img' => 'img/news/latest-news/news-140.jpeg', 'title' => 'विश्ववार्ता: भाजपा की यात्रा नहीं, यूपी में विदाई यात्रा : सुनील सिंह', 'date' => '04 Nov 2026', 'url' => 'img/news/latest-news/news-140.jpeg'],

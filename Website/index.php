@@ -276,6 +276,45 @@
               <!-- Body -->
               <div class="card-body p-3" style="font-size: 13.5px; line-height: 1.65; color: #2d3748; overflow-y: auto; max-height: 860px;">
                 
+                <!-- Featured Story: Sadabad Virat Kisan Panchayat & Chintan Shivir Attack (17-18 Nov 2026) -->
+                <div class="mb-3 p-3" style="background: #fffdf0; border: 2px solid #eab308; border-radius: 8px; box-shadow: 0 3px 10px rgba(234,179,8,0.12);">
+                  <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
+                    <span class="badge badge-warning text-dark px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #facc15;">
+                      <i class="fa fa-bullhorn text-danger mr-1"></i> ताज़ा आंदोलन एवं प्रेस अपडेट • 17-18 Nov 2026
+                    </span>
+                    <span class="text-danger font-weight-bold" style="font-size: 12px;">सादाबाद / लखनऊ | 17-18 Nov 2026</span>
+                  </div>
+                  <h6 class="font-weight-bold mb-2" style="color: #854d0e; font-size: 16px; line-height: 1.45;">
+                    18 नवंबर को सादाबाद में लोकदल की 'हल्ला बोल विराट किसान महारैली' — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह करेंगे संबोधित
+                  </h6>
+                  <div class="row align-items-start mb-2">
+                    <div class="col-12 col-sm-6 mb-2 mb-sm-0">
+                      <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-150.jpeg" title="हल्ला बोल किसान महारैली 18 नवंबर सादाबाद — आलू किसान की पीड़ा और प्रमुख माँगें">
+                        <img src="img/news/latest-news/news-150.jpeg" alt="हल्ला बोल किसान महारैली पोस्टर" style="width: 100%; border-radius: 6px; border: 1.5px solid #ca8a04;" loading="lazy">
+                      </a>
+                    </div>
+                    <div class="col-12 col-sm-6">
+                      <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-145.jpeg" title="हिन्दुस्तान: लोकदल की 18 नवंबर को विराट किसान पंचायत सादाबाद">
+                        <img src="img/news/latest-news/news-145.jpeg" alt="हिन्दुस्तान समाचार कवरेज" style="width: 100%; border-radius: 6px; border: 1.5px solid #ca8a04;" loading="lazy">
+                      </a>
+                    </div>
+                  </div>
+                  <div class="d-flex mt-1 justify-content-center mb-2 flex-wrap" style="gap: 5px;">
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-151.jpeg" class="badge badge-light border p-1" title="तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला"><i class="fa fa-newspaper-o mr-1"></i>तीसरा विकल्प (मथुरा चिंतन शिविर)</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-144.jpeg" class="badge badge-light border p-1" title="परिवर्तन 2027: लोकदल - INDIA गठबंधन"><i class="fa fa-picture-o mr-1"></i>परिवर्तन 2027 पोस्टर</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-149.jpeg" class="badge badge-light border p-1" title="स्वदेश: सहयोगी दल एकजुट, विपक्षी गठबंधन मजबूत"><i class="fa fa-file-text-o mr-1"></i>स्वदेश कवरेज</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-147.jpeg" class="badge badge-light border p-1" title="हिन्द वतन: मोर्चा बनने से कोई फर्क नहीं पड़ेगा"><i class="fa fa-file-text-o mr-1"></i>हिन्द वतन कटिंग</a>
+                  </div>
+                  <div style="font-size: 13px; line-height: 1.65; color: #2d3748;">
+                    <div style="background: #fefce8; border-left: 3px solid #eab308; padding: 8px 12px; border-radius: 0 4px 4px 0; margin-bottom: 8px; font-weight: 600; color: #713f12;">
+                      “आलू किसानों की बदहाली, बीज-खाद-बिजली की बढ़ती लागत और उपज का लाभकारी मूल्य न मिलने पर सरकार से हिसाब माँगेगा किसान!” — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                    </div>
+                    <p class="mb-1">
+                      सादाबाद के छाबी मियां बाग में 18 नवंबर को ऐतिहासिक विराट किसान महारैली का आयोजन किया जा रहा है। साथ ही लोकदल अध्यक्ष चौधरी सुनील सिंह ने बीजेपी के मथुरा चिंतन शिविर पर तीखा हमला बोलते हुए कहा कि बीजेपी का चिंतन जनता के मुद्दों पर नहीं, बल्कि सत्ता वापसी व सीटों के सौदे पर केंद्रित है।
+                    </p>
+                  </div>
+                </div>
+
                 <!-- Featured Story: BJP Vidai Yatra 04/05 Nov 2026 -->
                 <div class="mb-3 p-3" style="background: #f0fdf4; border: 2px solid #00772D; border-radius: 8px; box-shadow: 0 3px 10px rgba(0,119,45,0.08);">
                   <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
@@ -844,6 +883,110 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Teesra Vikalp 17 Nov (news-151) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-151.jpeg">
+                        <img src="img/news/latest-news/news-151.jpeg" alt="तीसरा विकल्प: बीजेपी के चिंतन शिविर पर लोकदल का हमला" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-151.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला — पहले काशी, अयोध्या, अब मथुरा में सीटों के सौदे पर चिंतन: सुनील सिंह
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> तीसरा विकल्प न्यूज़ ब्यूरो • 17 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Sadabad Kisan Rally Poster (news-150) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-150.jpeg">
+                        <img src="img/news/latest-news/news-150.jpeg" alt="हल्ला बोल किसान महारैली 18 नवंबर सादाबाद" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-150.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          हल्ला बोल किसान महारैली: 18 नवंबर सादाबाद — आलू किसान की पीड़ा और प्रमुख माँगें (अधिवक्ता चौ. भूपेंद्र सिंह)
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-bullhorn"></i> आधिकारिक महारैली पोस्टर • 18 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Parivartan 2027 Poster (news-144) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-144.jpeg">
+                        <img src="img/news/latest-news/news-144.jpeg" alt="परिवर्तन 2027: लोकदल - INDIA गठबंधन" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-144.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          परिवर्तन 2027: लोकदल - INDIA गठबंधन — “अबकी बार, INDIA गठबंधन सरकार”
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-picture-o"></i> लोकदल राष्ट्रीय अभियान • 15 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Hindustan 14 Nov (news-145) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-145.jpeg">
+                        <img src="img/news/latest-news/news-145.jpeg" alt="हिन्दुस्तान: लोकदल की 18 नवंबर को विराट किसान पंचायत" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-145.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          हिन्दुस्तान: लोकदल की 18 नवंबर को विराट किसान पंचायत सादाबाद — अधिवक्ता भूपेंद्र सिंह शामिल
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> हिन्दुस्तान • 14 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Bisawar Press 14 Nov (news-146) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-146.jpeg">
+                        <img src="img/news/latest-news/news-146.jpeg" alt="लोकदल में शामिल हुए अधिवक्ता भूपेंद्र सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-146.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          प्रेस रिपोर्ट: लोकदल में शामिल हुए अधिवक्ता भूपेंद्र सिंह — 18 नवंबर सादाबाद विराट किसान पंचायत तैयारी
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> बिसावर/सादाबाद • 14 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Swadesh 13 Nov (news-149) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-149.jpeg">
+                        <img src="img/news/latest-news/news-149.jpeg" alt="स्वदेश: सहयोगी दल एकजुट, विपक्षी गठबंधन मजबूत" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-149.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          स्वदेश: सहयोगी दल एकजुट, विपक्षी गठबंधन मजबूत — ओवैसी-चंद्रशेखर के मोर्चे का असर नहीं: सुनील सिंह
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> स्वदेश मुख्य संस्करण • 13 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Hind Watan 13 Nov (news-147) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-147.jpeg">
+                        <img src="img/news/latest-news/news-147.jpeg" alt="हिन्द वतन: मोर्चा बनने से कोई फर्क नहीं पड़ेगा" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-147.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          हिन्द वतन: मोर्चा बनने से कोई फर्क नहीं पड़ेगा, इंडिया गठबंधन मजबूत है: सुनील सिंह
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> हिन्द वतन लखनऊ • 13 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Column 13 Nov (news-148) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-148.jpeg">
+                        <img src="img/news/latest-news/news-148.jpeg" alt="मोर्चा बनने से कोई फर्क नहीं पड़ेगा, INDIA गठबंधन मजबूत है" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-148.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          विशेष कॉलम: मोर्चा बनने से कोई फर्क नहीं पड़ेगा, INDIA गठबंधन मजबूत है — सुनील सिंह
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> विशेष प्रेस कॉलम • 13 Nov 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Press Release 04 Nov (news-139) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-139.jpeg">
@@ -4645,6 +4788,14 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला — पहले काशी, अयोध्या और अब मथुरा में सीटों के सौदे पर चिंतन: सुनील सिंह', 'desc' => 'Teesra Vikalp News Bureau - 17 Nov 2026', 'url' => 'img/news/latest-news/news-151.jpeg'],
+                  ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'हल्ला बोल किसान महारैली (18 नवंबर सादाबाद) — आलू किसान बदहाल, केंद्र/राज्य सरकार से सवाल (अधिवक्ता चौ. भूपेंद्र सिंह)', 'desc' => 'Kisan Rally Sadabad Official - 18 Nov 2026', 'url' => 'img/news/latest-news/news-150.jpeg'],
+                  ['img' => 'img/news/latest-news/news-144.jpeg', 'title' => 'परिवर्तन 2027: लोकदल - INDIA गठबंधन — “अबकी बार, INDIA गठबंधन सरकार” (संदीप तोमर, प्रदीप हुड्डा, हरीश हूण)', 'desc' => 'Parivartan 2027 Campaign - 15 Nov 2026', 'url' => 'img/news/latest-news/news-144.jpeg'],
+                  ['img' => 'img/news/latest-news/news-145.jpeg', 'title' => 'हिन्दुस्तान: लोकदल की 18 नवंबर को विराट किसान पंचायत सादाबाद — अधिवक्ता भूपेंद्र सिंह शामिल', 'desc' => 'Hindustan Daily - 14 Nov 2026', 'url' => 'img/news/latest-news/news-145.jpeg'],
+                  ['img' => 'img/news/latest-news/news-146.jpeg', 'title' => 'प्रेस रिपोर्ट: लोकदल में शामिल हुए अधिवक्ता भूपेंद्र सिंह — 18 नवंबर सादाबाद विराट किसान पंचायत', 'desc' => 'Press Release Bisawar/Sadabad - 14 Nov 2026', 'url' => 'img/news/latest-news/news-146.jpeg'],
+                  ['img' => 'img/news/latest-news/news-149.jpeg', 'title' => 'स्वदेश: सहयोगी दल एकजुट, विपक्षी गठबंधन मजबूत — ओवैसी-चंद्रशेखर के मोर्चे का इंडिया गठबंधन पर असर नहीं', 'desc' => 'Swadesh Lucknow Main Edition - 13 Nov 2026', 'url' => 'img/news/latest-news/news-149.jpeg'],
+                  ['img' => 'img/news/latest-news/news-147.jpeg', 'title' => 'हिन्द वतन: मोर्चा बनने से कोई फर्क नहीं पड़ेगा, इंडिया गठबंधन मजबूत है: सुनील सिंह', 'desc' => 'Hind Watan Lucknow - 13 Nov 2026', 'url' => 'img/news/latest-news/news-147.jpeg'],
+                  ['img' => 'img/news/latest-news/news-148.jpeg', 'title' => 'विशेष कॉलम: मोर्चा बनने से कोई फर्क नहीं पड़ेगा, INDIA गठबंधन मजबूत है — सुनील सिंह', 'desc' => 'Special Column - 13 Nov 2026', 'url' => 'img/news/latest-news/news-148.jpeg'],
                   ['img' => 'img/news/latest-news/news-139.jpeg', 'title' => 'प्रेस वक्तव्य: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है — चौधरी सुनील सिंह', 'desc' => 'Press Release Lucknow - 04 Nov 2026', 'url' => 'img/news/latest-news/news-139.jpeg'],
                   ['img' => 'img/news/latest-news/news-143.jpeg', 'title' => 'विधान केसरी: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा : सुनील सिंह', 'desc' => 'Vidhan Kesari Lucknow - 04 Nov 2026', 'url' => 'img/news/latest-news/news-143.jpeg'],
                   ['img' => 'img/news/latest-news/news-140.jpeg', 'title' => 'विश्ववार्ता: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : सुनील सिंह', 'desc' => 'Vishwavarta Daily - 04 Nov 2026', 'url' => 'img/news/latest-news/news-140.jpeg'],
@@ -4969,6 +5120,14 @@
           </div>
           <?php 
             $ourServicesArr = [
+                ['img' => 'img/news/latest-news/news-151.jpeg', 'video' => 'img/news/latest-news/news-151.jpeg', 'name' => 'तीसरा विकल्प: बीजेपी के चिंतन शिविर पर लोकदल का हमला — मथुरा में सीटों के सौदे पर चिंतन: सुनील सिंह', 'desc' => 'तीसरा विकल्प न्यूज़ ब्यूरो विशेष रिपोर्ट', 'date' => '17 Nov 2026 • Teesra Vikalp'],
+                ['img' => 'img/news/latest-news/news-150.jpeg', 'video' => 'img/news/latest-news/news-150.jpeg', 'name' => 'हल्ला बोल किसान महारैली: 18 नवंबर सादाबाद — आलू किसान बदहाल, केंद्र व राज्य सरकार से सवाल', 'desc' => 'सादाबाद विराट किसान महारैली आधिकारिक जन-आह्वान', 'date' => '18 Nov 2026 • Official Rally'],
+                ['img' => 'img/news/latest-news/news-144.jpeg', 'video' => 'img/news/latest-news/news-144.jpeg', 'name' => 'परिवर्तन 2027: लोकदल - INDIA गठबंधन — “अबकी बार, INDIA गठबंधन सरकार”', 'desc' => 'लोकदल राष्ट्रीय नेतृत्व एवं प्रदेश पदाधिकारी अभियान', 'date' => '15 Nov 2026 • Official Campaign'],
+                ['img' => 'img/news/latest-news/news-145.jpeg', 'video' => 'img/news/latest-news/news-145.jpeg', 'name' => 'हिन्दुस्तान: लोकदल की 18 नवंबर को विराट किसान पंचायत सादाबाद — अधिवक्ता भूपेंद्र सिंह शामिल', 'desc' => 'दैनिक हिन्दुस्तान विशेष समाचार कवरेज', 'date' => '14 Nov 2026 • Hindustan'],
+                ['img' => 'img/news/latest-news/news-146.jpeg', 'video' => 'img/news/latest-news/news-146.jpeg', 'name' => 'प्रेस रिपोर्ट: लोकदल में शामिल हुए अधिवक्ता भूपेंद्र सिंह — 18 नवंबर सादाबाद किसान पंचायत', 'desc' => 'बिसावर सादाबाद विशेष प्रेस रिपोर्ट', 'date' => '14 Nov 2026 • Press Report'],
+                ['img' => 'img/news/latest-news/news-149.jpeg', 'video' => 'img/news/latest-news/news-149.jpeg', 'name' => 'स्वदेश: सहयोगी दल एकजुट, विपक्षी गठबंधन मजबूत — ओवैसी-चंद्रशेखर के मोर्चे का असर नहीं', 'desc' => 'स्वदेश लखनऊ मुख्य संस्करण पृष्ठ-3 विशेष कवरेज', 'date' => '13 Nov 2026 • Swadesh'],
+                ['img' => 'img/news/latest-news/news-147.jpeg', 'video' => 'img/news/latest-news/news-147.jpeg', 'name' => 'हिन्द वतन: मोर्चा बनने से कोई फर्क नहीं पड़ेगा, इंडिया गठबंधन मजबूत है: सुनील सिंह', 'desc' => 'हिन्द वतन लखनऊ विशेष संवाददाता रिपोर्ट', 'date' => '13 Nov 2026 • Hind Watan'],
+                ['img' => 'img/news/latest-news/news-148.jpeg', 'video' => 'img/news/latest-news/news-148.jpeg', 'name' => 'विशेष कॉलम: मोर्चा बनने से कोई फर्क नहीं पड़ेगा, INDIA गठबंधन मजबूत है — सुनील सिंह', 'desc' => 'विशेष राजनीतिक विश्लेषण एवं कॉलम', 'date' => '13 Nov 2026 • Special Column'],
                 ['img' => 'img/news/latest-news/news-139.jpeg', 'video' => 'img/news/latest-news/news-139.jpeg', 'name' => 'प्रेस वक्तव्य: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : सुनील सिंह', 'desc' => 'लोकदल केंद्रीय कार्यालय लखनऊ विशेष प्रेस वक्तव्य', 'date' => '04 Nov 2026 • Press Release'],
                 ['img' => 'img/news/latest-news/news-143.jpeg', 'video' => 'img/news/latest-news/news-143.jpeg', 'name' => 'विधान केसरी: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा : सुनील सिंह', 'desc' => 'विधान केसरी राजधानी विशेष समाचार कवरेज', 'date' => '04 Nov 2026 • Vidhan Kesari'],
                 ['img' => 'img/news/latest-news/news-140.jpeg', 'video' => 'img/news/latest-news/news-140.jpeg', 'name' => 'विश्ववार्ता: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : सुनील सिंह', 'desc' => 'विश्ववार्ता दैनिक समाचार विशेष रिपोर्ट', 'date' => '04 Nov 2026 • Vishwavarta'],
@@ -5213,6 +5372,19 @@
         <!-- End Most Popular Videos Section -->
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-151.jpeg'],
+              ['img' => 'img/news/latest-news/news-150.jpeg'],
+              ['img' => 'img/news/latest-news/news-144.jpeg'],
+              ['img' => 'img/news/latest-news/news-145.jpeg'],
+              ['img' => 'img/news/latest-news/news-146.jpeg'],
+              ['img' => 'img/news/latest-news/news-149.jpeg'],
+              ['img' => 'img/news/latest-news/news-147.jpeg'],
+              ['img' => 'img/news/latest-news/news-148.jpeg'],
+              ['img' => 'img/news/latest-news/news-139.jpeg'],
+              ['img' => 'img/news/latest-news/news-140.jpeg'],
+              ['img' => 'img/news/latest-news/news-141.jpeg'],
+              ['img' => 'img/news/latest-news/news-142.jpeg'],
+              ['img' => 'img/news/latest-news/news-143.jpeg'],
               ['img' => 'img/news/latest-news/news-134.jpeg'],
               ['img' => 'img/news/latest-news/news-135.jpeg'],
               ['img' => 'img/news/latest-news/news-136.jpeg'],
