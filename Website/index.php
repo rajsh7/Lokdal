@@ -1,4 +1,4 @@
-<?php
+﻿<?php
   include_once("db.php");
   
   $dailyUpdatesDb = [];
@@ -289,17 +289,19 @@
                   </h6>
                   <div class="row align-items-start mb-2">
                     <div class="col-12 col-sm-6 mb-2 mb-sm-0">
-                      <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-150.jpeg" title="हल्ला बोल किसान महारैली 18 नवंबर सादाबाद — आलू किसान की पीड़ा और प्रमुख माँगें">
-                        <img src="img/news/latest-news/news-150.jpeg" alt="हल्ला बोल किसान महारैली पोस्टर" style="width: 100%; border-radius: 6px; border: 1.5px solid #ca8a04;" loading="lazy">
+                      <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-152.jpeg" title="किसानों का हल्ला बोल: 18 नवंबर सादाबाद विशाल किसान जनसभा पोस्टर">
+                        <img src="img/news/latest-news/news-152.jpeg" alt="किसानों का हल्ला बोल जनसभा पोस्टर" style="width: 100%; border-radius: 6px; border: 1.5px solid #ca8a04;" loading="lazy">
                       </a>
                     </div>
                     <div class="col-12 col-sm-6">
-                      <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-145.jpeg" title="हिन्दुस्तान: लोकदल की 18 नवंबर को विराट किसान पंचायत सादाबाद">
-                        <img src="img/news/latest-news/news-145.jpeg" alt="हिन्दुस्तान समाचार कवरेज" style="width: 100%; border-radius: 6px; border: 1.5px solid #ca8a04;" loading="lazy">
+                      <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-153.jpeg" title="स्वदेश (18 Nov): भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — चौधरी सुनील सिंह">
+                        <img src="img/news/latest-news/news-153.jpeg" alt="स्वदेश समाचार कवरेज (18 Nov)" style="width: 100%; border-radius: 6px; border: 1.5px solid #ca8a04;" loading="lazy">
                       </a>
                     </div>
                   </div>
                   <div class="d-flex mt-1 justify-content-center mb-2 flex-wrap" style="gap: 5px;">
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-150.jpeg" class="badge badge-light border p-1" title="हल्ला बोल किसान महारैली घोषणा पोस्टर"><i class="fa fa-picture-o mr-1"></i>महारैली घोषणा पोस्टर</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-145.jpeg" class="badge badge-light border p-1" title="हिन्दुस्तान: 18 नवंबर सादाबाद विराट किसान पंचायत"><i class="fa fa-newspaper-o mr-1"></i>हिन्दुस्तान कवरेज</a>
                     <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-151.jpeg" class="badge badge-light border p-1" title="तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला"><i class="fa fa-newspaper-o mr-1"></i>तीसरा विकल्प (मथुरा चिंतन शिविर)</a>
                     <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-144.jpeg" class="badge badge-light border p-1" title="परिवर्तन 2027: लोकदल - INDIA गठबंधन"><i class="fa fa-picture-o mr-1"></i>परिवर्तन 2027 पोस्टर</a>
                     <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-149.jpeg" class="badge badge-light border p-1" title="स्वदेश: सहयोगी दल एकजुट, विपक्षी गठबंधन मजबूत"><i class="fa fa-file-text-o mr-1"></i>स्वदेश कवरेज</a>
@@ -892,6 +894,32 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Swadesh 18 Nov (news-153) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-153.jpeg">
+                        <img src="img/news/latest-news/news-153.jpeg" alt="स्वदेश: भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-153.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          स्वदेश (18 Nov): भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — 'वोट जोड़ो यात्रा' व मतदाता सूची पर चौधरी सुनील सिंह के सवाल
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> स्वदेश लखनऊ (मुख्य संस्करण) • 18 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Halla Bol Kisan Maharally Poster (news-152) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-152.jpeg">
+                        <img src="img/news/latest-news/news-152.jpeg" alt="किसानों का हल्ला बोल: 18 नवंबर सादाबाद विशाल किसान जनसभा" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-152.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          किसानों का हल्ला बोल: 18 नवंबर सादाबाद (हाथरस) — आलू किसान बदहाल, केंद्र और राज्य सरकार से सवाल!
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-bullhorn"></i> लोकदल किसान जनसभा पोस्टर • 18 Nov 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Facebook Sadabad Rally Post -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #1877f2 !important;">
                       <a href="https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr" target="_blank">
@@ -4823,6 +4851,8 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-153.jpeg', 'title' => 'स्वदेश (18 Nov): भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — मतदाता सूची पर सुनील सिंह के तीखे सवाल', 'desc' => 'Swadesh Lucknow Main Edition - 18 Nov 2026', 'url' => 'img/news/latest-news/news-153.jpeg'],
+                  ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'किसानों का हल्ला बोल: 18 नवंबर सादाबाद (हाथरस) — आलू किसान बदहाल, केंद्र व राज्य सरकार से सवाल', 'desc' => 'Lokdal Kisan Rally Sadabad - 18 Nov 2026', 'url' => 'img/news/latest-news/news-152.jpeg'],
                   ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'Facebook पोस्ट: 18 नवंबर सादाबाद में हल्ला बोल किसान महारैली — आलू किसानों की बदहाली का हिसाब', 'desc' => 'Lokdal Official Facebook - 18 Nov 2026', 'url' => 'https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr'],
                   ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'Cherish Times: इंडिया गठबंधन में शामिल दलों को सम्मानजनक सीटें मिलेंगी, सरकार भी बनाएगा गठबंधन : सुनील सिंह', 'desc' => 'Cherish Times - 17 Nov 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/92781'],
                   ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला — पहले काशी, अयोध्या और अब मथुरा में सीटों के सौदे पर चिंतन: सुनील सिंह', 'desc' => 'Teesra Vikalp News Bureau - 17 Nov 2026', 'url' => 'img/news/latest-news/news-151.jpeg'],
@@ -5409,6 +5439,8 @@
         <!-- End Most Popular Videos Section -->
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-153.jpeg'],
+              ['img' => 'img/news/latest-news/news-152.jpeg'],
               ['img' => 'img/news/latest-news/news-151.jpeg'],
               ['img' => 'img/news/latest-news/news-150.jpeg'],
               ['img' => 'img/news/latest-news/news-144.jpeg'],
@@ -5590,3 +5622,4 @@
     </script>
   </body>
 </html>
+

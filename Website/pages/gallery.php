@@ -471,6 +471,16 @@ body{
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news">
+                                           <a data-fancybox="gallery-new" href="../img/news/latest-news/news-153.jpeg" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-153.jpeg" alt="स्वदेश: भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — सुनील सिंह" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web photo poster">
+                                           <a data-fancybox="gallery-new" href="../img/news/latest-news/news-152.jpeg" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-152.jpeg" alt="किसानों का हल्ला बोल: 18 नवंबर सादाबाद विशाल किसान जनसभा पोस्टर" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web news">
                                            <a target="_blank" href="https://www.cherishtimes.in/uttar-pradesh/92781" class="position-relative">
                                                <img class="img-fluid w-100" src="../img/news/latest-news/news-151.jpeg" alt="Cherish Times: सीटों के साथ सरकार भी बनाएगा गठबंधन" loading="lazy" decoding="async">
                                            </a>
