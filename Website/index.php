@@ -322,6 +322,10 @@
                     <div class="d-flex flex-wrap" style="gap: 5px;">
                       <a href="https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> 18 Nov सादाबाद रैली Facebook पोस्ट</a>
                       <a href="https://www.cherishtimes.in/uttar-pradesh/92781" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> Cherish Times कवरेज</a>
+                      <a href="https://www.youtube.com/live/ySJjillup_s?feature=shared" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-youtube-play"></i> YouTube LIVE</a>
+                      <a href="https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> Facebook वीडियो</a>
+                      <a href="https://x.com/PTI_News/status/2122669908052136303" target="_blank" class="btn btn-sm btn-outline-dark py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> PTI Video</a>
+                      <a href="https://x.com/ians_india/status/2122718219870114294" target="_blank" class="btn btn-sm btn-outline-dark py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> IANS Video</a>
                     </div>
                   </div>
                 </div>
@@ -917,6 +921,58 @@
                           किसानों का हल्ला बोल: 18 नवंबर सादाबाद (हाथरस) — आलू किसान बदहाल, केंद्र और राज्य सरकार से सवाल!
                         </a>
                         <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-bullhorn"></i> लोकदल किसान जनसभा पोस्टर • 18 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: YouTube LIVE Sadabad Halla Bol -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #FF0000 !important;">
+                      <a href="https://www.youtube.com/live/ySJjillup_s?feature=shared" target="_blank">
+                        <img src="https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg" alt="YouTube LIVE: लोकदल किसान हल्ला बोल सादाबाद" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.youtube.com/live/ySJjillup_s?feature=shared" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          🔴 YouTube LIVE: लोकदल के नेतृत्व में किसानों का हल्ला बोल – सादाबाद, हाथरस से सीधा प्रसारण 2026
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-youtube-play"></i> YouTube Live Streaming • 18 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Facebook Video Sadabad Rally -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #1877f2 !important;">
+                      <a href="https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr" target="_blank">
+                        <img src="img/news/latest-news/news-152.jpeg" alt="Facebook Video: 18 नवंबर सादाबाद किसान हल्ला बोल" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Facebook Video: सादाबाद किसान हल्ला बोल महारैली 18 नवंबर 2026 — लोकदल की ऐतिहासिक जनसभा का वीडियो
+                        </a>
+                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> आधिकारिक फेसबुक वीडियो • 18 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: PTI X Video — Seat Sharing -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #000 !important;">
+                      <a href="https://x.com/PTI_News/status/2122669908052136303" target="_blank">
+                        <img src="img/news/latest-news/news-153.jpeg" alt="PTI Video: INDIA bloc seat sharing UP polls — Sunil Singh" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://x.com/PTI_News/status/2122669908052136303" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          PTI VIDEO: INDIA गठबंधन की सीट-शेयरिंग पर सुनील सिंह — 'लोकदल 2024 से गठबंधन के साथ, सम्मानजनक सीटें मिलेंगी'
+                        </a>
+                        <span class="d-block font-weight-bold" style="font-size: 11px; color: #333;"><i class="fa fa-twitter"></i> PTI News (X/Twitter) • 18 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: IANS X Video — 2027 UP Prep -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #000 !important;">
+                      <a href="https://x.com/ians_india/status/2122718219870114294" target="_blank">
+                        <img src="img/news/latest-news/news-151.jpeg" alt="IANS Video: INDIA alliance 2027 UP prep — Sunil Singh" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://x.com/ians_india/status/2122718219870114294" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          IANS VIDEO: 2027 UP विधानसभा चुनाव की तैयारी — 'लोकदल INDIA गठबंधन का हिस्सा, सत्ता के दबाव में साथ छोड़ने वालों को जनता ने जवाब दिया' : सुनील सिंह
+                        </a>
+                        <span class="d-block font-weight-bold" style="font-size: 11px; color: #333;"><i class="fa fa-twitter"></i> IANS India (X/Twitter) • 18 Nov 2026</span>
                       </div>
                     </div>
 
@@ -4853,6 +4909,10 @@
               $latestDailyUpdates = [
                   ['img' => 'img/news/latest-news/news-153.jpeg', 'title' => 'स्वदेश (18 Nov): भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — मतदाता सूची पर सुनील सिंह के तीखे सवाल', 'desc' => 'Swadesh Lucknow Main Edition - 18 Nov 2026', 'url' => 'img/news/latest-news/news-153.jpeg'],
                   ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'किसानों का हल्ला बोल: 18 नवंबर सादाबाद (हाथरस) — आलू किसान बदहाल, केंद्र व राज्य सरकार से सवाल', 'desc' => 'Lokdal Kisan Rally Sadabad - 18 Nov 2026', 'url' => 'img/news/latest-news/news-152.jpeg'],
+                  ['img' => 'https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg', 'title' => '🔴 YouTube LIVE: लोकदल के नेतृत्व में किसानों का हल्ला बोल – सादाबाद, हाथरस से सीधा प्रसारण 2026', 'desc' => 'YouTube Live - 18 Nov 2026', 'url' => 'https://www.youtube.com/live/ySJjillup_s?feature=shared'],
+                  ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'Facebook वीडियो: सादाबाद किसान हल्ला बोल महारैली 18 नवंबर 2026 — लोकदल की ऐतिहासिक जनसभा', 'desc' => 'Lokdal Official Facebook Video - 18 Nov 2026', 'url' => 'https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr'],
+                  ['img' => 'img/news/latest-news/news-153.jpeg', 'title' => 'PTI VIDEO: INDIA गठबंधन सीट-शेयरिंग पर सुनील सिंह — लोकदल 2024 से गठबंधन के साथ, सम्मानजनक सीटें मिलेंगी', 'desc' => 'PTI News (X/Twitter) - 18 Nov 2026', 'url' => 'https://x.com/PTI_News/status/2122669908052136303'],
+                  ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'IANS VIDEO: 2027 UP विधानसभा चुनाव की तैयारी — लोकदल INDIA गठबंधन का हिस्सा : सुनील सिंह', 'desc' => 'IANS India (X/Twitter) - 18 Nov 2026', 'url' => 'https://x.com/ians_india/status/2122718219870114294'],
                   ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'Facebook पोस्ट: 18 नवंबर सादाबाद में हल्ला बोल किसान महारैली — आलू किसानों की बदहाली का हिसाब', 'desc' => 'Lokdal Official Facebook - 18 Nov 2026', 'url' => 'https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr'],
                   ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'Cherish Times: इंडिया गठबंधन में शामिल दलों को सम्मानजनक सीटें मिलेंगी, सरकार भी बनाएगा गठबंधन : सुनील सिंह', 'desc' => 'Cherish Times - 17 Nov 2026', 'url' => 'https://www.cherishtimes.in/uttar-pradesh/92781'],
                   ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला — पहले काशी, अयोध्या और अब मथुरा में सीटों के सौदे पर चिंतन: सुनील सिंह', 'desc' => 'Teesra Vikalp News Bureau - 17 Nov 2026', 'url' => 'img/news/latest-news/news-151.jpeg'],
@@ -5439,6 +5499,7 @@
         <!-- End Most Popular Videos Section -->
           <?php 
             $ourServicesArr = [
+              ['img' => 'https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg'],
               ['img' => 'img/news/latest-news/news-153.jpeg'],
               ['img' => 'img/news/latest-news/news-152.jpeg'],
               ['img' => 'img/news/latest-news/news-151.jpeg'],
@@ -5622,4 +5683,5 @@
     </script>
   </body>
 </html>
+
 

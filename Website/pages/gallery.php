@@ -470,6 +470,38 @@ body{
                                                </span>
                                            </a>
                                        </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.youtube.com/live/ySJjillup_s?feature=shared" class="position-relative">
+                                               <img class="img-fluid w-100" src="https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg" alt="YouTube LIVE: लोकदल किसान हल्ला बोल सादाबाद 18 Nov 2026" loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-152.jpeg" alt="Facebook Video: सादाबाद किसान हल्ला बोल महारैली 18 नवंबर 2026" loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://x.com/PTI_News/status/2122669908052136303" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-153.jpeg" alt="PTI Video: INDIA bloc seat sharing UP — Sunil Singh" loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://x.com/ians_india/status/2122718219870114294" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-151.jpeg" alt="IANS Video: 2027 UP Election — Lokdal INDIA Alliance : Sunil Singh" loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news">
                                            <a data-fancybox="gallery-new" href="../img/news/latest-news/news-153.jpeg" class="position-relative">
                                                <img class="img-fluid w-100" src="../img/news/latest-news/news-153.jpeg" alt="स्वदेश: भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — सुनील सिंह" loading="lazy" decoding="async">

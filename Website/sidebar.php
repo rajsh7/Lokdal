@@ -100,6 +100,10 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg', 'title' => '🔴 YouTube LIVE: किसानों का हल्ला बोल – सादाबाद, हाथरस से सीधा प्रसारण 2026', 'date' => '18 Nov 2026', 'url' => 'https://www.youtube.com/live/ySJjillup_s?feature=shared'],
+                                    ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'Facebook Video: सादाबाद किसान हल्ला बोल महारैली 18 नवंबर 2026', 'date' => '18 Nov 2026', 'url' => 'https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr'],
+                                    ['img' => 'img/news/latest-news/news-153.jpeg', 'title' => 'PTI Video: INDIA गठबंधन सीट-शेयरिंग पर सुनील सिंह', 'date' => '18 Nov 2026', 'url' => 'https://x.com/PTI_News/status/2122669908052136303'],
+                                    ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'IANS Video: 2027 UP चुनाव — लोकदल INDIA गठबंधन का हिस्सा : सुनील सिंह', 'date' => '18 Nov 2026', 'url' => 'https://x.com/ians_india/status/2122718219870114294'],
                                     ['img' => 'img/news/latest-news/news-153.jpeg', 'title' => 'स्वदेश (18 Nov): भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — सुनील सिंह', 'date' => '18 Nov 2026', 'url' => 'img/news/latest-news/news-153.jpeg'],
                                     ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'किसानों का हल्ला बोल (18 Nov): सादाबाद विशाल किसान जनसभा पोस्टर', 'date' => '18 Nov 2026', 'url' => 'img/news/latest-news/news-152.jpeg'],
                                     ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'Facebook: 18 नवंबर सादाबाद में हल्ला बोल किसान महारैली', 'date' => '18 Nov 2026', 'url' => 'https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr'],
