@@ -43,7 +43,7 @@
     <!--LightBox-->
     <link rel="stylesheet" href="assets/vendor/lightbox/lightbox.min.css">
     <!-- Style CSS -->
-    <link rel="stylesheet" href="style.css?v=20261006_3">
+    <link rel="stylesheet" href="style.css?v=20261119_1">
     <!--Google Translate API-->
     <link rel="stylesheet" href="css/google translator.css">
     <style>
@@ -119,21 +119,19 @@
             <span class="badge badge-danger text-uppercase px-2 py-1 mr-2" style="background-color: #d90429; font-size: 13px; font-weight: 700; letter-spacing: 0.5px;">
               <i class="fa fa-bullhorn"></i> ताज़ा समाचार
             </span>
-            <strong style="color: #ffeb3b; font-size: 13.5px;">06 Oct 2026:</strong>
+            <strong style="color: #ffeb3b; font-size: 13.5px;">18 Nov 2026:</strong>
           </div>
           <div class="d-flex flex-wrap align-items-center justify-content-center my-1" style="gap: 6px;">
-            <a data-lightbox="breaking-news" href="img/news/latest-news/news-86.jpeg" class="btn btn-sm" style="background:#d90429; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px; box-shadow: 0 0 10px rgba(217,4,41,0.6);"><i class="fa fa-fire"></i> चुनाव आयोग पर हमला (जन मंच)</a>
-            <a data-lightbox="breaking-news" href="img/news/latest-news/news-87.jpeg" class="btn btn-sm" style="background:#ff9900; color:#000; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-picture-o"></i> PPN News ग्राफिक</a>
-            <a href="https://samarsaleel.com/india-alliance-halla-bol-sunil-singh-gyanesh-kumar-resignation/531993" target="_blank" class="btn btn-sm" style="background:#fff; color:#b30000; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #b30000;"><i class="fa fa-newspaper-o"></i> समर सलिल</a>
-            <a href="https://suryodaybharat.com/lokdal-president-sunil-singh-launches-a-scathing-attack-on-the-bjp-and-the-election-commission-demands-the-chief-election-commissioners-resignation/" target="_blank" class="btn btn-sm" style="background:#fff; color:#d90429; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #d90429;"><i class="fa fa-newspaper-o"></i> सूर्योदय भारत</a>
-            <a href="https://prakashprabhaw.com/khabar-hatke/india-gathabthhana-ka-hall-bl-sa-ghabraii-bhajapa/detail" target="_blank" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #00772D;"><i class="fa fa-newspaper-o"></i> PPN News (इज़हार अहमद)</a>
-            <a href="https://9473938609.blogspot.com/2026/10/india_0442479220.html" target="_blank" class="btn btn-sm" style="background:#ff5722; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-rss"></i> ब्लॉग रिपोर्ट</a>
-            <a href="#exclusive-videos" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-play-circle"></i> 🔴 3 लाइव वीडियो</a>
-            <a data-lightbox="breaking-news" href="img/news/latest-news/news-76.jpeg" class="btn btn-sm" style="background:#ffeb3b; color:#000; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-newspaper-o"></i> स्वदेश (03 Oct)</a>
-            <a data-lightbox="breaking-news" href="img/news/latest-news/news-81.jpeg" class="btn btn-sm" style="background:#e8f5e9; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border: 1px solid #00772D;"><i class="fa fa-newspaper-o"></i> स्वदेश (02 Oct)</a>
-            <a data-lightbox="breaking-news" href="img/news/latest-news/news-78.jpeg" class="btn btn-sm" style="background:#ff3333; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-camera"></i> पुलिस बस फोटो</a>
-            <a href="https://www.instagram.com/reel/DeG9hnmBwcv/?stkn=azBmNGxkd3prNmNq" target="_blank" class="btn btn-sm" style="background:linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-instagram"></i> Instagram रील</a>
-            <a href="https://youtu.be/6Tz2jiiP7G0?si=_fLFHVCDp-0oT_Jc" target="_blank" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-youtube-play"></i> 4tv News</a>
+            <a data-lightbox="breaking-news" href="img/news/latest-news/news-152.jpeg" class="btn btn-sm" style="background:#d90429; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px; box-shadow: 0 0 10px rgba(217,4,41,0.6);"><i class="fa fa-fire"></i> सादाबाद किसान जनसभा (18 Nov)</a>
+            <a data-lightbox="breaking-news" href="img/news/latest-news/news-153.jpeg" class="btn btn-sm" style="background:#ff9900; color:#000; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-newspaper-o"></i> स्वदेश: लापता वोटर रिपोर्ट</a>
+            <a href="https://www.youtube.com/live/ySJjillup_s?feature=shared" target="_blank" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-youtube-play"></i> 🔴 सादाबाद YouTube LIVE</a>
+            <a href="https://x.com/PTI_News/status/2122669908052136303" target="_blank" class="btn btn-sm" style="background:#000; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #333;"><i class="fa fa-twitter"></i> PTI: सीट-शेयरिंग</a>
+            <a href="https://x.com/ians_india/status/2122718219870114294" target="_blank" class="btn btn-sm" style="background:#000; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #333;"><i class="fa fa-twitter"></i> IANS: UP 2027 चुनाव</a>
+            <a href="https://www.cherishtimes.in/uttar-pradesh/92781" target="_blank" class="btn btn-sm" style="background:#fff; color:#b30000; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #b30000;"><i class="fa fa-newspaper-o"></i> Cherish Times</a>
+            <a href="https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr" target="_blank" class="btn btn-sm" style="background:#1877f2; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-facebook-play"></i> सादाबाद FB वीडियो</a>
+            <a href="#exclusive-videos" class="btn btn-sm" style="background:#b30000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-play-circle"></i> 🔴 CEC महाभियोग वीडियो</a>
+            <a data-lightbox="breaking-news" href="img/news/latest-news/news-132.jpeg" class="btn btn-sm" style="background:#ffeb3b; color:#000; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-flag"></i> रामलीला मैदान महारैली</a>
+            <a data-lightbox="breaking-news" href="img/news/latest-news/news-139.jpeg" class="btn btn-sm" style="background:#e8f5e9; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border: 1px solid #00772D;"><i class="fa fa-newspaper-o"></i> BJP विदाई यात्रा (प्रेस)</a>
             <a href="donate.php" class="btn btn-sm" style="background:#00772D; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-heart"></i> दान सहयोग (₹50k)</a>
           </div>
         </div>
@@ -5641,7 +5639,7 @@
     <!-- Plugins js -->
     <script src="js/plugins.js"></script>
     <!-- Active js -->
-    <script src="js/active.js?v=20261006_3"></script>
+    <script src="js/active.js?v=20261119_1"></script>
     <!-- Collapse Toggle Text & Icon Handler for Daily Updates and Popular Videos -->
     <script>
       $(document).ready(function() {
