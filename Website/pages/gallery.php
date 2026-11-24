@@ -207,33 +207,33 @@ body{
                                     
                                      <!--Karkarta Sambelan & Latest Press Updates-->
 
-                                      <!-- 22 Nov 2026: 58 Gaon Mahasammelan Exclusive Video -->
+                                      <!-- 24 Nov 2026: 58 Gaon Mahasammelan Exclusive Video -->
                                        <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                            <a data-fancybox="video" href="../video/wp-video-24.mp4" class="position-relative">
-                                               <img class="img-fluid w-100" src="../video/wp-video-24-thumb.jpg" alt="58 गाँव विशाल महासम्मेलन एक्सक्लूसिव वीडियो 22 Nov 2026" loading="lazy" decoding="async">
+                                               <img class="img-fluid w-100" src="../video/wp-video-24-thumb.jpg" alt="58 गाँव विशाल महासम्मेलन एक्सक्लूसिव वीडियो 24 Nov 2026" loading="lazy" decoding="async">
                                                <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
                                                    <i class="zmdi zmdi-play zmdi-hc-2x"></i>
                                                </span>
                                            </a>
                                        </div>
-                                       <!-- 19-22 Nov 2026 Press Clippings & Posters -->
+                                       <!-- 19-24 Nov 2026 Press Clippings & Posters -->
                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-62.jpeg" title="दैनिक जागरण (19 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल हल्ला बोल रैली सादाबाद">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-62.jpeg" title="दैनिक जागरण (24 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल हल्ला बोल रैली सादाबाद">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-62.jpeg" alt="दैनिक जागरण: अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-61.jpeg" title="स्वदेश (19 Nov): बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-61.jpeg" title="स्वदेश (24 Nov): बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-61.jpeg" alt="स्वदेश: बदहाल होता जा रहा आलू किसान" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-59.jpeg" title="हिन्दुस्तान (19 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार: सुनील सिंह">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-59.jpeg" title="हिन्दुस्तान (24 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार: सुनील सिंह">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-59.jpeg" alt="हिन्दुस्तान: किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-60.jpeg" title="संवाद (19 Nov): महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा — राष्ट्रीय अध्यक्ष का स्वागत">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-60.jpeg" title="संवाद (24 Nov): महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा — राष्ट्रीय अध्यक्ष का स्वागत">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-60.jpeg" alt="संवाद: महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा" loading="lazy" decoding="async">
                                            </a>
                                        </div>
@@ -242,79 +242,79 @@ body{
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-63.jpeg" alt="शोक संदेश: श्रीमती सरोज देवी जी को भावभीनी श्रद्धांजलि" loading="lazy" decoding="async">
                                            </a>
                                        </div>
-                                       <!-- 22 Nov 2026: 58 Gaon Vishal Prasad (Bhandara) & Kisan Mahasammelan (15 Photos) -->
+                                       <!-- 24 Nov 2026: 58 Gaon Vishal Prasad (Bhandara) & Kisan Mahasammelan (15 Photos) -->
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-44.jpeg" title="राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का जोरदार उद्बोधन — 58 गाँव विशाल महासम्मेलन (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-44.jpeg" title="राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का जोरदार उद्बोधन — 58 गाँव विशाल महासम्मेलन (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-44.jpeg" alt="Chaudhary Sunil Singh addressing 58 villages Mahasammelan" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-45.jpeg" title="58 गाँव महासम्मेलन में उमड़ा किसानों व ग्रामीणों का जनसैलाब (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-45.jpeg" title="58 गाँव महासम्मेलन में उमड़ा किसानों व ग्रामीणों का जनसैलाब (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-45.jpeg" alt="Farmers gathering at 58 villages Mahasammelan" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-46.jpeg" title="विशाल जनसभा एवं सूर्यास्त का विहंगम दृश्य — 58 गाँव सम्मेलन (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-46.jpeg" title="विशाल जनसभा एवं सूर्यास्त का विहंगम दृश्य — 58 गाँव सम्मेलन (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-46.jpeg" alt="Panoramic sunset view of 58 villages Mahasammelan" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-47.jpeg" title="किसान जनसमूह राष्ट्रीय अध्यक्ष का सम्बोधन सुनते हुए (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-47.jpeg" title="किसान जनसमूह राष्ट्रीय अध्यक्ष का सम्बोधन सुनते हुए (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-47.jpeg" alt="Gathering of farmers listening attentively" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-48.jpeg" title="मंच पर राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह, वरिष्ठ नेता एवं प्रमुख पदाधिकारी (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-48.jpeg" title="मंच पर राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह, वरिष्ठ नेता एवं प्रमुख पदाधिकारी (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-48.jpeg" alt="Chaudhary Sunil Singh on stage with senior leaders" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-49.jpeg" title="राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का राजमार्ग पर भव्य स्वागत व माल्यार्पण (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-49.jpeg" title="राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का राजमार्ग पर भव्य स्वागत व माल्यार्पण (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-49.jpeg" alt="Grand welcome with garlands on highway convoy arrival" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-50.jpeg" title="कार्यकर्ताओं एवं समर्थकों द्वारा चौधरी सुनील सिंह का भव्य पुष्पवर्षा से स्वागत (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-50.jpeg" title="कार्यकर्ताओं एवं समर्थकों द्वारा चौधरी सुनील सिंह का भव्य पुष्पवर्षा से स्वागत (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-50.jpeg" alt="Flower shower and warm reception by supporters" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-51.jpeg" title="चौधरी सुनील सिंह को साफा व फूलमाला पहनाते पार्टी पदाधिकारी (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-51.jpeg" title="चौधरी सुनील सिंह को साफा व फूलमाला पहनाते पार्टी पदाधिकारी (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-51.jpeg" alt="Felicitation with pagdi and garlands" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-52.jpeg" title="काफिले के स्वागत में उमड़े युवा एवं किसान कार्यकर्ता (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-52.jpeg" title="काफिले के स्वागत में उमड़े युवा एवं किसान कार्यकर्ता (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-52.jpeg" alt="Youth and party workers greeting the convoy" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-53.jpeg" title="राजमार्ग स्वागत स्थल पर लोकदल समर्थकों का भारी उत्साह (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-53.jpeg" title="राजमार्ग स्वागत स्थल पर लोकदल समर्थकों का भारी उत्साह (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-53.jpeg" alt="Lokdal supporters enthusiasm at convoy reception" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-54.jpeg" title="राष्ट्रीय अध्यक्ष के स्वागत में जुटे ग्रामीण एवं युवा साथी (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-54.jpeg" title="राष्ट्रीय अध्यक्ष के स्वागत में जुटे ग्रामीण एवं युवा साथी (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-54.jpeg" alt="Supporters and villagers welcoming National President" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-55.jpeg" title="कार्यकर्ताओं से आत्मीय संवाद करते चौधरी सुनील सिंह (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-55.jpeg" title="कार्यकर्ताओं से आत्मीय संवाद करते चौधरी सुनील सिंह (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-55.jpeg" alt="Chaudhary Sunil Singh interacting with party workers" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-56.jpeg" title="58 गाँव का विशाल प्रसाद (भण्डारा) मंच पर चौधरी सुनील सिंह व प्रदेश नेतृत्व (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-56.jpeg" title="58 गाँव का विशाल प्रसाद (भण्डारा) मंच पर चौधरी सुनील सिंह व प्रदेश नेतृत्व (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-56.jpeg" alt="Stage view of 58 villages Mahasammelan and Bhandara" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-57.jpeg" title="महासम्मेलन में किसानों के हक और सम्मान की बात रखते चौधरी सुनील सिंह (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-57.jpeg" title="महासम्मेलन में किसानों के हक और सम्मान की बात रखते चौधरी सुनील सिंह (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-57.jpeg" alt="Chaudhary Sunil Singh speaking on farmer rights" loading="lazy" decoding="async">
                                            </a>
                                        </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
-                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-58.jpeg" title="58 गाँव महासम्मेलन में उपस्थित विशाल जनसमूह का दृश्य (22 Nov 2026)">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-58.jpeg" title="58 गाँव महासम्मेलन में उपस्थित विशाल जनसमूह का दृश्य (24 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-58.jpeg" alt="Wide view of the massive public gathering" loading="lazy" decoding="async">
                                            </a>
                                        </div>

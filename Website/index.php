@@ -298,10 +298,10 @@
                     </div>
                   </div>
                   <div class="d-flex mt-1 justify-content-center mb-2 flex-wrap" style="gap: 5px;">
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-172.jpeg" class="badge badge-light border p-1" title="दैनिक जागरण (19 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’"><i class="fa fa-newspaper-o mr-1"></i>दैनिक जागरण (19 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-171.jpeg" class="badge badge-light border p-1" title="स्वदेश (19 Nov): बदहाल होता जा रहा आलू किसान"><i class="fa fa-newspaper-o mr-1"></i>स्वदेश (19 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-169.jpeg" class="badge badge-light border p-1" title="हिन्दुस्तान (19 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार"><i class="fa fa-newspaper-o mr-1"></i>हिन्दुस्तान (19 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-170.jpeg" class="badge badge-light border p-1" title="संवाद (19 Nov): महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा"><i class="fa fa-newspaper-o mr-1"></i>संवाद (19 Nov)</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-172.jpeg" class="badge badge-light border p-1" title="दैनिक जागरण (24 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’"><i class="fa fa-newspaper-o mr-1"></i>दैनिक जागरण (24 Nov)</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-171.jpeg" class="badge badge-light border p-1" title="स्वदेश (24 Nov): बदहाल होता जा रहा आलू किसान"><i class="fa fa-newspaper-o mr-1"></i>स्वदेश (24 Nov)</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-169.jpeg" class="badge badge-light border p-1" title="हिन्दुस्तान (24 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार"><i class="fa fa-newspaper-o mr-1"></i>हिन्दुस्तान (24 Nov)</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-170.jpeg" class="badge badge-light border p-1" title="संवाद (24 Nov): महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा"><i class="fa fa-newspaper-o mr-1"></i>संवाद (24 Nov)</a>
                     <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-173.jpeg" class="badge badge-light border p-1" title="शोक संदेश: श्रीमती सरोज देवी जी"><i class="fa fa-heart mr-1"></i>शोक संदेश</a>
                     <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-150.jpeg" class="badge badge-light border p-1" title="हल्ला बोल किसान महारैली घोषणा पोस्टर"><i class="fa fa-picture-o mr-1"></i>महारैली घोषणा पोस्टर</a>
                     <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-145.jpeg" class="badge badge-light border p-1" title="हिन्दुस्तान: 18 नवंबर सादाबाद विराट किसान पंचायत"><i class="fa fa-newspaper-o mr-1"></i>हिन्दुस्तान कवरेज</a>
@@ -906,55 +906,55 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
-                    <!-- Item: Dainik Jagran 19 Nov (news-172) -->
+                    <!-- Item: Dainik Jagran 24 Nov (news-172) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-172.jpeg">
                         <img src="img/news/latest-news/news-172.jpeg" alt="दैनिक जागरण: अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
                       </a>
                       <div style="line-height: 1.3;">
                         <a data-lightbox="jansabha" href="img/news/latest-news/news-172.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
-                          दैनिक जागरण (19 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल की हल्ला बोल रैली सादाबाद
+                          दैनिक जागरण (24 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल की हल्ला बोल रैली सादाबाद
                         </a>
-                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> दैनिक जागरण सादाबाद • 19 Nov 2026</span>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> दैनिक जागरण सादाबाद • 24 Nov 2026</span>
                       </div>
                     </div>
 
-                    <!-- Item: Swadesh 19 Nov (news-171) -->
+                    <!-- Item: Swadesh 24 Nov (news-171) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-171.jpeg">
                         <img src="img/news/latest-news/news-171.jpeg" alt="स्वदेश: बदहाल होता जा रहा आलू किसान" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
                       </a>
                       <div style="line-height: 1.3;">
                         <a data-lightbox="jansabha" href="img/news/latest-news/news-171.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
-                          स्वदेश (19 Nov): बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा
+                          स्वदेश (24 Nov): बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा
                         </a>
-                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> स्वदेश मुख्य संस्करण • 19 Nov 2026</span>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> स्वदेश मुख्य संस्करण • 24 Nov 2026</span>
                       </div>
                     </div>
 
-                    <!-- Item: Hindustan 19 Nov (news-169) -->
+                    <!-- Item: Hindustan 24 Nov (news-169) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-169.jpeg">
                         <img src="img/news/latest-news/news-169.jpeg" alt="हिन्दुस्तान: किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
                       </a>
                       <div style="line-height: 1.3;">
                         <a data-lightbox="jansabha" href="img/news/latest-news/news-169.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
-                          हिन्दुस्तान (19 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार : चौधरी सुनील सिंह
+                          हिन्दुस्तान (24 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार : चौधरी सुनील सिंह
                         </a>
-                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> हिन्दुस्तान समाचार ब्यूरो • 19 Nov 2026</span>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> हिन्दुस्तान समाचार ब्यूरो • 24 Nov 2026</span>
                       </div>
                     </div>
 
-                    <!-- Item: Samwad 19 Nov (news-170) -->
+                    <!-- Item: Samwad 24 Nov (news-170) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-170.jpeg">
                         <img src="img/news/latest-news/news-170.jpeg" alt="संवाद: महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
                       </a>
                       <div style="line-height: 1.3;">
                         <a data-lightbox="jansabha" href="img/news/latest-news/news-170.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
-                          संवाद (19 Nov): महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा — राष्ट्रीय अध्यक्ष का स्वागत
+                          संवाद (24 Nov): महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा — राष्ट्रीय अध्यक्ष का स्वागत
                         </a>
-                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> संवाद समाचार सेवा • 19 Nov 2026</span>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> संवाद समाचार सेवा • 24 Nov 2026</span>
                       </div>
                     </div>
 
@@ -967,7 +967,7 @@
                         <a data-lightbox="jansabha" href="img/news/latest-news/news-173.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
                           शोक संदेश: श्रीमती सरोज देवी जी (पूज्य माताजी श्री संदीप तोमर) को लोकदल परिवार की भावभीनी श्रद्धांजलि
                         </a>
-                        <span class="d-block text-secondary font-weight-bold" style="font-size: 11px;"><i class="fa fa-heart"></i> लोकदल केंद्रीय कार्यालय • 22 Nov 2026</span>
+                        <span class="d-block text-secondary font-weight-bold" style="font-size: 11px;"><i class="fa fa-heart"></i> लोकदल केंद्रीय कार्यालय • 24 Nov 2026</span>
                       </div>
                     </div>
 
@@ -980,20 +980,20 @@
                         <a href="video/wp-video-24.mp4" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
                           🔴 एक्सक्लूसिव वीडियो: 58 गाँव विशाल महासम्मेलन एवं स्वागत समारोह — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
                         </a>
-                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-play-circle"></i> ग्राउंड वीडियो कवरेज • 22 Nov 2026</span>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-play-circle"></i> ग्राउंड वीडियो कवरेज • 24 Nov 2026</span>
                       </div>
                     </div>
 
-                    <!-- Item: 58 Gaon Mahasammelan 22 Nov (news-166 & 154) -->
+                    <!-- Item: 58 Gaon Mahasammelan 24 Nov (news-166 & 154) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-166.jpeg">
                         <img src="img/news/latest-news/news-166.jpeg" alt="58 गाँव का विशाल महासम्मेलन" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
                       </a>
                       <div style="line-height: 1.3;">
                         <a data-lightbox="jansabha" href="img/news/latest-news/news-166.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
-                          58 गाँव का विशाल महासम्मेलन (22 Nov): राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का स्वागत व ऐतिहासिक उद्बोधन (15 नई तस्वीरें)
+                          58 गाँव का विशाल महासम्मेलन (24 Nov): राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का स्वागत व ऐतिहासिक उद्बोधन (15 नई तस्वीरें)
                         </a>
-                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-camera"></i> 58 गाँव महासम्मेलन एवं भण्डारा • 22 Nov 2026</span>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-camera"></i> 58 गाँव महासम्मेलन एवं भण्डारा • 24 Nov 2026</span>
                       </div>
                     </div>
 
@@ -1006,7 +1006,7 @@
                         <a href="https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
                           दैनिक भास्कर: लोकदल ने आलू MSP 1600 रुपए तय करने का ऐलान किया — सादाबाद रैली में सुनील सिंह ने केंद्र व प्रदेश सरकार को घेरा
                         </a>
-                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> दैनिक भास्कर डिजिटल रिपोर्ट • 19 Nov 2026</span>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> दैनिक भास्कर डिजिटल रिपोर्ट • 24 Nov 2026</span>
                       </div>
                     </div>
 
@@ -1019,7 +1019,7 @@
                         <a href="https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
                           IANS VIDEO: यूपी प्रदेश अध्यक्ष पंकज चौधरी खुद गोरखपुर से हैं, जानते हैं जनता कितनी त्रस्त है : लोकदल अध्यक्ष सुनील सिंह
                         </a>
-                        <span class="d-block font-weight-bold" style="font-size: 11px; color: #333;"><i class="fa fa-twitter"></i> IANS News Agency (X/Twitter) • 19 Nov 2026</span>
+                        <span class="d-block font-weight-bold" style="font-size: 11px; color: #333;"><i class="fa fa-twitter"></i> IANS News Agency (X/Twitter) • 24 Nov 2026</span>
                       </div>
                     </div>
 
@@ -1032,7 +1032,7 @@
                         <a href="https://www.facebook.com/share/p/1Mmwdd6JtK/" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
                           Facebook: किसान-मजदूर की मजबूत भागीदारी सुनिश्चित करेगा लोकदल — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
                         </a>
-                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> आधिकारिक फेसबुक पोस्ट • 19 Nov 2026</span>
+                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> आधिकारिक फेसबुक पोस्ट • 24 Nov 2026</span>
                       </div>
                     </div>
 
@@ -1045,7 +1045,7 @@
                         <a href="https://www.facebook.com/share/v/1A1q2bthSV/" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
                           Facebook Video: सादाबाद में उमड़ा किसानों का जनसैलाब — आलू किसानों के हक में विशाल जनसभा
                         </a>
-                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> फेसबुक वीडियो रील • 19 Nov 2026</span>
+                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> फेसबुक वीडियो रील • 24 Nov 2026</span>
                       </div>
                     </div>
 
@@ -1058,7 +1058,7 @@
                         <a href="https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw==" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
                           Instagram रील: सच्चाई अब जनता के सामने है — न बंटेंगे, न बिकेंगे, 2027 में PDA की एकजुटता का संकल्प
                         </a>
-                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-instagram"></i> Instagram Reel • 19 Nov 2026</span>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-instagram"></i> Instagram Reel • 24 Nov 2026</span>
                       </div>
                     </div>
 
@@ -5092,19 +5092,19 @@
             </div>
             <?php
               $latestDailyUpdates = [
-                  ['img' => 'img/news/latest-news/news-172.jpeg', 'title' => 'दैनिक जागरण (19 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल की हल्ला बोल रैली सादाबाद', 'desc' => 'Dainik Jagran Sadabad - 19 Nov 2026', 'url' => 'img/news/latest-news/news-172.jpeg'],
-                  ['img' => 'img/news/latest-news/news-171.jpeg', 'title' => 'स्वदेश (19 Nov): बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा', 'desc' => 'Swadesh Agra Main Edition - 19 Nov 2026', 'url' => 'img/news/latest-news/news-171.jpeg'],
-                  ['img' => 'img/news/latest-news/news-169.jpeg', 'title' => 'हिन्दुस्तान (19 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार: सुनील सिंह', 'desc' => 'Hindustan Daily Sadabad - 19 Nov 2026', 'url' => 'img/news/latest-news/news-169.jpeg'],
-                  ['img' => 'img/news/latest-news/news-170.jpeg', 'title' => 'संवाद (19 Nov): महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा — राष्ट्रीय अध्यक्ष का स्वागत', 'desc' => 'Samwad News Service - 19 Nov 2026', 'url' => 'img/news/latest-news/news-170.jpeg'],
-                  ['img' => 'img/news/latest-news/news-173.jpeg', 'title' => 'शोक संदेश: श्रीमती सरोज देवी जी के निधन पर लोकदल परिवार की भावभीनी श्रद्धांजलि — ॐ शांति', 'desc' => 'Lokdal Shok Sandesh - 22 Nov 2026', 'url' => 'img/news/latest-news/news-173.jpeg'],
-                  ['img' => 'video/wp-video-24-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो] 58 गाँव विशाल महासम्मेलन एवं स्वागत समारोह — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Exclusive Video - 22 Nov 2026', 'url' => 'video/wp-video-24.mp4'],
-                  ['img' => 'img/news/latest-news/news-166.jpeg', 'title' => '58 गाँव विशाल महासम्मेलन (22 Nov): राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का स्वागत एवं ऐतिहासिक उद्बोधन', 'desc' => '58 Villages Mahasammelan & Bhandara - 22 Nov 2026', 'url' => 'img/news/latest-news/news-166.jpeg'],
-                  ['img' => 'img/news/latest-news/news-154.jpeg', 'title' => 'श्रीमद् भागवत कथा ज्ञान यज्ञ: 58 गाँव के किसानों व जनता के बीच पहुंचे राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Kisan Mahasammelan Special - 22 Nov 2026', 'url' => 'img/news/latest-news/news-154.jpeg'],
-                  ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'दैनिक भास्कर: लोकदल ने आलू MSP 1600 रुपए तय करने का ऐलान किया — सादाबाद रैली में सुनील सिंह ने केंद्र व प्रदेश सरकार को घेरा', 'desc' => 'Dainik Bhaskar Digital - 19 Nov 2026', 'url' => 'https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D'],
-                  ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'IANS Video: गोरखपुर की जनता त्रस्त है, पंकज चौधरी खुद जमीनी हकीकत जानते हैं : सुनील सिंह', 'desc' => 'IANS News Agency (X) - 19 Nov 2026', 'url' => 'https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
-                  ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'Facebook पोस्ट: किसान-मजदूर की मजबूत भागीदारी सुनिश्चित करेगा लोकदल — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Lokdal Official Facebook - 19 Nov 2026', 'url' => 'https://www.facebook.com/share/p/1Mmwdd6JtK/'],
-                  ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'Facebook वीडियो: सादाबाद में उमड़ा किसानों का जनसैलाब — आलू किसान आंदोलन जनसभा', 'desc' => 'Facebook Video - 19 Nov 2026', 'url' => 'https://www.facebook.com/share/v/1A1q2bthSV/'],
-                  ['img' => 'img/news/latest-news/news-144.jpeg', 'title' => 'Instagram रील: सच्चाई अब जनता के सामने है — न बंटेंगे, न बिकेंगे, 2027 PDA संकल्प', 'desc' => 'Instagram Reel - 19 Nov 2026', 'url' => 'https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw=='],
+                  ['img' => 'img/news/latest-news/news-172.jpeg', 'title' => 'दैनिक जागरण (24 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल की हल्ला बोल रैली सादाबाद', 'desc' => 'Dainik Jagran Sadabad - 24 Nov 2026', 'url' => 'img/news/latest-news/news-172.jpeg'],
+                  ['img' => 'img/news/latest-news/news-171.jpeg', 'title' => 'स्वदेश (24 Nov): बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा', 'desc' => 'Swadesh Agra Main Edition - 24 Nov 2026', 'url' => 'img/news/latest-news/news-171.jpeg'],
+                  ['img' => 'img/news/latest-news/news-169.jpeg', 'title' => 'हिन्दुस्तान (24 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार: सुनील सिंह', 'desc' => 'Hindustan Daily Sadabad - 24 Nov 2026', 'url' => 'img/news/latest-news/news-169.jpeg'],
+                  ['img' => 'img/news/latest-news/news-170.jpeg', 'title' => 'संवाद (24 Nov): महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा — राष्ट्रीय अध्यक्ष का स्वागत', 'desc' => 'Samwad News Service - 24 Nov 2026', 'url' => 'img/news/latest-news/news-170.jpeg'],
+                  ['img' => 'img/news/latest-news/news-173.jpeg', 'title' => 'शोक संदेश: श्रीमती सरोज देवी जी के निधन पर लोकदल परिवार की भावभीनी श्रद्धांजलि — ॐ शांति', 'desc' => 'Lokdal Shok Sandesh - 24 Nov 2026', 'url' => 'img/news/latest-news/news-173.jpeg'],
+                  ['img' => 'video/wp-video-24-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो] 58 गाँव विशाल महासम्मेलन एवं स्वागत समारोह — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Exclusive Video - 24 Nov 2026', 'url' => 'video/wp-video-24.mp4'],
+                  ['img' => 'img/news/latest-news/news-166.jpeg', 'title' => '58 गाँव विशाल महासम्मेलन (24 Nov): राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का स्वागत एवं ऐतिहासिक उद्बोधन', 'desc' => '58 Villages Mahasammelan & Bhandara - 24 Nov 2026', 'url' => 'img/news/latest-news/news-166.jpeg'],
+                  ['img' => 'img/news/latest-news/news-154.jpeg', 'title' => 'श्रीमद् भागवत कथा ज्ञान यज्ञ: 58 गाँव के किसानों व जनता के बीच पहुंचे राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Kisan Mahasammelan Special - 24 Nov 2026', 'url' => 'img/news/latest-news/news-154.jpeg'],
+                  ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'दैनिक भास्कर: लोकदल ने आलू MSP 1600 रुपए तय करने का ऐलान किया — सादाबाद रैली में सुनील सिंह ने केंद्र व प्रदेश सरकार को घेरा', 'desc' => 'Dainik Bhaskar Digital - 24 Nov 2026', 'url' => 'https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D'],
+                  ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'IANS Video: गोरखपुर की जनता त्रस्त है, पंकज चौधरी खुद जमीनी हकीकत जानते हैं : सुनील सिंह', 'desc' => 'IANS News Agency (X) - 24 Nov 2026', 'url' => 'https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
+                  ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'Facebook पोस्ट: किसान-मजदूर की मजबूत भागीदारी सुनिश्चित करेगा लोकदल — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Lokdal Official Facebook - 24 Nov 2026', 'url' => 'https://www.facebook.com/share/p/1Mmwdd6JtK/'],
+                  ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'Facebook वीडियो: सादाबाद में उमड़ा किसानों का जनसैलाब — आलू किसान आंदोलन जनसभा', 'desc' => 'Facebook Video - 24 Nov 2026', 'url' => 'https://www.facebook.com/share/v/1A1q2bthSV/'],
+                  ['img' => 'img/news/latest-news/news-144.jpeg', 'title' => 'Instagram रील: सच्चाई अब जनता के सामने है — न बंटेंगे, न बिकेंगे, 2027 PDA संकल्प', 'desc' => 'Instagram Reel - 24 Nov 2026', 'url' => 'https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw=='],
                   ['img' => 'img/news/latest-news/news-153.jpeg', 'title' => 'स्वदेश (18 Nov): भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — मतदाता सूची पर सुनील सिंह के तीखे सवाल', 'desc' => 'Swadesh Lucknow Main Edition - 18 Nov 2026', 'url' => 'img/news/latest-news/news-153.jpeg'],
                   ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'किसानों का हल्ला बोल: 18 नवंबर सादाबाद (हाथरस) — आलू किसान बदहाल, केंद्र व राज्य सरकार से सवाल', 'desc' => 'Lokdal Kisan Rally Sadabad - 18 Nov 2026', 'url' => 'img/news/latest-news/news-152.jpeg'],
                   ['img' => 'https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg', 'title' => '🔴 YouTube LIVE: लोकदल के नेतृत्व में किसानों का हल्ला बोल – सादाबाद, हाथरस से सीधा प्रसारण 2026', 'desc' => 'YouTube Live - 18 Nov 2026', 'url' => 'https://www.youtube.com/live/ySJjillup_s?feature=shared'],
@@ -5445,10 +5445,10 @@
           </div>
           <?php 
             $ourServicesArr = [
-                ['img' => 'video/wp-video-24-thumb.jpg', 'video' => 'video/wp-video-24.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो] 58 गाँव विशाल महासम्मेलन एवं स्वागत समारोह — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => '58 गाँव महासम्मेलन में उमड़ा किसानों का जनसैलाब, भव्य स्वागत व उद्बोधन', 'date' => '22 Nov 2026 • Exclusive Video'],
-                ['img' => 'img/news/latest-news/news-172.jpeg', 'video' => 'img/news/latest-news/news-172.jpeg', 'name' => 'दैनिक जागरण: ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल की हल्ला बोल रैली सादाबाद', 'desc' => 'दैनिक जागरण विशेष समाचार रिपोर्ट', 'date' => '19 Nov 2026 • Dainik Jagran'],
-                ['img' => 'img/news/latest-news/news-171.jpeg', 'video' => 'img/news/latest-news/news-171.jpeg', 'name' => 'स्वदेश: बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा', 'desc' => 'स्वदेश आगरा मुख्य संस्करण विशेष कवरेज', 'date' => '19 Nov 2026 • Swadesh'],
-                ['img' => 'img/news/latest-news/news-169.jpeg', 'video' => 'img/news/latest-news/news-169.jpeg', 'name' => 'हिन्दुस्तान: किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार: सुनील सिंह', 'desc' => 'दैनिक हिन्दुस्तान विशेष संवाददाता रिपोर्ट', 'date' => '19 Nov 2026 • Hindustan'],
+                ['img' => 'video/wp-video-24-thumb.jpg', 'video' => 'video/wp-video-24.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो] 58 गाँव विशाल महासम्मेलन एवं स्वागत समारोह — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => '58 गाँव महासम्मेलन में उमड़ा किसानों का जनसैलाब, भव्य स्वागत व उद्बोधन', 'date' => '24 Nov 2026 • Exclusive Video'],
+                ['img' => 'img/news/latest-news/news-172.jpeg', 'video' => 'img/news/latest-news/news-172.jpeg', 'name' => 'दैनिक जागरण: ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल की हल्ला बोल रैली सादाबाद', 'desc' => 'दैनिक जागरण विशेष समाचार रिपोर्ट', 'date' => '24 Nov 2026 • Dainik Jagran'],
+                ['img' => 'img/news/latest-news/news-171.jpeg', 'video' => 'img/news/latest-news/news-171.jpeg', 'name' => 'स्वदेश: बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा', 'desc' => 'स्वदेश आगरा मुख्य संस्करण विशेष कवरेज', 'date' => '24 Nov 2026 • Swadesh'],
+                ['img' => 'img/news/latest-news/news-169.jpeg', 'video' => 'img/news/latest-news/news-169.jpeg', 'name' => 'हिन्दुस्तान: किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार: सुनील सिंह', 'desc' => 'दैनिक हिन्दुस्तान विशेष संवाददाता रिपोर्ट', 'date' => '24 Nov 2026 • Hindustan'],
                 ['img' => 'img/news/latest-news/news-151.jpeg', 'video' => 'img/news/latest-news/news-151.jpeg', 'name' => 'तीसरा विकल्प: बीजेपी के चिंतन शिविर पर लोकदल का हमला — मथुरा में सीटों के सौदे पर चिंतन: सुनील सिंह', 'desc' => 'तीसरा विकल्प न्यूज़ ब्यूरो विशेष रिपोर्ट', 'date' => '17 Nov 2026 • Teesra Vikalp'],
                 ['img' => 'img/news/latest-news/news-150.jpeg', 'video' => 'img/news/latest-news/news-150.jpeg', 'name' => 'हल्ला बोल किसान महारैली: 18 नवंबर सादाबाद — आलू किसान बदहाल, केंद्र व राज्य सरकार से सवाल', 'desc' => 'सादाबाद विराट किसान महारैली आधिकारिक जन-आह्वान', 'date' => '18 Nov 2026 • Official Rally'],
                 ['img' => 'img/news/latest-news/news-144.jpeg', 'video' => 'img/news/latest-news/news-144.jpeg', 'name' => 'परिवर्तन 2027: लोकदल - INDIA गठबंधन — “अबकी बार, INDIA गठबंधन सरकार”', 'desc' => 'लोकदल राष्ट्रीय नेतृत्व एवं प्रदेश पदाधिकारी अभियान', 'date' => '15 Nov 2026 • Official Campaign'],
