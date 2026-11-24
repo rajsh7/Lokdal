@@ -100,6 +100,11 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'दैनिक भास्कर: लोकदल ने आलू एमएसपी 1600 रु तय करने का ऐलान किया', 'date' => '19 Nov 2026', 'url' => 'https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D'],
+                                    ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'IANS Video: गोरखपुर की जनता त्रस्त है — सुनील सिंह', 'date' => '19 Nov 2026', 'url' => 'https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
+                                    ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'Facebook पोस्ट: किसान-मजदूर की मजबूत भागीदारी सुनिश्चित करेगा लोकदल', 'date' => '19 Nov 2026', 'url' => 'https://www.facebook.com/share/p/1Mmwdd6JtK/'],
+                                    ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'Facebook Video: सादाबाद किसान जनसभा व आलू किसान आंदोलन', 'date' => '19 Nov 2026', 'url' => 'https://www.facebook.com/share/v/1A1q2bthSV/'],
+                                    ['img' => 'img/news/latest-news/news-144.jpeg', 'title' => 'Instagram रील: सच्चाई अब जनता के सामने है — 2027 PDA संकल्प', 'date' => '19 Nov 2026', 'url' => 'https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw=='],
                                     ['img' => 'https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg', 'title' => '🔴 YouTube LIVE: किसानों का हल्ला बोल – सादाबाद, हाथरस से सीधा प्रसारण 2026', 'date' => '18 Nov 2026', 'url' => 'https://www.youtube.com/live/ySJjillup_s?feature=shared'],
                                     ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'Facebook Video: सादाबाद किसान हल्ला बोल महारैली 18 नवंबर 2026', 'date' => '18 Nov 2026', 'url' => 'https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr'],
                                     ['img' => 'img/news/latest-news/news-153.jpeg', 'title' => 'PTI Video: INDIA गठबंधन सीट-शेयरिंग पर सुनील सिंह', 'date' => '18 Nov 2026', 'url' => 'https://x.com/PTI_News/status/2122669908052136303'],

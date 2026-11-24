@@ -470,6 +470,40 @@ body{
                                                </span>
                                            </a>
                                        </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web news">
+                                           <a target="_blank" href="https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-150.jpeg" alt="दैनिक भास्कर: लोकदल ने आलू एमएसपी 1600 रुपए तय करने का ऐलान किया" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-151.jpeg" alt="IANS Video: गोरखपुर की जनता त्रस्त है — सुनील सिंह" loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web news">
+                                           <a target="_blank" href="https://www.facebook.com/share/p/1Mmwdd6JtK/" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-152.jpeg" alt="Facebook: किसान-मजदूर की मजबूत भागीदारी सुनिश्चित करेगा लोकदल" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.facebook.com/share/v/1A1q2bthSV/" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-150.jpeg" alt="Facebook Video: सादाबाद किसान जनसभा व आलू किसान आंदोलन" loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" target="_blank" href="https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw==" class="position-relative">
+                                               <img class="img-fluid w-100" src="../img/news/latest-news/news-144.jpeg" alt="Instagram रील: सच्चाई अब जनता के सामने है" loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
                                        <div class="col-md-6 col-lg-4 p-3 grid-item web video">
                                            <a data-fancybox="video" target="_blank" href="https://www.youtube.com/live/ySJjillup_s?feature=shared" class="position-relative">
                                                <img class="img-fluid w-100" src="https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg" alt="YouTube LIVE: लोकदल किसान हल्ला बोल सादाबाद 18 Nov 2026" loading="lazy" decoding="async">

@@ -324,6 +324,11 @@
                       <a href="https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> Facebook वीडियो</a>
                       <a href="https://x.com/PTI_News/status/2122669908052136303" target="_blank" class="btn btn-sm btn-outline-dark py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> PTI Video</a>
                       <a href="https://x.com/ians_india/status/2122718219870114294" target="_blank" class="btn btn-sm btn-outline-dark py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> IANS Video</a>
+                      <a href="https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> दैनिक भास्कर (आलू MSP ₹1600)</a>
+                      <a href="https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="btn btn-sm btn-outline-dark py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> IANS Video (गोरखपुर/भाजपा)</a>
+                      <a href="https://www.facebook.com/share/p/1Mmwdd6JtK/" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> किसान-मजदूर Facebook पोस्ट</a>
+                      <a href="https://www.facebook.com/share/v/1A1q2bthSV/" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> किसान जनसभा FB Video</a>
+                      <a href="https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw==" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-instagram"></i> Instagram रील (2027 संकल्प)</a>
                     </div>
                   </div>
                 </div>
@@ -896,6 +901,71 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Dainik Bhaskar Sadabad MSP 1600 -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a href="https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D" target="_blank">
+                        <img src="img/news/latest-news/news-150.jpeg" alt="दैनिक भास्कर: लोकदल ने आलू एमएसपी 1600 रु तय करने का ऐलान किया" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          दैनिक भास्कर: लोकदल ने आलू MSP 1600 रुपए तय करने का ऐलान किया — सादाबाद रैली में सुनील सिंह ने केंद्र व प्रदेश सरकार को घेरा
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> दैनिक भास्कर डिजिटल रिपोर्ट • 19 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: IANS Video Gorakhpur Distressed -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #000 !important;">
+                      <a href="https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank">
+                        <img src="img/news/latest-news/news-151.jpeg" alt="IANS Video: गोरखपुर की जनता त्रस्त है — सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          IANS VIDEO: यूपी प्रदेश अध्यक्ष पंकज चौधरी खुद गोरखपुर से हैं, जानते हैं जनता कितनी त्रस्त है : लोकदल अध्यक्ष सुनील सिंह
+                        </a>
+                        <span class="d-block font-weight-bold" style="font-size: 11px; color: #333;"><i class="fa fa-twitter"></i> IANS News Agency (X/Twitter) • 19 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Facebook Post Kisan Mazdoor -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #1877f2 !important;">
+                      <a href="https://www.facebook.com/share/p/1Mmwdd6JtK/" target="_blank">
+                        <img src="img/news/latest-news/news-152.jpeg" alt="Facebook: किसान-मजदूर की मजबूत भागीदारी सुनिश्चित करेगा लोकदल" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.facebook.com/share/p/1Mmwdd6JtK/" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Facebook: किसान-मजदूर की मजबूत भागीदारी सुनिश्चित करेगा लोकदल — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                        </a>
+                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> आधिकारिक फेसबुक पोस्ट • 19 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Facebook Reel Video -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #1877f2 !important;">
+                      <a href="https://www.facebook.com/share/v/1A1q2bthSV/" target="_blank">
+                        <img src="img/news/latest-news/news-150.jpeg" alt="Facebook Video: सादाबाद किसान जनसभा व आंदोलन" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.facebook.com/share/v/1A1q2bthSV/" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Facebook Video: सादाबाद में उमड़ा किसानों का जनसैलाब — आलू किसानों के हक में विशाल जनसभा
+                        </a>
+                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> फेसबुक वीडियो रील • 19 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Instagram Reel PDA Sankalp -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #E1306C !important;">
+                      <a href="https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw==" target="_blank">
+                        <img src="img/news/latest-news/news-144.jpeg" alt="Instagram Reel: सच्चाई अब जनता के सामने है" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw==" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Instagram रील: सच्चाई अब जनता के सामने है — न बंटेंगे, न बिकेंगे, 2027 में PDA की एकजुटता का संकल्प
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-instagram"></i> Instagram Reel • 19 Nov 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Swadesh 18 Nov (news-153) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-153.jpeg">
@@ -4905,6 +4975,11 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'दैनिक भास्कर: लोकदल ने आलू MSP 1600 रुपए तय करने का ऐलान किया — सादाबाद रैली में सुनील सिंह ने केंद्र व प्रदेश सरकार को घेरा', 'desc' => 'Dainik Bhaskar Digital - 19 Nov 2026', 'url' => 'https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D'],
+                  ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'IANS Video: गोरखपुर की जनता त्रस्त है, पंकज चौधरी खुद जमीनी हकीकत जानते हैं : सुनील सिंह', 'desc' => 'IANS News Agency (X) - 19 Nov 2026', 'url' => 'https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
+                  ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'Facebook पोस्ट: किसान-मजदूर की मजबूत भागीदारी सुनिश्चित करेगा लोकदल — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Lokdal Official Facebook - 19 Nov 2026', 'url' => 'https://www.facebook.com/share/p/1Mmwdd6JtK/'],
+                  ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'Facebook वीडियो: सादाबाद में उमड़ा किसानों का जनसैलाब — आलू किसान आंदोलन जनसभा', 'desc' => 'Facebook Video - 19 Nov 2026', 'url' => 'https://www.facebook.com/share/v/1A1q2bthSV/'],
+                  ['img' => 'img/news/latest-news/news-144.jpeg', 'title' => 'Instagram रील: सच्चाई अब जनता के सामने है — न बंटेंगे, न बिकेंगे, 2027 PDA संकल्प', 'desc' => 'Instagram Reel - 19 Nov 2026', 'url' => 'https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw=='],
                   ['img' => 'img/news/latest-news/news-153.jpeg', 'title' => 'स्वदेश (18 Nov): भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — मतदाता सूची पर सुनील सिंह के तीखे सवाल', 'desc' => 'Swadesh Lucknow Main Edition - 18 Nov 2026', 'url' => 'img/news/latest-news/news-153.jpeg'],
                   ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'किसानों का हल्ला बोल: 18 नवंबर सादाबाद (हाथरस) — आलू किसान बदहाल, केंद्र व राज्य सरकार से सवाल', 'desc' => 'Lokdal Kisan Rally Sadabad - 18 Nov 2026', 'url' => 'img/news/latest-news/news-152.jpeg'],
                   ['img' => 'https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg', 'title' => '🔴 YouTube LIVE: लोकदल के नेतृत्व में किसानों का हल्ला बोल – सादाबाद, हाथरस से सीधा प्रसारण 2026', 'desc' => 'YouTube Live - 18 Nov 2026', 'url' => 'https://www.youtube.com/live/ySJjillup_s?feature=shared'],
