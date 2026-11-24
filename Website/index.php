@@ -901,6 +901,19 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: 58 Gaon Mahasammelan 22 Nov (news-166 & 154) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-166.jpeg">
+                        <img src="img/news/latest-news/news-166.jpeg" alt="58 गाँव का विशाल महासम्मेलन" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-166.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          58 गाँव का विशाल महासम्मेलन (22 Nov): राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का स्वागत व ऐतिहासिक उद्बोधन (15 नई तस्वीरें)
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-camera"></i> 58 गाँव महासम्मेलन एवं भण्डारा • 22 Nov 2026</span>
+                      </div>
+                    </div>
+
                     <!-- Item: Dainik Bhaskar Sadabad MSP 1600 -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
                       <a href="https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D" target="_blank">
@@ -3884,6 +3897,22 @@
                         <div class="world-catagory-slider2 owl-carousel wow fadeInUpBig" data-wow-delay="0.4s">
                           <?php 
                             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-168.jpeg'],
+              ['img' => 'img/news/latest-news/news-167.jpeg'],
+              ['img' => 'img/news/latest-news/news-166.jpeg'],
+              ['img' => 'img/news/latest-news/news-165.jpeg'],
+              ['img' => 'img/news/latest-news/news-164.jpeg'],
+              ['img' => 'img/news/latest-news/news-163.jpeg'],
+              ['img' => 'img/news/latest-news/news-162.jpeg'],
+              ['img' => 'img/news/latest-news/news-161.jpeg'],
+              ['img' => 'img/news/latest-news/news-160.jpeg'],
+              ['img' => 'img/news/latest-news/news-159.jpeg'],
+              ['img' => 'img/news/latest-news/news-158.jpeg'],
+              ['img' => 'img/news/latest-news/news-157.jpeg'],
+              ['img' => 'img/news/latest-news/news-156.jpeg'],
+              ['img' => 'img/news/latest-news/news-155.jpeg'],
+              ['img' => 'img/news/latest-news/news-154.jpeg'],
+
                 ['img' => 'img/news/latest-news/news-118.jpeg',
                                        'title' => 'ज्ञानेश कुमार का सार्वजनिक महाभियोग — INDIA गठबंधन लड़ रहा है, लोकदल और किसान साथ हैं',
                                        'desc' => 'Lokdal Official Facebook - 30 Oct 2026',
@@ -4975,6 +5004,8 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-166.jpeg', 'title' => '58 गाँव विशाल महासम्मेलन (22 Nov): राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का स्वागत एवं ऐतिहासिक उद्बोधन', 'desc' => '58 Villages Mahasammelan & Bhandara - 22 Nov 2026', 'url' => 'img/news/latest-news/news-166.jpeg'],
+                  ['img' => 'img/news/latest-news/news-154.jpeg', 'title' => 'श्रीमद् भागवत कथा ज्ञान यज्ञ: 58 गाँव के किसानों व जनता के बीच पहुंचे राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Kisan Mahasammelan Special - 22 Nov 2026', 'url' => 'img/news/latest-news/news-154.jpeg'],
                   ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'दैनिक भास्कर: लोकदल ने आलू MSP 1600 रुपए तय करने का ऐलान किया — सादाबाद रैली में सुनील सिंह ने केंद्र व प्रदेश सरकार को घेरा', 'desc' => 'Dainik Bhaskar Digital - 19 Nov 2026', 'url' => 'https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D'],
                   ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'IANS Video: गोरखपुर की जनता त्रस्त है, पंकज चौधरी खुद जमीनी हकीकत जानते हैं : सुनील सिंह', 'desc' => 'IANS News Agency (X) - 19 Nov 2026', 'url' => 'https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
                   ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'Facebook पोस्ट: किसान-मजदूर की मजबूत भागीदारी सुनिश्चित करेगा लोकदल — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => 'Lokdal Official Facebook - 19 Nov 2026', 'url' => 'https://www.facebook.com/share/p/1Mmwdd6JtK/'],

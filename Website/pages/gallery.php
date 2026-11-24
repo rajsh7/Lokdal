@@ -207,7 +207,83 @@ body{
                                     
                                      <!--Karkarta Sambelan & Latest Press Updates-->
 
-                                      <!-- 1 Nov 2026 Ramlila Maidan Maha Rally & 31 Oct 2026 Impeachment Meet -->
+                                      <!-- 22 Nov 2026: 58 Gaon Vishal Prasad (Bhandara) & Kisan Mahasammelan (15 Photos) -->
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-44.jpeg" title="राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का जोरदार उद्बोधन — 58 गाँव विशाल महासम्मेलन (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-44.jpeg" alt="Chaudhary Sunil Singh addressing 58 villages Mahasammelan" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-45.jpeg" title="58 गाँव महासम्मेलन में उमड़ा किसानों व ग्रामीणों का जनसैलाब (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-45.jpeg" alt="Farmers gathering at 58 villages Mahasammelan" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-46.jpeg" title="विशाल जनसभा एवं सूर्यास्त का विहंगम दृश्य — 58 गाँव सम्मेलन (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-46.jpeg" alt="Panoramic sunset view of 58 villages Mahasammelan" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-47.jpeg" title="किसान जनसमूह राष्ट्रीय अध्यक्ष का सम्बोधन सुनते हुए (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-47.jpeg" alt="Gathering of farmers listening attentively" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-48.jpeg" title="मंच पर राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह, वरिष्ठ नेता एवं प्रमुख पदाधिकारी (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-48.jpeg" alt="Chaudhary Sunil Singh on stage with senior leaders" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-49.jpeg" title="राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का राजमार्ग पर भव्य स्वागत व माल्यार्पण (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-49.jpeg" alt="Grand welcome with garlands on highway convoy arrival" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-50.jpeg" title="कार्यकर्ताओं एवं समर्थकों द्वारा चौधरी सुनील सिंह का भव्य पुष्पवर्षा से स्वागत (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-50.jpeg" alt="Flower shower and warm reception by supporters" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-51.jpeg" title="चौधरी सुनील सिंह को साफा व फूलमाला पहनाते पार्टी पदाधिकारी (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-51.jpeg" alt="Felicitation with pagdi and garlands" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-52.jpeg" title="काफिले के स्वागत में उमड़े युवा एवं किसान कार्यकर्ता (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-52.jpeg" alt="Youth and party workers greeting the convoy" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-53.jpeg" title="राजमार्ग स्वागत स्थल पर लोकदल समर्थकों का भारी उत्साह (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-53.jpeg" alt="Lokdal supporters enthusiasm at convoy reception" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-54.jpeg" title="राष्ट्रीय अध्यक्ष के स्वागत में जुटे ग्रामीण एवं युवा साथी (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-54.jpeg" alt="Supporters and villagers welcoming National President" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-55.jpeg" title="कार्यकर्ताओं से आत्मीय संवाद करते चौधरी सुनील सिंह (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-55.jpeg" alt="Chaudhary Sunil Singh interacting with party workers" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-56.jpeg" title="58 गाँव का विशाल प्रसाद (भण्डारा) मंच पर चौधरी सुनील सिंह व प्रदेश नेतृत्व (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-56.jpeg" alt="Stage view of 58 villages Mahasammelan and Bhandara" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-57.jpeg" title="महासम्मेलन में किसानों के हक और सम्मान की बात रखते चौधरी सुनील सिंह (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-57.jpeg" alt="Chaudhary Sunil Singh speaking on farmer rights" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-58.jpeg" title="58 गाँव महासम्मेलन में उपस्थित विशाल जनसमूह का दृश्य (22 Nov 2026)">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-58.jpeg" alt="Wide view of the massive public gathering" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <!-- 1 Nov 2026 Ramlila Maidan Maha Rally & 31 Oct 2026 Impeachment Meet -->
                                       <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha delhichalo karkarta">
                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-37.jpeg"><img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-37.jpeg" alt="Chaudhary Sunil Singh leading Ramlila Maidan Maharally 1 Nov 2026" loading="lazy" decoding="async"></a>
                                       </div>

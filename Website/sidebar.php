@@ -100,6 +100,8 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-166.jpeg', 'title' => '58 गाँव विशाल महासम्मेलन (22 Nov): चौधरी सुनील सिंह का सम्बोधन', 'date' => '22 Nov 2026', 'url' => 'img/news/latest-news/news-166.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-154.jpeg', 'title' => 'महासम्मेलन मंच: 58 गाँव के किसानों के हक में हुंकार — सुनील सिंह', 'date' => '22 Nov 2026', 'url' => 'img/news/latest-news/news-154.jpeg'],
                                     ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'दैनिक भास्कर: लोकदल ने आलू एमएसपी 1600 रु तय करने का ऐलान किया', 'date' => '19 Nov 2026', 'url' => 'https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D'],
                                     ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'IANS Video: गोरखपुर की जनता त्रस्त है — सुनील सिंह', 'date' => '19 Nov 2026', 'url' => 'https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
                                     ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'Facebook पोस्ट: किसान-मजदूर की मजबूत भागीदारी सुनिश्चित करेगा लोकदल', 'date' => '19 Nov 2026', 'url' => 'https://www.facebook.com/share/p/1Mmwdd6JtK/'],
