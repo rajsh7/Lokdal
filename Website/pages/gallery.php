@@ -207,7 +207,42 @@ body{
                                     
                                      <!--Karkarta Sambelan & Latest Press Updates-->
 
-                                      <!-- 22 Nov 2026: 58 Gaon Vishal Prasad (Bhandara) & Kisan Mahasammelan (15 Photos) -->
+                                      <!-- 22 Nov 2026: 58 Gaon Mahasammelan Exclusive Video -->
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web video">
+                                           <a data-fancybox="video" href="../video/wp-video-24.mp4" class="position-relative">
+                                               <img class="img-fluid w-100" src="../video/wp-video-24-thumb.jpg" alt="58 गाँव विशाल महासम्मेलन एक्सक्लूसिव वीडियो 22 Nov 2026" loading="lazy" decoding="async">
+                                               <span class="icon icon-sm position-absolute mt-neg-6 ml-3">
+                                                   <i class="zmdi zmdi-play zmdi-hc-2x"></i>
+                                               </span>
+                                           </a>
+                                       </div>
+                                       <!-- 19-22 Nov 2026 Press Clippings & Posters -->
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-62.jpeg" title="दैनिक जागरण (19 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल हल्ला बोल रैली सादाबाद">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-62.jpeg" alt="दैनिक जागरण: अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-61.jpeg" title="स्वदेश (19 Nov): बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-61.jpeg" alt="स्वदेश: बदहाल होता जा रहा आलू किसान" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-59.jpeg" title="हिन्दुस्तान (19 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार: सुनील सिंह">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-59.jpeg" alt="हिन्दुस्तान: किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-60.jpeg" title="संवाद (19 Nov): महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा — राष्ट्रीय अध्यक्ष का स्वागत">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-60.jpeg" alt="संवाद: महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <div class="col-md-6 col-lg-4 p-3 grid-item web news poster photo">
+                                           <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-63.jpeg" title="शोक संदेश: श्रीमती सरोज देवी जी (लोकदल उत्तर प्रदेश प्रभारी श्री संदीप तोमर जी की पूज्य माताजी) को भावभीनी श्रद्धांजलि">
+                                               <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-63.jpeg" alt="शोक संदेश: श्रीमती सरोज देवी जी को भावभीनी श्रद्धांजलि" loading="lazy" decoding="async">
+                                           </a>
+                                       </div>
+                                       <!-- 22 Nov 2026: 58 Gaon Vishal Prasad (Bhandara) & Kisan Mahasammelan (15 Photos) -->
                                        <div class="col-md-6 col-lg-4 p-3 grid-item Jansabha karkarta photo">
                                            <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-44.jpeg" title="राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का जोरदार उद्बोधन — 58 गाँव विशाल महासम्मेलन (22 Nov 2026)">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-44.jpeg" alt="Chaudhary Sunil Singh addressing 58 villages Mahasammelan" loading="lazy" decoding="async">

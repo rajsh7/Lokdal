@@ -100,6 +100,12 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-172.jpeg', 'title' => 'दैनिक जागरण: ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — सुनील सिंह', 'date' => '19 Nov 2026', 'url' => 'img/news/latest-news/news-172.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-171.jpeg', 'title' => 'स्वदेश: बदहाल होता जा रहा आलू किसान — सादाबाद महापंचायत', 'date' => '19 Nov 2026', 'url' => 'img/news/latest-news/news-171.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-169.jpeg', 'title' => 'हिन्दुस्तान: किसानों को एमएसपी की गारंटी नहीं दे रही सरकार — सुनील सिंह', 'date' => '19 Nov 2026', 'url' => 'img/news/latest-news/news-169.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-170.jpeg', 'title' => 'संवाद: महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा', 'date' => '19 Nov 2026', 'url' => 'img/news/latest-news/news-170.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-173.jpeg', 'title' => 'शोक संदेश: श्रीमती सरोज देवी जी को भावभीनी श्रद्धांजलि — ॐ शांति', 'date' => '22 Nov 2026', 'url' => 'img/news/latest-news/news-173.jpeg'],
+                                    ['img' => 'video/wp-video-24-thumb.jpg', 'title' => '🔴 [वीडियो] 58 गाँव विशाल महासम्मेलन एवं स्वागत समारोह (22 Nov)', 'date' => '22 Nov 2026', 'url' => 'video/wp-video-24.mp4'],
                                     ['img' => 'img/news/latest-news/news-166.jpeg', 'title' => '58 गाँव विशाल महासम्मेलन (22 Nov): चौधरी सुनील सिंह का सम्बोधन', 'date' => '22 Nov 2026', 'url' => 'img/news/latest-news/news-166.jpeg'],
                                     ['img' => 'img/news/latest-news/news-154.jpeg', 'title' => 'महासम्मेलन मंच: 58 गाँव के किसानों के हक में हुंकार — सुनील सिंह', 'date' => '22 Nov 2026', 'url' => 'img/news/latest-news/news-154.jpeg'],
                                     ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'दैनिक भास्कर: लोकदल ने आलू एमएसपी 1600 रु तय करने का ऐलान किया', 'date' => '19 Nov 2026', 'url' => 'https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D'],
