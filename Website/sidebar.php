@@ -100,6 +100,13 @@ $leaders = $con ? mysqli_query($con,$sql) : false;
                             <div class="widget-content">
                                 <?php
                                 $sidebarHighlights = [
+                                    ['img' => 'img/news/latest-news/news-174.jpeg', 'title' => 'विधान केसरी: ‘संविधान दिवस मनाने से नहीं, मर्यादा निभाने से होगा सच्चा सम्मान’ — सुनील सिंह', 'date' => '28 Nov 2026', 'url' => 'img/news/latest-news/news-174.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-175.jpeg', 'title' => 'बीएनटी: संविधान दिवस मनाने से नहीं, मर्यादा निभाने से होगा सम्मान — सुनील सिंह', 'date' => '28 Nov 2026', 'url' => 'img/news/latest-news/news-175.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-176.jpeg', 'title' => 'निष्पक्ष दिव्य संदेश: संविधान दिवस पर मर्यादा निभाने से होगा सम्मान — सुनील सिंह', 'date' => '28 Nov 2026', 'url' => 'img/news/latest-news/news-176.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-177.jpeg', 'title' => 'धारा न्यूज़: संविधान दिवस पर मर्यादा निभाने से होगा सम्मान — सुनील सिंह', 'date' => '28 Nov 2026', 'url' => 'img/news/latest-news/news-177.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-178.jpeg', 'title' => 'दैनिक चसं: संविधान की मूल भावना व सामाजिक न्याय की रक्षा — सुनील सिंह', 'date' => '28 Nov 2026', 'url' => 'img/news/latest-news/news-178.jpeg'],
+                                    ['img' => 'img/news/latest-news/news-174.jpeg', 'title' => 'समर सलील: भाजपा के परिसीमन बयान पर चौधरी सुनील सिंह का बड़ा बयान', 'date' => '28 Nov 2026', 'url' => 'https://samarsaleel.com/sunil-singh-bjp-delimitation-statement/537238'],
+                                    ['img' => 'img/news/latest-news/news-175.jpeg', 'title' => 'Facebook Reel: राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का नया वीडियो संदेश', 'date' => '28 Nov 2026', 'url' => 'https://www.facebook.com/share/r/1Cdavh6gM6/?mibextid=wwXIfr'],
                                     ['img' => 'img/news/latest-news/news-172.jpeg', 'title' => 'दैनिक जागरण: ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — सुनील सिंह', 'date' => '24 Nov 2026', 'url' => 'img/news/latest-news/news-172.jpeg'],
                                     ['img' => 'img/news/latest-news/news-171.jpeg', 'title' => 'स्वदेश: बदहाल होता जा रहा आलू किसान — सादाबाद महापंचायत', 'date' => '24 Nov 2026', 'url' => 'img/news/latest-news/news-171.jpeg'],
                                     ['img' => 'img/news/latest-news/news-169.jpeg', 'title' => 'हिन्दुस्तान: किसानों को एमएसपी की गारंटी नहीं दे रही सरकार — सुनील सिंह', 'date' => '24 Nov 2026', 'url' => 'img/news/latest-news/news-169.jpeg'],

@@ -216,7 +216,33 @@ body{
                                                </span>
                                            </a>
                                        </div>
-                                       <!-- 19-24 Nov 2026 Press Clippings & Posters -->
+                                                                               <!-- 28 Nov 2026: Samvidhan Diwas Press Clippings (gallery-64 to gallery-68) -->
+                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
+                                            <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-64.jpeg" title="विधान केसरी (28 Nov 2026): ‘संविधान दिवस मनाने से नहीं, बल्कि उसकी मर्यादा निभाने से होगा सच्चा सम्मान’ — चौधरी सुनील सिंह">
+                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-64.jpeg" alt="विधान केसरी: संविधान दिवस पर चौधरी सुनील सिंह" loading="lazy" decoding="async">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
+                                            <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-65.jpeg" title="बीएनटी राष्ट्रीय दैनिक (28 Nov 2026): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह">
+                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-65.jpeg" alt="बीएनटी: संविधान दिवस पर सुनील सिंह" loading="lazy" decoding="async">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
+                                            <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-66.jpeg" title="निष्पक्ष दिव्य संदेश (28 Nov 2026): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह">
+                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-66.jpeg" alt="निष्पक्ष दिव्य संदेश: संविधान दिवस पर सुनील सिंह" loading="lazy" decoding="async">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
+                                            <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-67.jpeg" title="धारा न्यूज़ (28 Nov 2026): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह">
+                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-67.jpeg" alt="धारा न्यूज़: संविधान दिवस पर सुनील सिंह" loading="lazy" decoding="async">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
+                                            <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-68.jpeg" title="दैनिक चसं (28 Nov 2026): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह">
+                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-68.jpeg" alt="दैनिक चसं: संविधान दिवस पर सुनील सिंह" loading="lazy" decoding="async">
+                                            </a>
+                                        </div>
+                                        <!-- 19-24 Nov 2026 Press Clippings & Posters -->
                                        <div class="col-md-6 col-lg-4 p-3 grid-item web news photo">
                                            <a data-fancybox="gallery" href="../img/gallery/latest-gallery/gallery-62.jpeg" title="दैनिक जागरण (24 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल हल्ला बोल रैली सादाबाद">
                                                <img class="img-fluid w-100" src="../img/gallery/latest-gallery/gallery-62.jpeg" alt="दैनिक जागरण: अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार" loading="lazy" decoding="async">

@@ -298,6 +298,13 @@
                     </div>
                   </div>
                   <div class="d-flex mt-1 justify-content-center mb-2 flex-wrap" style="gap: 5px;">
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-174.jpeg" class="badge badge-light border p-1" title="विधान केसरी (28 Nov): ‘संविधान दिवस मनाने से नहीं, मर्यादा निभाने से होगा सच्चा सम्मान’"><i class="fa fa-newspaper-o mr-1"></i>विधान केसरी (28 Nov)</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-175.jpeg" class="badge badge-light border p-1" title="बीएनटी (28 Nov): ‘संविधान की मर्यादा निभाने से होगा सम्मान’"><i class="fa fa-newspaper-o mr-1"></i>बीएनटी (28 Nov)</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-176.jpeg" class="badge badge-light border p-1" title="दिव्य संदेश (28 Nov): संविधान दिवस"><i class="fa fa-newspaper-o mr-1"></i>दिव्य संदेश (28 Nov)</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-177.jpeg" class="badge badge-light border p-1" title="धारा न्यूज़ (28 Nov): संविधान दिवस"><i class="fa fa-newspaper-o mr-1"></i>धारा न्यूज़ (28 Nov)</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-178.jpeg" class="badge badge-light border p-1" title="दैनिक चसं (28 Nov): संविधान दिवस"><i class="fa fa-newspaper-o mr-1"></i>दैनिक चसं (28 Nov)</a>
+                    <a href="https://samarsaleel.com/sunil-singh-bjp-delimitation-statement/537238" target="_blank" class="badge badge-light border p-1" title="समर सलील (28 Nov): भाजपा परिसीमन बयान"><i class="fa fa-external-link mr-1"></i>समर सलील (28 Nov)</a>
+                    <a href="https://www.facebook.com/share/r/1Cdavh6gM6/?mibextid=wwXIfr" target="_blank" class="badge badge-light border p-1" title="Facebook Reel (28 Nov)"><i class="fa fa-facebook-square mr-1"></i>FB Reel (28 Nov)</a>
                     <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-172.jpeg" class="badge badge-light border p-1" title="दैनिक जागरण (24 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’"><i class="fa fa-newspaper-o mr-1"></i>दैनिक जागरण (24 Nov)</a>
                     <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-171.jpeg" class="badge badge-light border p-1" title="स्वदेश (24 Nov): बदहाल होता जा रहा आलू किसान"><i class="fa fa-newspaper-o mr-1"></i>स्वदेश (24 Nov)</a>
                     <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-169.jpeg" class="badge badge-light border p-1" title="हिन्दुस्तान (24 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार"><i class="fa fa-newspaper-o mr-1"></i>हिन्दुस्तान (24 Nov)</a>
@@ -906,6 +913,96 @@
                   </div>
                   
                   <div class="row no-gutters" style="gap: 8px;">
+                    <!-- Item: Vidhan Kesari 28 Nov (news-174) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-174.jpeg">
+                        <img src="img/news/latest-news/news-174.jpeg" alt="विधान केसरी: संविधान दिवस पर चौधरी सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-174.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          विधान केसरी (28 Nov): ‘संविधान दिवस मनाने से नहीं, बल्कि उसकी मर्यादा निभाने से होगा सच्चा सम्मान’ — चौधरी सुनील सिंह
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> विधान केसरी लखनऊ • 28 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: BNT 28 Nov (news-175) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #00772D !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-175.jpeg">
+                        <img src="img/news/latest-news/news-175.jpeg" alt="बीएनटी: संविधान दिवस पर सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-175.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          बीएनटी (28 Nov): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह
+                        </a>
+                        <span class="d-block text-success font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> बीएनटी राष्ट्रीय दैनिक • 28 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Divya Sandesh 28 Nov (news-176) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #ca8a04 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-176.jpeg">
+                        <img src="img/news/latest-news/news-176.jpeg" alt="निष्पक्ष दिव्य संदेश: संविधान दिवस पर सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-176.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          निष्पक्ष दिव्य संदेश (28 Nov): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह
+                        </a>
+                        <span class="d-block text-warning font-weight-bold" style="font-size: 11px; color: #b45309 !important;"><i class="fa fa-newspaper-o"></i> निष्पक्ष दिव्य संदेश • 28 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Dhara News 28 Nov (news-177) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #0284c7 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-177.jpeg">
+                        <img src="img/news/latest-news/news-177.jpeg" alt="धारा न्यूज़: संविधान दिवस पर सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-177.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          धारा न्यूज़ (28 Nov): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह
+                        </a>
+                        <span class="d-block text-info font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> धारा न्यूज़ लखनऊ • 28 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Dainik Chasan 28 Nov (news-178) -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #6b21a8 !important;">
+                      <a data-lightbox="jansabha" href="img/news/latest-news/news-178.jpeg">
+                        <img src="img/news/latest-news/news-178.jpeg" alt="दैनिक चसं: संविधान दिवस पर सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a data-lightbox="jansabha" href="img/news/latest-news/news-178.jpeg" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          दैनिक चसं (28 Nov): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह
+                        </a>
+                        <span class="d-block text-purple font-weight-bold" style="font-size: 11px; color: #6b21a8;"><i class="fa fa-newspaper-o"></i> दैनिक चसं लखनऊ • 28 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Samar Saleel 28 Nov -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
+                      <a href="https://samarsaleel.com/sunil-singh-bjp-delimitation-statement/537238" target="_blank">
+                        <img src="img/news/latest-news/news-174.jpeg" alt="समर सलील: भाजपा परिसीमन बयान पर सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://samarsaleel.com/sunil-singh-bjp-delimitation-statement/537238" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          समर सलील (28 Nov): भाजपा के परिसीमन बयान पर चौधरी सुनील सिंह का बड़ा बयान — विशेष रिपोर्ट
+                        </a>
+                        <span class="d-block text-danger font-weight-bold" style="font-size: 11px;"><i class="fa fa-globe"></i> समर सलील डिजिटल • 28 Nov 2026</span>
+                      </div>
+                    </div>
+
+                    <!-- Item: Facebook Reel 28 Nov -->
+                    <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #1877f2 !important;">
+                      <a href="https://www.facebook.com/share/r/1Cdavh6gM6/?mibextid=wwXIfr" target="_blank">
+                        <img src="img/news/latest-news/news-175.jpeg" alt="Facebook Reel: चौधरी सुनील सिंह" style="width: 60px; height: 50px; object-fit: cover; border-radius: 4px; margin-right: 10px;">
+                      </a>
+                      <div style="line-height: 1.3;">
+                        <a href="https://www.facebook.com/share/r/1Cdavh6gM6/?mibextid=wwXIfr" target="_blank" class="font-weight-bold text-dark" style="font-size: 12.5px;">
+                          Facebook Reel (28 Nov): राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का नया वीडियो संदेश
+                        </a>
+                        <span class="d-block text-primary font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> Facebook Video Reel • 28 Nov 2026</span>
+                      </div>
+                    </div>
                     <!-- Item: Dainik Jagran 24 Nov (news-172) -->
                     <div class="col-12 d-flex align-items-center p-2 bg-white rounded border" style="border-left: 4px solid #b30000 !important;">
                       <a data-lightbox="jansabha" href="img/news/latest-news/news-172.jpeg">
@@ -3980,6 +4077,11 @@
                         <div class="world-catagory-slider2 owl-carousel wow fadeInUpBig" data-wow-delay="0.4s">
                           <?php 
                             $ourServicesArr = [
+                ['img' => 'img/news/latest-news/news-174.jpeg', 'video' => 'img/news/latest-news/news-174.jpeg', 'name' => 'विधान केसरी: ‘संविधान दिवस मनाने से नहीं, मर्यादा निभाने से होगा सच्चा सम्मान’ — चौधरी सुनील सिंह', 'desc' => 'विधान केसरी लखनऊ विशेष कवरेज', 'date' => '28 Nov 2026 • Vidhan Kesari'],
+                ['img' => 'img/news/latest-news/news-175.jpeg', 'video' => 'img/news/latest-news/news-175.jpeg', 'name' => 'बीएनटी: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'बीएनटी राष्ट्रीय दैनिक विशेष रिपोर्ट', 'date' => '28 Nov 2026 • BNT'],
+                ['img' => 'img/news/latest-news/news-176.jpeg', 'video' => 'img/news/latest-news/news-176.jpeg', 'name' => 'निष्पक्ष दिव्य संदेश: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’', 'desc' => 'दिव्य संदेश लखनऊ मुख्य पृष्ठ विशेष रिपोर्ट', 'date' => '28 Nov 2026 • Divya Sandesh'],
+                ['img' => 'img/news/latest-news/news-177.jpeg', 'video' => 'img/news/latest-news/news-177.jpeg', 'name' => 'धारा न्यूज़: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'धारा न्यूज़ राजधानी संस्करण विशेष कवरेज', 'date' => '28 Nov 2026 • Dhara News'],
+                ['img' => 'img/news/latest-news/news-178.jpeg', 'video' => 'img/news/latest-news/news-178.jpeg', 'name' => 'दैनिक चसं: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'दैनिक चसं लखनऊ विशेष रिपोर्ट', 'date' => '28 Nov 2026 • Dainik Chasan'],
               ['img' => 'img/news/latest-news/news-173.jpeg'],
               ['img' => 'img/news/latest-news/news-172.jpeg'],
               ['img' => 'img/news/latest-news/news-171.jpeg'],
@@ -5092,6 +5194,13 @@
             </div>
             <?php
               $latestDailyUpdates = [
+                  ['img' => 'img/news/latest-news/news-174.jpeg', 'title' => 'विधान केसरी (28 Nov): ‘संविधान दिवस मनाने से नहीं, बल्कि उसकी मर्यादा निभाने से होगा सच्चा सम्मान’ — चौधरी सुनील सिंह', 'desc' => 'Vidhan Kesari Lucknow - 28 Nov 2026', 'url' => 'img/news/latest-news/news-174.jpeg'],
+                  ['img' => 'img/news/latest-news/news-175.jpeg', 'title' => 'बीएनटी (28 Nov): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'BNT Rashtriya Dainik - 28 Nov 2026', 'url' => 'img/news/latest-news/news-175.jpeg'],
+                  ['img' => 'img/news/latest-news/news-176.jpeg', 'title' => 'निष्पक्ष दिव्य संदेश (28 Nov): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'Divya Sandesh Lucknow - 28 Nov 2026', 'url' => 'img/news/latest-news/news-176.jpeg'],
+                  ['img' => 'img/news/latest-news/news-177.jpeg', 'title' => 'धारा न्यूज़ (28 Nov): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'Dhara News Lucknow - 28 Nov 2026', 'url' => 'img/news/latest-news/news-177.jpeg'],
+                  ['img' => 'img/news/latest-news/news-178.jpeg', 'title' => 'दैनिक चसं (28 Nov): ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'Dainik Chasan Lucknow - 28 Nov 2026', 'url' => 'img/news/latest-news/news-178.jpeg'],
+                  ['img' => 'img/news/latest-news/news-174.jpeg', 'title' => 'समर सलील (28 Nov): भाजपा के परिसीमन बयान पर चौधरी सुनील सिंह का बड़ा बयान — विशेष रिपोर्ट', 'desc' => 'Samar Saleel - 28 Nov 2026', 'url' => 'https://samarsaleel.com/sunil-singh-bjp-delimitation-statement/537238'],
+                  ['img' => 'img/news/latest-news/news-175.jpeg', 'title' => 'Facebook Reel (28 Nov): राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का नया वीडियो संदेश', 'desc' => 'Facebook Reel - 28 Nov 2026', 'url' => 'https://www.facebook.com/share/r/1Cdavh6gM6/?mibextid=wwXIfr'],
                   ['img' => 'img/news/latest-news/news-172.jpeg', 'title' => 'दैनिक जागरण (24 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल की हल्ला बोल रैली सादाबाद', 'desc' => 'Dainik Jagran Sadabad - 24 Nov 2026', 'url' => 'img/news/latest-news/news-172.jpeg'],
                   ['img' => 'img/news/latest-news/news-171.jpeg', 'title' => 'स्वदेश (24 Nov): बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा', 'desc' => 'Swadesh Agra Main Edition - 24 Nov 2026', 'url' => 'img/news/latest-news/news-171.jpeg'],
                   ['img' => 'img/news/latest-news/news-169.jpeg', 'title' => 'हिन्दुस्तान (24 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार: सुनील सिंह', 'desc' => 'Hindustan Daily Sadabad - 24 Nov 2026', 'url' => 'img/news/latest-news/news-169.jpeg'],
