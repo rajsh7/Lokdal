@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  lokdal-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: lokdal_web
+    restart: always
+    ports:
+      # If host Apache is already running on 80/443, use 8080:80
+      # If host Apache is stopped, change to "80:80"
+      - "8080:80"
+    volumes:
+      # Live-mount directories so code updates and media uploads are instant
+      - ./Website:/var/www/html/Website
+      - ./admin:/var/www/html/admin
+      - ./connection:/var/www/html/connection
+      - ./dashboard:/var/www/html/dashboard
+      - ./index.php:/var/www/html/index.php
+    extra_hosts:
+      # Allows container to connect to host MySQL at host.docker.internal
+      - "host.docker.internal:host-gateway"
+    environment:
+      - DB_HOST=host.docker.internal
+      - DB_USER=root
+      - DB_PASSWORD=
+      - DB_NAME=lokdal

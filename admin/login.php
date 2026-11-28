@@ -1,13 +1,13 @@
 <?php
 session_start();  
-    $server="localhost";
-    $username="root";
+    $server = getenv('DB_HOST') ?: "localhost";
+    $username = getenv('DB_USER') ?: "root";
     // $password="root";
     // $db="seg_lokdal";
-    $password="1222@9Xt5Qglc*2kcH";
-    $db="lokdal";
+    $password = getenv('DB_PASSWORD') !== false ? getenv('DB_PASSWORD') : "1222@9Xt5Qglc*2kcH";
+    $db = getenv('DB_NAME') ?: "lokdal";
 
-    $con=mysqli_connect($server, $username, $password, $db);
+    $con=@mysqli_connect($server, $username, $password, $db);
 
     if(!$con){
         die("Connection fail");

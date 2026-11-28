@@ -1,0 +1,29 @@
+name: Deploy Lokdal Website to GCP
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GCP VM
+        uses: appleboy/ssh-action@v1.0.3
+        if: "${{ secrets.GCP_VM_HOST != '' }}"
+        with:
+          host: ${{ secrets.GCP_VM_HOST }}
+          username: ${{ secrets.GCP_VM_USER }}
+          key: ${{ secrets.GCP_SSH_PRIVATE_KEY }}
+          port: ${{ secrets.GCP_SSH_PORT || 22 }}
+          script: |
+            if [ -f "/var/www/html/deploy.sh" ]; then
+              bash /var/www/html/deploy.sh
+            else
+              cd /var/www/html
+              sudo git stash
+              sudo git fetch origin master
+              sudo git reset --hard origin/master
+              sudo chown -R www-data:www-data /var/www/html
+            fi

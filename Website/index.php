@@ -43,7 +43,7 @@
     <!--LightBox-->
     <link rel="stylesheet" href="assets/vendor/lightbox/lightbox.min.css">
     <!-- Style CSS -->
-    <link rel="stylesheet" href="style.css?v=20261119_1">
+    <link rel="stylesheet" href="style.css?v=20261128_1">
     <!--Google Translate API-->
     <link rel="stylesheet" href="css/google translator.css">
     <style>
@@ -119,20 +119,19 @@
             <span class="badge badge-danger text-uppercase px-2 py-1 mr-2" style="background-color: #d90429; font-size: 13px; font-weight: 700; letter-spacing: 0.5px;">
               <i class="fa fa-bullhorn"></i> ताज़ा समाचार
             </span>
-            <strong style="color: #ffeb3b; font-size: 13.5px;">18 Nov 2026:</strong>
+            <strong style="color: #ffeb3b; font-size: 13.5px;">28 Nov 2026:</strong>
           </div>
           <div class="d-flex flex-wrap align-items-center justify-content-center my-1" style="gap: 6px;">
-            <a data-lightbox="breaking-news" href="img/news/latest-news/news-152.jpeg" class="btn btn-sm" style="background:#d90429; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px; box-shadow: 0 0 10px rgba(217,4,41,0.6);"><i class="fa fa-fire"></i> सादाबाद किसान जनसभा (18 Nov)</a>
-            <a data-lightbox="breaking-news" href="img/news/latest-news/news-153.jpeg" class="btn btn-sm" style="background:#ff9900; color:#000; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-newspaper-o"></i> स्वदेश: लापता वोटर रिपोर्ट</a>
-            <a href="https://www.youtube.com/live/ySJjillup_s?feature=shared" target="_blank" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-youtube-play"></i> 🔴 सादाबाद YouTube LIVE</a>
-            <a href="https://x.com/PTI_News/status/2122669908052136303" target="_blank" class="btn btn-sm" style="background:#000; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #333;"><i class="fa fa-twitter"></i> PTI: सीट-शेयरिंग</a>
-            <a href="https://x.com/ians_india/status/2122718219870114294" target="_blank" class="btn btn-sm" style="background:#000; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #333;"><i class="fa fa-twitter"></i> IANS: UP 2027 चुनाव</a>
-            <a href="https://www.cherishtimes.in/uttar-pradesh/92781" target="_blank" class="btn btn-sm" style="background:#fff; color:#b30000; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #b30000;"><i class="fa fa-newspaper-o"></i> Cherish Times</a>
-            <a href="https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr" target="_blank" class="btn btn-sm" style="background:#1877f2; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-facebook-play"></i> सादाबाद FB वीडियो</a>
-            <a href="#exclusive-videos" class="btn btn-sm" style="background:#b30000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-play-circle"></i> 🔴 CEC महाभियोग वीडियो</a>
-            <a data-lightbox="breaking-news" href="img/news/latest-news/news-132.jpeg" class="btn btn-sm" style="background:#ffeb3b; color:#000; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-flag"></i> रामलीला मैदान महारैली</a>
-            <a data-lightbox="breaking-news" href="img/news/latest-news/news-139.jpeg" class="btn btn-sm" style="background:#e8f5e9; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border: 1px solid #00772D;"><i class="fa fa-newspaper-o"></i> BJP विदाई यात्रा (प्रेस)</a>
-            <a href="donate.php" class="btn btn-sm" style="background:#00772D; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-heart"></i> दान सहयोग (₹50k)</a>
+            <a data-lightbox="breaking-news" href="img/news/latest-news/news-174.jpeg" class="btn btn-sm" style="background:#d90429; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px; box-shadow: 0 0 10px rgba(217,4,41,0.6);"><i class="fa fa-newspaper-o"></i> विधान केसरी: संविधान दिवस (28 Nov)</a>
+            <a href="https://samarsaleel.com/sunil-singh-bjp-delimitation-statement/537238" target="_blank" class="btn btn-sm" style="background:#ff9900; color:#000; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-external-link"></i> समर सलील: परिसीमन बयान</a>
+            <a href="https://www.facebook.com/share/r/1Cdavh6gM6/?mibextid=wwXIfr" target="_blank" class="btn btn-sm" style="background:#1877f2; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-facebook-play"></i> FB Reel (28 Nov)</a>
+            <a href="video/wp-video-24.mp4" target="_blank" class="btn btn-sm" style="background:#b30000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-play-circle"></i> 🔴 58 गाँव महासम्मेलन वीडियो (24 Nov)</a>
+            <a data-lightbox="breaking-news" href="img/news/latest-news/news-172.jpeg" class="btn btn-sm" style="background:#ffeb3b; color:#000; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-newspaper-o"></i> दैनिक जागरण (24 Nov)</a>
+            <a data-lightbox="breaking-news" href="img/news/latest-news/news-171.jpeg" class="btn btn-sm" style="background:#fff; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border: 1px solid #00772D;"><i class="fa fa-newspaper-o"></i> स्वदेश: आलू किसान</a>
+            <a data-lightbox="breaking-news" href="img/news/latest-news/news-169.jpeg" class="btn btn-sm" style="background:#e8f5e9; color:#00772D; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border: 1px solid #00772D;"><i class="fa fa-newspaper-o"></i> हिन्दुस्तान: MSP गारंटी</a>
+            <a href="https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D" target="_blank" class="btn btn-sm" style="background:#fff; color:#b30000; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #b30000;"><i class="fa fa-newspaper-o"></i> दैनिक भास्कर (₹1600 MSP)</a>
+            <a href="https://www.youtube.com/live/ySJjillup_s?feature=shared" target="_blank" class="btn btn-sm" style="background:#ff0000; color:#fff; font-weight:800; font-size:11.5px; padding:3px 9px; border-radius:3px;"><i class="fa fa-youtube-play"></i> सादाबाद YouTube LIVE</a>
+            <a href="donate.php" class="btn btn-sm" style="background:#00772D; color:#fff; font-weight:700; font-size:11.5px; padding:3px 9px; border-radius:3px; border:1px solid #ffcc00;"><i class="fa fa-heart"></i> दान सहयोग (₹50k)</a>
           </div>
         </div>
       </div>
@@ -274,73 +273,187 @@
               <!-- Body -->
               <div class="card-body p-3" style="font-size: 13.5px; line-height: 1.65; color: #2d3748; overflow-y: auto; max-height: 860px;">
                 
-                <!-- Featured Story: Sadabad Virat Kisan Panchayat & Chintan Shivir Attack (17-18 Nov 2026) -->
-                <div class="mb-3 p-3" style="background: #fffdf0; border: 2px solid #eab308; border-radius: 8px; box-shadow: 0 3px 10px rgba(234,179,8,0.12);">
+                <!-- ==================== FEATURED STORY 1: Samvidhan Diwas & BJP Delimitation (28 Nov 2026) ==================== -->
+                <div class="mb-3 p-3" style="background: #fff8f8; border: 2px solid #b30000; border-radius: 8px; box-shadow: 0 3px 12px rgba(179,0,0,0.12);">
                   <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
-                    <span class="badge badge-warning text-dark px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #facc15;">
-                      <i class="fa fa-bullhorn text-danger mr-1"></i> ताज़ा आंदोलन एवं प्रेस अपडेट • 17-18 Nov 2026
+                    <span class="badge badge-danger text-white px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #b30000;">
+                      <i class="fa fa-bullhorn mr-1"></i> ताज़ा राष्ट्रीय कवरेज • 28 Nov 2026
                     </span>
-                    <span class="text-danger font-weight-bold" style="font-size: 12px;">सादाबाद / लखनऊ | 17-18 Nov 2026</span>
+                    <span class="text-danger font-weight-bold" style="font-size: 12px;">लखनऊ / नई दिल्ली | 28 Nov 2026</span>
                   </div>
-                  <h6 class="font-weight-bold mb-2" style="color: #854d0e; font-size: 16px; line-height: 1.45;">
-                    18 नवंबर को सादाबाद में लोकदल की 'हल्ला बोल विराट किसान महारैली' — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह करेंगे संबोधित
+                  <h6 class="font-weight-bold mb-2" style="color: #730000; font-size: 16px; line-height: 1.45;">
+                    ‘संविधान दिवस मनाने से नहीं, बल्कि उसकी मर्यादा निभाने से होगा सच्चा सम्मान’ — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
                   </h6>
                   <div class="row align-items-start mb-2">
                     <div class="col-12 col-sm-6 mb-2 mb-sm-0">
-                      <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-152.jpeg" title="किसानों का हल्ला बोल: 18 नवंबर सादाबाद विशाल किसान जनसभा पोस्टर">
-                        <img src="img/news/latest-news/news-152.jpeg" alt="किसानों का हल्ला बोल जनसभा पोस्टर" style="width: 100%; border-radius: 6px; border: 1.5px solid #ca8a04;" loading="lazy">
+                      <a data-lightbox="samvidhan-diwas" href="img/news/latest-news/news-174.jpeg" title="विधान केसरी (28 Nov 2026): ‘संविधान दिवस मनाने से नहीं, मर्यादा निभाने से होगा सच्चा सम्मान’ — सुनील सिंह">
+                        <img src="img/news/latest-news/news-174.jpeg" alt="विधान केसरी संविधान दिवस कवरेज" style="width: 100%; border-radius: 6px; border: 1.5px solid #b30000;" loading="lazy">
                       </a>
+                      <div class="text-center mt-1">
+                        <small class="text-muted font-weight-bold" style="font-size: 11px;">
+                          <i class="fa fa-search-plus"></i> विधान केसरी (क्लिक कर बड़ा देखें)
+                        </small>
+                      </div>
                     </div>
                     <div class="col-12 col-sm-6">
-                      <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-153.jpeg" title="स्वदेश (18 Nov): भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — चौधरी सुनील सिंह">
-                        <img src="img/news/latest-news/news-153.jpeg" alt="स्वदेश समाचार कवरेज (18 Nov)" style="width: 100%; border-radius: 6px; border: 1.5px solid #ca8a04;" loading="lazy">
+                      <a data-lightbox="samvidhan-diwas" href="img/news/latest-news/news-175.jpeg" title="बीएनटी राष्ट्रीय दैनिक (28 Nov 2026): ‘संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह">
+                        <img src="img/news/latest-news/news-175.jpeg" alt="बीएनटी संविधान दिवस कवरेज" style="width: 100%; border-radius: 6px; border: 1.5px solid #b30000;" loading="lazy">
                       </a>
+                      <div class="text-center mt-1">
+                        <small class="text-muted font-weight-bold" style="font-size: 11px;">
+                          <i class="fa fa-search-plus"></i> बीएनटी राष्ट्रीय दैनिक (क्लिक कर बड़ा देखें)
+                        </small>
+                      </div>
                     </div>
                   </div>
+                  
+                  <!-- Press Clippings Lightbox Badges -->
                   <div class="d-flex mt-1 justify-content-center mb-2 flex-wrap" style="gap: 5px;">
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-174.jpeg" class="badge badge-light border p-1" title="विधान केसरी (28 Nov): ‘संविधान दिवस मनाने से नहीं, मर्यादा निभाने से होगा सच्चा सम्मान’"><i class="fa fa-newspaper-o mr-1"></i>विधान केसरी (28 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-175.jpeg" class="badge badge-light border p-1" title="बीएनटी (28 Nov): ‘संविधान की मर्यादा निभाने से होगा सम्मान’"><i class="fa fa-newspaper-o mr-1"></i>बीएनटी (28 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-176.jpeg" class="badge badge-light border p-1" title="दिव्य संदेश (28 Nov): संविधान दिवस"><i class="fa fa-newspaper-o mr-1"></i>दिव्य संदेश (28 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-177.jpeg" class="badge badge-light border p-1" title="धारा न्यूज़ (28 Nov): संविधान दिवस"><i class="fa fa-newspaper-o mr-1"></i>धारा न्यूज़ (28 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-178.jpeg" class="badge badge-light border p-1" title="दैनिक चसं (28 Nov): संविधान दिवस"><i class="fa fa-newspaper-o mr-1"></i>दैनिक चसं (28 Nov)</a>
-                    <a href="https://samarsaleel.com/sunil-singh-bjp-delimitation-statement/537238" target="_blank" class="badge badge-light border p-1" title="समर सलील (28 Nov): भाजपा परिसीमन बयान"><i class="fa fa-external-link mr-1"></i>समर सलील (28 Nov)</a>
-                    <a href="https://www.facebook.com/share/r/1Cdavh6gM6/?mibextid=wwXIfr" target="_blank" class="badge badge-light border p-1" title="Facebook Reel (28 Nov)"><i class="fa fa-facebook-square mr-1"></i>FB Reel (28 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-172.jpeg" class="badge badge-light border p-1" title="दैनिक जागरण (24 Nov): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’"><i class="fa fa-newspaper-o mr-1"></i>दैनिक जागरण (24 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-171.jpeg" class="badge badge-light border p-1" title="स्वदेश (24 Nov): बदहाल होता जा रहा आलू किसान"><i class="fa fa-newspaper-o mr-1"></i>स्वदेश (24 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-169.jpeg" class="badge badge-light border p-1" title="हिन्दुस्तान (24 Nov): किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार"><i class="fa fa-newspaper-o mr-1"></i>हिन्दुस्तान (24 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-170.jpeg" class="badge badge-light border p-1" title="संवाद (24 Nov): महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा"><i class="fa fa-newspaper-o mr-1"></i>संवाद (24 Nov)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-173.jpeg" class="badge badge-light border p-1" title="शोक संदेश: श्रीमती सरोज देवी जी"><i class="fa fa-heart mr-1"></i>शोक संदेश</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-150.jpeg" class="badge badge-light border p-1" title="हल्ला बोल किसान महारैली घोषणा पोस्टर"><i class="fa fa-picture-o mr-1"></i>महारैली घोषणा पोस्टर</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-145.jpeg" class="badge badge-light border p-1" title="हिन्दुस्तान: 18 नवंबर सादाबाद विराट किसान पंचायत"><i class="fa fa-newspaper-o mr-1"></i>हिन्दुस्तान कवरेज</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-151.jpeg" class="badge badge-light border p-1" title="तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला"><i class="fa fa-newspaper-o mr-1"></i>तीसरा विकल्प (मथुरा चिंतन शिविर)</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-144.jpeg" class="badge badge-light border p-1" title="परिवर्तन 2027: लोकदल - INDIA गठबंधन"><i class="fa fa-picture-o mr-1"></i>परिवर्तन 2027 पोस्टर</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-149.jpeg" class="badge badge-light border p-1" title="स्वदेश: सहयोगी दल एकजुट, विपक्षी गठबंधन मजबूत"><i class="fa fa-file-text-o mr-1"></i>स्वदेश कवरेज</a>
-                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-147.jpeg" class="badge badge-light border p-1" title="हिन्द वतन: मोर्चा बनने से कोई फर्क नहीं पड़ेगा"><i class="fa fa-file-text-o mr-1"></i>हिन्द वतन कटिंग</a>
+                    <a data-lightbox="samvidhan-diwas" href="img/news/latest-news/news-174.jpeg" class="badge badge-light border p-1" title="विधान केसरी"><i class="fa fa-newspaper-o mr-1"></i>विधान केसरी</a>
+                    <a data-lightbox="samvidhan-diwas" href="img/news/latest-news/news-175.jpeg" class="badge badge-light border p-1" title="बीएनटी राष्ट्रीय दैनिक"><i class="fa fa-newspaper-o mr-1"></i>बीएनटी राष्ट्रीय दैनिक</a>
+                    <a data-lightbox="samvidhan-diwas" href="img/news/latest-news/news-176.jpeg" class="badge badge-light border p-1" title="निष्पक्ष दिव्य संदेश"><i class="fa fa-newspaper-o mr-1"></i>निष्पक्ष दिव्य संदेश</a>
+                    <a data-lightbox="samvidhan-diwas" href="img/news/latest-news/news-177.jpeg" class="badge badge-light border p-1" title="धारा न्यूज़"><i class="fa fa-newspaper-o mr-1"></i>धारा न्यूज़</a>
+                    <a data-lightbox="samvidhan-diwas" href="img/news/latest-news/news-178.jpeg" class="badge badge-light border p-1" title="दैनिक चसं"><i class="fa fa-newspaper-o mr-1"></i>दैनिक चसं</a>
                   </div>
+
                   <div style="font-size: 13px; line-height: 1.65; color: #2d3748;">
-                    <div style="background: #fefce8; border-left: 3px solid #eab308; padding: 8px 12px; border-radius: 0 4px 4px 0; margin-bottom: 8px; font-weight: 600; color: #713f12;">
-                      “आलू किसानों की बदहाली, बीज-खाद-बिजली की बढ़ती लागत और उपज का लाभकारी मूल्य न मिलने पर सरकार से हिसाब माँगेगा किसान!” — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                    <div style="background: #fee2e2; border-left: 3px solid #b30000; padding: 8px 12px; border-radius: 0 4px 4px 0; margin-bottom: 8px; font-weight: 600; color: #7f1d1d;">
+                      “संविधान की मूल भावना, धर्मनिरपेक्षता और सामाजिक न्याय की रक्षा ही बाबा साहेब को सच्ची श्रद्धांजलि है। भाजपा केवल औपचारिकता निभाती है, अधिकारों का हनन करती है!” — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
                     </div>
                     <p class="mb-1">
-                      सादाबाद के छाबी मियां बाग में 18 नवंबर को ऐतिहासिक विराट किसान महारैली का आयोजन किया जा रहा है। साथ ही लोकदल अध्यक्ष चौधरी सुनील सिंह ने बीजेपी के मथुरा चिंतन शिविर पर तीखा हमला बोलते हुए कहा कि बीजेपी का चिंतन जनता के मुद्दों पर नहीं, बल्कि सत्ता वापसी व सीटों के सौदे पर केंद्रित है।
+                      संविधान दिवस पर लोकदल के राष्ट्रीय अध्यक्ष <strong>चौधरी सुनील सिंह</strong> ने भाजपा सरकार पर तीखा हमला बोला। साथ ही भाजपा के नए परिसीमन बयान पर कड़ा प्रतिरोध दर्ज करते हुए कहा कि राजनीतिक लाभ के लिए संवैधानिक संस्थाओं और लोकतांत्रिक संतुलन से खिलवाड़ देश कभी बर्दाश्त नहीं करेगा।
+                    </p>
+                  </div>
+                
+                  <!-- Media Coverage & Social Links -->
+                  <div class="mt-2 pt-2" style="border-top: 1px solid #fecaca;">
+                    <small class="font-weight-bold d-block mb-1 text-dark"><i class="fa fa-external-link text-danger mr-1"></i> डिजिटल कवरेज एवं वीडियो संदेश:</small>
+                    <div class="d-flex flex-wrap" style="gap: 5px;">
+                      <a href="https://samarsaleel.com/sunil-singh-bjp-delimitation-statement/537238" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> समर सलील (परिसीमन पर बड़ा बयान)</a>
+                      <a href="https://www.facebook.com/share/r/1Cdavh6gM6/?mibextid=wwXIfr" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> FB Reel: चौ. सुनील सिंह का नया संदेश</a>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- ==================== FEATURED STORY 2: 58 Gaon Mahasammelan & Potato Farmers (24 Nov 2026) ==================== -->
+                <div class="mb-3 p-3" style="background: #fffdf0; border: 2px solid #ca8a04; border-radius: 8px; box-shadow: 0 3px 12px rgba(202,138,4,0.12);">
+                  <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
+                    <span class="badge badge-warning text-dark px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #facc15;">
+                      <i class="fa fa-users text-danger mr-1"></i> विशाल किसान महासम्मेलन • 24 Nov 2026
+                    </span>
+                    <span class="text-danger font-weight-bold" style="font-size: 12px;">हाथरस / सादाबाद | 24 Nov 2026</span>
+                  </div>
+                  <h6 class="font-weight-bold mb-2" style="color: #854d0e; font-size: 16px; line-height: 1.45;">
+                    58 गाँव विशाल महासम्मेलन एवं स्वागत समारोह: किसानों के हक में लोकदल की हुंकार — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                  </h6>
+                  <div class="row align-items-start mb-2">
+                    <div class="col-12 col-sm-6 mb-2 mb-sm-0">
+                      <a href="video/wp-video-24.mp4" target="_blank" title="58 गाँव विशाल महासम्मेलन एक्सक्लूसिव वीडियो (24 Nov 2026)">
+                        <div style="position: relative;">
+                          <img src="video/wp-video-24-thumb.jpg" alt="58 गाँव महासम्मेलन वीडियो" style="width: 100%; border-radius: 6px; border: 1.5px solid #ca8a04;" loading="lazy">
+                          <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(220,38,38,0.85); color: #fff; width: 44px; height: 44px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px; box-shadow: 0 2px 10px rgba(0,0,0,0.5);"><i class="fa fa-play" style="margin-left: 3px;"></i></span>
+                        </div>
+                      </a>
+                      <div class="text-center mt-1">
+                        <small class="text-danger font-weight-bold" style="font-size: 11px;">
+                          <i class="fa fa-play-circle"></i> 🔴 58 गाँव महासम्मेलन वीडियो (क्लिक कर देखें)
+                        </small>
+                      </div>
+                    </div>
+                    <div class="col-12 col-sm-6">
+                      <a data-lightbox="58gaon-rally" href="img/news/latest-news/news-172.jpeg" title="दैनिक जागरण (24 Nov 2026): ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — सुनील सिंह">
+                        <img src="img/news/latest-news/news-172.jpeg" alt="दैनिक जागरण समाचार कवरेज" style="width: 100%; border-radius: 6px; border: 1.5px solid #ca8a04;" loading="lazy">
+                      </a>
+                      <div class="text-center mt-1">
+                        <small class="text-muted font-weight-bold" style="font-size: 11px;">
+                          <i class="fa fa-search-plus"></i> दैनिक जागरण कवरेज (क्लिक कर बड़ा देखें)
+                        </small>
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <!-- Press Clippings Lightbox Badges -->
+                  <div class="d-flex mt-1 justify-content-center mb-2 flex-wrap" style="gap: 5px;">
+                    <a data-lightbox="58gaon-rally" href="img/news/latest-news/news-172.jpeg" class="badge badge-light border p-1" title="दैनिक जागरण"><i class="fa fa-newspaper-o mr-1"></i>दैनिक जागरण</a>
+                    <a data-lightbox="58gaon-rally" href="img/news/latest-news/news-171.jpeg" class="badge badge-light border p-1" title="स्वदेश (आलू किसान बदहाल)"><i class="fa fa-newspaper-o mr-1"></i>स्वदेश</a>
+                    <a data-lightbox="58gaon-rally" href="img/news/latest-news/news-169.jpeg" class="badge badge-light border p-1" title="हिन्दुस्तान (MSP गारंटी)"><i class="fa fa-newspaper-o mr-1"></i>हिन्दुस्तान</a>
+                    <a data-lightbox="58gaon-rally" href="img/news/latest-news/news-170.jpeg" class="badge badge-light border p-1" title="संवाद (महापंचायत)"><i class="fa fa-newspaper-o mr-1"></i>संवाद</a>
+                    <a data-lightbox="58gaon-rally" href="img/news/latest-news/news-173.jpeg" class="badge badge-light border p-1" title="शोक संदेश: श्रीमती सरोज देवी जी"><i class="fa fa-heart text-danger mr-1"></i>शोक संदेश</a>
+                    <a data-lightbox="58gaon-rally" href="img/news/latest-news/news-166.jpeg" class="badge badge-light border p-1" title="58 गाँव महासम्मेलन तस्वीरें"><i class="fa fa-camera mr-1"></i>15 महासम्मेलन तस्वीरें</a>
+                  </div>
+
+                  <div style="font-size: 13px; line-height: 1.65; color: #2d3748;">
+                    <div style="background: #fefce8; border-left: 3px solid #ca8a04; padding: 8px 12px; border-radius: 0 4px 4px 0; margin-bottom: 8px; font-weight: 600; color: #713f12;">
+                      “आलू किसानों को एमएसपी की गारंटी तक नहीं मिल रही, खाद-बीज का संकट गहरा गया है। 2027 में अखिलेश यादव के नेतृत्व में INDIA गठबंधन सरकार बनेगी!” — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                    </div>
+                    <p class="mb-1">
+                      58 गाँव के किसानों व जनता द्वारा आयोजित श्रीमद् भागवत कथा ज्ञान यज्ञ एवं विशाल महासम्मेलन में लोकदल के राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का भव्य स्वागत हुआ। उन्होंने किसानों के हक में हुंकार भरते हुए आलू एमएसपी ₹1600 तय करने का ऐलान किया।
                     </p>
                   </div>
                 
                   <!-- Media Coverage & Social Links -->
                   <div class="mt-2 pt-2" style="border-top: 1px solid #fde047;">
-                    <small class="font-weight-bold d-block mb-1 text-dark">कवरेज एवं आधिकारिक सोशल लिंक्स:</small>
+                    <small class="font-weight-bold d-block mb-1 text-dark"><i class="fa fa-external-link text-danger mr-1"></i> विशेष डिजिटल रिपोर्ट्स एवं वीडियो:</small>
                     <div class="d-flex flex-wrap" style="gap: 5px;">
-                      <a href="https://www.facebook.com/share/1F9hgk3DoV/?mibextid=wwXIfr" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> 18 Nov सादाबाद रैली Facebook पोस्ट</a>
-                      <a href="https://www.cherishtimes.in/uttar-pradesh/92781" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> Cherish Times कवरेज</a>
-                      <a href="https://www.youtube.com/live/ySJjillup_s?feature=shared" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-youtube-play"></i> YouTube LIVE</a>
-                      <a href="https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> Facebook वीडियो</a>
-                      <a href="https://x.com/PTI_News/status/2122669908052136303" target="_blank" class="btn btn-sm btn-outline-dark py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> PTI Video</a>
-                      <a href="https://x.com/ians_india/status/2122718219870114294" target="_blank" class="btn btn-sm btn-outline-dark py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> IANS Video</a>
                       <a href="https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> दैनिक भास्कर (आलू MSP ₹1600)</a>
-                      <a href="https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="btn btn-sm btn-outline-dark py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> IANS Video (गोरखपुर/भाजपा)</a>
-                      <a href="https://www.facebook.com/share/p/1Mmwdd6JtK/" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> किसान-मजदूर Facebook पोस्ट</a>
-                      <a href="https://www.facebook.com/share/v/1A1q2bthSV/" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> किसान जनसभा FB Video</a>
+                      <a href="https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg" target="_blank" class="btn btn-sm btn-outline-dark py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> IANS Video: गोरखपुर/भाजपा</a>
+                      <a href="https://www.facebook.com/share/p/1Mmwdd6JtK/" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-official"></i> किसान-मजदूर FB पोस्ट</a>
+                      <a href="https://www.facebook.com/share/v/1A1q2bthSV/" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> जनसभा FB Video</a>
                       <a href="https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw==" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-instagram"></i> Instagram रील (2027 संकल्प)</a>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- ==================== FEATURED STORY 3: Sadabad Virat Kisan Maharally Concluded (18 Nov 2026) ==================== -->
+                <div class="mb-3 p-3" style="background: #f0fdf4; border: 2px solid #00772D; border-radius: 8px; box-shadow: 0 3px 12px rgba(0,119,45,0.1);">
+                  <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap">
+                    <span class="badge badge-success px-2 py-1 font-weight-bold" style="font-size: 11.5px; background: #00772D;">
+                      <i class="fa fa-flag mr-1"></i> ऐतिहासिक किसान महारैली • 18 Nov 2026
+                    </span>
+                    <span class="text-success font-weight-bold" style="font-size: 12px;">सादाबाद (हाथरस) | 18 Nov 2026</span>
+                  </div>
+                  <h6 class="font-weight-bold mb-2" style="color: #004d1a; font-size: 16px; line-height: 1.45;">
+                    सादाबाद 'हल्ला बोल विराट किसान महारैली' सम्पन्न — आलू किसानों के हक में उमड़ा भारी जनसैलाब
+                  </h6>
+                  <div class="row align-items-start mb-2">
+                    <div class="col-12 col-sm-6 mb-2 mb-sm-0">
+                      <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-152.jpeg" title="किसानों का हल्ला बोल: 18 नवंबर सादाबाद विशाल किसान जनसभा">
+                        <img src="img/news/latest-news/news-152.jpeg" alt="किसानों का हल्ला बोल जनसभा पोस्टर" style="width: 100%; border-radius: 6px; border: 1.5px solid #00772D;" loading="lazy">
+                      </a>
+                    </div>
+                    <div class="col-12 col-sm-6">
+                      <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-153.jpeg" title="स्वदेश (18 Nov): भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — चौधरी सुनील सिंह">
+                        <img src="img/news/latest-news/news-153.jpeg" alt="स्वदेश समाचार कवरेज (18 Nov)" style="width: 100%; border-radius: 6px; border: 1.5px solid #00772D;" loading="lazy">
+                      </a>
+                    </div>
+                  </div>
+                  
+                  <div class="d-flex mt-1 justify-content-center mb-2 flex-wrap" style="gap: 5px;">
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-150.jpeg" class="badge badge-light border p-1" title="महारैली घोषणा पोस्टर"><i class="fa fa-picture-o mr-1"></i>महारैली घोषणा पोस्टर</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-145.jpeg" class="badge badge-light border p-1" title="हिन्दुस्तान: सादाबाद विराट किसान पंचायत"><i class="fa fa-newspaper-o mr-1"></i>हिन्दुस्तान कवरेज</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-151.jpeg" class="badge badge-light border p-1" title="तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला"><i class="fa fa-newspaper-o mr-1"></i>तीसरा विकल्प (मथुरा चिंतन शिविर)</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-144.jpeg" class="badge badge-light border p-1" title="परिवर्तन 2027: लोकदल - INDIA गठबंधन"><i class="fa fa-picture-o mr-1"></i>परिवर्तन 2027 पोस्टर</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-149.jpeg" class="badge badge-light border p-1" title="स्वदेश: सहयोगी दल एकजुट"><i class="fa fa-file-text-o mr-1"></i>स्वदेश कवरेज</a>
+                    <a data-lightbox="sadabad-rally" href="img/news/latest-news/news-147.jpeg" class="badge badge-light border p-1" title="हिन्द वतन कटिंग"><i class="fa fa-file-text-o mr-1"></i>हिन्द वतन कटिंग</a>
+                  </div>
+                  <div style="font-size: 13px; line-height: 1.65; color: #2d3748;">
+                    <div style="background: #e8f5e9; border-left: 3px solid #00772D; padding: 8px 12px; border-radius: 0 4px 4px 0; margin-bottom: 8px; font-weight: 600; color: #004d1a;">
+                      “आलू किसानों की बदहाली, बीज-खाद-बिजली की बढ़ती लागत और उपज का लाभकारी मूल्य न मिलने पर सरकार से हिसाब माँगेगा किसान!” — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह
+                    </div>
+                    <p class="mb-1">
+                      सादाबाद के छवि मियां बाग में लोकदल की विराट किसान महारैली ऐतिहासिक जनसहयोग के साथ सम्पन्न हुई। लोकदल अध्यक्ष चौधरी सुनील सिंह ने बीजेपी के मथुरा चिंतन शिविर पर हमला बोलते हुए कहा कि बीजेपी का चिंतन जनसमस्याओं पर नहीं, बल्कि सत्ता वापसी व सीटों के सौदे पर केंद्रित है।
+                    </p>
+                  </div>
+                
+                  <!-- Media Coverage & Social Links -->
+                  <div class="mt-2 pt-2" style="border-top: 1px solid #bbf7d0;">
+                    <small class="font-weight-bold d-block mb-1 text-dark"><i class="fa fa-external-link text-success mr-1"></i> कवरेज एवं सोशल वीडियो लिंक्स:</small>
+                    <div class="d-flex flex-wrap" style="gap: 5px;">
+                      <a href="https://www.youtube.com/live/ySJjillup_s?feature=shared" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-youtube-play"></i> सादाबाद YouTube LIVE</a>
+                      <a href="https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr" target="_blank" class="btn btn-sm btn-outline-primary py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-facebook-square"></i> सादाबाद FB वीडियो</a>
+                      <a href="https://x.com/PTI_News/status/2122669908052136303" target="_blank" class="btn btn-sm btn-outline-dark py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> PTI: सीट-शेयरिंग</a>
+                      <a href="https://x.com/ians_india/status/2122718219870114294" target="_blank" class="btn btn-sm btn-outline-dark py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-twitter"></i> IANS: UP 2027 चुनाव</a>
+                      <a href="https://www.cherishtimes.in/uttar-pradesh/92781" target="_blank" class="btn btn-sm btn-outline-danger py-1 px-2 font-weight-bold" style="font-size: 11px;"><i class="fa fa-newspaper-o"></i> Cherish Times कवरेज</a>
                     </div>
                   </div>
                 </div>
@@ -2090,6 +2203,108 @@
                     <div class="row">
                       <div class="col-12 col-md-6 d-flex flex-column justify-content-between">
                         <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                          <!-- Single Blog Post (Vidhan Kesari 28 Nov) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-174.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-174.jpeg" alt="विधान केसरी: ‘संविधान दिवस मनाने से नहीं, मर्यादा निभाने से होगा सच्चा सम्मान’" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #b30000; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 विधान केसरी • 28 NOV 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>विधान केसरी: ‘संविधान दिवस मनाने से नहीं, बल्कि उसकी मर्यादा निभाने से होगा सच्चा सम्मान’ — चौधरी सुनील सिंह</h5>
+                                <p>By विधान केसरी (विशेष संवाददाता, लखनऊ)</p>
+                                <div class="post-meta">
+                                  <p>Vidhan Kesari - 28 Nov 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+
+                          <!-- Single Blog Post (BNT Rashtriya Dainik 28 Nov) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-175.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-175.jpeg" alt="बीएनटी: संविधान दिवस पर सुनील सिंह" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #00772D; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 बीएनटी • 28 NOV 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>बीएनटी: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह</h5>
+                                <p>By बीएनटी राष्ट्रीय दैनिक (विशेष रिपोर्ट)</p>
+                                <div class="post-meta">
+                                  <p>BNT Rashtriya Dainik - 28 Nov 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+
+                          <!-- Single Blog Post (58 Gaon Mahasammelan Exclusive Video 24 Nov) -->
+                          <div class="single-blog-post">
+                            <a href="video/wp-video-24.mp4" target="_blank" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="video/wp-video-24-thumb.jpg" alt="58 गाँव विशाल महासम्मेलन एक्सक्लूसिव वीडियो" loading="lazy" decoding="async">
+                                <span class="video-btn"><i class="fa fa-play"></i></span>
+                                <span style="position: absolute; top: 10px; left: 10px; background: #ff0000; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">🔴 EXCLUSIVE VIDEO • 24 NOV</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>🔴 58 गाँव विशाल महासम्मेलन एवं स्वागत समारोह: किसानों के हक में लोकदल की हुंकार — चौधरी सुनील सिंह</h5>
+                                <p>By लोकदल मीडिया टीम (हाथरस/सादाबाद)</p>
+                                <div class="post-meta">
+                                  <p>Exclusive Video - 24 Nov 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+
+                          <!-- Single Blog Post (Dainik Jagran 24 Nov) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-172.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-172.jpeg" alt="दैनिक जागरण: अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #b30000; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 दैनिक जागरण • 24 NOV 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>दैनिक जागरण: ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल की हल्ला बोल रैली सादाबाद</h5>
+                                <p>By दैनिक जागरण (विशेष संवाददाता, सादाबाद)</p>
+                                <div class="post-meta">
+                                  <p>Dainik Jagran - 24 Nov 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+
+                          <!-- Single Blog Post (Swadesh 24 Nov) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-171.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-171.jpeg" alt="स्वदेश: बदहाल होता जा रहा आलू किसान" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #00772D; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">📰 स्वदेश • 24 NOV 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>स्वदेश: बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा</h5>
+                                <p>By स्वदेश (आगरा मुख्य संस्करण)</p>
+                                <div class="post-meta">
+                                  <p>Swadesh - 24 Nov 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
+
+                          <!-- Single Blog Post (Sadabad Halla Bol Rally 18 Nov) -->
+                          <div class="single-blog-post">
+                            <a data-lightbox="jansabha" href="img/news/latest-news/news-152.jpeg" class="headline">
+                              <div class="post-thumbnail" style="position: relative;">
+                                <img src="img/news/latest-news/news-152.jpeg" alt="किसानों का हल्ला बोल सादाबाद" loading="lazy" decoding="async">
+                                <span style="position: absolute; top: 10px; left: 10px; background: #d90429; color: #fff; font-size: 11px; font-weight: 800; padding: 3px 8px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">🔥 विशाल महारैली • 18 NOV 2026</span>
+                              </div>
+                              <div class="post-content">
+                                <h5>किसानों का हल्ला बोल: सादाबाद (हाथरस) — आलू किसान बदहाल, केंद्र व राज्य सरकार से सवाल!</h5>
+                                <p>By लोकदल किसान महापंचायत</p>
+                                <div class="post-meta">
+                                  <p>Sadabad Kisan Rally - 18 Nov 2026</p>
+                                </div>
+                              </div>
+                            </a>
+                          </div>
                           <!-- Single Blog Post (Vidhan Kesari Sunil Singh 02 Nov) -->
                           <div class="single-blog-post">
                             <a data-lightbox="jansabha" href="img/news/latest-news/news-134.jpeg" class="headline">
@@ -4077,31 +4292,30 @@
                         <div class="world-catagory-slider2 owl-carousel wow fadeInUpBig" data-wow-delay="0.4s">
                           <?php 
                             $ourServicesArr = [
-                ['img' => 'img/news/latest-news/news-174.jpeg', 'video' => 'img/news/latest-news/news-174.jpeg', 'name' => 'विधान केसरी: ‘संविधान दिवस मनाने से नहीं, मर्यादा निभाने से होगा सच्चा सम्मान’ — चौधरी सुनील सिंह', 'desc' => 'विधान केसरी लखनऊ विशेष कवरेज', 'date' => '28 Nov 2026 • Vidhan Kesari'],
-                ['img' => 'img/news/latest-news/news-175.jpeg', 'video' => 'img/news/latest-news/news-175.jpeg', 'name' => 'बीएनटी: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'बीएनटी राष्ट्रीय दैनिक विशेष रिपोर्ट', 'date' => '28 Nov 2026 • BNT'],
-                ['img' => 'img/news/latest-news/news-176.jpeg', 'video' => 'img/news/latest-news/news-176.jpeg', 'name' => 'निष्पक्ष दिव्य संदेश: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’', 'desc' => 'दिव्य संदेश लखनऊ मुख्य पृष्ठ विशेष रिपोर्ट', 'date' => '28 Nov 2026 • Divya Sandesh'],
-                ['img' => 'img/news/latest-news/news-177.jpeg', 'video' => 'img/news/latest-news/news-177.jpeg', 'name' => 'धारा न्यूज़: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'धारा न्यूज़ राजधानी संस्करण विशेष कवरेज', 'date' => '28 Nov 2026 • Dhara News'],
-                ['img' => 'img/news/latest-news/news-178.jpeg', 'video' => 'img/news/latest-news/news-178.jpeg', 'name' => 'दैनिक चसं: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'दैनिक चसं लखनऊ विशेष रिपोर्ट', 'date' => '28 Nov 2026 • Dainik Chasan'],
-              ['img' => 'img/news/latest-news/news-173.jpeg'],
-              ['img' => 'img/news/latest-news/news-172.jpeg'],
-              ['img' => 'img/news/latest-news/news-171.jpeg'],
-              ['img' => 'img/news/latest-news/news-170.jpeg'],
-              ['img' => 'img/news/latest-news/news-169.jpeg'],
-              ['img' => 'img/news/latest-news/news-168.jpeg'],
-              ['img' => 'img/news/latest-news/news-167.jpeg'],
-              ['img' => 'img/news/latest-news/news-166.jpeg'],
-              ['img' => 'img/news/latest-news/news-165.jpeg'],
-              ['img' => 'img/news/latest-news/news-164.jpeg'],
-              ['img' => 'img/news/latest-news/news-163.jpeg'],
-              ['img' => 'img/news/latest-news/news-162.jpeg'],
-              ['img' => 'img/news/latest-news/news-161.jpeg'],
-              ['img' => 'img/news/latest-news/news-160.jpeg'],
-              ['img' => 'img/news/latest-news/news-159.jpeg'],
-              ['img' => 'img/news/latest-news/news-158.jpeg'],
-              ['img' => 'img/news/latest-news/news-157.jpeg'],
-              ['img' => 'img/news/latest-news/news-156.jpeg'],
-              ['img' => 'img/news/latest-news/news-155.jpeg'],
-              ['img' => 'img/news/latest-news/news-154.jpeg'],
+                                ['img' => 'img/news/latest-news/news-174.jpeg', 'title' => 'विधान केसरी: ‘संविधान दिवस मनाने से नहीं, मर्यादा निभाने से होगा सच्चा सम्मान’ — चौधरी सुनील सिंह', 'desc' => 'विधान केसरी लखनऊ विशेष कवरेज • 28 Nov 2026', 'url' => 'img/news/latest-news/news-174.jpeg'],
+                                ['img' => 'img/news/latest-news/news-175.jpeg', 'title' => 'बीएनटी: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'बीएनटी राष्ट्रीय दैनिक विशेष रिपोर्ट • 28 Nov 2026', 'url' => 'img/news/latest-news/news-175.jpeg'],
+                                ['img' => 'img/news/latest-news/news-176.jpeg', 'title' => 'निष्पक्ष दिव्य संदेश: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’', 'desc' => 'दिव्य संदेश लखनऊ मुख्य पृष्ठ रिपोर्ट • 28 Nov 2026', 'url' => 'img/news/latest-news/news-176.jpeg'],
+                                ['img' => 'img/news/latest-news/news-177.jpeg', 'title' => 'धारा न्यूज़: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'धारा न्यूज़ राजधानी संस्करण कवरेज • 28 Nov 2026', 'url' => 'img/news/latest-news/news-177.jpeg'],
+                                ['img' => 'img/news/latest-news/news-178.jpeg', 'title' => 'दैनिक चसं: ‘संविधान दिवस मनाने से नहीं, संविधान की मर्यादा निभाने से होगा सम्मान’ — सुनील सिंह', 'desc' => 'दैनिक चसं लखनऊ विशेष रिपोर्ट • 28 Nov 2026', 'url' => 'img/news/latest-news/news-178.jpeg'],
+                                ['img' => 'img/news/latest-news/news-174.jpeg', 'title' => 'समर सलील: भाजपा के परिसीमन बयान पर चौधरी सुनील सिंह का बड़ा बयान — विशेष रिपोर्ट', 'desc' => 'Samar Saleel Digital • 28 Nov 2026', 'url' => 'https://samarsaleel.com/sunil-singh-bjp-delimitation-statement/537238'],
+                                ['img' => 'img/news/latest-news/news-175.jpeg', 'title' => 'Facebook Reel: राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का नया वीडियो संदेश', 'desc' => 'आधिकारिक फेसबुक रील • 28 Nov 2026', 'url' => 'https://www.facebook.com/share/r/1Cdavh6gM6/?mibextid=wwXIfr'],
+                                ['img' => 'img/news/latest-news/news-172.jpeg', 'title' => 'दैनिक जागरण: ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल रैली सादाबाद', 'desc' => 'दैनिक जागरण सादाबाद रिपोर्ट • 24 Nov 2026', 'url' => 'img/news/latest-news/news-172.jpeg'],
+                                ['img' => 'img/news/latest-news/news-171.jpeg', 'title' => 'स्वदेश: बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी का वायदा', 'desc' => 'स्वदेश आगरा मुख्य संस्करण • 24 Nov 2026', 'url' => 'img/news/latest-news/news-171.jpeg'],
+                                ['img' => 'img/news/latest-news/news-169.jpeg', 'title' => 'हिन्दुस्तान: किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार : चौधरी सुनील सिंह', 'desc' => 'हिन्दुस्तान विशेष संवाददाता • 24 Nov 2026', 'url' => 'img/news/latest-news/news-169.jpeg'],
+                                ['img' => 'img/news/latest-news/news-170.jpeg', 'title' => 'संवाद: महापंचायत में उठाया आलू किसानों की बदहाली का मुद्दा — राष्ट्रीय अध्यक्ष का स्वागत', 'desc' => 'संवाद समाचार सेवा • 24 Nov 2026', 'url' => 'img/news/latest-news/news-170.jpeg'],
+                                ['img' => 'img/news/latest-news/news-173.jpeg', 'title' => 'शोक संदेश: श्रीमती सरोज देवी जी के निधन पर लोकदल परिवार की भावभीनी श्रद्धांजलि — ॐ शांति', 'desc' => 'लोकदल केंद्रीय कार्यालय • 24 Nov 2026', 'url' => 'img/news/latest-news/news-173.jpeg'],
+                                ['img' => 'video/wp-video-24-thumb.jpg', 'title' => '🔴 [एक्सक्लूसिव वीडियो] 58 गाँव विशाल महासम्मेलन एवं स्वागत समारोह — चौधरी सुनील सिंह', 'desc' => 'Exclusive Video • 24 Nov 2026', 'url' => 'video/wp-video-24.mp4'],
+                                ['img' => 'img/news/latest-news/news-166.jpeg', 'title' => '58 गाँव विशाल महासम्मेलन: राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का स्वागत व उद्बोधन', 'desc' => 'विशाल महासम्मेलन एवं भण्डारा • 24 Nov 2026', 'url' => 'img/news/latest-news/news-166.jpeg'],
+                                ['img' => 'img/news/latest-news/news-154.jpeg', 'title' => 'श्रीमद् भागवत कथा ज्ञान यज्ञ: 58 गाँव के किसानों व जनता के बीच पहुंचे राष्ट्रीय अध्यक्ष', 'desc' => 'किसान महासम्मेलन स्पेशल • 24 Nov 2026', 'url' => 'img/news/latest-news/news-154.jpeg'],
+                                ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'दैनिक भास्कर: लोकदल ने आलू MSP 1600 रुपए तय करने का ऐलान किया — सुनील सिंह', 'desc' => 'Dainik Bhaskar Digital • 24 Nov 2026', 'url' => 'https://dainik.bhaskar.com/IcjzMlbqa8b?ref=MjA0NDY2NDY3NzQ1ODU5NTg0MA%3D%3D'],
+                                ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'IANS Video: गोरखपुर की जनता त्रस्त है, पंकज चौधरी खुद जमीनी हकीकत जानते हैं', 'desc' => 'IANS News Agency • 24 Nov 2026', 'url' => 'https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg'],
+                                ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'Facebook पोस्ट: किसान-मजदूर की मजबूत भागीदारी सुनिश्चित करेगा लोकदल', 'desc' => 'आधिकारिक फेसबुक पोस्ट • 24 Nov 2026', 'url' => 'https://www.facebook.com/share/p/1Mmwdd6JtK/'],
+                                ['img' => 'img/news/latest-news/news-150.jpeg', 'title' => 'Facebook वीडियो: सादाबाद में उमड़ा किसानों का जनसैलाब — आलू किसान आंदोलन जनसभा', 'desc' => 'फेसबुक वीडियो • 24 Nov 2026', 'url' => 'https://www.facebook.com/share/v/1A1q2bthSV/'],
+                                ['img' => 'img/news/latest-news/news-144.jpeg', 'title' => 'Instagram रील: सच्चाई अब जनता के सामने है — न बंटेंगे, न बिकेंगे, 2027 PDA संकल्प', 'desc' => 'Instagram Reel • 24 Nov 2026', 'url' => 'https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw=='],
+                                ['img' => 'img/news/latest-news/news-153.jpeg', 'title' => 'स्वदेश (18 Nov): भाजपा चुनाव के समय ढूंढ लाएगी लापता वोटर — सुनील सिंह के तीखे सवाल', 'desc' => 'Swadesh Lucknow Main Edition • 18 Nov 2026', 'url' => 'img/news/latest-news/news-153.jpeg'],
+                                ['img' => 'img/news/latest-news/news-152.jpeg', 'title' => 'किसानों का हल्ला बोल: 18 नवंबर सादाबाद (हाथरस) — आलू किसान बदहाल, सरकार से सवाल', 'desc' => 'Lokdal Kisan Rally Sadabad • 18 Nov 2026', 'url' => 'img/news/latest-news/news-152.jpeg'],
+                                ['img' => 'https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg', 'title' => '🔴 YouTube LIVE: किसानों का हल्ला बोल – सादाबाद, हाथरस से सीधा प्रसारण 2026', 'desc' => 'YouTube Live Streaming • 18 Nov 2026', 'url' => 'https://www.youtube.com/live/ySJjillup_s?feature=shared'],
+                                ['img' => 'img/news/latest-news/news-151.jpeg', 'title' => 'तीसरा विकल्प: बीजेपी के चिंतन शिविर पर हमला — मथुरा में सीटों के सौदे पर चिंतन : सुनील सिंह', 'desc' => 'तीसरा विकल्प न्यूज़ ब्यूरो • 17 Nov 2026', 'url' => 'img/news/latest-news/news-151.jpeg'],
 
                 ['img' => 'img/news/latest-news/news-118.jpeg',
                                        'title' => 'ज्ञानेश कुमार का सार्वजनिक महाभियोग — INDIA गठबंधन लड़ रहा है, लोकदल और किसान साथ हैं',
@@ -5555,17 +5769,14 @@
           <?php 
             $ourServicesArr = [
                 ['img' => 'video/wp-video-24-thumb.jpg', 'video' => 'video/wp-video-24.mp4', 'name' => '🔴 [एक्सक्लूसिव वीडियो] 58 गाँव विशाल महासम्मेलन एवं स्वागत समारोह — राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह', 'desc' => '58 गाँव महासम्मेलन में उमड़ा किसानों का जनसैलाब, भव्य स्वागत व उद्बोधन', 'date' => '24 Nov 2026 • Exclusive Video'],
-                ['img' => 'img/news/latest-news/news-172.jpeg', 'video' => 'img/news/latest-news/news-172.jpeg', 'name' => 'दैनिक जागरण: ‘अखिलेश यादव के नेतृत्व में बनेगी अगली सरकार’ — लोकदल की हल्ला बोल रैली सादाबाद', 'desc' => 'दैनिक जागरण विशेष समाचार रिपोर्ट', 'date' => '24 Nov 2026 • Dainik Jagran'],
-                ['img' => 'img/news/latest-news/news-171.jpeg', 'video' => 'img/news/latest-news/news-171.jpeg', 'name' => 'स्वदेश: बदहाल होता जा रहा आलू किसान, सरकार ने पूरा नहीं किया एमएसपी की गारंटी देने का वायदा', 'desc' => 'स्वदेश आगरा मुख्य संस्करण विशेष कवरेज', 'date' => '24 Nov 2026 • Swadesh'],
-                ['img' => 'img/news/latest-news/news-169.jpeg', 'video' => 'img/news/latest-news/news-169.jpeg', 'name' => 'हिन्दुस्तान: किसानों को एमएसपी की गारंटी तक नहीं दे रही सरकार: सुनील सिंह', 'desc' => 'दैनिक हिन्दुस्तान विशेष संवाददाता रिपोर्ट', 'date' => '24 Nov 2026 • Hindustan'],
-                ['img' => 'img/news/latest-news/news-151.jpeg', 'video' => 'img/news/latest-news/news-151.jpeg', 'name' => 'तीसरा विकल्प: बीजेपी के चिंतन शिविर पर लोकदल का हमला — मथुरा में सीटों के सौदे पर चिंतन: सुनील सिंह', 'desc' => 'तीसरा विकल्प न्यूज़ ब्यूरो विशेष रिपोर्ट', 'date' => '17 Nov 2026 • Teesra Vikalp'],
-                ['img' => 'img/news/latest-news/news-150.jpeg', 'video' => 'img/news/latest-news/news-150.jpeg', 'name' => 'हल्ला बोल किसान महारैली: 18 नवंबर सादाबाद — आलू किसान बदहाल, केंद्र व राज्य सरकार से सवाल', 'desc' => 'सादाबाद विराट किसान महारैली आधिकारिक जन-आह्वान', 'date' => '18 Nov 2026 • Official Rally'],
-                ['img' => 'img/news/latest-news/news-144.jpeg', 'video' => 'img/news/latest-news/news-144.jpeg', 'name' => 'परिवर्तन 2027: लोकदल - INDIA गठबंधन — “अबकी बार, INDIA गठबंधन सरकार”', 'desc' => 'लोकदल राष्ट्रीय नेतृत्व एवं प्रदेश पदाधिकारी अभियान', 'date' => '15 Nov 2026 • Official Campaign'],
-                ['img' => 'img/news/latest-news/news-145.jpeg', 'video' => 'img/news/latest-news/news-145.jpeg', 'name' => 'हिन्दुस्तान: लोकदल की 18 नवंबर को विराट किसान पंचायत सादाबाद — अधिवक्ता भूपेंद्र सिंह शामिल', 'desc' => 'दैनिक हिन्दुस्तान विशेष समाचार कवरेज', 'date' => '14 Nov 2026 • Hindustan'],
-                ['img' => 'img/news/latest-news/news-146.jpeg', 'video' => 'img/news/latest-news/news-146.jpeg', 'name' => 'प्रेस रिपोर्ट: लोकदल में शामिल हुए अधिवक्ता भूपेंद्र सिंह — 18 नवंबर सादाबाद किसान पंचायत', 'desc' => 'बिसावर सादाबाद विशेष प्रेस रिपोर्ट', 'date' => '14 Nov 2026 • Press Report'],
-                ['img' => 'img/news/latest-news/news-149.jpeg', 'video' => 'img/news/latest-news/news-149.jpeg', 'name' => 'स्वदेश: सहयोगी दल एकजुट, विपक्षी गठबंधन मजबूत — ओवैसी-चंद्रशेखर के मोर्चे का असर नहीं', 'desc' => 'स्वदेश लखनऊ मुख्य संस्करण पृष्ठ-3 विशेष कवरेज', 'date' => '13 Nov 2026 • Swadesh'],
-                ['img' => 'img/news/latest-news/news-147.jpeg', 'video' => 'img/news/latest-news/news-147.jpeg', 'name' => 'हिन्द वतन: मोर्चा बनने से कोई फर्क नहीं पड़ेगा, इंडिया गठबंधन मजबूत है: सुनील सिंह', 'desc' => 'हिन्द वतन लखनऊ विशेष संवाददाता रिपोर्ट', 'date' => '13 Nov 2026 • Hind Watan'],
-                ['img' => 'img/news/latest-news/news-148.jpeg', 'video' => 'img/news/latest-news/news-148.jpeg', 'name' => 'विशेष कॉलम: मोर्चा बनने से कोई फर्क नहीं पड़ेगा, INDIA गठबंधन मजबूत है — सुनील सिंह', 'desc' => 'विशेष राजनीतिक विश्लेषण एवं कॉलम', 'date' => '13 Nov 2026 • Special Column'],
+                ['img' => 'img/news/latest-news/news-175.jpeg', 'video' => 'https://www.facebook.com/share/r/1Cdavh6gM6/?mibextid=wwXIfr', 'name' => '🔴 [Facebook Reel] राष्ट्रीय अध्यक्ष चौधरी सुनील सिंह का नया वीडियो संदेश (28 Nov)', 'desc' => 'संविधान दिवस एवं लोकतंत्र की रक्षा पर राष्ट्रीय अध्यक्ष जी का संदेश', 'date' => '28 Nov 2026 • Facebook Reel'],
+                ['img' => 'img/news/latest-news/news-151.jpeg', 'video' => 'https://x.com/ians_india/status/2123824996384719207?s=46&t=_2mEBmLj46j89OPjnvYbbg', 'name' => '🔴 [IANS Video] गोरखपुर की जनता त्रस्त है, पंकज चौधरी खुद जानते हैं : सुनील सिंह', 'desc' => 'IANS राष्ट्रीय समाचार एजेंसी विशेष वीडियो साक्षात्कार', 'date' => '24 Nov 2026 • IANS Video'],
+                ['img' => 'img/news/latest-news/news-150.jpeg', 'video' => 'https://www.facebook.com/share/v/1A1q2bthSV/', 'name' => '🔴 [Facebook Video] सादाबाद किसान जनसभा व आलू किसान आंदोलन', 'desc' => 'सादाबाद में उमड़ा किसानों का भारी जनसैलाब — विशेष वीडियो कवरेज', 'date' => '24 Nov 2026 • Facebook Video'],
+                ['img' => 'img/news/latest-news/news-144.jpeg', 'video' => 'https://www.instagram.com/reel/Df3zCI5RAPe/?bqrl=MXh1Z3c3Zm1wdXB0cw==', 'name' => '🔴 [Instagram Reel] सच्चाई अब जनता के सामने है — 2027 PDA संकल्प', 'desc' => 'न बंटेंगे, न बिकेंगे — 2027 में किसान-मजदूर एकजुटता का संकल्प', 'date' => '24 Nov 2026 • Instagram Reel'],
+                ['img' => 'https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg', 'video' => 'https://www.youtube.com/live/ySJjillup_s?feature=shared', 'name' => '🔴 [YouTube LIVE] किसानों का हल्ला बोल – सादाबाद, हाथरस से सीधा प्रसारण 2026', 'desc' => 'सादाबाद विशाल किसान जनसभा का आधिकारिक लाइव प्रसारण', 'date' => '18 Nov 2026 • YouTube LIVE'],
+                ['img' => 'img/news/latest-news/news-152.jpeg', 'video' => 'https://www.facebook.com/share/v/1DzJFZT7y3/?mibextid=wwXIfr', 'name' => '🔴 [Facebook Video] सादाबाद किसान हल्ला बोल महारैली 18 नवंबर 2026', 'desc' => 'लोकदल की ऐतिहासिक सादाबाद किसान महारैली का वीडियो कवरेज', 'date' => '18 Nov 2026 • Facebook Video'],
+                ['img' => 'img/news/latest-news/news-153.jpeg', 'video' => 'https://x.com/PTI_News/status/2122669908052136303', 'name' => '🔴 [PTI Video] INDIA गठबंधन सीट-शेयरिंग पर सुनील सिंह : सम्मानजनक सीटें मिलेंगी', 'desc' => 'Press Trust of India (PTI) विशेष वीडियो साक्षात्कार', 'date' => '18 Nov 2026 • PTI Video'],
+                ['img' => 'img/news/latest-news/news-151.jpeg', 'video' => 'https://x.com/ians_india/status/2122718219870114294', 'name' => '🔴 [IANS Video] UP 2027 चुनाव — लोकदल INDIA गठबंधन का हिस्सा : सुनील सिंह', 'desc' => 'IANS India विशेष राष्ट्रीय वीडियो कवरेज', 'date' => '18 Nov 2026 • IANS Video'],
                 ['img' => 'img/news/latest-news/news-139.jpeg', 'video' => 'img/news/latest-news/news-139.jpeg', 'name' => 'प्रेस वक्तव्य: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : सुनील सिंह', 'desc' => 'लोकदल केंद्रीय कार्यालय लखनऊ विशेष प्रेस वक्तव्य', 'date' => '04 Nov 2026 • Press Release'],
                 ['img' => 'img/news/latest-news/news-143.jpeg', 'video' => 'img/news/latest-news/news-143.jpeg', 'name' => 'विधान केसरी: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा : सुनील सिंह', 'desc' => 'विधान केसरी राजधानी विशेष समाचार कवरेज', 'date' => '04 Nov 2026 • Vidhan Kesari'],
                 ['img' => 'img/news/latest-news/news-140.jpeg', 'video' => 'img/news/latest-news/news-140.jpeg', 'name' => 'विश्ववार्ता: भाजपा की यात्रा नहीं, उत्तर प्रदेश में भाजपा की विदाई यात्रा है : सुनील सिंह', 'desc' => 'विश्ववार्ता दैनिक समाचार विशेष रिपोर्ट', 'date' => '04 Nov 2026 • Vishwavarta'],
@@ -5810,6 +6021,31 @@
         <!-- End Most Popular Videos Section -->
           <?php 
             $ourServicesArr = [
+              ['img' => 'img/news/latest-news/news-174.jpeg'],
+              ['img' => 'img/news/latest-news/news-175.jpeg'],
+              ['img' => 'img/news/latest-news/news-176.jpeg'],
+              ['img' => 'img/news/latest-news/news-177.jpeg'],
+              ['img' => 'img/news/latest-news/news-178.jpeg'],
+              ['img' => 'img/news/latest-news/news-173.jpeg'],
+              ['img' => 'img/news/latest-news/news-172.jpeg'],
+              ['img' => 'img/news/latest-news/news-171.jpeg'],
+              ['img' => 'img/news/latest-news/news-170.jpeg'],
+              ['img' => 'img/news/latest-news/news-169.jpeg'],
+              ['img' => 'img/news/latest-news/news-168.jpeg'],
+              ['img' => 'img/news/latest-news/news-167.jpeg'],
+              ['img' => 'img/news/latest-news/news-166.jpeg'],
+              ['img' => 'img/news/latest-news/news-165.jpeg'],
+              ['img' => 'img/news/latest-news/news-164.jpeg'],
+              ['img' => 'img/news/latest-news/news-163.jpeg'],
+              ['img' => 'img/news/latest-news/news-162.jpeg'],
+              ['img' => 'img/news/latest-news/news-161.jpeg'],
+              ['img' => 'img/news/latest-news/news-160.jpeg'],
+              ['img' => 'img/news/latest-news/news-159.jpeg'],
+              ['img' => 'img/news/latest-news/news-158.jpeg'],
+              ['img' => 'img/news/latest-news/news-157.jpeg'],
+              ['img' => 'img/news/latest-news/news-156.jpeg'],
+              ['img' => 'img/news/latest-news/news-155.jpeg'],
+              ['img' => 'img/news/latest-news/news-154.jpeg'],
               ['img' => 'https://img.youtube.com/vi/ySJjillup_s/hqdefault.jpg'],
               ['img' => 'img/news/latest-news/news-153.jpeg'],
               ['img' => 'img/news/latest-news/news-152.jpeg'],
